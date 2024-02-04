@@ -1,0 +1,232 @@
+﻿l_braz_por:
+
+Para_Focus: "Árvore de Foco do Grão-Pará"
+
+### Parties ###
+ AMA_totalist_party: "CRM"
+ AMA_totalist_party_long: "Comitê Revolucionario Maximista"
+ AMA_syndicalist_party: "PTS"
+ AMA_syndicalist_party_long: "Partido Trabalhista Sindical"
+ AMA_radical_socialist_party: "CAA"
+ AMA_radical_socialist_party_long: "Confederação Anarquista Amazonense"
+ AMA_social_democrat_party: "PSD"
+ AMA_social_democrat_party_long: "Partido Social Democrata"
+ AMA_social_liberal_party: "UDN"
+ AMA_social_liberal_party_long: "União Democrática Nacional"
+ AMA_market_liberal_party: "PL"
+ AMA_market_liberal_party_long: "Partido Liberal"
+ AMA_social_conservative_party: "PF"
+ AMA_social_conservative_party_long: "Partido Federalista"
+ AMA_authoritarian_democrat_party: "PP"
+ AMA_authoritarian_democrat_party_long: "Partido Progressista"
+ AMA_paternal_autocrat_party: "PC"
+ AMA_paternal_autocrat_party_long: "Partido Centralista"
+ AMA_national_populist_party: "PIA"
+ AMA_national_populist_party_long: "Partido Integralista Amazonense"
+
+### Characters ###
+AMA_joaquim_de_magalhaes_cardoso_barata: "Joaquim de Magalhães Cardoso Barata"
+AMA_joaquim_de_magalhaes_cardoso_barata_leader_desc: "Joaquim de Magalhães Cardoso Barata nasceu em 1888 em Belém e serviu com distinção no exército brasileiro por décadas. No entanto, ele é mais conhecido por suas múltiplas gestões como administrador no estado, sendo o líder da facção militar local que apoiou São Paulo na guerra interestadual. Suas gestões costumavam ser estáveis, mesmo durante o ano eleitoral, muitas vezes encontrando-se em desacordo com outras facções políticas importantes, como seus principais rivais na família Sodré, que o acusaram de fraude eleitoral em várias ocasiões. A união política com o Amazonas e outros estados do norte deve dar a ele mais espaço para manobrar. Como presidente do Pará, Barata também é comandante-em-chefe, e sua influência sobre as recém-formadas forças militares não deve ser subestimada, pois ele prestou atenção cuidadosa à formação dessa força militar. Depois de lutar por tanto tempo para manter o controle político da região, Barata finalmente vê o Pará marchando ao som de seu tambor."
+
+AMA_lauro_nina_sodre_e_silva: "Lauro Nina Sodré e Silva"
+AMA_lauro_nina_sodre_e_silva_leader_desc: "Lauro Nina Sodré e Silva deixou a política para trás após a guerra interestadual, mas a situação atual do Pará como uma nação independente o trouxe de volta à liderança, desta vez como chefe de estado, não apenas como governador. Nascido em Belém em 1858, o velho não é apenas um político poderoso e veterano, mas também talvez o político ativo mais velho no Pará. Também militar, como muitos líderes no Brasil durante os tempos da República Velha, participou da Revolta da Vacina no Rio, sendo preso no processo, e depois continuou sua carreira como representante várias vezes por seu estado naquela cidade. Embora seus anos estejam se esgotando, ele está preparando o sistema político da nova república para permanecer alinhado com sua família e aliados, equilibrando também demandas estrangeiras e reparando danos de guerra à vital infraestrutura portuária pelos estados que agora governa."
+
+AMA_valdemar_pedrosa: "Valdemar Pedrosa"
+AMA_valdemar_pedrosa_leader_desc: "Nascido em Manaus em 1888, Valdemar é filho de Jônatas de Freitas Pedrosa, ex-senador e presidente do estado do Amazonas com um legado famoso e controverso na região. Como é comum entre membros de famílias políticas ricas no Brasil na época, Valdemar entrou cedo na faculdade de direito e seguiu carreira jurídica antes de entrar oficialmente na política, principalmente em cargos de ensino e administração na Universidade do Amazonas. Sua entrada oficial na política é relativamente recente, e muito disso se baseia nas realizações políticas de seu pai durante a República Velha, à medida que as estruturas antigas mudavam rapidamente no início da década de 1930. Agora, encontrando-se em uma posição privilegiada como chefe de estado, ele enfrenta muitos desafios, já que as estruturas federais recém-estabelecidas estão sendo disputadas agressivamente por políticos e latifundiários do Pará e de seu próprio estado natal do Amazonas, além de ter que lidar com pressões de potências estrangeiras por recursos na jovem república."
+
+AMA_alvaro_botelho_maia: "Álvaro Botelho Maia"
+AMA_alvaro_botelho_maia_leader_desc: "Nascido nas margens do Rio Madeira nos arredores da cidade de Humaitá, Álvaro Botelho Maia mudou-se ainda jovem para a capital provincial de Manaus para concluir seus estudos e rapidamente se envolveu em jornais locais, seguindo depois para a política, mas também é poeta e escritor em seu tempo livre. Embora sua carreira até agora tenha sido uma série de posições nomeadas relativamente não importantes em territórios menores do extinto governo brasileiro, sua crescente frustração por sua falta de poder para reformar adequadamente as regiões do norte do país era imensa mesmo antes da guerra, e agora ele se vê em uma posição privilegiada para modernizar a economia, a educação e a infraestrutura política ainda jovem do Amazonas. No entanto, ser tanto um reformador quanto não pertencer a uma família política tradicional o coloca em rota de colisão com latifundiários poderosos e barões da borracha, e ele terá que gastar esforços significativos para ver essas mudanças acontecerem mesmo com apoio estrangeiro."
+
+AMA_efigenio_ferreira_de_salles: "Efigênio Ferreira de Salles"
+AMA_efigenio_ferreira_de_salles_leader_desc: "Natural da cidade de Serro em Minas Gerais, Efigênio Ferreira de Salles estava no comando do estado do Amazonas no início da guerra interestadual, e quando as notícias da guerra chegaram ao norte, ele optou por uma posição de 'esperar para ver', o que resultou em sua destituição do cargo depois que os rebeldes derrubaram com sucesso o presidente Bernardes naquela ocasião; desde então, ocupou posições relativamente menores como representante e trabalhou como professor, seu trabalho principal por grande parte de sua vida. No entanto, o resultado da guerra em que o Brasil se encontrava fez seu destino político tomar outro rumo inesperado, e agora ele é o presidente e chefe de estado da recém-fundada república do Amazonas, uma posição poderosa e precária, já que sua influência em Belém e fora do Amazonas em geral é severamente limitada, especialmente depois de tantos anos fora do alto escalão do grande jogo. No entanto, sua experiência, aliados em Manaos e apoio estrangeiro quase garantem que, em questões controversas, sua voz será a última a ser ouvida e a verdadeiramente considerada na jovem república."
+
+AMA_siseno_ramos_sarmento: "Siseno Ramos Sarmento"
+AMA_guilherme_paraense: "Guilherme Paraense"
+
+BRA_claudio_franco_de_sa_santoro_AMA_leader_desc: "Claudio Franco de Sá Santoro nasceu em Manaus em 1919 e é um músico e compositor extremamente renomado. Sua carreira na música começou ainda jovem, mas seu envolvimento com a Internacional é igualmente antigo, já que frequentemente encontrava colegas envolvidos em organizações sindicalistas e de esquerda desde muito cedo. Sua nomeação para o cargo de primeiro chefe de estado de seu novo país é um reconhecimento de sua carreira em ambos os campos, mas também uma responsabilidade imensa, já que a república ribeirinha precisa reparar os imensos danos causados pela guerra, tanto administrativos quanto em infraestrutura, lidando também com poderosos e ávidos latifundiários que veem Claudio como um colaborador estrangeiro e farão de tudo para manter o povo ignorante e saquear as riquezas da maior floresta do mundo. Lidar com esses oponentes pode ser um assunto complicado para o jovem socialista, que ainda é visto como excessivamente esperançoso e ingênuo, e talvez possa exigir intervenção estrangeira."
+
+BRA_landry_sales_goncalves_AMA_leader_desc: "Natural de Acaraú e nascido em 1904, Landry Sales Gonçalves começou sua carreira como oficial militar, participando de rebeliões na Velha República e interagindo com várias figuras-chave das revoltas tenentistas que se seguiram. Embora tenha flertado com a AIB durante o surgimento desse partido, ele adotou posturas mais clássicas liberais em detrimento do pensamento político militarista e foi eleito presidente com grande apoio de colegas oficiais em sua campanha. Sua perspectiva em relação à política também mudou ao longo dos anos, sendo mais favorável à diminuição de tensões e a um papel menos ativo de oficiais ativos nos assuntos políticos. Embora não seja natural das terras do norte, passou a maior parte da última década ocupando cargos administrativos no Pará, e assim o escolheu como esperança por enquanto, ao mesmo tempo em que fomenta boas relações com a república de seu local de nascimento a oeste. Ele tem uma grande tarefa pela frente, pois a quantidade já diminuta de infraestrutura dessas terras fluviais pode levar décadas para ser reparada, mas Landry está acostumado tanto à dura vida nos quartéis quanto às lealdades sempre mutáveis da política."
+
+BRA_pedro_ventura_felipe_de_araujo_pomar_AMA_leader_desc: "Pedro Ventura Felipe de Araújo Pomar teve certamente uma infância pouco convencional, mudando-se para Nova York de seu estado natal do Pará aos 5 anos, vivendo lá por dois anos antes de retornar à sua pequena cidade natal de Óbidos e depois mudar-se para a capital do estado, Belém. Ele começou a agir politicamente aos treze anos, apoiando publicamente a causa rebelde na guerra interestadual, mas mais tarde se afastou cada vez mais para a esquerda ao atingir a idade adulta, tornando-se um socialista fervoroso aos 20 anos; ele passou esses anos jovens estudando medicina e jogando futebol em meio período para o Clube do Remo. Um homem calmo e ponderado, Pedro muitas vezes permanece quieto em reuniões políticas, apenas ocasionalmente interferindo em pontos raros, e tem uma postura geralmente positiva e simpática, o que resultou em sua relativa popularidade entre os membros do sindicato, apesar de sua idade um tanto jovem; agora, ele enfrenta o imenso desafio de liderar uma nação que é tão jovem quanto ele e enfrenta enormes obstáculos de infraestrutura e orçamento. Embora essas preocupações sejam certamente preocupantes, ele acredita que, com o apoio do povo, o socialismo pode prosperar até mesmo aqui, nas margens da bacia amazônica."
+
+### Ideias
+AMA_riverland: "A Terra do Rio"
+AMA_riverland_desc: "Grão Pará está trabalhando lentamente para estabelecer controle total sobre as remotas terras ribeirinhas da Amazônia."
+
+AMA_pare: "Exército Ribeirinho"
+AMA_pare_desc: "O exército de Grão Pará passou por uma série de reformas estruturais transformadoras. Sua capacidade de combate, especialmente no terreno difícil da Amazônia, aumentou significativamente."
+
+AMA_no_fist_contact: "Política de Contato Positivo"
+AMA_no_fist_contact_desc: "Amazonas estabeleceu uma política de contato com os nativos projetada para minimizar a destruição dos nativos e sua cultura."
+
+AMA_idenitity: "Identidade Paranesa"
+AMA_idenitity_desc: "O regime paranesa está trabalhando para construir uma identidade cultural única entre seu povo."
+
+AMA_gold: "Riqueza Natural"
+AMA_gold_desc: "Grão Pará começou a explorar seus depósitos de minerais preciosos. Os padrões de vida aumentaram como resultado."
+
+AMA_gold_rush: "Corrida do Ouro"
+AMA_gold_rush_desc: "Um boom na produção de ouro e outros minerais preciosos atraiu investimentos substanciais. Um número sem precedentes de cidadãos privados também busca sua fortuna."
+
+AMA_land_reorg_idea: "Colonização da Amazônia"
+AMA_land_reorg_idea_desc: "Grão Pará está incentivando tanto cidadãos quanto imigrantes a estabelecer novos assentamentos em toda a região amazônica."
+
+### Focos Nacionais
+AMA_the_great_riverland: "Terra do Grande Rio"
+AMA_the_great_riverland_desc: "O Amazonas é o maior rio do mundo e o ponto focal de nossa nova nação - de fato, Belém, nossa maior cidade, fica ao lado de sua grande foz. No entanto, montante, sempre houve falta de controle político. Devemos ter sucesso onde o Brasil falhou e governar adequadamente a região ribeirinha."
+
+AMA_political_restructurong: "Reestruturação Política"
+AMA_political_restructurong_desc: "Nosso governo herdou severa ineficiência do Brasil. Embora mudar essa realidade leve tempo, devemos iniciar o processo."
+
+AMA_tracking_and_exploration: "Rastreadores e Exploradores"
+AMA_tracking_and_exploration_desc: "A Amazônia é densa e ameaçadora, com grande parte de seus catacumbas verdejantes inexplorados. Devemos recrutar homens com experiência na navegação pela selva e passar seu conhecimento para nossas forças armadas e administração civil."
+
+AMA_seize_brazilian_assets: "Apreensão de Ativos Brasileiros"
+AMA_seize_brazilian_assets_desc: "Muitas indústrias, de propriedade de empresas e indivíduos do sul, continuam a saquear nossa nação para seu próprio ganho. Isso deve acabar - essas empresas devem servir à nossa nação."
+
+AMA_state_protection: "Defesa do Estado"
+AMA_state_protection_desc: "Enquanto nas cidades, nossa nova nação consolidou rapidamente seu controle, a influência do estado se dissipa rapidamente nas áreas rurais. Para combater isso, devemos financiar a criação e população de novas comunidades centradas em indústrias leves altamente subsidiadas. Esses faróis de civilização naturalmente se tornarão pequenos centros de governança."
+
+AMA_land_reorganization: "Reorganização Territorial"
+AMA_land_reorganization_desc: "Nosso novo sistema de gestão de terras é insuficiente para lidar com uma expansão significativa. No entanto, as terras virgens mapeadas por nossos exploradores não podem ficar ociosas. Devemos fazer o necessário para administrar e distribuir essas terras."
+
+AMA_development_program: "Programa de Desenvolvimento"
+AMA_development_program_desc: "A iniciativa de desenvolver novos assentamentos industriais leves encontrou algum sucesso, mas nossa indústria fica para trás em sofisticação em relação ao resto do mundo. Vamos nos concentrar em alcançar a paridade até mesmo com as grandes potências do mundo."
+
+AMA_native_protection: "Ajude nossos Nativos"
+AMA_native_protection_desc: "Os povos indígenas da Amazônia vivem em condições horríveis, com poucas oportunidades econômicas, frequentemente explorados por empreendimentos ilegais que operam na selva. Isso deve acabar; todas as tribos nativas devem ter um adido governamental para proteger contra abusos."
+
+AMA_prime_directive: "Política de Primeiro Contato"
+AMA_prime_directive_desc: "Embora o contato com a civilização possa trazer alguns benefícios para os grupos nativos mais isolados, também certamente traria uma miríade de problemas, especialmente doenças e destruição cultural. Devemos institucionalizar uma política de contato pró-ativa, mas socialmente consciente."
+
+AMA_governmental_reform: "Reforma Governamental"
+AMA_governmental_reform_desc: "O choque da rápida separação de nossa nação do Brasil deixou pouco tempo para desenvolver instituições políticas suficientes. Com o choque agora passado, devemos buscar corrigir as deficiências de nossa estrutura governamental."
+
+AMA_reach_into_the_jungle: "Alcançar a Selva"
+AMA_reach_into_the_jungle_desc: "As áreas mais remotas da Amazônia carecem de muitos serviços governamentais básicos. Uma carta da fronteira com o Peru pode levar semanas para chegar ao destino pretendido! Vamos levar esses aspectos da modernidade para cada pedaço de floresta tropical."
+
+AMA_para_identity: "Identidade Nacional"
+AMA_para_identity_desc: "Nosso povo se vê não como Paraneses, mas como brasileiros, devemos trabalhar para mudar isso."
+
+AMA_higher_learning: "Ensino Superior"
+AMA_higher_learning_desc: "A educação e o cultivo do capital humano impulsionam o crescimento econômico de longo prazo. Lamentavelmente carente de universidades, devemos fundar um grande campus central para servir como ponto focal de futuros programas educacionais."
+
+AMA_amapa_belem_railway: "Ferrovia Macapá-Belém"
+AMA_amapa_belem_railway_desc: "Macapá é atualmente inacessível por ferrovia. Ao construir uma ferrovia a partir da capital, Macapá certamente prosperará."
+
+AMA_belem_manaus_railway: "Ferrovia Belém-Manaus"
+AMA_belem_manaus_railway_desc: "Localizada no centro da Amazônia, apesar de sua considerável população, Manaos só é acessível por barco ou aeronave, isolando sua população. Se apenas nosso governo pudesse lançar as bases para uma rede ferroviária moderna, a cidade certamente entraria em uma nova era dourada."
+
+AMA_manaus_roraima_railway: "Ferrovia Manaos-Roraima"
+AMA_manaus_roraima_railway_desc: "Localizada na extremidade do país, Roraima está chocantemente isolada para uma cidade moderna. Com a necessidade do desenvolvimento de um sistema ferroviário na Amazônia já estabelecida, deixe Roraima ser unida à rede finalmente."
+
+AMA_manaus_rio_branco_railway: "Ferrovia Manaos-Rio Branco"
+AMA_manaus_rio_branco_railway_desc: "Acessível apenas por ferrovia a partir de territórios que não estão sob nosso controle, o Rio Branco e a região do Acre com ele estão em risco de escapar de nossas mãos. Não podemos permitir que esta bela cidade se torne um antro de escória e vilania, vamos conectá-la à nossa crescente rede ferroviária."
+
+AMA_manaus_fonte_boa_railway: "Ferrovia Manaos-Fonte Boa"
+AMA_manaus_fonte_boa_railway_desc: "Quase na fronteira com a Colômbia, qualquer exército avançando do norte certamente varreria Fonte Boa. Devemos conectar esta cidade estrategicamente importante à rede ferroviária."
+
+AMA_port_of_belem: "O Porto de Belém"
+AMA_port_of_belem_desc: "Belém é o maior porto por muitas centenas de milhas e o portão incontestável para a Amazônia. Infelizmente, a cidade carece de instalações suficientes para nossos navios de guerra. Não devemos permitir que nossa nação seja facilmente levada ao colapso. Uma grande base deve ser construída."
+
+AMA_new_future: "Novo Futuro"
+AMA_new_future_desc: "Embora consolidar nossas terras e suas riquezas seja importante, também devemos olhar para o futuro. Novas oportunidades econômicas aguardam."
+
+AMA_arm_our_forces: "Armar nossos Exércitos"
+AMA_arm_our_forces_desc: "Nossas forças armadas não podem produzir os armamentos necessários para abastecer suas fileiras crescentes. Novas fábricas explicitamente para produção militar devem ser construídas."
+
+AMA_mining_processing_construction: "Esforços de Mineração"
+AMA_mining_processing_construction_desc: "Instalações para processar minerais são tão importantes quanto as minas em si. Devemos investir no desenvolvimento de instalações suficientes para atender à nossa crescente produção."
+
+AMA_estaleiro_manaus: "Estaleiros de Manaos"
+AMA_estaleiro_manaus_desc: "O Amazonas é tão grandioso em Manaos que os imensos barcos fluviais que conectam a Amazônia podem ser construídos lá. Não precisamos mais importar tais embarcações. Vamos financiar a construção de estaleiros especializados em Manaos."
+
+AMA_estaleiro_belem: "Estaleiros de Belém"
+AMA_estaleiro_belem_desc: "Belém é nosso maior porto e o lugar onde navios mercantes e militares podem ser construídos mais facilmente. Devemos trabalhar com produtores para ver um novo boom na produção de navios lá."
+
+AMA_arming_industry: "Indústria de Armamentos"
+AMA_arming_industry_desc: "Devemos encerrar nossos constantes problemas de fornecimento militar de uma vez por todas. Fundos devem ser destinados para uma nova grande expansão de nossa indústria doméstica de armamentos."
+
+AMA_defense_of_amazon_delta: "Defesa do Delta do Amazonas"
+AMA_defense_of_amazon_delta_desc: "A longa costa do delta apresenta um alvo perfeito para uma potencial força invasora. Embora possa ser difícil guarnecer, toda ela deve ser fortificada."
+
+AMA_industrial_incentives: "Incentivos Industriais"
+AMA_industrial_incentives_desc: "Com a indústria naval prosperando, Manaos também deve ter indústrias para apoiar tal atividade. Devemos oferecer incentivos financeiros para indústrias locais envolvidas nisso."
+
+AMA_zona_franca: "Zonas Isentas de Impostos"
+AMA_zona_franca_desc: "Para incentivar o desenvolvimento da Amazônia, isenções fiscais devem ser concedidas àqueles em setores-chave na região."
+
+AMA_extract_wealth: "Riqueza da Terra"
+AMA_extract_wealth_desc: "Vastos depósitos de ouro e outros recursos naturais permanecem inexplorados. Devemos avaliar esses depósitos e começar a exportar a riqueza de nossa nação."
+
+AMA_garimpo: "Garimpo"
+AMA_garimpo_desc: "Os depósitos de recursos de nossa nação começaram a atrair a atenção de buscadores de fortuna de todo o continente e do mundo. As minas de ouro, especialmente, aumentaram com trabalhadores, e o sedimento amazônico é cada vez mais peneirado em busca de ouro."
+
+AMA_leite_do_pau: "Novo Ciclo da Borracha"
+AMA_leite_do_pau_desc: "Apenas algumas décadas atrás, os produtores de borracha voltaram seus olhos para a região amazônica. Com a demanda por borracha mais alta do que nunca, esse 'Novo Ciclo da Borracha' deve ser replicado. Vamos trabalhar de perto com esses produtores para garantir isso."
+
+AMA_asserting_independence: "Afirmando Nossa Independência"
+AMA_asserting_independence_desc: "Embora possamos depender de potências estrangeiras para proteção, não seremos seus simples lacaios. Embora não busquemos rebelião, devemos afirmar nosso direito de forjar nosso próprio caminho."
+
+AMA_armed_forces: "Nossas Forças Armadas"
+AMA_armed_forces_desc: "O exército do Brasil foi perpetuamente assolado por corrupção e regionalismo. O nosso deve ser desenvolvido para evitar tais armadilhas."
+
+AMA_equipment1: "Renovação de Equipamentos"
+AMA_equipment1_desc: "Todos os aspectos do nosso processo de aquisição militar estão atrasados em relação aos nossos inimigos. Devemos investir na reforma total do sistema e na aquisição de uma variedade de novos equipamentos."
+
+AMA_doctrine1: "Estado-Maior"
+AMA_doctrine1_desc: "O desenvolvimento de um estado-maior moderno é fundamental para o sucesso de todas as outras reformas. Devemos começar a estabelecer essa infraestrutura."
+
+AMA_marine_focus: "Tropa Anfíbia"
+AMA_marine_focus_desc: "O ambiente de nossa nação incutiu na população conhecimentos especialmente úteis para unidades marinhas. Devemos fortalecer nossos fuzileiros, baseando-nos nessa experiência."
+
+AMA_army_modernization: "Modernização do Exército"
+AMA_army_modernization_desc: "Um sistema de pesquisa militar totalmente novo é necessário para supervisionar a modernização total de nossas forças. Embora possa ser caro, é necessário."
+
+AMA_equipment2: "Melhores Armas"
+AMA_equipment2_desc: "Sem seu fuzil, um soldado não é nada. Os homens devem ser equipados com as melhores armas que o dinheiro pode comprar."
+
+AMA_doctrine2: "Oficiais Estrangeiros"
+AMA_doctrine2_desc: "Devemos contratar os melhores e mais brilhantes de todo o mundo para ajudar no desenvolvimento de nossa doutrina militar."
+
+AMA_paratrooper_focus: "Acima da Selva"
+AMA_paratrooper_focus_desc: "Paraquedistas são uma inovação recente e que tem conquistado o mundo. Devemos ter unidades de paraquedistas próprias."
+
+AMA_jungle_skies: "Céus da Selva"
+AMA_jungle_skies_desc: "A densa floresta tropical é praticamente impenetrável por terra. No entanto, do ar, a terra se revela. Vamos investir em uma força aérea nacional."
+
+AMA_rule_skies: "Domínio do Ar"
+AMA_rule_skies_desc: "Aeronaves de combate são a espinha dorsal de toda força aérea. Vamos começar a alcançar o resto do mundo no design de caças."
+
+AMA_bomber: "Modelos de Bombardeiros"
+AMA_bomber_desc: "Às vezes, a melhor defesa é um bom ataque. Se quisermos realmente dissuadir nossos inimigos, devemos ter bombardeiros capazes de atacar suas cidades com efeito devastador."
+
+AMA_CAS: "Apoio Aéreo Aproximado"
+AMA_CAS_desc: "Guerras recentes mostraram a necessidade de suporte direto de combate aéreo. Uma força aérea destinada a ficar por conta própria está fadada ao fracasso. Devemos ter nosso próprio apoio aéreo próximo."
+
+AMA_FAP: "Reorganização da Força Aérea"
+AMA_FAP_desc: "O legado da Força Aérea Brasileira e sua doutrina impedem o desenvolvimento da nossa. Devemos encontrar nosso próprio caminho."
+
+AMA_airlifts: "Transporte Aéreo"
+AMA_airlifts_desc: "Frequentemente, tropas operando em partes remotas da Amazônia não podem ser facilmente abastecidas por terra. Devemos construir uma nova base aérea construída especialmente para o transporte aéreo de suprimentos."
+
+AMA_long_rage_flights: "Voos de Longo Alcance"
+AMA_long_rage_flights_desc: "Nenhum centímetro de terra ou espaço aéreo pode ser cedido ao inimigo. Devemos pesquisar aeronaves com alcance para tornar isso uma realidade."
+
+AMA_green_skies: "Verde Abaixo, Azul Acima"
+AMA_green_skies_desc: "As águas ricas em minerais do delta do Amazonas apresentam um desafio adicional para qualquer invasor em potencial. Na abordagem de nossas costas, eles certamente serão alvos fáceis! Devemos desenvolver bombardeiros navais para explorar essa vantagem."
+
+### Country Names ###
+AMA: "Amazonas"
+AMA_ADJ: "Amazonense"
+AMA_DEF: "Amazonas"
+
+AMA_totalist: "União do Amazonas"
+AMA_totalist_ADJ: "Amazonense"
+AMA_totalist_DEF: "a União do Amazonas"
+AMA_syndicalist: "União do Amazonas"
+AMA_syndicalist_ADJ: "Amazonense"
+AMA_syndicalist_DEF: "a União do Amazonas"
+AMA_radical_socialist: "União do Amazonas"
+AMA_radical_socialist_ADJ: "Amazonense"
+AMA_radical_socialist_DEF: "a União do Amazonas"

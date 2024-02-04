@@ -1,0 +1,160 @@
+﻿l_braz_por:
+
+#Reorganised painfully by Sbadskins and PPsyrius
+
+########################################
+### Country Specific Naval Equipment ###
+########################################
+
+#ATTENTION! THIS FILE IS SORTED BY TAG, NOT BY NAME
+
+# Fleet Names
+ #FLEET_NAME_USA: "USS Navy Group $NUMBER$" in vanilla_override
+ FLEET_NAME_TEX: "USS Grupo Naval $NUMBER$"
+FLEET_NAME_PSA: "USS Grupo Naval $NUMBER$"
+FLEET_NAME_NEE: "USS Grupo Naval $NUMBER$"
+FLEET_NAME_CSA: "CSS Grupo Naval $NUMBER$"
+ #FLEET_NAME_GER: "$NUMBER$. Kaiserliche Flotte" in vanilla_override
+ FLEET_NAME_BAT: "$NUMBER$. Kaiserlich-Baltische Flotte"
+ FLEET_NAME_GEA: "$NUMBER$. Kaiserlich-Ostasiatische Flotte"
+ FLEET_NAME_MAF: "$NUMBER$. Kaiserlich-Afrikanische Flotte"
+ FLEET_NAME_RUS: "$NUMBER$-y Russky Flot"
+ FLEET_NAME_TRM: "$NUMBER$-y Russky Flot"
+ FLEET_NAME_UKR: "$NUMBER$-yi Ukrainskyi Flot"
+ FLEET_NAME_FRA: "$NUMBER$. flotte fédérale"
+ FLEET_NAME_NFA: "$NUMBER$. flotte française"
+ FLEET_NAME_HOL: "$NUMBER$. Vloot"
+ FLEET_NAME_OTT: "$NUMBER$. Donanma-yı Komutanlığı"
+ FLEET_NAME_GRE: "Polemiko Naftiko $NUMBER$"
+ FLEET_NAME_SIA: "Korng Ruea Yutthakarn Thi $NUMBER$."
+ FLEET_NAME_AUS: "$NUMBER$. Flotte"
+ FLEET_NAME_NOR: "$NUMBER$. Sjøforsvarsdistrikt"
+
+# Task Force Names ###These do not work? More testing needed.
+ TASK_FORCE_NAME_OTT: "$NUMBER$. Donanma Filosu"
+ TASK_FORCE_NAME_GRE: "Naftiki Dioikisi $NUMBER$"
+ TASK_FORCE_NAME_SIA: "Korng Ruea Thi $NUMBER$."
+ TASK_FORCE_NAME_AUS: "$NUMBER$. Geschwader"
+
+### German Empire (GER) ###
+# Module
+# German Empire used L/XX (barrel length) rather then Nazi German C/XX (introduction year)
+ GER_ship_light_battery_1: "10.5 cm SK L/45"
+# 12.7 cm SK C/34
+ GER_ship_light_battery_2: "12.7 cm SK L/43"
+ GER_ship_light_battery_3: "Duplo 12.7 cm SK L/43"
+# cruiser gun but mounted on a destroyer, along the lines of the Spahkreuzers
+ GER_ship_light_battery_4: "Duplo 15 cm SK L/55"
+
+ GER_dp_light_battery_1: "Duplo 10.5 cm SK L/65"
+# 12.8 cm FlaK 40
+ GER_dp_light_battery_2: "Duplo 12.8 cm SK L/61"
+# fictional upgrade of the 12.8 cm FlaK 40 with a longer barrel
+ GER_dp_light_battery_3: "Duplo 12.8 cm SK L/65"
+# fictional cruiser gun but mounted on a destroyer, along the line of the Spahkreuzers
+ GER_dp_light_battery_4: "Duplo 15 cm SK L/45"
+
+ GER_ship_secondaries_1: "15 cm SK L/45"
+ GER_ship_secondaries_2: "15 cm SK L/55"
+# fictional
+ GER_ship_secondaries_3: "17 cm SK L/45"
+# yes we're putting CA guns on BB
+ GER_ship_secondaries_4: "20 cm SK L/60"
+
+ GER_ship_light_medium_battery_1: "15 cm SK L/45"
+ GER_ship_light_medium_battery_2: "15 cm SK L/55"
+ GER_ship_light_medium_battery_3: "17 cm SK L/45"
+ GER_ship_light_medium_battery_4: "20 cm SK L/60"
+
+# fictional, similar to the USN 6"/47
+ GER_dp_ship_medium_1: "duplo 15 cm L/45"
+
+# fictional downgrade of 20.3 cm SK C/34
+ GER_ship_medium_battery_1: "Duplo20.3 cm SK L/50"
+# 20.3 cm SK C/34
+ GER_ship_medium_battery_2: "Duplo 20.3 cm SK L/60"
+ GER_ship_medium_battery_3: "Triplo 20.3 cm SK L/60"
+# fictional upgrade of 21 cm SK L/45, a WW1-era Armoured Cruiser gun
+ GER_ship_medium_battery_4: "Triplo 21 cm SK L/55"
+
+ GER_ship_heavy_battery_1: "38 cm SK L/45"
+# fictional
+ GER_ship_heavy_battery_2: "42 cm SK L/45"
+# fictional
+ GER_ship_heavy_battery_3: "46 cm SK L/45"
+# fictional
+ GER_ship_heavy_battery_4: "46 cm SK L/50"
+
+# fictional
+ GER_ship_super_heavy_battery_1: "46 cm SK L/45"
+
+GER_ship_torpedo_1: "Torpedos triplos de 533mm"
+GER_ship_torpedo_2: "Torpedos quádruplos de 533mm"
+GER_ship_torpedo_3: "Torpedos quíntuplos de 533mm"
+GER_ship_torpedo_4: "Torpedos quádruplos de 610mm"
+
+GER_ship_fire_control_system_1: "Tipo 1935 (C. 35)"
+
+GER_ship_anti_air_1: "Flakvierling de 2cm quádruplo"
+GER_ship_anti_air_2: "AA de 3,7cm duplo (SK C/30)"
+GER_ship_anti_air_3: "AA de 8,8cm duplo (SK C/32)"
+GER_ship_anti_air_4: "Flak M43 de 3,7cm duplo"
+GER_ship_anti_air_5: "AA de 10,5cm duplo (SK C/33 na)"
+
+GER_ship_sub_snorkel_1: "Schnorchel com válvula de flutuação"
+GER_ship_sub_snorkel_2: "Schnorchel aprimorado"
+
+GER_ship_sonar_1: "Atlas-Werke GHG"
+GER_ship_sonar_2: "S-Gerät"
+GER_ship_radar_1: "Radar FuMO 22"
+GER_ship_radar_2: "Radar FuMO 26"
+GER_ship_radar_3: "Radar FuMO 27"
+GER_ship_radar_4: "Radar FuMO 34"
+ 
+### Japan (JAP) ###
+# Module
+JAP_ship_light_battery_1: "12 cm/45 Tipo 3"
+JAP_ship_light_battery_2: "12,7 cm/50 Tipo 3"
+JAP_ship_light_battery_3: "Duplo 12,7 cm/50 Tipo 3"
+JAP_ship_light_battery_4: "Duplo 12,7 cm/50 Tipo 3 Kai"
+
+JAP_dp_light_battery_1: "12 cm/40 Tipo 10, Ano 10"
+JAP_dp_light_battery_2: "12,7 cm/40 Tipo 89"
+JAP_dp_light_battery_3: "10 cm/65 Tipo 98"
+JAP_dp_light_battery_4: "Torre Modelo D de 12,7 cm/40 Tipo 3"
+
+JAP_ship_light_medium_battery_1: "14 cm/50 3º Ano Tipo"
+JAP_ship_light_medium_battery_2: "15 cm/50 41º Ano Tipo"
+JAP_ship_light_medium_battery_3: "15,5 cm/60 3º Ano Tipo"
+JAP_ship_light_medium_battery_4: "15,5 cm/60 3º Ano Tipo Kai"
+
+JAP_ship_medium_battery_1: "20 cm/50 3º Ano Tipo Mk 1"
+JAP_ship_medium_battery_2: "20 cm/50 3º Ano Tipo Mk 2"
+ # Fake design, an overall improved version of the 20cm/50 3rd Year Type:
+JAP_ship_medium_battery_3: "20 cm/50 Tipo 98"
+ # Design B-65's gun, but you can now put it on a cruiser:
+JAP_ship_medium_battery_4: "31 cm/50 Tipo 0"
+
+ # British gun, used on Japan's early Battlecruisers/Battleships:
+JAP_ship_heavy_battery_1: "Vickers 14 polegadas/45"
+JAP_ship_heavy_battery_2: "41 cm/45 3º Ano Tipo"
+JAP_ship_heavy_battery_3: "46 cm/45 3º Ano Tipo"
+ # Really just the 46cm/45 Type 94, but the type designation changed :
+JAP_ship_heavy_battery_4: "46 cm/45 Tipo 2"
+
+JAP_ship_secondaries_1: "15 cm/50 41º Ano Tipo"
+JAP_ship_secondaries_2: "14 cm/45 3º Ano Tipo"
+
+JAP_dp_ship_secondaries_1: "12 cm/40 10º Ano Tipo"
+JAP_dp_ship_secondaries_2: "12,7 cm/40 Tipo 89"
+JAP_dp_ship_secondaries_3: "10 cm/65 Tipo 98"
+JAP_dp_ship_secondaries_4: "Torre Modelo D de 12,7 cm/40 Tipo 3"
+
+ # Yamato gun but it's invented a decade earlier:
+ JAP_ship_super_heavy_battery_1: "46cm/45 Tipo 94"
+
+ JAP_ship_torpedo_1: "Duplo Tubo de Torpedos de 533mm"
+JAP_ship_torpedo_2: "Triplo Tubo de Torpedos de 610mm"
+JAP_ship_torpedo_3: "Quádruplo Tubo de Torpedos de 610mm"
+JAP_ship_torpedo_4: "Quíntuplo Tubo de Torpedos de 610mm"
+ 

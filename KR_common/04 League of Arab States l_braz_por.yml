@@ -1,0 +1,11 @@
+﻿l_braz_por:
+
+LOAS_Arab_League: "$LOAS_faction$"
+LOAS_Arab_League_desc: "Unidos pela língua, o povo árabe sempre formou um grupo distinto dentro dos impérios que habitavam. No entanto, algumas pessoas sentem que essa conexão não vai longe o suficiente e que é o destino do mundo árabe se reunir, como nos tempos dos grandes Califados. Elas acreditam que, através da criação de uma Arábia unida, todo o subcontinente finalmente experimentará seu verdadeiro renascimento e retomará sua posição na política global.\n\nPara acelerar essa unificação, uma organização supranacional (§Y$LOAS_faction$§!) foi criada e concedida poder significativo. No entanto, para realizar o sonho de um estado pan-árabe, precisaremos convencer os outros estados árabes a participar dessa iniciativa e abrir mão de parte de sua soberania."
+
+LOAS_Invite_Country: "Convidar [FROM.GetName] para a Liga Árabe"
+
+LOA_every_member_state: "Cada membro da §Y$LOAS_faction$§!"
+LOA_three_random_states: "Três estados válidos aleatórios"
+
+LOAS_faction: "Liga dos Estados Árabes"

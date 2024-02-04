@@ -1,0 +1,170 @@
+﻿l_braz_por:
+
+### CHA: Chad
+CHA: "Chade"
+CHA_ADJ: "Chadiano"
+CHA_DEF: "o Chade"
+
+CHA_totalist: "Federação do Chade"
+CHA_totalist_ADJ: "Chadiano"
+CHA_totalist_DEF: "a Federação do Chade"
+CHA_syndicalist: "Federação do Chade"
+CHA_syndicalist_ADJ: "Chadiano"
+CHA_syndicalist_DEF: "a Federação do Chade"
+CHA_radical_socialist: "Federação do Chade"
+CHA_radical_socialist_ADJ: "Chadiano"
+CHA_radical_socialist_DEF: "a Federação do Chade"
+CHA_authoritarian_democrat: "Império de Wadai"
+CHA_authoritarian_democrat_ADJ: "Wadai"
+CHA_authoritarian_democrat_DEF: "o Império de Wadai"
+
+ ### Characters ###
+CHA_ahmed_koulamallah: "Ahmed Koulamallah"
+CHA_mohamed_bechir_sow: "Mohamed Bechir Sow"
+CHA_gontchome_sahoulba: "Gontchome Sahoulba"
+CHA_pierre_olivier_lapie: "Pierre Olivier Lapie"
+CHA_tobio_dit_markinzaye: "Tobio dit Markinzaye"
+CHA_muhammad_urada_ibn_ibrahim: "Muhammad Urada ibn Ibrahim"
+CHA_mahamat_abdelkader: "Mahamat Abdelkader"
+CHA_yorgui_koli: "Yorgui Koli"
+
+CHA_georges_koudoukou: "Georges Koudoukou"
+
+### GNA: Guinea
+GNA: "Guiné"
+GNA_ADJ: "Guineense"
+GNA_DEF: "a Guiné"
+
+GNA_totalist: "União da Guiné"
+GNA_totalist_ADJ: "Guineense"
+GNA_totalist_DEF: "a União da Guiné"
+GNA_syndicalist: "União da Guiné"
+GNA_syndicalist_ADJ: "Guineense"
+GNA_syndicalist_DEF: "a União da Guiné"
+GNA_radical_socialist: "União da Guiné"
+GNA_radical_socialist_ADJ: "Guineense"
+GNA_radical_socialist_DEF: "a União da Guiné"
+GNA_national_populist: "Fuuta Jaloo"
+GNA_national_populist_ADJ: "Jaloo"
+GNA_national_populist_DEF: "Fuuta Jaloo"
+
+ ### Characters ###
+GNA_louis_placide_blacher: "Louis-Placide Blacher"
+GNA_yacine_diallo: "Yacine Diallo"
+GNA_tierno_abdourahmani: "Tierno Abdourahmani"
+GNA_karamoko_dalen: "Karamoko Dalen"
+GNA_reymond_sarif_easmon: "Reymond Sarif Easmon"
+
+### IVO: Ivory Coast
+IVO: "Costa do Marfim"
+IVO_ADJ: "Ivoriano"
+IVO_DEF: "a Costa do Marfim"
+
+ ### Characters ###
+IVO_Felix_Houphouet_Boigny: "Félix Houphouët-Boigny"
+
+### MLI: Mali
+MLI: "Mali"
+MLI_ADJ: "Maliano"
+MLI_DEF: "o Mali"
+
+MLI_totalist: "Comuna Maliana"
+MLI_totalist_ADJ: "Maliano"
+MLI_totalist_DEF: "a Comuna Maliana"
+MLI_syndicalist: "Comuna Maliana"
+MLI_syndicalist_ADJ: "Maliano"
+MLI_syndicalist_DEF: "a Comuna Maliana"
+MLI_radical_socialist: "Comuna Maliana"
+MLI_radical_socialist_ADJ: "Maliano"
+MLI_radical_socialist_DEF: "a Comuna Maliana"
+
+ ### Characters ###
+MLI_modibo_keita: "Modibo Keïta"
+MLI_mamadou_konate: "Mamadou Konaté"
+MLI_mamby_sidibe: "Mamby Sidibé"
+MLI_emile_belime: "Émile Bélime"
+MLI_hamallah_bin_muhammad_al_tishiti: "Hamallah ibn Muhammad al-Tishiti"
+MLI_noukoun_kone: "Noukoun Kone"
+
+### MRT: Mauritania
+MRT: "Mauritânia"
+MRT_ADJ: "Mauritano"
+MRT_DEF: "a Mauritânia"
+
+MRT_national_populist: "Trarza"
+MRT_national_populist_ADJ: "Trarzano"
+MRT_national_populist_DEF: "o Emirado de Trarza"
+
+### NGR: Niger
+ NGR: "Níger"
+NGR_ADJ: "Nigerino"
+NGR_DEF: "o Níger"
+
+ ### Characters ###
+NGR_boubou_hama: "Boubou Hama"
+
+### SEN: Senegambia
+SEN: "Senegâmbia"
+SEN_ADJ: "Senegambiano"
+SEN_DEF: "a Senegâmbia"
+
+SEN_national_populist: "Estado de Jolof"
+SEN_national_populist_ADJ: "Jolofiano"
+SEN_national_populist_DEF: "o Estado de Jolof"
+
+### SIE: Sierra Leone
+SIE: "Serra Leoa"
+SIE_ADJ: "Serra-leonês"
+SIE_DEF: "a Serra Leoa"
+
+ ### Characters ###
+SIE_banja_tejan_sie: "Banja Tejan-Sie"
+SIE_george_giffard: "George Giffard"
+SIE_lashmer_whistler: "Lashmer Whistler"
+SIE_john_karefasmart: "John Karefa-Smart"
+SIE_amadu_wurie: "Amadu Wurie"
+SIE_mohammad_sanusi_mustapha: "Mohammad Sanusi Mustapha"
+
+### SUD: Sudan
+SUD: "Sudão"
+SUD_ADJ: "Sudanês"
+SUD_DEF: "o Sudão"
+
+ ### Characters ###
+SUD_abd_al_rahman_al_mahdi: "Abd al-Rahman al-Mahdi"
+SUD_ali_abd_al_latif: "Ali Abd al Latif"
+SUD_el_ferik_ibrahim_abboud: "El Ferik Ibrahim Abboud"
+
+### TOG: Togoland
+TOG: "Togolândia"
+TOG_ADJ: "Togolês"
+TOG_DEF: "a Togolândia"
+
+TOG_totalist: "Togo"
+TOG_totalist_ADJ: "Togolês"
+TOG_totalist_DEF: "a República Togolesa"
+TOG_syndicalist: "Togo"
+TOG_syndicalist_ADJ: "Togolês"
+TOG_syndicalist_DEF: "a República Togolesa"
+TOG_radical_socialist: "Togo"
+TOG_radical_socialist_ADJ: "Togolês"
+TOG_radical_socialist_DEF: "a República Togolesa"
+
+TOG_national_populist: "Togo"
+TOG_national_populist_ADJ: "Togolês"
+TOG_national_populist_DEF: "Togo"
+
+### TUN: Tunisia
+TUN: "Tunísia"
+TUN_ADJ: "Tunisiano"
+TUN_DEF: "a Tunísia"
+
+TUN_totalist: "Comuna Tunisiana"
+TUN_totalist_ADJ: "Tunisiano"
+TUN_totalist_DEF: "a Comuna Tunisiana"
+TUN_syndicalist: "Comuna Tunisiana"
+TUN_syndicalist_ADJ: "Tunisiano"
+TUN_syndicalist_DEF: "a Comuna Tunisiana"
+TUN_radical_socialist: "Comuna Tunisiana"
+TUN_radical_socialist_ADJ: "Tunisiano"
+TUN_radical_socialist_DEF: "a Comuna Tunisiana"

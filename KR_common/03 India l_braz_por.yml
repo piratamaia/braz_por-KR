@@ -1,0 +1,96 @@
+﻿l_braz_por:
+
+ ASM: "Assam"
+ASM_ADJ: "Assamês"
+ASM_DEF: "Assam"
+
+BNG: "Bengala"
+BNG_ADJ: "Bengali"
+BNG_DEF: "Bengala"
+
+BOM: "Maharashtra"
+BOM_ADJ: "Marathiano"
+BOM_DEF: "Maharashtra"
+
+GUJ: "Gujarat"
+GUJ_ADJ: "Gujarati"
+GUJ_DEF: "Gujarat"
+
+HYD: "Hyderabad"
+HYD_ADJ: "Hidrelabadi"
+HYD_DEF: "Hyderabad"
+
+INR: "Rebeldes Bharatiya"
+INR_ADJ: "Bharatiya"
+INR_DEF: "os Rebeldes Bharatiya"
+
+KAS: "Caxemira"
+KAS_ADJ: "Caxemiriano"
+KAS_DEF: "Caxemira"
+
+MYS: "Mysore"
+MYS_ADJ: "Mysoriano"
+MYS_DEF: "Mysore"
+
+ORI: "Orissa"
+ORI_ADJ: "Oriya"
+ORI_DEF: "Orissa"
+
+PAK: "Paquistão"
+PAK_ADJ: "Paquistanês"
+PAK_DEF: "Paquistão"
+
+PAK_punjab: "Punjab"
+PAK_punjab_ADJ: "Punjabi"
+PAK_punjab_DEF: "Punjab"
+
+PJB: "Khalistan"
+PJB_ADJ: "Khalistani"
+PJB_DEF: "Khalistan"
+
+RJS: "Rajastão"
+RJS_ADJ: "Rajasthani"
+RJS_DEF: "Rajastão"
+
+TRV: "Travancore"
+TRV_ADJ: "Travancoriano"
+TRV_DEF: "Travancore"
+
+HIN: "Hindustão"
+HIN_ADJ: "Hindustani"
+HIN_DEF: "Hindustão"
+
+### World Tension ###
+indian_wars_threat: "Guerras Indianas de Unificação"
+
+### Characters ###
+BNG_muzaffar_ahmad: "Muzaffar Ahmad"
+
+GUJ_bahman_pestonji_wadia: "Bahman Pestonji Wadia"
+GUJ_sayajirao_gaekwad_iii: "Sayajirao Gaekwad III"
+
+HYD_osman_ali_khan: "Osman Ali Khan"
+HYD_madapati_hanumantha_rao: "Madapati Hanumantha Rao"
+HYD_syed_ahmed_el_edroos: "Syed Ahmed El-Edroos"
+HYD_azam_jah: "Azam Jah"
+HYD_kasim_razvi: "Kasim Razvi"
+
+PAK_aga_khan_iii: "Aga Khan III"
+PAK_liaquat_ali_khan: "Liaquat Ali Khan"
+PAK_allama_mashriqi: "Allama Mashriqi"
+PAK_akbar_khan: "Akbar Khan"
+PAK_abul_ala_maududi: "Abul A'la Maududi"
+
+PAK_ali_haidar: "Ali Haidar"
+PAK_mahmood_khan_durrani: "Mahmood Khan Durrani"
+PAK_shah_nawaz_khan: "Shah Nawaz Khan"
+
+PJB_tara_singh: "Tara Singh"
+
+RJS_sawai_man_singh_ii: "Sawai Man Singh II"
+
+TRV_chithira_thirunal_balarama_varma: "Chithira Thirunal Balarama Varma"
+TRV_chandrasekharan_nair: "Chandrasekharan Nair"
+
+### Tooltips ###
+india_will_seize_ceylon_if_germany_at_war: "Ceylon will be seized if this focus is taken while Germany is embroiled in a major war."

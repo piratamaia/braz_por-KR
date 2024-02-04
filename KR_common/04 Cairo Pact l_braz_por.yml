@@ -1,0 +1,130 @@
+﻿l_braz_por:
+
+### World Tension ###
+war_in_the_desert_threat: "Guerra no Deserto"
+
+### Events ###
+cp.1.t: "Fim de uma Era"
+cp.1.d: "À medida que as forças árabes avançam pelas Montanhas Taurus em direção à Anatólia, devemos admitir que os dias dourados da Sublime Porta estão agora definitivamente encerrados. Recusando-se a abandonar seus lares, várias organizações irregulares turcas e curdas estão travando uma guerra de resistência no sul da Anatólia, mas seus esforços provavelmente serão em vão. Portanto, o Sultão convocou o gabinete para discutir os termos de um armistício e, posteriormente, de rendição.\n\nConversando nos grandes salões do Palácio de Dolmabahce, os homens reunidos só podem ponderar sobre o futuro de seu outrora imenso império enquanto os alarmes de ataques aéreos ecoam perto da Torre Galata e as famílias, com lágrimas nos olhos, acenam adeus aos filhos e pais indo para o front da Anatólia."
+cp.1.a: "Tempos sombrios estão à nossa frente"
+
+cp.2.t: "O Tratado de Antália"
+cp.2.d: "O que antes parecia impossível finalmente aconteceu, pois os restos em ruínas do exército otomano se renderam oficialmente às 16h15 de hoje aos exércitos de [EGY.GetLeader]. Com essa vitória, no entanto, surge uma nova fase de dúvida e inveja, já que as ricas terras do Mashriq agora serão divididas entre os vários parceiros de nossa aliança. Eles esperarão que cumpramos nossas promessas e provavelmente reagirão mal a qualquer tentativa de sufocar sua autodeterminação."
+cp.2.a: "Apoiar o regime sírio"
+cp.2.b: "O Levante pertence ao Cairo!"
+
+cp.3.t: "Egito Aceita a Rendição Otomana"
+cp.3.d: "Assumindo as negociações de rendição, o regime no Cairo assinou a paz em nosso nome e dividiu o Império Otomano como um peru. De acordo com nossas reivindicações, eles nos concederam concessões consideráveis da Sublime Porta e esperam manter relações amigáveis no futuro."
+cp.3.a: "Um tempo de cura"
+cp.3.b: "Nós desejamos mais terras!"
+
+cp.4.t: "O Status da Síria"
+cp.4.d: "Com nossa vitória no Levante assegurada, chegou a hora de determinar o futuro da Síria. Enquanto a população local apoia fortemente o regime republicano interino estabelecido nas antigas terras otomanas, muitos no Egito acreditam que uma parceria de iguais não está em seus melhores interesses e estão instando à instalação de um regime fantoche liderado por um membro da família real, que fará o possível para extrair o máximo das novas terras em benefício do Cairo."
+cp.4.a: "A Síria será nossa parceira"
+cp.4.b: "A Síria carece de orientação, e nós podemos fornecê-la!"
+cp.4.c: "Damasco guiará o mundo árabe! (Jogue como a Síria)"
+
+cp.5.t: "O Egito nos Trai!"
+cp.5.d: "Se tivéssemos uma visão tão clara da traição egípcia antes de concordarmos em participar de seus esquemas imperialistas, talvez nunca teríamos enviado milhares de nossos pais, filhos e irmãos para mortes desnecessárias.\n\nNão apenas o Egito bloqueou quaisquer ganhos substanciais na guerra, eles estão tomando medidas para fortalecer nossos inimigos e rivais, traindo a confiança que depositamos em suas mãos. É um dia sombrio para nosso povo."
+cp.5.a: "Cortar todos os laços com o Cairo!"
+cp.5.b: "Não temos escolha a não ser aceitar isso"
+
+cp.6.t: "Participação na Nova Ordem Mundial"
+cp.6.d: "Com o poder otomano decisivamente esmagado, levou menos de um mês para o Egito assumir sua posição como poder supremo no mundo árabe. O Iêmen, ao longo da história, sendo parte de sua própria sub-região em vez do grandioso Mashriq, nunca pretendia a unificação dos povos árabes, nem a criação de uma nova estrutura supra-nacional para decidir sobre suas políticas e decretos. Portanto, houve uma forte resistência tanto da população quanto da classe dominante em se retirar do Pacto do Cairo antes que ele pare de ser uma aliança temporária e mais uma federação liderada pelo Cairo."
+cp.6.a: "O Iêmen fica sozinho!"
+cp.6.b: "Nós ficaremos juntos com nossos irmãos árabes"
+
+cp.7.t: "A Declaração de Independência do Iraque"
+cp.7.d: "Distante dos principais combates no Levante, partes da Sexta Divisão do Exército Otomano e notáveis iraquianos desde o colapso iminente da autoridade otomana tramam uma transição rápida e pacífica de poder para um novo estado, o Iraque. Uma aliança de sunitas do norte e xiitas do sul, o principal objetivo deste estado não é formar um estado religioso ou étnico unificado, mas frustrar a agressão iraniana no Levante e garantir que as terras árabes da Mesopotâmia permaneçam fora da autoridade de Teerã.\n\nOficiais no Egito foram rápidos em reconhecer o novo estado, uma medida que alguns observadores notaram que pode logo levar a uma guerra entre as duas potências regionais, afirmando que a autodeterminação dos povos árabes é do melhor interesse de todos e que não cabe aos persas decidir sobre os assuntos dos árabes."
+cp.7.a: "Parabéns!"
+cp.7.b: "Bagdá guiará o mundo árabe! (Jogue como o Iraque)"
+
+cp.9.t: "Nosso Momento de Glória"
+cp.9.d: "O momento que temíamos há anos finalmente chegou. Nossos inúmeros inimigos se uniram e avançaram em um esforço para libertar o Oriente Médio de nossa suposta opressão. No entanto, não iremos suavemente para a noite escura e lançaremos tudo o que temos contra os invasores para preservar a Casa de Osman e o Império que pode durar mil anos."
+cp.9.a: "Às armas!"
+
+cp.10.t: "Fim do Império"
+cp.10.d: "Com o caos reinando supremo em nossas fileiras e o Oriente Médio perdido para invasores estrangeiros, os nacionalistas turcos se uniram à sua causa e depuseram o Sultão. Embora não esteja claro o que acontecerá a seguir com nosso império agora desintegrado, só podemos supor que não será agradável."
+cp.10.a: "Viva a Turquia!"
+
+cp.11.t: "A Morte de Abbas II"
+cp.11.d: "Gritos podiam ser ouvidos no Palácio Real do Cairo na noite passada, quando o grande Khedive, Abbas II, partiu para a vida após a morte. O Khedive, cuja vida foi abalada primeiro ao navegar nas águas lamacentas da ocupação britânica, foi radicalmente alterada quando, durante a Weltkrieg, foi deposto pelos ocupantes britânicos e substituído por seu irmão.\n\nEmbora o Egito logo recuperasse sua independência, não haveria lugar para o ex-Khedive, visto pelo establishment como um traidor otomano e muito menos maleável que seu sucessor. O poder militar otomano mudaria isso, já que sua retumbante vitória na guerra levantina restauraria o exilado Khedive ao seu trono.\n\nCom sua morte, o trono passou para seu filho Muhammad Abdel I, que foi preparado como herdeiro por muitos anos e que esperamos que guie o Egito para um futuro melhor."
+cp.11.a: "Boa sorte!"
+
+cp.12.t: "Mustafa Kemal Assume o Comando"
+cp.12.d: "Embora nosso Grão-Vizir tenha renunciado ao exército para seguir uma carreira na política, é bem sabido que o Pasha nunca realmente abandonou o exército e sempre manteve relações próximas com as forças armadas, dirigindo pessoalmente operações no Iraque e na Anatólia Oriental. Agora que o Império mais uma vez se encontra envolvido em uma guerra em larga escala contra inimigos por todos os lados, o Vizir declarou no Parlamento Otomano que assumirá mais uma vez sua posição no exército e nos conduzirá, como fez na Weltkrieg, para a vitória final.\n\nNinguém duvida do gênio estratégico do homem, mas alguns foram rápidos em apontar que isso é uma contradição direta a uma lei otomana que o próprio Vizir assinou, que proíbe ocupar tanto um mandato político quanto militar. Além disso, a saúde de nosso Vizir, sobrecarregada pelo estresse severo e maus hábitos, deu uma mergulhada nos últimos anos e causou vários figurões no exército a questionar se o Vizir realmente pode suportar o estilo de vida espartano do exército otomano."
+cp.12.a: "Guie-nos para a vitória, Ghazi!"
+cp.12.b: "Assuntos militares e políticos devem permanecer separados"
+
+cp.13.t: "Formação das Forças de Defesa de Eretz Israel"
+cp.13.d: "Com seus assentamentos sob ataque e o futuro inteiro do projeto sionista em perigo, vários grupos judeus assumiram a responsabilidade de formar um exército miliciano e repelir as ofensivas árabes. Em grande desvantagem numérica, superados e com até mesmo os sionistas mais ardentes questionando suas chances, um de seus principais líderes, David Ben-Gurion, se aproximou do exército otomano na Síria com uma oferta de cooperação.\n\nEmbora o exército otomano normalmente recusasse automaticamente a oferta de apoio deles, temendo que isso causasse grande agitação entre seus soldados muçulmanos, a crise cada vez mais intensa na Síria fez o alto comando otomano reconsiderar seriamente sua posição. Além das dúvidas otomanas sobre os possíveis riscos envolvidos em cooperar com os sionistas, ainda é incerto qual poder Ben-Gurion realmente tem sobre suas forças, com organizações extremistas como a Irgun pouco propensas a fazer concessões com as autoridades otomanas."
+cp.13.a: "Uma luta!"
+cp.13.b: "Não queremos nem precisamos de sua assistência!"
+
+cp.14.t: "A Questão Cipriota"
+cp.14.d: "Embora nossos exércitos estejam vitoriosos sobre as hordas árabes e persas, a ilha predominantemente grega de Kibris continua a se mostrar dividida aos nossos olhos depois de expulsarem a guarnição otomana durante as fases iniciais da guerra. Com nossos exércitos incapazes de fazer uma diferença em suas posições bem defendidas e uma invasão naval bem-sucedida se tornando cada vez mais improvável a cada dia, o governo temporário cipriota fez uma oferta de paz. Exigindo que reconheçamos sua independência, eles prometem trabalhar em um acordo adequado para a minoria turca na ilha, possivelmente propondo uma troca populacional que incluiria algumas das comunidades gregas remanescentes na Anatólia.\n\nMuitos no exército, no entanto, reagiram com raiva a essa proposta, apontando que, com a ameaça no Oriente e no Sul eliminada, eles em breve lidarão facilmente com esses inquietantes rebeldes. Afinal, Kibris é e sempre será uma ilha turca!"
+cp.14.a: "Poupemo-nos do constrangimento..."
+cp.14.b: "Reúnam os exércitos, preparem os navios e lancem todos os caças, Kibris será nossa em quinze dias!"
+
+cp.15.t: "Nossas Relações com Cairo"
+cp.15.d: "Com a queda do Império Otomano, o Egito se colocou em uma nova posição de destaque, assumindo o papel de líder do mundo árabe. No entanto, isso tem causado preocupação significativa em nossa população, pois muitos temem que esse desenvolvimento mude nossa relação fundamental com o Regime do Cairo de cooperação mútua para a de um tributário, e que a continuação da adesão à sua aliança coloque em risco a autonomia pela qual derramamos tanto sangue para conquistar."
+cp.15.a: "A Tripolitânia se manterá por conta própria!"
+cp.15.b: "A proteção egípcia é necessária para a nossa existência contínua."
+
+cp.16.t: "[PER.GetNameDefCap] Anexa o Iraque"
+cp.16.d: "Em uma exibição flagrante de agressão, nossos antigos 'aliados' negaram à população pacífica e bondosa do Iraque o direito à autodeterminação e, em vez disso, os engoliram por inteiro em sua caricatura barata do Antigo Império Persa. Naturalmente, isso mergulhou todo o Mashriq em protestos e ações políticas, exigindo de seus governos que lutem contra os opressores xiitas. Jovens, muitas vezes armados com os rifles do século XIX de seus antepassados, estão se reunindo em movimentos de resistência e milícias, cruzando a fronteira do Iraque na escuridão da noite para ajudar seus irmãos árabes em sua causa mais justa."
+cp.16.a: "Eles devem evacuar a região imediatamente!"
+cp.16.b: "Prefirimos não lutar contra os persas..."
+
+cp.17.t: "[FROM.GetNameDefCap] Exige a Libertação do Iraque"
+cp.17.d: "Indignado por nosso ato talvez precipitado, o governo deles está exigindo uma retirada imediata de nossas forças da região do Iraque e conceder à população iraquiana seu direito à autodeterminação, conforme acordado no Terceiro Congresso Árabe apenas alguns meses antes."
+cp.17.a: "Se eles querem o Iraque, podem lutar por ele."
+cp.17.b: "Não podemos lutar contra eles."
+
+cp.18.t: "[FROM.GetNameDefCap] Recusa Nossas Exigências"
+cp.18.d: "Os hereges do Oriente aparentemente recusaram nossas exigências, afirmando que têm todo o direito de ocupar território estrangeiro (apontando para a anexação do Sudão pelo Egito) e mostraram que estão dispostos a morrer lutando por isso, se necessário. Ainda assim, prefeririam muito uma resolução pacífica, na qual mantêm todos os seus objetivos e nós sacrificamos os nossos."
+cp.18.a: "Então, será guerra."
+cp.18.b: "Deixe o assunto de lado."
+
+cp.19.t: "[FROM.GetNameDefCap] Retira-se do Iraque"
+cp.19.d: "Como era de se esperar, os cães covardes iranianos retiraram-se do Iraque ao se depararem com toda a força de nosso potencial árabe unido. Que este incidente sirva de aviso a todos de que o mundo árabe permanece unido e não permitirá que nenhum grupo estrangeiro, seja turco ou persa, decida seu destino!"
+cp.19.a: "Excelente!"
+cp.19.b: "(Jogar como Iraque)"
+
+cp.20.t.victory: "Vitória Contra [EGY.GetNameDef]"
+cp.20.d.victory: "Óbvio desde o início, parece que os cães egípcios podem latir, mas não têm a capacidade de morder e, ao mostrar nossa força formidável, nós sangramos seus narizes. Seus exércitos estão derrotados no campo de batalha e nosso domínio sobre o Iraque nunca foi tão forte. Agora é a hora de forçar o Egito à mesa de negociações e decidir de uma vez por todas o destino do Iraque."
+cp.20.t.defeat: "Esforço de Guerra Vacilante!"
+cp.20.d.defeat: "A guerra contra o Egito começou com promessas de uma campanha decisiva em que o exército inimigo seria totalmente aniquilado; políticos e generais asseguraram ao público uma vitória iminente, mas agora, essas promessas parecem cada vez mais ser nada mais do que esperanças vãs. Nossos exércitos foram expulsos do Iraque, enquanto as forças egípcias se aproximam do coração do Irã dia após dia. Com a vitória fora de nosso alcance, líderes militares e políticos de alto escalão instaram [PER.GetLeader] a negociar uma rendição condicional, para que possamos preservar o que resta."
+cp.20.a: "Exigir que o Egito reconheça nossos ganhos."
+cp.20.b: "Não, vamos esmagá-los!"
+cp.20.c: "Precisamos encerrar esta guerra."
+cp.20.d: "Ainda podemos vencer isso!"
+
+cp.21.t: "Paz com [FROM.GetNameDef]?"
+cp.21.d.victory: "Todo o mundo árabe chora de alegria à medida que os vermes iranianos covardes entregam o controle sobre o Iraque às nossas forças unidas. Transmissões de rádio em toda a região estão cheias de músicas patrióticas e mensagens de apoio, enquanto em todas as praças, de Trípoli a Mosul, as pessoas celebram as grandes vitórias de nossos exércitos."
+cp.21.d.defeat: "Embora tenhamos começado bem, parece que os persas foram capazes de superar nossos exércitos no campo de batalha. Sofrendo derrota após derrota, temos pouca escolha agora a não ser entregar o Iraque às garras deles. É verdadeiramente um dia sombrio para o mundo árabe."
+cp.21.a: "Aceitamos os termos deles."
+cp.21.b: "Não, eles serão esmagados!"
+
+cp.22.t: "[FROM.GetNameDef] Aceita a Paz"
+cp.22.d.victory: "Com um coração pesado, os diplomatas egípcios foram obrigados a assinar o tratado de Bagdá e reconheceram nosso domínio sobre o Iraque como legítimo. Celebrações por toda a parte no Irã eclodiram em resposta, enquanto no Cairo um clima sombrio tomou conta da cidade. É improvável que isso seja o fim de nossos problemas na região, mas por enquanto o Irã está vitorioso."
+cp.22.d.defeat: "Com um coração pesado, nossos diplomatas foram obrigados a assinar o humilhante tratado de Bagdá, reconhecendo a independência do Iraque. Celebrações por toda a região árabe eclodiram em resposta, enquanto em Teerã um clima sombrio tomou conta da cidade. Embora possam estar comemorando esta noite, o Irã terá sua vingança..."
+cp.22.a: "Excelente."
+cp.22.b: "Não tivemos escolha."
+
+cp.23.t: "[FROM.GetNameDef] Recusa a Paz"
+cp.23.d: "Em sua tolice, as forças egípcias recusaram-se a aceitar nossos termos e juraram que não pararão até a destruição total da Pérsia ser alcançada. Uma ideia absurda, nossos próprios generais anunciaram que estão mais do que prontos para o desafio deles e que será Cairo que estará em chamas ao final desta luta."
+cp.23.a: "Uma luta até a morte, então."
+
+cp.24.t: "Geórgia Ocupa Batumi"
+cp.24.d: "Aproveitando nosso momento temporário de fraqueza, os ratos georgianos aproveitaram a oportunidade para realizar uma correção de fronteira a seu favor. O crucial porto de Batumi, o maior a leste de Trebizonda e o principal porto do Cáucaso Ocidental, foi atacado em um golpe coordenado pelos georgianos, enquanto sua marinha cortava seu acesso naval e batalhões de infantaria desfilavam pelas ruas. Embora uma guarnição otomana estivesse presente na cidade e ainda não tenha se rendido, nenhum tiro foi trocado até agora, enquanto a Porta Sublime debate se deve retaliar com força ou conceder a cidade aos georgianos."
+cp.24.a: "Parece que a Geórgia tem uma lição a aprender!"
+cp.24.b: "Uma retirada coordenada seria de nosso melhor interesse."
+
+cp.25.t: "Otomanos Retiram-se de Batumi"
+cp.25.d: "Sem disparar um único tiro, nosso exército conseguiu retomar o porto historicamente georgiano de Batumi, pois a guarnição otomana na cidade recebeu ordens de Kostantiniyye para se retirar em direção a Rize. Embora seja uma grande vitória para a Geórgia, nem todos estão convencidos da escolha de chutar os turcos enquanto estão caídos. Apontando sombras escuras ao Norte, eles temem que, se os turcos sobreviverem ao seu infortúnio, a soberania de toda a Geórgia possa ter sido comprometida."
+cp.25.a: "Um dia glorioso!"
+
+cp.26.t: "Os Otomanos Resistem em Batumi"
+cp.26.d: "Surpreendentemente, e apesar das circunstâncias precárias em que se encontram atualmente, a Porta escolheu resistir em Batumi e emitiu um ultimato para que nossas tropas saiam ou enfrentem a guerra. Se quisermos recuperar o porto de Batumi, nossa única escolha agora é declarar oficialmente guerra contra [FROM.GetNameDef]."
+cp.26.a: "Então, será guerra."

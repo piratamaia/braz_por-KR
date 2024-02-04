@@ -1,0 +1,71 @@
+﻿l_braz_por:
+
+### Aliases ###
+GTM: "Detentor do Arrendamento da Baía de Guantánamo"
+MSN: "Detentor do Arrendamento de Môle Saint-Nicolas"
+SAM: "Detentor do Arrendamento de Samaná"
+
+### Ideas ###
+ holds_leases_idea: "Detém Territórios Menores"
+holds_leases_idea_desc: "Atualmente, arrendamos ou possuímos diretamente territórios importantes, mas diminutos, ao redor do mundo.\n§W--------------§!§L\n[gitmo_active][mole_active][samana_active]§!"
+
+gitmo_lease_idea: "Arrendamento da Baía de Guantánamo"
+gitmo_lease_idea_desc: "Atualmente, arrendamos a significativa base naval da Baía de Guantánamo para §Y[GTM.GetNameWithFlag]§!.\n\nA Baía de Guantánamo foi ocupada pelos Estados Unidos durante a Guerra de Independência Cubana como parte da maior Guerra Hispano-Americana. Nos anos e décadas seguintes, o controle americano sobre a Baía de Guantánamo sob soberania nominal cubana foi reafirmado e a base naval da Baía de Guantánamo foi grandemente expandida. Quem controla a Baía de Guantánamo, os Estados Unidos ou algum outro poder imperial, certamente colherá benefícios significativos."
+mole_lease_idea: "Arrendamento de Môle Saint-Nicolas"
+mole_lease_idea_desc: "Atualmente, arrendamos a cidade costeira de Môle Saint-Nicolas para §Y[MSN.GetNameWithFlag]§!.\n\nRecentemente apenas uma pequena cidade costeira, Môle Saint-Nicolas está lentamente sendo transformada em uma estação naval para rivalizar com a vizinha Baía de Guantánamo."
+samana_lease_idea: "Arrendamento de Samaná"
+samana_lease_idea_desc: "Atualmente, arrendamos a cidade costeira de Santa Bárbara de Samaná para §Y[SAM.GetNameWithFlag]§!.\n\nCobiçada por muitos americanos antes da aquisição da Baía de Guantánamo, após décadas de relativo obscuridade aos olhos de potências estrangeiras, Samaná está agora sendo rapidamente transformada em um centro para as frotas [SAM.GetAdjective] ."
+
+### Dynamic Loc ###
+ gitmo_active_yes: "§YBaía de Guantánamo§!\n§W(§Y[820.owner.GetNameWithFlag]§!) Indústria Civil do país alvo:§! [?0.05|+=%]"
+mole_active_yes: "\n§YMôle Saint-Nicolas§!\n§W(§Y[318.owner.GetNameWithFlag]§!) Indústria Civil do país alvo:§! [?0.02|+=%]"
+samana_active_yes: "\n§YSamaná§!\n§W(§Y[319.owner.GetNameWithFlag]§!) Indústria Civil do país alvo:§! [?0.02|+=%]"
+
+treatyport_whichisit_gitmo: "Baía de Guantánamo"
+treatyport_whichisit_mole: "Môle Saint-Nicolas"
+treatyport_whichisit_samana: "Samaná"
+treatyport_whichisit_multiple: "Múltiplos Territórios Arrendados"
+treatyport_whichisit2_gitmo: "Baía de Guantánamo"
+treatyport_whichisit2_mole: "Môle Saint-Nicolas"
+treatyport_whichisit2_samana: "Samaná"
+
+### Tooltips ###
+ gitmo_ended_tt: "Remover §YArrendamento da Baía de Guantánamo§!\n§WEfeito Eficaz:\n(§Y[820.owner.GetNameWithFlag]§!) Indústria Civil do país alvo: §R-5.00%§!§!"
+gitmo_ended2_tt: "Remover §YArrendamento da Baía de Guantánamo§!\n§WEfeito Eficaz:\n(§Y[PREV.GetNameWithFlag]§!) Indústria Civil para o país alvo: §G-5.00%§!§!"
+
+### Events ###
+ treatyport.1.t: "A Apreensão de [treatyport_whichisit]"
+treatyport.1.d: "Com o início da guerra, nossas forças moveram-se imediatamente para assumir o controle de [treatyport_whichisit], e após uma breve luta emergiram vitoriosas."
+treatyport.1.a: "A nação está inteira novamente!"
+
+treatyport.2.t: "Territórios Menores Tomados"
+treatyport.2.d: "Com o início da guerra, nossas pequenas possessões territoriais foram tomadas. Tratados relevantes foram rasgados e nosso pessoal evacuado. Com a vitória nesta guerra, talvez os reconquistemos."
+treatyport.2.a: "Logo os teremos de volta."
+
+treatyport.3.t: "A Apreensão de [treatyport_whichisit2]"
+treatyport.3.d: "Nossas forças assumiram o controle da concessão em [treatyport_whichisit2]. O destino do território será decidido com o fim da guerra."
+treatyport.3.a: "Uma pequena vitória."
+
+treatyport.4.t: "A Apreensão de [treatyport_whichisit2]"
+treatyport.4.d: "As tropas [FROM.GetAdjective] derrubaram nossas forças estacionadas em [treatyport_whichisit2]. Por enquanto, pelo menos, [treatyport_whichisit2] está nas mãos do inimigo."
+treatyport.4.a: "Logo a recuperaremos."
+
+treatyport.5.t: "O Retorno de [treatyport_whichisit2]"
+treatyport.5.d: "Com a recaptura de [treatyport_whichisit2], o território foi devolvido ao controle estrangeiro."
+treatyport.5.a: "Um momento agridoce."
+
+treatyport.6.t: "O Retorno de [treatyport_whichisit2]"
+treatyport.6.d: "[treatyport_whichisit2] voltou ao nosso controle e está operacional novamente."
+treatyport.6.a: "Viva!"
+
+treatyport.7.t: "A Revogação de [treatyport_whichisit2]"
+treatyport.7.d: "[treatyport_whichisit2] foi recapturado. Dada a atual guerra com o senhorio do território, no entanto, em vez de devolvê-lo ao controle estrangeiro, o território foi completamente reincorporado."
+treatyport.7.a: "Que vençamos esta grande guerra."
+
+treatyport.8.t: "A Revogação de [treatyport_whichisit2]"
+treatyport.8.d: "[FROM.GetName] anunciou a revogação de nosso arrendamento sobre [treatyport_whichisit2]."
+treatyport.8.a: "Recuperaremos."
+
+treatyport.9.t: "O Fim da Concessão [treatyport_whichisit2]"
+treatyport.9.d: "Com o colapso de [FROM.GetNameDef] para as forças inimigas, não estamos mais vinculados às concessões - e nossas forças já se moveram para tomá-las."
+treatyport.9.a: "Uma pequena vitória."

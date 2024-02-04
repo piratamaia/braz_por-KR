@@ -1,0 +1,230 @@
+﻿l_braz_por:
+
+### Tooltips ###
+can_demand_romandy: "Instabilidade em Haute-Savoie"
+SWI_white: "Agora você pode exigir Haute-Savoie"
+romandydivs_tt: "Duas divisões voluntárias se formarão em Romandia"
+
+### Events ###
+ prewar.1.t: "O 5º Aniversário da Greve de Genebra de 1932"
+prewar.1.d: "Há 5 anos, os trabalhadores de Genebra iniciaram uma grande ação industrial, exigindo reformas sociais e econômicas, que ameaçavam se espalhar para o resto da Suíça ocidental de língua francesa (conhecida como Romandie). Temendo a influência revolucionária potencial da Comuna da França, o governo central em Berna reagiu rapidamente enviando o Exército Federal para quebrar a greve. Na violência que se seguiu, 13 pessoas foram mortas e mais de 100 ficaram feridas em Genebra. Isso deixou uma divisão amarga entre a Romandie e Berna, que nos anos subsequentes não conseguiu cicatrizar. Encorajada pelos acontecimentos recentes na França, a esquerda radical começou a agitar mais uma vez e está planejando apresentar candidatos socialistas nas próximas eleições locais. No entanto, os social-democratas, tradicionalmente muito fortes na Romandie, elaboraram um pacote de reformas em conjunto com os sindicatos, o acordo "Paz do Trabalho", que envolve uma série de políticas relacionadas a aumentos salariais, horários de trabalho, e assim por diante. Um dos pontos-chave é acabar com os grandes lockouts nas manufaturas de relógios que têm ocorrido recentemente. Os candidatos social-democratas estão contando com esse programa para serem reeleitos e, esperançosamente, desativar o impasse entre a esquerda radical e o governo federal dominado pelos conservadores em Berna."
+prewar.1.a: "Um desenvolvimento infeliz."
+prewar.2.a: "Um desenvolvimento interessante."
+
+prewar.3.t: "Vitória Eleitoral Socialista na Romandie"
+prewar.3.d: "Apoiadas pelo governo federal conservador e pela maioria dos cantões de língua alemã, as organizações de empregadores suíças recusaram-se a assinar o chamado acordo "Paz do Trabalho" proposto pelos social-democratas para acabar com os grandes lockouts que estão acontecendo nas manufaturas de relógios. Enquanto os social-democratas moderados foram desacreditados, os trabalhadores de língua francesa, cujo ressentimento em relação ao governo atual e ao Exército Federal (em grande parte dominado por oficiais de língua alemã) vem crescendo desde a repressão violenta de uma greve de trabalhadores em Genebra em 1932, deram uma vitória avassaladora aos candidatos socialistas e pró-sindicalistas em todas as eleições cantonais, trazendo conselhos de esquerda em Genebra, Lausanne e Neuchâtel, que agora estão pedindo reformas ambiciosas."
+prewar.3.a: "Malditos socialistas!"
+
+prewar.4.t: "Vitória Pró-Sindicalista na Romandie"
+prewar.4.d: "Graças às medidas mal-adotadas pelas autoridades suíças para acabar com as demandas de seus sindicatos por melhores salários e proteção legal dos direitos trabalhistas, e sua exibição pública de violência contra nosso povo em Haute-Savoie, temos capital político suficiente para começar esforços para apoiar movimentos sindicalistas no país e tentar retomar Haute-Savoie. Esta é uma ótima oportunidade para a Comuna fortalecer laços com esses agitadores sindicalistas, e os pró-sindicalistas pró-franceses poderiam nos ajudar em nosso objetivo de recuperar Haute-Savoie. No entanto, os conservadores pró-alemães e pró-austríacos provavelmente tentarão derrubar esses representantes eleitos dos trabalhadores por todos os meios disponíveis, incluindo a força bruta..."
+prewar.4.a: "Tente ganhar influência sobre os recém-eleitos socialistas!"
+prewar.4.b: "É muito arriscado..."
+
+prewar.5.t: "Subversão Sindicalista em Ação na Romandie!"
+prewar.5.d: "Enquanto os governos socialistas recém-eleitos na Romandie assumiram o cargo, os serviços de inteligência federal relatam que agentes franceses cruzaram a fronteira para aconselhar os esquerdistas da Romandie, enquanto uma mobilização parcial de unidades de fronteira francesas perto de Genebra também está em andamento. A situação está se tornando muito perigosa e um movimento para forçar os governos socialistas a renunciar e ter novas eleições na Romandie parece inevitável, mesmo que isso signifique a ocupação militar temporária da Romandie pelo exército federal. Mas com a violência em Haute-Savoie agitando os franceses, o risco de desencadear uma resposta armada é alto e não podemos ter certeza do apoio do Reichspakt..."
+prewar.5.a: "Desmembre os governos locais nos cantões de língua francesa!"
+prewar.5.b: "Devemos respeitar a constituição..."
+
+prewar.6.t: "Instabilidade na Romandie!"
+prewar.6.d: "O Conselho Federal, apoiado por conservadores locais de língua francesa, ordenou que unidades "seguras" (ou seja, de língua alemã) do Exército Federal entrassem nos cantões da Romandie para introduzir a lei marcial. Líderes socialistas, bem como muitos trabalhadores e simpatizantes sindicalistas, foram presos e governos locais provisórios estão sendo criados sob supervisão federal. Apesar de nossos esforços, alguns conselheiros socialistas conseguiram escapar para a França e agora estão convocando resistência armada contra o governo federal e o retorno de Haute-Savoie às mãos francesas. Apesar da repressão, a Romandie e agora Haute-Savoie estão sendo assoladas por greves massivas e incidentes armados à medida que unidades desmobilizadas do exército de língua francesa formam milícias. Enquanto isso, uma concentração incomum de infantaria e tanques franceses está atualmente em exercício nas montanhas do Jura, e a violação do espaço aéreo suíço por aeronaves francesas está se tornando cada vez mais frequente."
+prewar.6.a: "Malditos traidores!"
+
+prewar.7.t: "Genebra e os Suíços de Língua Francesa"
+prewar.7.d: "O governo burguês suíço mostrou sua verdadeira face e derrubou os conselhos socialistas democraticamente eleitos em Genebra, Lausanne e outros cantões de língua francesa! Como se isso não bastasse, agora eles batem e ensanguentam franceses em nosso próprio solo em Savoie! Nossos agentes relataram inúmeras atrocidades contra trabalhadores armados e civis, enquanto o Exército Federal suíço implementou a lei marcial. Apesar de seus melhores esforços, alguns simpatizantes sindicalistas de língua francesa conseguiram escapar do Exército Federal e encontraram um refúgio seguro em nosso país. Eles acabaram de estabelecer um governo suíço-francês sindicalista no exílio e exigem a restauração de autoridades devidamente eleitas e o julgamento do governo federal atual. Como nenhum dos Poderes reacionários parece estar disposto a vir em socorro da Suíça, esta é uma oportunidade única para enviar um ultimato a Berna e fortalecer movimentos sindicalistas em nosso país vizinho e ver o retorno de nosso território legítimo."
+prewar.7.a: "Exigir Haute-Savoie dos suíços!"
+prewar.7.b: "Gostaríamos de manter boas relações com os suíços."
+
+prewar.8.t: "Descontentamento na Província da Romandie e o Ultimato Francês"
+prewar.8.d: "Os franceses exigiram o retorno da província de Haute-Savoie. Eles fabricaram alegações de Terror Branco perpetrado pela Federação Suíça e líderes pró-sindicalistas em toda a Suíça estão se envolvendo. Não podemos garantir que teremos apoio alemão se enfrentarmos esses bastardos sindicalistas."
+prewar.8.a: "Aceitar as reivindicações francesas."
+ #prewar.8.b: "We wont be bullied by these Syndicalist bastards!"
+ prewar.8.c: "Devemos procurar proteção!"
+
+prewar.9.t: "A Comuna da França ameaça a Suíça!"
+prewar.9.d: "A Comuna da França, em sua busca louca por poder, está exigindo a província de Haute-Savoie da Suíça. Essa última crise diplomática ameaça perturbar o equilíbrio de poder a favor da Internacional. Devemos ameaçar os franceses com guerra ou a Suíça ficará sozinha?"
+prewar.9.a: "Avisá-los para recuarem ou enfrentarem as armas alemãs!"
+prewar.9.b: "Não podemos nos envolver nisso!"
+
+prewar.10.t: "O Império Alemão nos abandonou!"
+prewar.10.d: "Nossa tentativa de proteger nossa independência e integridade territorial contra as reivindicações ultrajantes da França com mediação alemã terminou em fracasso. Agora somos forçados a encontrar uma solução alternativa para esta crise."
+prewar.10.a: "Malditos!"
+
+prewar.11.t: "Os Alemães enviam um ultimato!"
+prewar.11.d: "O Império Alemão enviou um ultimato a Paris. Devemos interromper nossas atividades diplomáticas e clandestinas voltadas para a integridade territorial da Suíça ou enfrentar o poder do exército alemão."
+prewar.11.a: "Não podemos arriscar guerra com a Alemanha. Por enquanto."
+prewar.11.b: "Ignore essas ameaças alemãs fracas!"
+
+prewar.12.t: "A Comuna da França retrocede!"
+prewar.12.d: "Após nossa mensagem diplomática ser recebida por Paris, eles rapidamente cessaram todas as atividades diplomáticas e clandestinas voltadas para a integridade territorial da Suíça. Conseguimos uma vitória diplomática hoje, mostramos ao mundo que resistiremos à agressão socialista e sindicalista e protegeremos qualquer nação ameaçada por esses revolucionários!"
+prewar.12.a: "A diplomacia alcançou a paz mais uma vez!"
+
+prewar.13.t: "Os Franceses ignoram nosso ultimato"
+prewar.13.d: "Os franceses ignoraram nossos esforços diplomáticos para manter a paz na Europa e continuam seus esforços de desestabilização contra a Suíça. Os franceses deixaram suas intenções claras, não podemos deixar o povo suíço sozinho!"
+prewar.13.a: "Eles fizeram sua escolha. A guerra é inevitável!"
+
+prewar.14.t: "A Comuna da França abandona suas reivindicações!"
+prewar.14.d: "Após nossa mensagem diplomática ser recebida por Paris, eles rapidamente cessaram todas as atividades diplomáticas e clandestinas contra nós. A independência e a integridade territorial suíças serão mantidas, assim como nosso orgulho nacional."
+prewar.14.a: "Não poderíamos ter feito isso sem nosso aliado!"
+
+prewar.15.t: "A Federação Suíça aceita"
+prewar.15.d: "Exigimos a província de Haute-Savoie para defender nosso povo e os suíços aceitaram."
+prewar.15.a: "Ótimo!"
+prewar.15.b: "Pressione-os por concessões maiores."
+
+prewar.16.t: "A Suíça cede"
+prewar.16.d: "Com a humilhação da Suíça, devemos estar mais preparados do que nunca para a guerra com a França e seus aliados!"
+prewar.16.a: "Estaremos prontos!"
+
+prewar.18.t: "A Guerra de Savoie"
+prewar.18.d: "A Comuna da França e a Federação Suíça recusaram todas as outras opções e a guerra começou. Embora os suíços não tenham pedido nossa ajuda, isso nos daria uma oportunidade de reunir a Península Italiana!"
+prewar.18.a: "A França deve ser detida aqui e agora!"
+prewar.18.b: "A Federação Italiana declara sua neutralidade."
+
+prewar.19.t: "A Guerra de Savoie"
+prewar.19.d: "A França entrou em guerra com a neutra Federação Suíça pela Província de Haute-Savoie, uma província com maioria de suíços franceses. A França usou histórias fabricadas de 'Terror Branco' em Annecy e Romandie como pretexto para sua invasão. Agora devemos decidir se a Suíça é uma causa perdida ou se vamos intervir em nome da Federação."
+prewar.19.a: "Devemos preservar a autonomia da Suíça!"
+prewar.19.b: "Ainda não estamos prontos."
+
+ prewar.21.t: "Socialistas francófonos pedem união com a França"
+prewar.21.d: "A trégua instável observada entre o governo federal e os conselhos locais controlados pelos socialistas nos cantões francófonos chegou ao fim. Após vários confrontos entre soldados de língua alemã em treinamento e policiais de Genebra, os líderes socialistas romandes, pressionados pelas milícias dos trabalhadores, proclamaram a secessão da Suíça e a constituição de uma chamada 'Federação Socialista Romande'. De acordo com relatórios de inteligência, os franceses e os separatistas engajaram-se em conversas sobre uma união entre os cantões romandes e a Comuna da França. A Federação, convenientemente, também pediu que a região de Haute-Savoie fosse devolvida à França."
+prewar.21.a: "Malditos traidores!"
+
+prewar.22.t: "Os socialistas estão tentando tomar o controle sobre a Romandia!"
+prewar.22.d: "Apesar da repressão conduzida pelas tropas do Exército Federal e pelos leais Romandes, milícias socialistas, relatadamente usando armas e equipamentos pesados fabricados na França, estão na ofensiva em quase toda a Romandia e Haute-Savoie. As principais linhas de comunicação com o restante da Suíça podem cair sob o controle separatista, assim como a maior parte da infraestrutura da região. O Conselho Estadual de Genebra está sitiado por milícias pró-francesas e diz-se que socialistas exilados retornaram da França para formar um novo e unificado governo socialista. Também parece que o Exército Federal não tem mais controle sobre a fronteira franco-suíça."
+prewar.22.a: "A Romandia foi tomada pelos socialistas!"
+prewar.22.b: "Suas tentativas frágeis foram esmagadas pelo exército!"
+prewar.22.c: "Os revolucionários continuam a leste!"
+
+prewar.23.t: "Anexação da Romandia!"
+prewar.23.d: "Os bravos trabalhadores e camponeses dos cantões suíços de língua francesa venceram sua luta contra as forças reacionárias do governo de Berna! A pedido unânime das recém-estabelecidas Comunas de Genebra e Romandia, o Comité de Salut Public proclamou sua união com a Comuna da França. Enquanto as milícias locais estão sendo integradas ao Exército Comunal, unidades motorizadas francesas, apoiadas por forças aéreas, dirigem-se para a nova fronteira para evitar qualquer ofensiva retaliatória de um governo suíço revanchista, e o governo recuperou o controle da região de Haute-Savoie."
+prewar.23.a: "Glória aos trabalhadores da Romandia!"
+
+prewar.24.t: "A Comuna da França ocupou a Romandia!"
+prewar.24.d: "Os traiçoeiros rebeldes socialistas na Romandia e Haute-Savoie, que estavam à beira de serem eliminados por nossos bravos soldados, chamaram a Comuna da França para proteção! Na noite passada, tropas francesas apoiadas por tanques e bombardeiros entraram no território suíço até Fribourg, enquanto tropas de elite de montanha francesas tomaram nossas posições defensivas nos Alpes e no Jura. As emissoras de rádio estatais francesas anunciaram que a Romandia foi anexada à Comuna da França, enquanto soldados e refugiados derrotados estão chegando a Berna aos milhares. Nosso embaixador em Paris foi avisado que qualquer tentativa de resistir à Armée de la Commune resultaria em bombardeios massivos de Zurique, Basileia e Berna e na aniquilação total das capacidades militares suíças."
+prewar.24.a: "Não há nada que possamos fazer..."
+prewar.24.b: "Devemos recuperar nossos territórios roubados com guerra!"
+
+prewar.25.t: "Terror branco na Suíça"
+prewar.25.d: "O Exército Federal Suíço e seus repugnantes auxiliares voluntários reacionários derrotaram os defensores heróicos da revolução socialista na Romandia e Haute-Savoie. Enquanto milhares atravessam a fronteira em busca de asilo na França, milicianos de língua francesa são executados após julgamentos simulados, enquanto ativistas de direita e burgueses caçam socialistas, anarquistas e sindicalistas, saqueiam suas casas e se vingam brutalmente de suas famílias. Tais atrocidades, relatadas por nossas emissoras estatais, estão causando um alvoroço na França e todo verdadeiro sindicalista está pronto para libertar não apenas Savoie, mas até mesmo os Romands das garras dos sanguinários governantes suíços. Com nossas aeronaves prontas para decolar e atacar o território suíço e nossas tropas se concentrando perto da fronteira, o Comité de Salut Public informou Berna que, caso Haute-Savoie não seja evacuada pelo Exército Federal Suíço e seu controle transferido para as autoridades Comunais, e os líderes políticos romandes reinstalados em seus cargos, a guerra será inevitável."
+prewar.25.a: "Preparem as tropas!"
+
+prewar.36.t: "Plano do Império Alemão para manobras em Alsácia-Lorena"
+prewar.36.d: "Nossos agentes em Berlim e Estrasburgo nos informaram que uma concentração sem precedentes de tropas alemãs está planejada na Alsácia e Lorena sob o disfarce de 'exercício militar'. Tal movimento agressivo da autocracia alemã, em um momento em que os Lorenses estão lutando desesperadamente por sua liberdade, não passa de uma tentativa desesperada de testar nossa resolução; no entanto, tal plano está fadado a fracassar: para evitar provocações alemãs adicionais, foi ordenada a mobilização parcial das divisões do exército Comunal nas regiões orientais, e um show de força pode ser realizado na Franche-Comté, perto da fronteira alsaciana, onde regimentos blindados recém-criados devem exercitar operações combinadas com divisões de infantaria e apoio aéreo."
+prewar.36.a: "Anunciem nossas próprias manobras na Franche-Comté!"
+prewar.36.b: "Não queremos provocar a Alemanha..."
+
+prewar.37.t: "Manobras em Elsaß-Lothringen"
+prewar.37.d: "Agora parece que a crise na Lorena não pode ser resolvida a menos que os franceses sejam humilhados mais uma vez, e chegou a hora de a Alemanha mostrar novamente sua força. Nesse sentido, a pedido do Kaiser, seu neto e futuro Kronprinz Príncipe Wilhelm von Preußen participará do exercício militar organizado na Alsácia-Lorena sob o nome 'Tüchtiger Bogenschütze' (o nome foi escolhido porque protótipos de artilharia de longo alcance das fábricas Krupp serão testados em condições reais durante o exercício), que será a maior concentração de tropas desde a Weltkrieg. Nada menos que oito divisões serão implantadas perto da fronteira francesa, onde as fortificações foram totalmente guarnecidas. Três regimentos aéreos e unidades blindadas também participarão das operações, que serão seguidas por muitos adidos militares europeus. Prontas para marchar sobre Paris, essas tropas certamente farão a Comuna recuar aterrorizada!"
+prewar.37.a: "Um verdadeiro show de poder!"
+
+prewar.38.t: "Manobras na Franche-Comté"
+prewar.38.d: "A intimidação alemã e uma situação cada vez pior na Lorena convenceram o Comité de Salut Public a ceder ao pedido do Estado-Maior para um exercício militar em larga escala na fronteira, que provará a resolução intransigente da Comuna tanto para amigos quanto para inimigos! Os oficiais de alta patente decidiram a favor de um grande exercício de armas combinadas no norte da Franche-Comté, que será chamado 'Opération Kléber'. Quatro divisões de infantaria e duas divisões de infantaria motorizada, com suas unidades de artilharia divisionária, enfrentarão os alemães perto de Belfort, enquanto as alas de bombardeiros e caças treinarão em coordenação com uma divisão blindada equipada com os mais novos tanques médios e pesados. Impressionados por nossa força militar moderna e imparável, o Kaiser e seus asseclas não terão escolha a não ser recuar para trás das montanhas Vosges!"
+
+prewar.39.t: "Bombardeio de Avricourt"
+prewar.39.d: "Às 6h da manhã de hoje, um chamado 'exercício militar' organizado pelo Exército Alemão provou ser nada mais que um ato traiçoeiro de agressão contra a Comuna! Pelo menos duas baterias de artilharia abriram fogo através da fronteira e bombardearam Avricourt, uma vila pequena e indefesa perto de Nancy. Doze edifícios foram destruídos e 26 pessoas, na maioria mulheres e crianças, foram massacradas neste ataque covarde. Os sobreviventes estão sendo evacuados enquanto as tropas de fronteira, reforçadas com artilharia de longo alcance, agora enfrentam as unidades alemãs assassinas. Uma sessão de emergência está sendo realizada na Bourse Générale du Travail, enquanto o Chefe do Estado-Maior acabou de voltar com seus ajudantes de Besançon para Paris para considerar a resposta mais apropriada a tal ataque desprezível."
+prewar.39.a: "Exigir um pedido de desculpas oficial!"
+prewar.39.b: "Apenas um acidente trágico..."
+
+prewar.40.t: "Bombardeio de Elfringen"
+prewar.40.d: "Os sanguinários franceses jogaram suas máscaras fora e estão revelando sua intenção de atacar Elsaß-Lothringen! Às 06h30, um pelotão de tanques franceses cruzou a fronteira a leste de Metz e abriu fogo contra um de nossos postos de fronteira perto de Elfringen. A patrulha local lutou corajosamente e repeliu os invasores, mas mais de uma dúzia foram mortos ou feridos até o final do incidente. O Príncipe Wilhelm, que estava presente na região, foi chamado de volta a Berlim e deve informar a situação ao Kaiser o mais rápido possível, enquanto o Gabinete está avaliando a crise e discutindo a melhor opção para responder a este crime odioso."
+
+prewar.41.t: "Bombardeio de Avricourt"
+prewar.41.d: "Um incidente infeliz acabou de ocorrer durante um exercício militar em andamento em Elsaß-Lothringen. Duas de nossas novas baterias de artilharia de longo alcance, tripuladas por recrutas jovens, bombardearam acidentalmente uma pequena vila francesa chamada Avricourt devido a uma avaliação pobre da faixa de fogo. De acordo com a transmissão francesa, vários moradores teriam sido mortos por esse bombardeio acidental. A polícia militar está atualmente interrogando o oficial e os sargentos responsáveis, mas os franceses, sem vergonha, estão aproveitando a situação e emitiram uma declaração inflamatória exigindo desculpas oficiais do Kaiser e do Gabinete e ameaçando a Alemanha com 'consequências imprevisíveis' se recusarmos a cumprir."
+prewar.41.a: "Envie desculpas formais!"
+prewar.41.b: "Isso é uma indignidade! Preparem as tropas!"
+
+prewar.42.t: "Bombardeio de Elfringen"
+prewar.42.d: "Um episódio lamentável acabou de acontecer na fronteira alemã durante um de nossos exercícios militares combinados atualmente organizados ao redor de Sarrebourg. Um pelotão de tanques, guiado por direções de mapa defeituosas, aparentemente se aproximou um pouco demais da fronteira. A tripulação, no entanto, insistiu que ainda estava do lado francês quando os guardas de fronteira alemães, ansiosos para atirar, abriram fogo contra eles. Independentemente disso, um tiroteio começou perto de uma pequena vila da Lorena chamada Elfringen e houve baixas de ambos os lados. Oficiais de inteligência militar foram imediatamente enviados ao local para investigar e o tenente comandante foi colocado sob prisão preventiva. No entanto, os alemães belicosos estão aproveitando descaradamente este incidente. O Comité de Salut Public acaba de receber um ultimato insultante de Berlim, exigindo um pedido de desculpas oficial e o fim de nosso exercício militar com a ameaça de 'consequências extremamente severas' se não cumprirmos."
+
+prewar.43.t: "Pedido de desculpas alemão pelo incidente de Avricourt"
+prewar.43.d: "A Alemanha ficou impressionada com nossa posição inflexível e admitiu sua responsabilidade no infame massacre de Avricourt! Depois que nosso embaixador em Haia informou informalmente um plenipotenciário enviado pelo Chanceler, Berlim emitiu uma declaração formal de desculpas do Kaiser e retirou algumas tropas da Lorena, o que nossas forças de reconhecimento confirmaram. Nosso ministro das Relações Exteriores, assim como nossos aliados da Internacional, pediram ao Comité de Salut Public que aceitasse esta desculpa. No entanto, tal decisão certamente decepcionaria uma opinião pública francesa agora vingativa e belicosa; mais importante, durante uma reunião secreta extremamente tensa com o CSP, o Estado-Maior General avisou que, caso o pedido de desculpas alemão seja aceito sem compensações adicionais, o Exército não cederia às decisões do poder civil sem dissensões internas e tentativas de motim."
+prewar.43.a: "Aceitem suas desculpas."
+prewar.43.b: "Desculpas não são suficientes! Exijam compensações!"
+
+prewar.44.t: "O Império Alemão mobiliza!"
+prewar.44.d: "Como esperado dos imperialistas, a Alemanha não apenas se recusou a se desculpar por seus crimes, mas também convocou a mobilização geral! Divisões ativas e de Landwehr estão se reunindo entre Valônia e Suíça, enquanto nossos lutadores se envolveram em um combate aéreo isolado com aviões alemães acima de Sedan e trocas esporádicas de tiros são relatadas ao longo da fronteira da Lorena. A guerra parece agora iminente: no entanto, membros moderados da Bourse Générale du Travail estão preocupados com nosso nível de preparação operacional e declararam que votariam a favor de uma retirada temporária, para aguardar os novos modelos de tanques e bombardeiros que deverão ser entregues em alguns meses. Por outro lado, oficiais militares de alto escalão consideram que a guerra é inevitável e destacam o fato de que a vitória pode ser alcançada agora com uma ofensiva rápida contra o coração do Reich, antes que a Alemanha possa usar plenamente seu poder industrial."
+prewar.44.a: "Recuem e encerrem esta confrontação."
+prewar.44.b: "Reúnam as tropas!"
+
+prewar.45.t: "Pedido de desculpas francês pelo incidente de Elfringen"
+prewar.45.d: "Depois que nosso Embaixador no México foi informado pela missão diplomática francesa que nosso ultimato seria respondido muito em breve, os Comunas se desculparam formalmente por seu vergonhoso ato de guerra em Elfringen e retiraram suas tropas de Nancy. O Gabinete agora quer dar prioridade à crise da Lorena e estaria prontamente pronto para aceitar este pedido de desculpas, desde que o exercício militar francês seja imediatamente cancelado, mas está cauteloso em relação à reação da opinião pública; o príncipe herdeiro expressou incidentalmente seu desejo de 'humilhar os assassinos Vermelhos' durante uma coletiva de imprensa improvisada em Karlsruhe, e o Generalstab aconselhou contra qualquer sinal de indulgência que pudesse ser mal interpretado pelos franceses como um sinal de fraqueza."
+
+prewar.46.t: "A Comuna da França mobiliza!"
+prewar.46.d: "Agora é óbvio que a Comuna planejou entrar em guerra com a Alemanha, o chamado 'massacre de Avricourt' sendo nada mais do que uma desculpa conveniente! Como a mobilização geral foi ordenada pelo 'Comité de Salut Public', nossas unidades de sinal no Oeste relatam que concentrações maciças de tropas, incluindo formações blindadas e motorizadas, foram implantadas de Sedan a Montbéliard, enquanto as fortificações francesas perto da fronteira flamenga parecem ter sido significativamente reforçadas. Pelo menos um avião francês foi abatido acima do território alemão, e alguns confrontos opuseram nossos soldados às unidades francesas perto da fronteira da Lorena. Os falcões da guerra dentro do Gabinete e do círculo do Kaiser, encorajados por reuniões nacionalistas massivas em todas as principais cidades, estão ansiosos para reunir as tropas para a guerra e acabar com os franceses de uma vez por todas. No entanto, alguns círculos militares estão menos entusiasmados, alertando que o exército francês moderno, inovador e bem treinado não é nada como seu homólogo de 1919 e não deve ser subestimado."
+
+prewar.47.t: "A Comuna da França exige compensação"
+prewar.47.d: "Insatisfeita com nosso sincero pedido de desculpas após o incidente de Avricourt, a Comuna, cujas melhores divisões estão agora se concentrando em nossa fronteira, agora finge que o bombardeio de Avricourt, sendo uma agressão deliberada em tempo de paz, deve ser compensado pela Alemanha, e exige reparações financeiras para cobrir danos materiais e morais sofridos pelas vítimas e infraestruturas públicas francesas. O povo alemão não aceitará ceder a essas reivindicações intermináveis e infundadas; no entanto, a situação militar está se deteriorando rapidamente, já que unidades de comando francesas cruzaram com sucesso a fronteira em pelo menos quatro ocasiões, mesmo que por pouco tempo, e fizeram contato com militantes francófonos na Lorena; então pode ser mais prudente concordar em pagar essas reparações e amenizar a tensão com a Comuna."
+prewar.47.a: "Não temos escolha a não ser cumprir."
+prewar.47.b: "Recuse!"
+
+prewar.48.t: "A Comuna da França oferece um cessar-fogo"
+prewar.48.d: "À medida que os tiroteios e os combates aéreos se tornam cada vez mais frequentes, aberturas diplomáticas foram feitas pelos franceses para discutir um fim negociado à crise da Lorena. Paris afirma estar pronta para desmobilizar suas tropas, exceto pelas unidades de guarda de fronteira, e encerrará todo o apoio às formações paramilitares francófonas na Lorena em troca da desmobilização alemã e da retirada da fronteira francesa. Aceitar esta oferta nos dará a oportunidade de restaurar a ordem na Lorena, e a crise terminará com uma vitória diplomática para o Reich!"
+prewar.48.a: "Aceitem sua proposta."
+
+prewar.49.t: "O Império Alemão exige compensação"
+prewar.49.d: "Apesar de nosso gesto de boa vontade, a Alemanha agora alega que o assim chamado 'Massacre de Elfringen' causou pesados danos materiais a toda a área e que as vítimas devem receber compensações monetárias. O gabinete alemão exigiu publicamente que a Comuna pague reparações, tanto em ouro quanto em diversos materiais brutos e recursos industriais, para que Elfringen e seus arredores possam ser reconstruídos às custas do povo francês. Essa nova reivindicação foi recebida com forte oposição da opinião pública e de facções radicais tanto dentro da Bourse Générale du Travail quanto do Exército, que sugerem que todas as negociações com a Alemanha devem ser encerradas. Mas a situação militar na fronteira alemã é incerta, já que várias unidades de infantaria perto de Metz sofreram danos de tiros de artilharia alemã, e nossas forças podem não estar em posição de se engajar com sucesso com o exército do Kaiser por enquanto..."
+
+prewar.50.t: "O Império Alemão oferece um cessar-fogo"
+prewar.50.d: "Nossas táticas de assédio aéreo e infiltração deram frutos e o governo alemão informou o presidente do Comité de Salut Public que estava pronto para negociar um cessar-fogo, com retirada completa de todas as tropas alemãs da fronteira, desmobilização das divisões de Landwehr e uma resolução política da crise na Lorena. Esta é uma vitória óbvia para a Comuna, já que os imperialistas agressivos foram obrigados a se ajoelhar diante do poder imparável dos trabalhadores e camponeses. Mas também devemos estar atentos a uma ruse de guerre do traiçoeiro Generalstab e agir antes que a Alemanha o faça..."
+
+prewar.51.t: "Compensação alemã pelo incidente de Avricourt"
+prewar.51.d: "A Alemanha finalmente cedeu às nossas reivindicações legítimas e pagará 10 milhões de marcos como compensação pelo bombardeio de Avricourt. O governo alemão também nos fornecerá materiais brutos, incluindo carvão e minério de ferro, bem como máquinas para fins de reconstrução. Como essa decisão deixa o Reich humilhado e o Sindicalismo vingado e triunfante, não temos mais motivos para manter a pressão militar na fronteira; o Chefe do Estado-Maior anunciou que o número de tropas implantadas na fronteira alemã voltaria ao normal assim que as divisões alemãs fossem retiradas da Alsácia e da Lorena de suas posições anteriores."
+prewar.51.a: "Bom."
+
+prewar.52.t: "O Império Alemão se recusou a nos compensar!"
+ prewar.52.d: "A ganância alemã foi, mais uma vez, mais forte que a sabedoria! O Chanceler alemão, em uma transmissão de rádio, anunciou que seu governo se recusaria a pagar 'um único pfennig' e ameaçou 'fazer Paris sofrer o mesmo destino que Avricourt se os franceses não desistirem de suas reivindicações e retirarem suas tropas das fronteiras do Império!'. Nosso plano de levar o Império Alemão à derrota diplomática fracassou, e agora estamos com duas opções - enfrentar a derrota, enquanto dezenas de milhares de trabalhadores se reúnem em Paris 'para marchar sobre Berlim, a capital malvada da reação' e alguns oficiais de alta patente são rumores de preparar um golpe contra o Comité de Salut Public civil... ou arriscar uma guerra com o Império Alemão."
+prewar.52.a: "Não estamos prontos para enfrentar [GER.GetNameDef]."
+prewar.52.b: "Devemos nos preparar para a guerra!"
+
+prewar.53.t: "Compensação francesa pelo incidente de Elfringen"
+prewar.53.d: "A razão, por uma vez, parece ter prevalecido em Paris. A Comuna informou ao Chanceler que nossas reivindicações de reparação serão atendidas e que toda a atividade militar francesa cessará até o final da semana. As vítimas receberão compensações monetárias de um fundo de 10 milhões de francos franceses comunais pagos pelos franceses, e o Reich receberá materiais brutos - incluindo alumínio - e produtos agrícolas para reconstrução. A Comuna sofreu uma grande derrota diplomática e certamente não tentará confrontar o Reich por alguns anos; o Kaiser, portanto, pediu ao Gabinete que encerrasse os exercícios militares na fronteira francesa e retirasse todas as tropas não designadas para operações policiais na Lorena."
+
+prewar.54.t: "A Comuna da França se recusou a nos compensar!"
+prewar.54.d: "A resposta francesa às nossas demandas de compensação foi um aumento do nível de ações militares em nossa fronteira e ataques terroristas em Metz e Estrasburgo e ameaças de guerra total! Em uma mensagem transmitida para a nação francesa, o presidente do Comité de Salut Public declarou que 'não vamos pagar aos bárbaros alemães com ouro, mas com bandeiras vermelhas, aquelas mesmas bandeiras vermelhas que nossos bravos soldados, com a ajuda do proletariado alemão oprimido, em breve erguerão sobre Estrasburgo, Frankfurt, Berlim, Munique, Hamburgo, Breslau e Königsberg!' Em Berlim, enquanto milhares marcham nas ruas sob bandeiras de 'Nach Paris', a oposição no Reichstag denuncia 'uma política covarde e imprudente', o Generalstab e o Kaiser permanecem em silêncio. Agora só nos resta escolher entre humilhação, crise política e agitação civil... ou arriscar uma guerra com a Comuna."
+prewar.54.a: "Não estamos prontos para confrontar [FRA.GetNameDef]."
+prewar.54.b: "Devemos estar preparados quando eles vierem!"
+
+prewar.55.t: "Um Apelo Contra a Escalada"
+prewar.55.d: "À medida que as tensões aumentam entre Alemanha e França, não é o fervor nacionalista de 1914 que as nações estão sentindo, mas sim um crescente temor e pessimismo. Memórias das trincheiras pairam nas mentes dos cidadãos mais velhos. Para salvar a Europa da beira da guerra, o Bund Neues Vaterland - a principal organização anti-guerra na Alemanha - petiçou ao governo para iniciar conversas de paz com França e Grã-Bretanha, para ao menos tentar evitar qualquer conflito. Os signatários do endereço incluem pacifistas proeminentes como Kurt Grossman e Albert von Einstein, mas também um grande número de figuras influentes dos círculos social-democrata e democrata-cristão.\n\nMesmo que não acreditemos verdadeiramente em desescalar a situação, pode ser útil pelo menos tentar adiar o conflito. Nosso acúmulo militar foi atrasado pelos recentes problemas econômicos, e qualquer quantidade de tempo adicional para nos prepararmos é favorável. Se pudermos manter a paz no oeste por mais algum tempo, talvez também dissuadamos as posturas agressivas da Rússia por enquanto."
+prewar.55.a: "Agende a conferência."
+prewar.55.b: "Isso é inútil."
+
+prewar.56.t: "A Alemanha Oferece um Ramo de Oliveira"
+prewar.56.d: "O Embaixador alemão em Paris entregou ao nosso governo um convite para participar de conversas de paz que ocorrerão em [escalation_treaty_location.Capital.GetCapitalVictoryPointName]. O objetivo proposto das negociações é evitar uma nova guerra entre as grandes potências europeias, ou pelo menos tentar encontrar soluções diplomáticas antes que o mundo inteiro seja novamente condenado à morte e à destruição.\n\nA oferta pode ser apenas um jogo de tempo, mas reuniu bastante simpatia no parlamento, e ainda mais nas organizações cidadãs como o Rally Universal pela Paz. O clima geral é que devemos pelo menos ver o que eles têm a oferecer. No melhor cenário, a causa da revolução pode avançar ainda mais sem que sangue seja derramado, e no pior cenário, algum tempo é perdido antes que a confrontação inevitável aconteça."
+prewar.56.a: "Aceite o convite."
+prewar.56.b: "Isso é inútil."
+
+prewar.57.t: "A Conferência de [escalation_treaty_location.Capital.GetCapitalVictoryPointName]"
+prewar.57.d: "Já é uma pequena vitória que Alemanha, Grã-Bretanha e França tenham aceitado se reunir em termos pacíficos. As delegações se encontraram em [escalation_treaty_location.Capital.GetCapitalVictoryPointName], hospedadas por [escalation_treaty_location.GetLeader], e decidiram discutir as questões mais urgentes entre os países e buscar soluções para elas. A Rússia enviou um observador, mas denunciou as próprias negociações como uma mera artimanha da Alemanha para ganhar tempo. [copenhagen_conference_austria_present] A delegação alemã é liderada pela estrela de seu serviço diplomático, Adolf Georg von Maltzan. As delegações francesa e britânica são lideradas por Léon Blum e Harold Nicolson, respectivamente. Apesar das diferenças radicais entre os governos respectivos dos participantes, parece que as negociações começaram com boa fé.\n\nA questão mais urgente para a Alemanha é o apoio secreto da Internacional a socialistas militantes na Alemanha e seus aliados. Isso foi contraposto pela Grã-Bretanha argumentando que a Alemanha é, se não cooperativa, pelo menos aceitante em relação às potências da Entente, que são abertamente hostis à Internacional. Foi proposto um acordo, no qual a Internacional se retira do apoio a grupos abertamente violentos na Europa, e a Alemanha restringe sua cooperação e comércio com as potências da Entente.\n\nAlém disso, ambos os lados concordariam em honrar a neutralidade de países terceiros e se abster de qualquer agressão contra eles. Novas transferências de forças militares para a fronteira franco-alemã seriam interrompidas, e um plano para uma possível desescalada de toda a região da fronteira seria discutido no futuro. Além disso, tanto a Grã-Bretanha quanto a Alemanha concordaram em reduzir a quantidade de seus submarinos e bombardeiros estratégicos de longo alcance, contanto que a outra parte fizesse o mesmo."
+prewar.57.a: "Aceite."
+prewar.57.b: "Absolutamente não."
+prewar.57.c: "Tente elaborar um compromisso."
+
+copenhagen_conference_austria_present: "No entanto, a Áustria apoiou entusiasticamente o empreendimento, e é representada pelo carismático Conde Richard von Coudenhove-Kalergi, que há algum tempo é uma das figuras líderes entre os movimentos de paz Pan-Europeus."
+
+copenhagen_treaty: "A Conferência de [escalation_treaty_location.Capital.GetCapitalVictoryPointName]"
+
+prewar.58.t: "Nenhum Acordo é Alcançado"
+prewar.58.d: "Nossos inimigos expressaram desinteresse nas negociações de paz e se retiraram. Nossa tentativa de desescalar as tensões parece ter falhado devido à teimosia militarista deles.\n\nSem outra opção na mesa, também devemos continuar com o acúmulo militar, mesmo que apenas para contrariar nossos inimigos fazendo o mesmo."
+prewar.58.a: "Guerra para a nossa vida, então."
+
+prewar.59.t: "Acordo Alcançado em [escalation_treaty_location.Capital.GetCapitalVictoryPointName]"
+prewar.59.d: "Após dias de debates intensos e múltiplas ameaças do delegado francês de abandonar as negociações, um compromisso foi finalmente alcançado. O acordo controverso foi recebido com alívio em toda a Europa, embora muito poucos acreditem que trará paz duradoura. Ainda assim, um pequeno passo para evitar a iminente guerra é melhor do que nenhum passo.\n\nSurpreendentemente, as falcões na Alemanha e na França denunciaram o tratado. As vozes mais altas no DVLP rotularam a delegação alemã como simpatizantes socialistas e traidores, e forças mais radicais na política sindicalista também foram igualmente inflexíveis. No entanto, ambos os lados se comprometeram a pelo menos tentar seguir as medidas de desescalada estabelecidas no tratado."
+prewar.59.a: "Surpreendentemente razoável deles."
+KR_copenhagen_conference_success: "A Conferência de Copenhague reduziu a Tensão Mundial abaixo de 75%"
+
+prewar.100.t: "O Bombardeio de Avricourt"
+prewar.100.d: "Caos em Avricourt! Por semanas, as tensões aumentaram na fronteira franco-alemã enquanto o Deutsches Heer realizava exercícios militares na Alsácia-Lorena. Às 06h00, horário local, a artilharia alemã atingiu a vila francesa de Avricourt, matando até 26 pessoas. Enquanto os alemães insistem que o ataque foi um acidente, multidões indignadas já começaram a se reunir do lado de fora da embaixada alemã em Paris, enquanto a opinião pública se inclina para uma febre de guerra. Os horários de trem tanto na Alemanha quanto na França foram atrasados, já que ambos os lados começaram a implantar grandes formações na fronteira.\n\nEnquanto conversas de alto nível devem começar em breve, a possibilidade de guerra ainda paira no ar. O mundo assiste com batedor de respiração enquanto a Europa mais uma vez mergulha no conflito."
+prewar.100.a: "Savagismo alemão."
+prewar.100.b: "Reação típica francesa."
+prewar.100.c: "Não outra Crise de Julho!"
+
+prewar.101.t: "O Bombardeio de Elfringen"
+prewar.101.d: "Caos em Elfringen! Há semanas, as tensões estão aumentando na fronteira franco-alemã, enquanto a Armée Populaire realizava exercícios militares na Franche-Comté. Às 06h30, horário local, tropas blindadas francesas se envolveram em um tiroteio perto da aldeia fronteiriça alemã de Elfringen, tendo se aproximado demais da fronteira de seu caminho pretendido. Não está claro quem disparou primeiro, mas no final dezenas foram mortas e as forças locais entraram em um impasse armado. Protestos anti-franceses já eclodiram em toda a Alemanha e a mobilização preliminar está em andamento em ambas as nações.\n\nEnquanto se espera que negociações de alto nível comecem em breve, a possibilidade de guerra ainda é iminente. O mundo assiste com batedor de respiração enquanto a Europa mais uma vez mergulha em conflito."
+prewar.101.a: "Belicismo alemão!"
+prewar.101.b: "Bárbaros socialistas!"
+prewar.101.c: "Não outra Crise de Julho!"
+
+prewar.102.t: "Sucesso da Conferência de [escalation_treaty_location.Capital.GetCapitalVictoryPointName]"
+prewar.102.d: "Um acordo surpreendente foi alcançado em [escalation_treaty_location.Capital.GetCapitalVictoryPointName] após um período de intensas negociações entre Alemanha, Comuna da França e União da Grã-Bretanha. Aqueles que buscam evitar outro Weltkrieg organizaram uma conferência para amenizar as tensões entre as grandes potências. Sob mediação austríaca, ambos os lados concordaram em limitar sua construção militar na fronteira franco-alemã, e limitar a quantidade de bombardeiros estratégicos e submarinos que estariam operacionais. Além disso, a Internationale concordou em reduzir seu apoio aos movimentos revolucionários na Alemanha, enquanto a Alemanha prometeu reduzir sua cooperação com as potências da Entente. A Rússia denunciou as negociações como uma tentativa alemã de ganhar tempo e apenas aumentou sua construção militar."
+prewar.102.a: "Paz para [GetYear], esperançosamente."

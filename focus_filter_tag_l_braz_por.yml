@@ -1,0 +1,20 @@
+﻿l_braz_por:
+FOCUS_FILTER_POLITICAL: "Político"
+FOCUS_FILTER_RESEARCH: "Pesquisa"
+FOCUS_FILTER_INDUSTRY: "Indústria"
+FOCUS_FILTER_STABILITY: "Estabilidade"
+FOCUS_FILTER_WAR_SUPPORT: "Apoio à Guerra"
+FOCUS_FILTER_MANPOWER: "Mão de Obra"
+FOCUS_FILTER_ANNEXATION: "Expansão Territorial"
+FOCUS_FILTER_TFV_AUTONOMY: "Autonomia"
+FOCUS_FILTER_INTERNAL_AFFAIRS: "Assuntos Internos"
+FOCUS_FILTER_PROPAGANDA: "Propaganda"
+FOCUS_FILTER_ARMY_XP: "Experiência do Exército"
+FOCUS_FILTER_NAVY_XP: "Experiência da Marinha"
+FOCUS_FILTER_AIR_XP: "Experiência da Força Aérea"
+FOCUS_FILTER_BALANCE_OF_POWER: "Equilíbrio de Poder"
+FOCUS_FILTER_POLITICAL_CHARACTER: "Caráter Político"
+FOCUS_FILTER_MILITARY_CHARACTER: "Caráter Militar"
+FOCUS_FILTER_INTERNATIONAL_TRADE: "Comércio Internacional"
+  
+ 

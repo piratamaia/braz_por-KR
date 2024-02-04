@@ -1,0 +1,688 @@
+﻿l_braz_por:
+
+###################
+### Please note ###
+###################
+# The splash screen credits are a list of all current contributors to the mod. It isn't a full list of everyone who helps out, or everyone who has ever helped
+# A more complete list can be found in \interface\credits.txt
+# When updating this list, please make sure to also update that credit list as well, as well as updating the other credit lists we keep (change notes, steam workshop descriptions etc.)
+# Some of those can only be updated by a Kaiserdev, so if you aren't one, please tell one when updating this list
+
+### Tela de Seleção de Nação ###
+new_this_patch: "NOVO NESTE PATCH"
+
+### Tela de Boas-Vindas ###
+KR_welcome_splash_tab_1: "País"
+KR_welcome_splash_tab_2: "Guias de Rota"
+KR_welcome_splash_tab_3: "Como Jogar"
+KR_welcome_splash_tab_4: "Créditos"
+mod_options_button_text: "Continuar"
+
+## ABA 1 ##
+KR_welcome_splash_tab_1_header: "[ROOT.GetCountryIntroHeader]"
+KR_welcome_splash_tab_1_content: "[ROOT.GetCountryIntroContent]"
+
+## ABA 2 ##
+KR_welcome_splash_tab_2_reveal_spoilers_button: "Revelar Spoilers?"
+KR_welcome_splash_tab_2_header: "[ROOT.GetNameDefCap]"
+KR_welcome_splash_tab_2_content: "[GetCountryGuide]"
+
+## ABA 3 ##
+KR_welcome_splash_tab_3_content: "§YObserve o seguinte:§!\n£white_dot \n£white_dot \n£white_dot \n\n£white_dot \n\n£white_dot \n\n£white_dot \n\n§YRelatando Problemas:§!\nEste mod ainda está em desenvolvimento, então bugs e crashes são possíveis. Se encontrar algum problema, por favor, relate-os ao nosso rastreador de problemas no §YGitHub§! para nos ajudar a corrigi-los rapidamente. Um link pode ser encontrado no menu de pausa."
+KR_welcome_splash_tab_3_content_0: "Kaiserreich apresenta §Rguerras precoces§!, §Rfacções§! e §Rníveis de autonomia§!.\nKaiserreich também inclui §CLimites de Divisões§! e um mecanismo de §CDesmobilização§! para melhorar a jogabilidade no final do jogo.\nDurante §YConferências de Paz§!, certifique-se de anexar todos os estados possíveis. Você poderá liberar países dos territórios anexados através de §Cdecisões§! mais tarde.\nO menu de §YRegras Personalizadas do Jogo§! permite ajustar muitas opções, incluindo §CCaminhos do País§!, §CPrimazia do Jogador durante Conferências de Paz§! e a §CFerramenta de Transferência de Estado e País§!.\nO ícone £kr_options_icon  §YMenu de Opções§! pode ser aberto clicando no ícone no canto superior direito. Ele ajusta a §Cfrequência de eventos de notícias§! e ativa a §Crenomeação dinâmica§! de estados e pontos de vitória.\n§YEssa janela§! pode ser reaberta novamente clicando em £help_button"
+
+## ABA 4 ##
+KR_CURRENT_VERSION: "1.0.2"
+KR_CURRENT_VERSION_NAME: "O Império Contra-Ataca"
+KR_CURRENT_VERSION_COMBINED: "Kaiserreich $KR_CURRENT_VERSION$ \"$KR_CURRENT_VERSION_NAME$\""
+KR_welcome_splash_tab_4_header: "§YBem-vindo ao $KR_CURRENT_VERSION_COMBINED$\n\n\n\n\n\nFeito com carinho pela Equipe Kaiserreich:§!"
+KR_welcome_splash_tab_4_content: "$KR_welcome_splash_tab_4_content_1$\n$KR_welcome_splash_tab_4_content_2$\n$KR_welcome_splash_tab_4_content_3$\n$KR_welcome_splash_tab_4_content_4$\n$KR_welcome_splash_tab_4_content_5$\n$KR_welcome_splash_tab_4_content_6$\n$KR_welcome_splash_tab_4_content_7$\n$KR_welcome_splash_tab_4_content_8$"
+
+KR_welcome_splash_tab_4_content_0: "Nossa equipe trabalhou duro de todos os cantos do mundo para trazer essa nova versão para você e não poderíamos estar mais honrados por você escolher jogá-la.\n\nEsperamos que você aproveite jogar Kaiserreich tanto quanto gostamos de criá-lo!"
+KR_welcome_splash_tab_4_content_1: "Alpinia  ·  Arvidus  ·  Augenis  ·  Blackfalcon501  ·  Blackleaf  ·  Carmain  ·  Cazadorian"
+KR_welcome_splash_tab_4_content_2: "Chazem  ·  Chiang Kai-shrek  ·  Chiron29  ·  Cody  ·  Conchobhar  ·  DuoDex  ·  El Daddy"
+KR_welcome_splash_tab_4_content_3: "falling_robin  ·  Fedex  ·  Flamefang  ·  Gaboemi  ·  Hamfast  ·  hildagrim  ·  Ido"
+KR_welcome_splash_tab_4_content_4: "Igor050301  ·  JazzyHugh  ·  Jeankedezeehond  ·  Jonny BL  ·  Kano  ·  katieluka  ·  Kennedy"
+KR_welcome_splash_tab_4_content_5: "kergely  ·  KFateweaver  ·  Klyntar King  ·  Krčo  ·  lehmannmo  ·  Luwofe  ·  Matoro"
+KR_welcome_splash_tab_4_content_6: "McOmghall  ·  MrMano  ·  ~mw~ // miwaco.  ·  Pelmen  ·  PPsyrius  ·  Purple Jinjo"
+KR_welcome_splash_tab_4_content_7: "RagnoStrangeros  ·  Rnk  ·  Shiroe  ·  Shōta  ·  Sonny O'Cad  ·  SuperGreenBeans  ·  suzuha"
+KR_welcome_splash_tab_4_content_8: "The Alpha Dog  ·  The Irredentista  ·  The Italian Jojo  ·  Vidyaország  ·  Zimbabwe Salt Co."
+
+### Perfil de Carreira ###
+KAISERREICH_CAREER_PROFILE: "Kaiserreich"
+
+### Dicas de Diplomacia ###
+REQUEST_EXP_FORCE_BLOCKED_TT: "§REste país não permite que você solicite suas forças.§!"
+
+EMBARGO_THREAT_TT: "§RA Tensão Mundial precisa estar acima de §Y50%§!.§!"
+EMBARGO_OPINION_TT: "§R- A opinião de §Y[FROM.GetNameWithFlag]§! sobre §Y[ROOT.GetNameWithFlag]§! deve ser inferior a -50.§!"
+
+REVOKE_EMBARGO_SCRIPTED_TT: "§REste embargo não pode ser revogado.§!"
+
+RECALL_VOLUNTEERS_TITLE: "Recolher Voluntários"
+RECALL_VOLUNTEERS_ACTION_DESC: "Recolher todos os voluntários enviados para este país."
+RECALL_VOLUNTEERS_ACTION_SEND_DESC: "Recolher todos os voluntários enviados para §Y[FROM.GetNameDef]§!?"
+
+### Dicas Regulares ###
+returned_all_expeditionary_forces_of_puppets: "Devolveu todas as forças expedicionárias enviadas por fantoches"
+puppet_but_keep_government_tt: "([to_be_overlord.GetFlag]§H[to_be_overlord.GetName]§!) §H[marked_country.GetName]§! torna-se fantoche de §H[to_be_overlord.GetName]§!, mas mantém seu governo e configurações de popularidade atuais."
+
+RULE_GUARANTEES_AFTER_WK2_TT: "§RAntes do início da Segunda Weltkrieg, garantias só podem ser feitas através de focos nacionais, eventos e decisões.§!"
+RULE_WARGOALS_AFTER_WK2_TT: "§RAntes do início da Segunda Weltkrieg, objetivos de guerra só podem ser obtidos através de focos nacionais, eventos e decisões.§!"
+RULE_NO_WARGOALS_ON_ALLIED_PUPPETS_TT: "§R$DIPLOMACY_DEM_NO_THREAT_ON_DEPENDENDY$§!"
+
+### Triggers de Pluralidade ###
+totalist_plurality: "§o[?token:totalist.GetTokenLocalizedKey]§! tem a maior popularidade"
+syndicalist_plurality: "§r[?token:syndicalist.GetTokenLocalizedKey]§! tem a maior popularidade"
+radical_socialist_plurality: "§R[?token:radical_socialist.GetTokenLocalizedKey]§! tem a maior popularidade"
+social_democrat_plurality: "§S[?token:social_democrat.GetTokenLocalizedKey]§! tem a maior popularidade"
+social_liberal_plurality: "§l[?token:social_liberal.GetTokenLocalizedKey]§! tem a maior popularidade"
+market_liberal_plurality: "§m[?token:market_liberal.GetTokenLocalizedKey]§! tem a maior popularidade"
+social_conservative_plurality: "§c[?token:social_conservative.GetTokenLocalizedKey]§! tem a maior popularidade"
+authoritarian_democrat_plurality: "§g[?token:authoritarian_democrat.GetTokenLocalizedKey]§! tem a maior popularidade"
+paternal_autocrat_plurality: "§P[?token:paternal_autocrat.GetTokenLocalizedKey]§! tem a maior popularidade"
+national_populist_plurality: "§N[?token:national_populist.GetTokenLocalizedKey]§! tem a maior popularidade"
+
+### Triggers de Diplomacia ###
+cannot_call_allies_or_join_wars: "Não Pode Chamar Aliados ou Entrar em Guerras"
+cannot_call_allies_or_join_wars_warning: "§Y[ROOT.GetNameWithFlag]§! §Rnão pode chamar aliados ou entrar em guerras.§!"
+cannot_call_allies_or_join_wars_warning_FROM: "§Y[FROM.GetNameWithFlag]§! §Rnão pode chamar aliados ou entrar em guerras.§!"
+
+cannot_receive_volunteers: "Não Pode Receber Voluntários"
+cannot_receive_volunteers_warning: "§Y[FROM.GetNameWithFlag]§! §Rnão pode receber voluntários.§!"
+
+### Triggers Regionais ###
+is_in_asia: "É um país §Hasiático§!"
+is_in_india: "É um país §Hindiano§!"
+is_in_europe: "É um país §Heuropeu§!"
+is_in_africa: "É um país §Hafricano§!"
+is_in_north_america: "É um país §Hnorte-americano§!"
+is_in_central_america: "É um país §Hcentro-americano§!"
+is_in_caribbean: "É um país §Hcaribenho§!"
+is_in_south_america: "É um país §Hsul-americano§!"
+is_in_americas: "É um país §hamericano§!"
+is_in_middle_east: "É um país §Hdo Oriente Médio§!"
+is_in_oceania: "É um país §Hoceaniano§!"
+
+is_american_tag: "É um país americano"
+is_arab_tag: "É um país de língua árabe"
+is_arabian_tag: "É um país árabe"
+is_libya_tag: "É um país líbio"
+is_portuguese_tag: "É um país de língua portuguesa"
+is_brazilian_tag: "É um país brasileiro"
+is_chinese_tag: "É um país chinês"
+is_dutch_tag: "É um país de língua holandesa"
+is_english_tag: "É um país de língua inglesa"
+is_commonwealth_tag: "É um país da Commonwealth"
+is_british_tag: "É um país britânico"
+is_catholic_tag: "É um país católico"
+is_french_tag: "É um país francês"
+is_french_africa_tag: "É um país africano francês"
+is_french_speaking_tag: "É um país de língua francesa"
+is_german_tag: "É um país de língua alemã"
+is_germany_or_splinter_tag: "É um país alemão"
+is_italian_tag: "É um país italiano"
+is_polish_tag: "É um país polonês"
+is_russian_tag: "É um país russo"
+is_south_slav_tag: "É um país eslavos do sul"
+is_central_asian_tag: "É um país da Ásia Central"
+is_spanish_speaking_tag: "É um país de língua espanhola"
+is_central_american_tag: "É um país da América Central"
+is_spanish_south_american_tag: "É um país hispano-americano"
+is_quechua_speaking_tag: "É um país de língua quéchua"
+is_indian_tag: "É um país indiano"
+is_farsi_speaking_tag: "É um país de língua farsi"
+is_danubian_tag: "É um país danubiano"
+is_balkan_tag: "É um país dos Bálcãs"
+is_belgian_tag: "É um país belga"
+is_uighur_tag: "É um país uigur"
+is_scandinavian_tag: "É um país escandinavo"
+is_czechoslovak_tag: "É um país tchecoslovaco"
+is_turkish_tag: "É um país de língua turca"
+is_romanian_tag: "É um país de língua romena"
+is_greek_tag: "É um país de língua grega"
+is_baltic_tag: "É um país báltico"
+
+### Dica de Poder Real ###
+is_actual_major_tooltip_base: " É uma potência mundial:"
+is_actual_major_tooltip_major: "\n     [ESTE.MajorWorldPower_MajorCheck] $TRIGGER_IS_MAJOR$"
+is_actual_major_tooltip_OR: "\n     $TRIGGER_OR_STARTS$"
+is_actual_major_tooltip_seven_largest: "\n          [ESTE.MajorWorldPower_AmongSevenLargestIndustries] Tem uma das sétimas maiores economias do mundo"
+is_actual_major_tooltip_average: "\n          [ESTE.MajorWorldPower_MoreThanSeventyPercentAverage] Tem mais de §H70%§! da capacidade industrial média das sete maiores economias"
+is_actual_major_tooltip_INT: "\n          [ESTE.MajorWorldPower_IsINT] É o líder da §YTerceira Internacional§!"
+is_actual_major_tooltip_ENT: "\n          [ESTE.MajorWorldPower_IsENT] É o líder da §YEntente§!"
+is_actual_major_tooltip_GEX: "\n          [ESTE.MajorWorldPower_IsGEX] É §Y[GEX.GetNameWithFlag]§!"
+
+is_actual_major: "$is_actual_major_without_exceptions$$is_actual_major_tooltip_INT$$is_actual_major_tooltip_ENT$$is_actual_major_tooltip_GEX$"
+is_actual_major_without_exceptions: "$is_actual_major_tooltip_base$$is_actual_major_tooltip_major$$is_actual_major_tooltip_OR$$is_actual_major_tooltip_seven_largest$$is_actual_major_tooltip_average$"
+
+### Interface Política ###
+power_balance_button_disabled: "Seu país não possui um §YSaldo de Poder§! ativo."
+
+### Opções do Jogo ###
+kr_options_title: "§YOpções do Kaiserreich§!"
+kr_options_tooltip: "Ativar/desativar opções específicas do Kaiserreich"
+
+kr_help_title: "§YTela de Informações do País§!"
+kr_help_tooltip: "Clique para abrir a tela de §Yintrodução§!.\n\nContém:\n£white_dot informações sobre sua nação,\n£white_dot uma lista de §Cguias de caminho§! específicos para ela,\n£white_dot informações sobre recursos específicos do mod, e\n£white_dot os créditos do mod."
+
+rename_text: "Renomear Estados/VPs"
+rename_tooltip: "§GClique§! aqui para alternar a renomeação dinâmica de estados e pontos vitória com base no controlador atual."
+
+regional_news_text: "Eventos de Notícias Regionais"
+regional_news_tooltip: "§GClique§! aqui para alternar as notificações de eventos de notícias globais que afetam diretamente os países que as recebem."
+
+world_news_text: "Eventos de Notícias Mundiais"
+world_news_tooltip: "§GClique§! aqui para alternar as notificações de eventos de notícias globais, independentemente da relevância para o país que os recebe."
+
+### Interface de Esferas Econômicas ###
+economic_sphere_button_tooltip: "§Y[GetEconomicSphereName]§!"
+economic_sphere_button_tooltip_delayed: "§L[GetEconomicSphereDesc]§!"
+
+economic_sphere_default_name: "Esfera Econômica de [PREV.GetName]"
+economic_sphere_default_icon: "GFX_goal_generic_positive_trade_relations_gold"
+economic_sphere_default_desc: ""
+
+### Modificadores Estáticos ###
+volunteer_limit_plus_three: "Limite de Voluntários Aumentado"
+volunteer_limit_plus_two: "$volunteer_limit_plus_three$"
+volunteer_limit_plus_one: "$volunteer_limit_plus_three$"
+volunteer_limit_plus_fifty_percent: "$volunteer_limit_plus_three$"
+volunteer_limit_plus_hundred_percent: "$volunteer_limit_plus_three$"
+
+### Continentes ###
+is_actually_an_island: "é um estado insular"
+
+### Bloqueio de Agência de Inteligência ###
+INTELLIGENCE_AGENCY_BLOCK_TOOLTIP: "[!intelligence_agency_blocker_button_click_enabled]"
+
+### Níveis de Autonomia ###
+integrated_puppet: "Puppet Integrado"
+occupied_puppet: "Puppet Ocupado"
+default_puppet: "Puppet Padrão"
+autonomous_puppet: "Puppet Autônomo"
+colonial_government: "Governo Colonial"
+french_colonial_government: "Governo Colonial Francês"
+nominal_puppet: "Puppet Nominal"
+special_autonomous_dependency: "Dependência Autônoma Especial"
+federated_colony: "Colônia Federada"
+federated_dominion: "Domínio Federado"
+ottoman_emirate: "Emirado Otomano"
+ottoman_international_zone: "Mandato Internacional"
+federated_state: "Estado Federado"
+crownland: "Terra da Coroa"
+oststaat: "Oststaat"
+oststaat_autonomous: "Oststaat Autônomo"
+kr_mitteleuropa_integrated_member: "Membro Integrado da Mitteleuropa"
+
+### Dicas de Autonomia ###
+can_lower_autonomy_level: "Pode diminuir o nível de autonomia"
+can_raise_autonomy_level: "Pode aumentar o nível de autonomia"
+puppet_can_become_free: "Pode se tornar independente"
+puppet_can_be_annexed: "Pode ser anexado pelo soberano"
+may_raise_autonomy: "§Y[Root.GetNameDefCap]§! pode aumentar o nível de autonomia uma vez que a autonomia tenha aumentado o suficiente"
+may_become_free: "§Y[Root.GetNameDefCap]§! agora pode trabalhar em direção à independência"
+cannot_change_autonomy_manually: "§RNão é possível alterar os níveis de autonomia manualmente§!"
+clamour_for_independence: "Rumor pela independência"
+clamour_for_autonomy: "Rumor por autonomia"
+
+### Modificadores de Opinião ###
+KR_friendly: "Amigável"
+KR_close_allies: "Aliados Próximos"
+KR_deal_with_devil: "Acordo com o Diabo"
+KR_returned_land: "Devolveu Nossas Terras"
+KR_liberated_us: "Liberou-nos"
+KR_approves_of_govt: "Aprova o Governo"
+KR_pleased: "Satisfeito conosco"
+KR_displeased: "Descontente com nossas Ações"
+KR_disapproves_of_govt: "Desaprova o Governo"
+KR_hates_govt: "Irritado com o Governo"
+KR_outraged: "Indignado"
+KR_hostile: "Hostil"
+KR_trade_agreement: "Acordo Comercial"
+KR_trade_sanctions: "Sanções Comerciais"
+
+### Filtros de Foco ###
+FOCUS_FILTER_PRODUCTION: "Produção"
+FOCUS_FILTER_ARMY_BONUS: "Exército"
+FOCUS_FILTER_NAVY_BONUS: "Marinha"
+FOCUS_FILTER_AIRFORCE_BONUS: "Força Aérea"
+FOCUS_FILTER_RESISTANCE: "Resistência"
+FOCUS_FILTER_LEC_CURRENCY: "Reservas de Moeda"
+
+### Eventos de Autonomia ###
+FROM_becomes_puppet: "§H[From.GetNameDefCap]§! não é mais um §HPuppet Ocupado§!."
+FROM_becomes_autonomous_puppet: "§H[From.GetNameDefCap]§! torna-se um §HPuppet Autônomo§!."
+FROM_becomes_nominal_puppet: "§H[From.GetNameDefCap]§! torna-se um §HPuppet Nominal§!."
+
+### Cumprimento ###
+compliance_integration_50: "Integração"
+compliance_integration_80: "Integração"
+territorial_integration: "Integração"
+territorial_integration_tt: "Dá um núcleo no estado ao atingir §H50% ou 80% de conformidade§! (valor com base no estado)."
+
+### Modos de Mapa ###
+MAPMODE_CORES_CLAIMS_MAP_MODE: "Modo de mapa §Y$MAPMODE_CORES_CLAIMS_MAP_MODE_NAME$§!"
+MAPMODE_CORES_CLAIMS_MAP_MODE_NAME: "Núcleos/Reivindicações"
+MAPMODE_CORES_CLAIMS_MAP_MODE_DESCRIPTION: "Mostra os núcleos e reivindicações atuais."
+
+cores_claims_map_mode_tooltip: "§Y[FROM.GetName]§! ([FROM.Owner.GetFlag] [FROM.Owner.GetName])"
+cores_claims_map_mode_tooltip_delayed: "[FROM.GetCoreClaimMapModeTooltip]"
+
+cores_claims_map_mode_tooltip_core: "§Y[FROM.GetName]§! é um estado §Ynúcleo§! de §Y[ROOT.GetNameWithFlag]§!."
+cores_claims_map_mode_tooltip_potential_core_50: "§Y[FROM.GetName]§! é um §Ynúcleo potencial§! de §Y[ROOT.GetNameWithFlag]§!. Tornar-se-á um núcleo ao atingir §Y50%§! de conformidade."
+cores_claims_map_mode_tooltip_potential_core_80: "§Y[FROM.GetName]§! é um §Ynúcleo potencial§! de §Y[ROOT.GetNameWithFlag]§!. Tornar-se-á um núcleo ao atingir §Y80%§! de conformidade."
+cores_claims_map_mode_tooltip_claim: "§Y[FROM.GetName]§! é §Yreivindicado§! por §Y[ROOT.GetNameWithFlag]§!."
+cores_claims_map_mode_tooltip_owned: "§Y[FROM.GetName]§! é §Yocupado§! por §Y[ROOT.GetNameWithFlag]§!."
+
+MAPMODE_OPINION_MAP_MODE: "Modo de mapa §Y$MAPMODE_OPINION_MAP_MODE_NAME$§!"
+MAPMODE_OPINION_MAP_MODE_NAME: "Opinião"
+MAPMODE_OPINION_MAP_MODE_DESCRIPTION: "Mostra a opinião de outros países sobre nós."
+
+opinion_map_mode_tooltip: "§Y[FROM.controller.GetNameWithFlag]§!"
+opinion_map_mode_tooltip_delayed: "[FROM.GetOpinionMapModeTooltip]"
+
+opinion_map_mode_tooltip_delayed2: "ROOT é [ROOT.GetName]\nFROM é [FROM.GetName]\nFROM.FROM é [FROM.FROM.GetName]"
+
+opinion_map_mode_tooltip_delayed_desc: "A opinião deles sobre nós: [?FROM.controller:opinion@ROOT|+=0]\nNossa opinião sobre eles: [?ROOT.opinion@FROM.controller|+=0]"
+
+### Tensão Mundial ###
+AL_avricourt_shelled: "Vila de Avricourt bombardeada por §Y[GER.GetNonIdeologyNameDef]§!"
+AL_elfringen_shelled: "Vila de Elfringen bombardeada por §Y[FRA.GetNonIdeologyNameDef]§!"
+FRA_mobilizes_on_border: "§Y[FRA.GetNonIdeologyNameDefCap]§! mobiliza suas forças na fronteira §Y[GER.GetAdjective]§!"
+GER_mobilizes_on_border: "§Y[GER.GetNonIdeologyNameDefCap]§! mobiliza suas forças na fronteira §Y[FRA.GetAdjective]§!"
+AL_avricourt_apology: "§Y[GER.GetNonIdeologyNameDefCap]§! se desculpa por bombardear Avricourt"
+AL_elfringen_apology: "§Y[FRA.GetNonIdeologyNameDefCap]§! se desculpa por bombardear Elfringen"
+AL_avricourt_compensation_sent: "§Y[GER.GetNonIdeologyNameDefCap]§! compensa §Y[FRA.GetNonIdeologyNameDef]§! por Avricourt"
+AL_elfringen_compensation_sent: "§Y[FRA.GetNonIdeologyNameDefCap]§! compensa §Y[GER.GetNonIdeologyNameDef]§! por Elfringen"
+AL_uneasy_ceasefire: "Cessar-fogo §YFranco-Germânico§! Tenso"
+AL_rally_for_war: "§Y[THIS.GetNonIdeologyNameDefCap]§! se Mobiliza para a Guerra"
+country_joins_alliance_threat: "§Y[THIS.GetNonIdeologyNameDefCap]§! Junta-se à §Y[PREV.GetFactionName]§!"
+
+second_weltkrieg_threat: "Segunda Weltkrieg"
+second_weltkrieg_has_started: "A Segunda Weltkrieg começou"
+
+### Agentes ###
+operation_infiltrate_armed_forces_army_outcome: "Eficácia de $operation_infiltrate_armed_forces_army$"
+operation_infiltrate_armed_forces_army_risk: "Risco de $operation_infiltrate_armed_forces_army$"
+operation_infiltrate_armed_forces_army_cost: "Custo de $operation_infiltrate_armed_forces_army$"
+
+operation_infiltrate_armed_forces_navy_outcome: "Eficácia de $operation_infiltrate_armed_forces_navy$"
+operation_infiltrate_armed_forces_navy_risk: "Risco de $operation_infiltrate_armed_forces_navy$"
+operation_infiltrate_armed_forces_navy_cost: "Custo de $operation_infiltrate_armed_forces_navy$"
+
+operation_infiltrate_armed_forces_airforce_outcome: "Eficácia de $operation_infiltrate_armed_forces_airforce$"
+operation_infiltrate_armed_forces_airforce_risk: "Risco de $operation_infiltrate_armed_forces_airforce$"
+operation_infiltrate_armed_forces_airforce_cost: "Custo de $operation_infiltrate_armed_forces_airforce$"
+
+operation_infiltrate_civilian_outcome: "Eficácia de $operation_infiltrate_civilian$"
+operation_infiltrate_civilian_risk: "Risco de $operation_infiltrate_civilian$"
+operation_infiltrate_civilian_cost: "Custo de $operation_infiltrate_civilian$"
+
+### Listas de Nomes de Navios ###
+NAME_THEME_ISLANDS: "Ilhas"
+NAME_THEME_ROYAL_BARGE: "Barca Real"
+NAME_THEME_ROYAL_HOUSES: "Casas Reais & Nobrezas"
+NAME_THEME_MOUNTAINS: "Montanhas"
+NAME_THEME_INSPIRATIONAL: "Inspiracional"
+NAME_THEME_STATES_CITIES: "Estados & Cidades"
+NAME_THEME_GENERALS: "Generais"
+NAME_THEME_CALIPHS: "Califas"
+
+### Segundo no Comando ###
+second_in_command_slot: "Segundo no Comando"
+second_in_command: "Segundo no Comando"
+second_in_command_cost_factor: "Fator de Custo do Segundo no Comando"
+second_in_command_cost_factor_tooltip: "$second_in_command_cost_factor$: $RIGHT|-=%0$"
+
+### Dicas de Personagem ###
+is_dead: "Está falecido"
+is_dead_NOT: "Não está falecido"
+
+is_second_in_command: "É o Segundo no Comando"
+is_second_in_command_NOT: "Não é o Segundo no Comando"
+
+character_event_only: "Adicionado por evento"
+
+is_monarch: "É um monarca"
+is_monarch_NOT: "Não é um monarca"
+
+is_regent: "Está atuando como regente"
+is_regent_NOT: "Não está atuando como regente"
+
+is_monarchy: "§Y[THIS.GetNameWithFlag]§! é uma §Ymonarquia§!"
+is_monarchy_NOT: "§Y[THIS.GetNameWithFlag]§! não é uma §Ymonarquia§!"
+
+### Efeitos de Mobilização ###
+disband_ten_percent_units: "Desbandar §Y10%§! de todas as divisões permanentes, retendo seu equipamento."
+disband_twenty_percent_units: "Desbandar §Y20%§! de todas as divisões permanentes, retendo seu equipamento."
+disband_twenty_percent_units_delete_equipment: "Desbandar §Y20%§! de todas as divisões permanentes."
+disband_fifty_percent_units: "Desbandar §Y50%§! de todas as divisões permanentes, retendo seu equipamento."
+
+### Políticas MIO ###
+mio_policy_general_industrial_self_sufficiency: "Auto-suficiência Industrial"
+
+### Gatilhos Personalizados ###
+is_in_faction_but_not_leader: "Está na facção, mas não é o líder"
+is_in_faction_but_not_leader_NOT: "É o líder da facção ou não está na facção"
+
+has_guarantor: "Está garantido"
+has_guarantor_NOT: "Não está garantido"
+
+all_enemy_country_workaround_trigger: "$TRIGGER_ALL_enemy_COUNTRY_STARTS$:\n   Está em guerra com §Y[?target.GetFlag][?target.GetName]§!"
+
+### Eventos ###
+generic_events.100.t: "Ordem Restaurada em [Root.GetNameDef]"
+generic_events.100.d: "Enquanto [Root.GetNameDef] ainda sofre sob o controle [overlord_name.GetAdjective] , o exército [Root.GetAdjective] afirmou controle suficiente sobre nossas próprias fronteiras que uma semelhança de maior autonomia agora é possível de ser exercida. Isso não é independência - longe disso - mas significa que não precisamos mais depender das tropas [overlord_name.GetAdjective] para garantir nossas fronteiras."
+generic_events.100.a: "Excelente"
+
+generic_events.101.t: "Ordem Restaurada em [From.GetNameDef]"
+generic_events.101.d: "Enquanto [From.GetNameDef] ainda sofre sob o controle [Root.GetAdjective] , o exército [From.GetAdjective] afirmou controle suficiente sobre suas próprias fronteiras que uma semelhança de autonomia agora é possível. Isso não é independência - longe disso - mas significa que eles não precisam mais depender das tropas [Root.GetAdjective] para garantir suas fronteiras, e, portanto, não estão tão rigidamente sob nosso controle."
+generic_events.101.a: "Seja como for"
+
+generic_events.102.t: "Maior Autonomia [Root.GetAdjective]?"
+generic_events.102.d.tfv: "[Root.GetNameDefCap] permanece sob o controle do governo [overlord_name.GetAdjective] , mas esse controle está começando a diminuir à medida que nossa força se reafirma. O poder [Root.GetAdjective] não é algo facilmente contido, e já nossos líderes clamam por mais controle sobre nossos próprios assuntos. Certamente nosso [overlord_name.GetAdjective] não será capaz de nos resistir por muito tempo."
+generic_events.102.d: "[Root.GetNameDefCap] permanece sob o controle do governo [overlord_name.GetAdjective] , mas esse controle está começando a diminuir à medida que nossa força se reafirma. O poder [Root.GetAdjective] não é algo facilmente contido, e já nossos líderes clamam por mais controle sobre nossos próprios assuntos, e o efeito é sentido por todo o país."
+generic_events.102.a: "Vida longa a [Root.GetNameDef]!"
+
+generic_events.103.t: "Maior Autonomia [From.GetAdjective]"
+generic_events.103.d: "[From.GetNameDefCap] permanece sob o controle do governo [Root.GetAdjective] , mas esse controle está começando a diminuir à medida que sua força se reafirma. O poder [From.GetAdjective] não é algo facilmente contido, e o clamor de seus líderes por mais controle sobre seus próprios assuntos é sentido por todo o país."
+generic_events.103.a: "Precisaremos observar isso com cuidado"
+
+generic_events.106.t: "A Luta Pela Independência"
+generic_events.106.d.tfv: "O controle de [overlord_name.GetAdjective] sobre o governo [Root.GetAdjective] tem enfraquecido há algum tempo. Somos poderosos demais para ser contidos. Há um clamor geral entre o povo [Root.GetAdjective] para que [Root.GetNameDef] se torne livre, e logo chegará nossa hora."
+generic_events.106.d: "O controle de [overlord_name.GetAdjective] sobre o governo [Root.GetAdjective] tem enfraquecido há algum tempo. Somos poderosos demais para ser contidos. Há um clamor geral entre o povo [Root.GetAdjective] para que [Root.GetNameDef] se torne livre, e parece que devemos decidir se exigiremos nossa independência de [overlord_name.GetNameDef]."
+generic_events.106.a: "Viva livre [Root.GetName]!"
+generic_events.106.b: "Sim, devemos exigir nossa independência"
+generic_events.106.c: "Não, melhor não cutucar a vespa"
+
+generic_events.107.t: "[From.GetNameDefCap] Exige Independência"
+generic_events.107.d: "O controle [Root.GetAdjective] sobre o governo [From.GetAdjective] tem enfraquecido há algum tempo. Eles são poderosos demais para nós contermos completamente. Há um clamor geral entre o povo [From.GetAdjective] para que [From.GetNameDef] seja libertado, e agora seu governo apresentou oficialmente uma demanda por independência total."
+generic_events.107.a: "Deixe-os ir, enquanto ainda somos amigos"
+generic_events.107.b: "Eles estão brincando? Esqueça isso"
+
+generic_events.108.t: "Independência Recusada"
+generic_events.108.d: "O governo [From.GetAdjective] rejeitou nossa demanda por independência. Embora estejamos apenas nominalmente sob o controle deles, ainda assim as restrições nos incomodam."
+generic_events.108.a: "Isso não termina aqui"
+
+KR_fight_for_independence: "Declarar Independência"
+KR_fight_for_independence_desc: "[From.GetNameDefCap] pode ter recusado nossa demanda por independência, mas isso não é o fim. Seremos livres, mesmo que tenhamos que lutar por isso!"
+
+generic_events.109.t: "[From.GetNameDefCap] Declara Independência"
+generic_events.109.d: "Parece que nossa recusa em conceder a independência a [From.GetNameDef] não foi suficiente para eles. Eles se declararam livres do controle [Root.GetAdjective], de qualquer maneira."
+generic_events.109.a: "Ah, deixe-os ir"
+generic_events.109.b: "Veremos sobre isso!"
+
+generic_events.110.t: "A Guerra Pela Independência"
+generic_events.110.d: "Parece que nosso antigo suserano não consegue ganhar uma vantagem clara em [Root.GetNameDef]... mas nós também não podemos derrotá-los. Talvez seja hora de pedir um cessar-fogo e encerrar isso?"
+generic_events.110.a: "Sim, vamos encerrar isso"
+generic_events.110.b: "Não! Isso é mais do que independência agora!"
+
+generic_events.111.t: "A Guerra [From.GetAdjective] Pela Independência"
+generic_events.111.d: "A guerra com [From.GetNameDef] tem se arrastado por algum tempo, sem nenhum de nós capaz de obter uma vantagem clara. Talvez seja hora de simplesmente reconhecer sua independência e encerrar isso."
+generic_events.111.a: "Sim, vamos encerrar isso"
+generic_events.111.b: "Não! Nós vamos terminar com isso!"
+
+generic_events.250.t: "Vassalizar [marked_country.GetNameDef]?"
+generic_events.250.d: "Isso transformará [marked_country.GetNameDef] em um súdito de [to_be_overlord.GetNameDef], usando o estado autônomo padrão Ocupado. Se eles estiverem em uma facção diferente, eles a deixarão, mas isso não encerrará nenhuma das guerras atuais em que estão. Se você quiser fazer isso, deve fazê-lo separadamente.\n\n§RNOTA: Isso pode quebrar conteúdo do Kaiserreich! Use por sua conta e risco!!§!"
+generic_events.250.a: "Faça isso"
+generic_events.250.b: "Faça, mas deixe-os manter seu governo atual"
+generic_events.250.c: "Pensando bem..."
+
+generic_events.251.t: "Liberar [marked_country.GetNameDef]?"
+generic_events.251.d: "Isso tornará [marked_country.GetNameDef] completamente independente. Isso não mudará seu governo atual (a menos que o mod tenha conteúdo para fazer isso automaticamente), não removerá [marked_country.GetNameDef] de sua facção, se estiver em uma, nem os tirará de qualquer guerra.\n\n§RNOTA: Isso pode quebrar conteúdo do Kaiserreich! Use por sua conta e risco!!§!"
+
+generic_events.252.t: "Entrar na [to_be_faction_leader.GetFactionName]?"
+generic_events.252.d: "Isso fará com que [marked_country.GetNameDef] entre na [to_be_faction_leader.GetFactionName], desmantelando sua própria facção se forem líderes ou simplesmente deixando sua facção atual se estiverem em uma. Isso não mudará nenhuma guerra em que estejam atualmente.\n\n§RNOTA: Isso pode quebrar conteúdo do Kaiserreich! Use por sua conta e risco!!§!"
+
+generic_events.253.t: "Liderar a [marked_country.GetFactionName]?"
+generic_events.253.d: "Isso fará com que [marked_country.GetNameDef] seja o líder da facção [marked_country.GetFactionName].\n\n§RNOTA: Isso pode quebrar conteúdo do Kaiserreich! Use por sua conta e risco!!§!"
+
+generic_events.254.t: "Sair da [marked_country.GetFactionName]?"
+generic_events.254.d: "Isso fará com que [marked_country.GetNameDef] saia da [marked_country.GetFactionName], desmantelando a facção se forem líderes. Isso não afetará nenhuma guerra em que estejam atualmente.\n\n§RNOTA: Isso pode quebrar conteúdo do Kaiserreich! Use por sua conta e risco!!§!"
+
+generic_events.255.t: "Paz com [peace_target.GetNameDef]?"
+generic_events.255.d: "[marked_country.GetNameDefCap], junto com todos os seus aliados, fará uma paz branca com [peace_target.GetNameDef] e todos os seus aliados.\n\n§RNOTA: Isso pode quebrar conteúdo do Kaiserreich! Use por sua conta e risco!!§!"
+generic_events.255.b: "Separar [marked_country.GetNameDef] de seus aliados e depois fazer as pazes"
+
+generic_events.256.t: "Fazer as pazes em todas as guerras?"
+generic_events.256.d: "[marked_country.GetNameDefCap] fará uma paz branca separada para todas as suas guerras atuais. Se for um súdito, primeiro será libertado, e se estiver em uma facção, primeiro deverá sair.\n\n§RNOTA: Isso pode quebrar conteúdo do Kaiserreich! Use por sua conta e risco!!§!"
+
+generic_events.257.t: "Guerra com [war_target.GetNameDef]?"
+generic_events.257.d: "[marked_country.GetNameDefCap] declarará guerra a [war_target.GetNameDef]. Não há verificações para ver se esta é uma declaração válida, exceto se os dois países não são aliados e ainda não estão em guerra.\n\n§RNOTA: Isso pode quebrar conteúdo do Kaiserreich! Use por sua conta e risco!!§!"
+
+### Unit Leader Events ###
+unit_leader.1.t: "[From.GetName] Adoece"
+unit_leader.1.d: "Em [From.GetHerHis] serviço à nação, parece que [From.GetRank] [From.GetName] se esforçou demais. Devido ao clima ruim na área operacional de [From.GetHerHis], [From.GetRank] agora adoeceu e provavelmente precisará de algum tempo para se recuperar. Até [From.GetSheHe] melhorar, [From.GetSheHe] não se apresentará em seu nível usual."
+unit_leader.1.a: "Infeliz."
+
+unit_leader.2.t: "[From.GetName] Ferido"
+unit_leader.2.d: "Ao trazer a batalha a uma conclusão bem-sucedida, parece que [From.GetRank] [From.GetName] se expôs a um risco um pouco maior enquanto liderava [From.GetHerHis] homens. [From.GetSheHeCap] foi ferido, e provavelmente levará algum tempo para que as feridas se curem, durante esse tempo [From.GetRank] não se apresentará em [From.GetHerHis] nível usual."
+unit_leader.2.a: "Infeliz."
+
+### Government in Exile Events ###
+mtg_exile_leader_added.1.t: "Líder do Exílio [exile_nation.GetAdjective] Oferece Serviço"
+mtg_exile_leader_added.1.desc: "Após uma jornada longa e perigosa por território ocupado pelo inimigo e vários estados neutros, um oficial militar de alta patente de um de nossos aliados capitulados finalmente chegou à capital. Após um curto período de recuperação, ele ofereceu seus serviços em nossa luta comum."
+mtg_exile_leader_added.1.a: "Sua luta ainda não acabou."
+
+mtg_exile_government.2.title: "O Governo no Exílio [From.GetAdjective]"
+mtg_exile_government.2.desc: "[From.GetLeader] formalmente solicitou permissão ao governo [Root.GetAdjective] para retornar a [From.GetNameDef] e restabelecer um gabinete provisório [From.GetRulingParty] em preparação para a paz pós-guerra."
+mtg_exile_government.2.a: "É hora deles retornarem ao próprio território deles."
+mtg_exile_government.2.b: "O tempo ainda não está maduro."
+
+mtg_exile_government.3.title: "[From.GetName] Solicita Integração Naval"
+mtg_exile_government.3.desc: "A liderança naval [From.GetAdjective] nos apresentou um plano para a integração de nossa marinha na deles. Eles argumentam que, ao permitir que os planejadores navais [From.GetAdjective] tenham controle total sobre nossos navios, a eficácia deles aumentaria drasticamente em comparação com suas ações independentes atuais."
+mtg_exile_government.3.a: "Concordamos."
+mtg_exile_government.3.b: "Não serviremos sob eles."
+
+mtg_exile_government.4.title: "[From.GetName] Aceita Integração Naval"
+mtg_exile_government.4.desc: "O governo [From.GetAdjective] nos informou que concorda com nossa proposta e que, daqui para frente, seus navios operarão sob nosso comando."
+mtg_exile_government.4.a: "Excelente."
+
+mtg_exile_government.5.title: "[From.GetName] Rejeita Integração Naval"
+mtg_exile_government.5.desc: "O governo [From.GetAdjective] nos informou que sua marinha nunca servirá sob o comando de um poder estrangeiro. Eles pretendem nos ajudar, mas o farão de maneira independente."
+mtg_exile_government.5.a: "Colocam o orgulho deles acima dos interesses da aliança."
+
+mtg_generic.1.title: "[From.GetName] Impõe Mudança de Governo"
+mtg_generic.1.desc: "Citando a clara falta de apoio eleitoral para o nosso governo atual, [From.GetNameDef] exigiu uma mudança na política."
+mtg_generic.1.a: "Não temos escolha a não ser aceitar."
+
+### Land Units ###
+category_mounted_inf: "Infantaria Montada"
+
+### Sub-unit Modifiers ###
+modifier_army_sub_unit_category_bicycle_battalion_attack_factor: "Ataque de Bicicleta"
+modifier_army_sub_unit_category_bicycle_battalion_defence_factor: "Defesa de Bicicleta"
+modifier_army_sub_unit_category_bicycle_battalion_speed_factor: "Velocidade de Bicicleta"
+
+modifier_army_sub_unit_category_mobile_infantry_attack_factor: "Ataque Cav/Mot/Mec"
+modifier_army_sub_unit_category_mobile_infantry_defence_factor: "Defesa Cav/Mot/Mec"
+modifier_army_sub_unit_category_mobile_infantry_speed_factor: "Velocidade Cav/Mot/Mec"
+
+modifier_army_sub_unit_category_mot_artillery_brigade_attack_factor: "Ataque de Artilharia Motorizada"
+modifier_army_sub_unit_category_mot_artillery_brigade_defence_factor: "Defesa de Artilharia Motorizada"
+modifier_army_sub_unit_category_mot_artillery_brigade_speed_factor: "Velocidade de Artilharia Motorizada"
+modifier_army_sub_unit_category_mot_artillery_brigade_max_org_factor: "Organização de Artilharia Motorizada"
+
+### Research Bonus Names ###
+refinery_bonus: "Bônus de Refinaria"
+
+### Custom Triggers ###
+had_war: "Participou de uma guerra"
+not_during_ceasefire: "Não durante o cessar-fogo"
+ 
+ ###Other###
+asked_to_join: "Envolvimento foi solicitado por outra nação."
+generic_research_advances: "Avanços em Pesquisa"
+
+generic_neutral_foreign_policy: "Política Externa Neutra"
+generic_neutral_foreign_policy_desc: "Seja por pacifismo, necessidade ou simples interesse próprio, os objetivos da política externa deste estado são atualmente caracterizados pelo desejo de evitar envolvimentos estrangeiros. A atividade militar está focada em considerações defensivas, e todas as ações no cenário internacional são projetadas para criar o menor número possível de inimigos."
+
+increase_state_category_by_one_level_tt: "Isso fornece um espaço de construção adicional de §G1§!\n"
+increase_state_category_by_two_levels_tt: "Isso fornece espaços de construção adicionais de §G2§!\n"
+decrease_state_category_by_one_level_tt: "Isso §Rremove§! um espaço de construção do estado.\n"
+
+### Geral ###
+fighter_techs: "Tecnologia de Caça"
+cat_strategic_destruction: "Tecnologia de Destruição Estratégica"
+early_fighter: "Caça de Entre Guerras"
+maintenance_company_tech: "Companhia de Manutenção"
+cat_line_artillery: "Artilharia de Linha"
+cat_light_spg: "Canhões Autopropulsados Leves"
+cat_medium_spg: "Canhões Autopropulsados Médios"
+cat_heavy_spg: "Canhões Autopropulsados Pesados"
+tank_destroyer_tech: "Destruidores de Tanques"
+cat_gunnery: "Artilharia Naval"
+cr_tech: "Modelos de Cruzador"
+acr_tech: "Modelos de Couraçado Rápido"
+cat_targeting: "Computadores de Controle de Tiro"
+cat_torpedo: "Tecnologia de Torpedos"
+carrier_ship_tree: "Operações de Porta-Aviões"
+capital_ship_tree: "Operações de Navios Capitais"
+cat_armored_car: "Carros Blindados"
+cat_special_units: "Unidades Especiais"
+cat_air_guns: "Metralhadoras de Avião"
+cat_air_engine: "Motores de Avião"
+cat_air_bombs: "Bombas de Avião"
+
+fighter_techs_research: "Velocidade de Pesquisa de Caça"
+marine_tech_research: "Velocidade de Pesquisa de Fuzileiros Navais"
+cat_light_armor_research: "Velocidade de Pesquisa de Blindagem Leve"
+construction_tech_research: "Velocidade de Pesquisa de Tecnologia de Construção"
+
+### Tecnologias Ocultas ###
+camel_corps_tech: "Corpo de Camelos"
+camel_corps_tech_effect: "Permite §H$camel_corps_tech$§!\n§HCamelaria\n $desert$§!\n $STAT_ADJUSTER_ATTACK$§G+15%§!\n $STAT_ADJUSTER_DEFENCE$§G+5%§!\n $STAT_ADJUSTER_MOVEMENT$§G+3%§!"
+
+tech_ski_infantry: "Infantaria de Esqui"
+tech_ski_infantry_effect: "Permite §H$tech_ski_infantry$§!\n§H$infantry$\n $hills$§!\n $STAT_ADJUSTER_ATTACK$§G+5%§!\n $STAT_ADJUSTER_DEFENCE$§G+5%§!\n $STAT_ADJUSTER_MOVEMENT$§G+5%§!\n §H$mountain$§!\n $STAT_ADJUSTER_ATTACK$§G+5%§!\n $STAT_ADJUSTER_DEFENCE$§G+5%§!\n $STAT_ADJUSTER_MOVEMENT$§G+10%§!"
+
+tech_marine_bonus: "Fuzileiros Navais Melhorados"
+tech_marine_bonus_effect: "Permite §H$tech_marine_bonus$\n$marine$§!\n $STAT_ARMY_SOFT_ATTACK$§G+5%§!\n $STAT_ARMY_HARD_ATTACK$§G+5%§!\n§H$amphibious_mechanized$§!\n $STAT_ARMY_SOFT_ATTACK$§G+5%§!\n $STAT_ARMY_HARD_ATTACK$§G+5%§!\n§H$amphibious_armor$§!\n $STAT_ARMY_SOFT_ATTACK$§G+5%§!\n $STAT_ARMY_HARD_ATTACK$§G+5%§!"
+
+tech_marine_bonus_2: "Fuzileiros Navais Treinados"
+tech_marine_bonus_2_effect: "Permite §H$tech_marine_bonus_2$\n$marine$§!\n $STAT_ARMY_SOFT_ATTACK$§G+5%§!\n $STAT_ARMY_HARD_ATTACK$§G+5%§!\n§HUnidade de Transporte Anfíbio§!\n $STAT_ARMY_SOFT_ATTACK$§G+5%§!\n $STAT_ARMY_HARD_ATTACK$§G+5%§!\n§HUnidade de Tanque Anfíbio§!\n $STAT_ARMY_SOFT_ATTACK$§G+5%§!\n $STAT_ARMY_HARD_ATTACK$§G+5%§!"
+
+tech_marine_bonus_combined_effect: "Permite §H$tech_marine_bonus$\n$marine$§!\n $STAT_ARMY_SOFT_ATTACK$§G+10%§!\n $STAT_ARMY_HARD_ATTACK$§G+10%§!\n§HUnidade de Transporte Anfíbio§!\n $STAT_ARMY_SOFT_ATTACK$§G+10%§!\n $STAT_ARMY_HARD_ATTACK$§G+10%§!\n§HUnidade de Tanque Anfíbio§!\n $STAT_ARMY_SOFT_ATTACK$§G+10%§!\n $STAT_ARMY_HARD_ATTACK$§G+10%§!"
+
+jungle_warfare_effect: "Permite §H$jungle_warfare$\n$category_light_infantry$\n $jungle$§!\n $STAT_ADJUSTER_ATTACK$§G+10%§!\n $STAT_ADJUSTER_DEFENCE$§G+5%§!\n $STAT_ADJUSTER_MOVEMENT$§G+5%§!"
+
+forest_warfare: "Treinamento de Infantaria Ranger"
+forest_warfare_effect: "Permite §H$forest_warfare$\n$category_light_infantry$\n $forest$§!\n $STAT_ADJUSTER_ATTACK$§G+10%§!\n $STAT_ADJUSTER_DEFENCE$§G+5%§!\n $STAT_ADJUSTER_MOVEMENT$§G+5%§!"
+
+improved_field_hospitals: "Hospitais de Campanha Melhorados"
+improved_field_hospitals_effect: "Permite §H$improved_field_hospitals$\n$field_hospital$§!\n $STAT_ARMY_CASUALTY_TRICKLEBACK$§G+20%§!\n $STAT_ARMY_EXPERIENCE_LOSS_FACTOR$§G-10%§!"
+
+expanded_engineer_corps_tech: "Corpo de Engenheiros Expandido"
+expanded_engineer_corps_tech_effect: "Permite §H$expanded_engineer_corps_tech$\n$engineer$§!\n $STAT_ARMY_ENTRENCHMENT$§G+2§!\n §H$FORT$§!\n $STAT_ADJUSTER_ATTACK$§G+10%§!\n $STAT_ADJUSTER_DEFENCE$§G+10%§!"
+
+mountain_training_tech: "Treinamento de Montanha"
+mountain_training_tech_effect: "Permite §H$mountain_training_tech$\n$category_light_infantry$§!\n §H$mountain$§!\n $STAT_ADJUSTER_ATTACK$§G+5%§!\n $STAT_ADJUSTER_DEFENCE$§G+5%§!\n $STAT_ADJUSTER_MOVEMENT$§G+10%§!"
+
+improved_recon_units_tech: "Unidades de Reconhecimento Melhoradas"
+improved_recon_units_tech_effect: "Permite §H$improved_recon_units_tech$§!\n$improved_recon_units_tech_effect_tooltip$"
+improved_recon_units_tech_effect_tooltip: "§Y$category_recon$§!:\n $STAT_ARMY_BREAKTHROUGH$[?1|+=%0]\n $STAT_ARMY_RECON$[?1|+=%1]"
+improved_recon_units_tech_modifier_tooltip: "§Y$category_recon$§!: $STAT_ARMY_BREAKTHROUGH$[?1|+=%0], $STAT_ARMY_RECON$[?1|+=%1]"
+
+asymmetrical_warfare: "Treinamento de Guerra Assimétrica"
+asymmetrical_warfare_effect: "Permite §H$asymmetrical_warfare$\n$category_light_infantry$§!\n §H$urban$§!\n $STAT_ADJUSTER_ATTACK$§G+10%§!\n $STAT_ADJUSTER_DEFENCE$§G+5%§!\n $STAT_ADJUSTER_MOVEMENT$§G+5%§!"
+
+desert_warfare: "Treinamento de Combate no Deserto"
+desert_warfare_effect: "Permite §H$desert_warfare$§!\n§H$category_light_infantry$\n $desert$§!\n $STAT_ADJUSTER_ATTACK$§G+10%§!\n $STAT_ADJUSTER_DEFENCE$§G+5%§!\n $STAT_ADJUSTER_MOVEMENT$§G+5%§!"
+
+marsh_warfare: "Treinamento de Combate em Pântano"
+marsh_warfare_effect: "Permite §H$marsh_warfare$§!\n§H$category_light_infantry$\n $marsh$§!\n $STAT_ADJUSTER_ATTACK$§G+10%§!\n $STAT_ADJUSTER_DEFENCE$§G+5%§!\n $STAT_ADJUSTER_MOVEMENT$§G+5%§!"
+
+anti_fortification_artillery: "Artilharia Antifortificação"
+anti_fortification_artillery_effect: "Permite §H$anti_fortification_artillery$§!\n§H$category_artillery$§!\n $FORT$: $STAT_ADJUSTER_ATTACK$§G+20%§!"
+
+tech_integrated_specialists: "Forças Especiais Integradas"
+tech_integrated_specialists_effect: "Permite §H$tech_integrated_specialists$§!\n$MODIFIER_SPECIAL_FORCES_CAP$: §G+5%§!\n§H$category_special_forces$§!\n $STAT_ARMY_SOFT_ATTACK$§G+5%§!\n $STAT_ARMY_HARD_ATTACK$§G+5%§!"
+
+tech_at_cavalry: "Fuzis Antitanque para Cavalaria"
+tech_at_cavalry_effect: "Permite §H$tech_at_cavalry$\n$cavalry$§!\n $STAT_COMMON_PIERCING$§G+3§!"
+
+tech_dragoon_tactics: "Táticas de Dragões"
+tech_dragoon_tactics_effect: "Permite §H$tech_dragoon_tactics$\n$cavalry$§!\n $STAT_COMMON_MAX_ORG$: §G+5§!\n $STAT_ARMY_DEFAULT_MORALE$: §G+0,10§!\n $STAT_ADJUSTER_MOVEMENT$§G+10%§!\n Noturno $STAT_ADJUSTER_ATTACK$§G+10§!"
+
+tech_semi_motorised_cav: "Cavalaria Semimotorizada"
+tech_semi_motorised_cav_effect: "Permite §H$tech_semi_motorised_cav$\n$cavalry$§!\n $STAT_COMMON_MAX_ORG$§G+5§!\n $STAT_ARMY_DEFAULT_MORALE$§G+0,10§!\n $STAT_ADJUSTER_MOVEMENT$§G+15%§!"
+
+tech_improved_encryption: "Criptografia Aprimorada"
+tech_improved_encryption_effect: "Permite §H$tech_improved_encryption$§!\n$MODIFIER_CRYPTO_STRENGTH$: [?2|+=0]"
+
+tech_mountain_artillery: "Artilharia de Montanha"
+tech_mountain_artillery_effect: "Permite §H$tech_mountain_artillery$§!\n§H$EQUIPMENT_ARTILLERY$\n $hills$§!\n $STAT_ADJUSTER_ATTACK$§G+10%§!\n $STAT_ADJUSTER_MOVEMENT$§G+10%§!\n §H$mountain$§!\n $STAT_ADJUSTER_ATTACK$§G+10%§!\n $STAT_ADJUSTER_MOVEMENT$§G+10%§!"
+
+tech_arctic_commando: "Comandos no Ártico"
+tech_arctic_commando_effect: "Permite §H$tech_arctic_commando$§!\n $MODIFIER_SPECIAL_FORCES_NO_SUPPLY_GRACE$: [?48|G1=] $MOD_HOUR$\n §H$category_special_forces$§!\n $MODIFIER_ACCLIMATIZATION_COLD_CLIMATE_GAIN_FACTOR$: §G+10%§!\n §H$hills$§!\n $STAT_ADJUSTER_MOVEMENT$§G+5%§!\n §H$mountain$§!\n $STAT_ADJUSTER_MOVEMENT$§G+5%§!"
+
+tech_better_paratroopers: "Paraquedistas de Elite"
+tech_better_paratroopers_effect: "Permite §H$tech_better_paratroopers$§!\n§H$paratrooper$§!\n      $STAT_ARMY_SOFT_ATTACK$§G+10%§!\n      $STAT_ARMY_DEFAULT_MORALE$: §G+0.20§!\n      $MODIFIER_PARATROOPER_EXTRA_SUPPLY_GRACE$: [?24|G1=] $MOD_HOUR$
+
+ tech_irregulars: "Infantaria Irregular"
+ tech_irregulars_effect: "Permite o batalhão da linha §Y$irregular_infantry$§!"
+
+ tech_militias: "Milícia"
+ tech_militias_effect: "Permite o batalhão da linha §Y$militia$§!"
+
+ masterful_blitz_effect: "Permite a Tática: §Y$tactic_masterful_blitz$§!"
+
+ tech_anti_partisan: "Táticas Anti-Insurgência"
+ tech_anti_partisan_effect: "Permite §H$tech_anti_partisan$§!\n§H$infantry$§!\n      $STAT_ARMY_SUPRESSION_FACTOR$§G+15%§!\n§H$cavalry$§!\n      $STAT_ARMY_SUPRESSION_FACTOR$§G+15%§!\n"
+
+ tech_improved_logistics: "Companhia de Logística Melhorada"
+ tech_improved_logistics_effect: "Permite §H$tech_improved_logistics$\n$logistics_company$§!\n   $STAT_ARMY_SUPPLY_CONSUMPTION_FACTOR$[?-0.10|=-%0]\n   $STAT_COMMON_FUEL_CONSUMPTION$[?-0.05|=-%0]"
+
+ tech_early_helicopters: "Helicópteros de Utilidade Precoce"
+ tech_early_helicopters_effect: "Permite §Y$tech_early_helicopters$§!\n   $MODIFIER_SPECIAL_FORCES_NO_SUPPLY_GRACE$: [?24|G1=] $MOD_HOUR$\n§H$category_recon$§!\n   $STAT_ARMY_RECON$§G+1§!"
+
+ tech_human_wave_tactics: "$tactic_human_wave_tactics$"
+ tech_human_wave_tactics_effect: "Permite a Tática: §Y$tactic_human_wave_tactics$§!"
+
+ long_range_patrol_support_tech: "$long_range_patrol_support$"
+ long_range_patrol_support_tech_effect: "Permite §Y$long_range_patrol_support$§! companhia de suporte."
+ modifier_army_sub_unit_long_range_patrol_support_attack_factor_tooltip: "$modifier_army_sub_unit_long_range_patrol_support_attack_factor$: $RIGHT|+=%2$"
+ modifier_army_sub_unit_long_range_patrol_support_defence_factor_tooltip: "$modifier_army_sub_unit_long_range_patrol_support_defence_factor$: $RIGHT|+=%2$"
+
+ winter_logistics_support_tech: "$winter_logistics_support$"
+ winter_logistics_support_tech_effect: "Permite §Y$winter_logistics_support$§! companhia de suporte."
+
+ tech_extensive_reconaissance: "Reconhecimento Extensivo"
+ tech_extensive_reconaissance_effect: "Permite §H$tech_extensive_reconaissance$§!\n$tech_extensive_reconaissance_effect_tooltip$"
+ tech_extensive_reconaissance_effect_tooltip: "§Y$category_recon$§!:\n   $STAT_ARMY_RECON$[?1|=+%1]\n   §Y$snow$§!: $STAT_ADJUSTER_MOVEMENT$[?0.1|=+%0]\n   §Y$forest$§!: $STAT_ADJUSTER_MOVEMENT$[?0.05|=+%0]\n   §Y$hills$§!: $STAT_ADJUSTER_MOVEMENT$[?0.05|=+%0]\n   §Y$mountain$§!: $STAT_ADJUSTER_MOVEMENT$[?0.05|=+%0]\n   §Y$marsh$§!: $STAT_ADJUSTER_MOVEMENT$[?0.05|=+%0]\n   §Y$plains$§!: $STAT_ADJUSTER_MOVEMENT$[?0.05|=+%0]\n   §Y$river$§!: $STAT_ADJUSTER_MOVEMENT$[?0.05|=+%0]"
+ tech_extensive_reconaissance_modifier_tooltip: "§Y$category_recon$§!: $STAT_ARMY_RECON$[?1|=+%1], §Y$snow$§!: $STAT_ADJUSTER_MOVEMENT$[?0.1|=+%0], §Y$forest$§!, §Y$hills$§!, §Y$mountain$§!, §Y$marsh$§!, §Y$plains$§! e §Y$river$§!: $STAT_ADJUSTER_MOVEMENT$[?0.05|=+%0]"
+
+ tech_strengthened_support_companies: "Companhias de Suporte Reforçadas"
+ tech_strengthened_support_companies_effect: "Permite §H$tech_strengthened_support_companies$§!\n$tech_strengthened_support_companies_effect_tooltip$"
+ tech_strengthened_support_companies_effect_tooltip: "§Y$category_support_battalions$§!:\n   $STAT_COMMON_MAX_ORG$[?10|=+1]\n   $STAT_COMMON_MAX_STRENGTH$[?5|=G1]"
+ tech_strengthened_support_companies_modifier_tooltip: "§Y$category_support_battalions$§!: $STAT_COMMON_MAX_ORG$[?10|=+1], $STAT_COMMON_MAX_STRENGTH$[?5|=+1]"
+
+ tech_anti_armour_tactics: "Táticas Anti-Tanque"
+ tech_anti_armour_tactics_effect: "Permite §H$tech_anti_armour_tactics$§!\n$tech_anti_armour_tactics_effect_tooltip$"
+ tech_anti_armour_tactics_effect_tooltip: "§Y$category_all_infantry$§!:\n   $STAT_ARMY_HARD_ATTACK$[?0.25|=+%0]\n   $STAT_COMMON_PIERCING$[?1|=+%0]"
+ tech_anti_armour_tactics_modifier_tooltip: "§Y$category_all_infantry$§!: $STAT_ARMY_HARD_ATTACK$[?0.25|=+%0], $STAT_COMMON_PIERCING$[?1|=+%0]"
+
+ ### Unidades ###
+ assault_battalion: "$blackshirt_assault_battalion$"
+ assault_battalion_desc: "$blackshirt_assault_battalion_desc$"
+
+ tech_assault_battalion: "$assault_battalion$"
+ tech_assault_battalion_effect: "Permite §Y$assault_battalion$§! companhia de suporte."
+
+ modifier_army_sub_unit_assault_battalion_attack_factor: "$assault_battalion$ Ataque"
+ modifier_army_sub_unit_assault_battalion_defence_factor: "$assault_battalion$ Defesa"
+ modifier_army_sub_unit_assault_battalion_speed_factor: "$assault_battalion$ Velocidade"
+ modifier_army_sub_unit_assault_battalion_max_org_factor: "$assault_battalion$ Organização"
+
+ ### Módulos ###
+ tank_makeshift_armor: "Blindagem Improvisada"
+ tank_makeshift_armor_desc: "Feita de folhas de ferro em vez de aço para economizar dinheiro. Melhor do que nenhuma armadura... Provavelmente."
+
+ tank_improvised_turret: "Torre Improvisada"
+ tank_improvised_turret_desc: "Abriga a arma e pode girar. Quando quer."
+
+### Tag de Depuração ###
+XXA: "Territórios Integráveis"
+XXA_ADJ: "Integrável"
+XXA_DEF: "os Territórios Integráveis"

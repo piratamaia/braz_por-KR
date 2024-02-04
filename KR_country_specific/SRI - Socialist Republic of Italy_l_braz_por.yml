@@ -1,0 +1,1180 @@
+﻿l_braz_por:
+
+ KR_Socialist_Republic_Italy: "Árvore de focos da República Socialista da Itália"
+
+### Country Names ###
+ SRI: "Itália Socialista"
+SRI_ADJ: "Italiano Socialista"
+SRI_DEF: "Itália Socialista"
+
+SRI_totalist: "República Socialista da Itália"
+SRI_totalist_ADJ: "Italiano"
+SRI_totalist_DEF: "a República Socialista da Itália"
+SRI_syndicalist: "República Socialista da Itália"
+SRI_syndicalist_ADJ: "Italiano"
+SRI_syndicalist_DEF: "a República Socialista da Itália"
+SRI_radical_socialist: "República Socialista da Itália"
+SRI_radical_socialist_ADJ: "Italiano"
+SRI_radical_socialist_DEF: "a República Socialista da Itália"
+
+SRI_italy: "Itália"
+SRI_italy_ADJ: "Italiano"
+SRI_italy_DEF: "Itália"
+
+SRI_italy_totalist: "República Socialista da Itália"
+SRI_italy_totalist_ADJ: "Italiano"
+SRI_italy_totalist_DEF: "a República Socialista da Itália"
+SRI_italy_syndicalist: "República Socialista da Itália"
+SRI_italy_syndicalist_ADJ: "Italiano"
+SRI_italy_syndicalist_DEF: "a República Socialista da Itália"
+SRI_italy_radical_socialist: "República Socialista da Itália"
+SRI_italy_radical_socialist_ADJ: "Italiano"
+SRI_italy_radical_socialist_DEF: "a República Socialista da Itália"
+
+SRI_social_republic: "República Social Italiana"
+SRI_social_republic_ADJ: "Italiano"
+SRI_social_republic_DEF: "a República Social Italiana"
+SRI_mussolini_rsi: "República Social Italiana"
+SRI_mussolini_rsi_ADJ: "Italiano"
+SRI_mussolini_rsi_DEF: "a República Social Italiana"
+SRI_workers_republic: "República Democrática dos Trabalhadores Italianos"
+SRI_workers_republic_ADJ: "Italiano"
+SRI_workers_republic_DEF: "a República Democrática dos Trabalhadores Italianos"
+
+### Parties ###
+ SRI_totalist_party: "FAR"
+ SRI_totalist_party_long: "Fascio d'Azione Rivoluzionaria"
+ SRI_totalist_pldf_party_long: "Partito del Lavoro Fascista"
+ SRI_totalist_pldf_party: "PdLF"
+ SRI_totalist_pcdi_party_long: "Partito Comunista d'Italia"
+ SRI_totalist_pcdi_party: "PCd'I"
+ SRI_syndicalist_party: "CGdL-USI (IOS)"
+ SRI_syndicalist_party_long: "Confederazione Generale del Lavoro - Unione Sindacale Italiana (Sezione Italiana dell'Internazionale Operaia Sindacalista)"
+ SRI_syndicalist_CGIL_party: "CGIL"
+ SRI_syndicalist_CGIL_party_long: "Confederazione Generale Italiana del Lavoro"
+ SRI_radical_socialist_party: "PdA"
+ SRI_radical_socialist_party_long: "Partito d'Azione"
+ SRI_social_democrat_party: "PCS"
+ SRI_social_democrat_party_long: "Partito Cristiano Sociale"
+ SRI_social_liberal_party: "PRI"
+ SRI_social_liberal_party_long: "Partito Repubblicano Italiano"
+ SRI_market_liberal_party: "UDN"
+ SRI_market_liberal_party_long: "Unione Democratica Nazionale"
+ SRI_social_conservative_party: "AC/FUCI"
+ SRI_social_conservative_party_long: "Azione Cattolica / Federazione Universitaria Cattolica Italiana"
+ SRI_authoritarian_democrat_party: "Confindustria"
+ SRI_authoritarian_democrat_party_long: "Confindustria"
+ SRI_paternal_autocrat_party: "FMC"
+ SRI_paternal_autocrat_party_long: "Fronte Militare Clandestino"
+ SRI_national_populist_party: "FMC (Camicie Azzurre)"
+ SRI_national_populist_party_long: "Fronte Militare Clandestino (Sempre Pronti per la Patria e per il Re)"
+
+### Opinion Modifiers ###
+SRI_did_not_listen_FRA: "Itália Ignorou Nosso Conselho"
+
+### Decisions ###
+SRI_massive_protests_mission: "Protestos Massivos"
+SRI_expand_police_operations: "Expandir Operações Policiais"
+SRI_chetnik_operations: "Operações Chetnik"
+SRI_chetniks_on_the_move: "Chetniks em Movimento"
+SRI_leave_an_opening_dec: "Deixar uma Abertura"
+SRI_international_decisions: "Itália na Internacional"
+SRI_international_decisions_desc: "A República Socialista da Itália foi um dos membros fundadores da Internacional. Como tal, devemos apoiar e contribuir para os vários projetos e iniciativas dos outros membros da Internacional."
+SRI_join_the_intl: "Juntar-se à Terceira Internacional"
+SRI_join_the_intl_desc: "Tanto a Alemanha quanto a Áustria estão desconfiadas de uma aliança formal sendo criada entre a Terceira Internacional e [Root.GetNameDef], em que forças francesas e britânicas seriam chamadas para nos ajudar a reunir a Itália sob o domínio sindicalista. No entanto, se alguma grande potência se envolver na Itália, ou se a guerra começar entre [FRA.GetNameDef] e [GER.GetNameDef] novamente, então tudo está em jogo."
+SRI_Assist_Damocles_Project: "Ajudar o Projeto Dâmocles"
+SRI_Assist_Damocles_Project_desc: "Os britânicos criaram um programa para coordenar pesquisas nucleares. Como aliados, devemos apoiar os britânicos; nosso próprio Enrico Fermi é um talentoso físico nuclear por direito próprio e seria uma excelente adição ao projeto."
+SRI_political_decisions: "Decisões Políticas"
+SRI_political_decisions_desc: "Existem muitas decisões políticas diferentes que podemos tomar para moldar a natureza da República."
+SRI_begin_the_cultural_revolution: "Iniciar a Revolução Cultural"
+SRI_begin_the_cultural_revolution_desc: "Elementos reacionários ainda assolam nossa sociedade, e como ratos, quando um é purgado, uma dúzia mais parece correr para fora da madeira. Devemos nos esforçar para eliminá-los completamente de uma só vez."
+SRI_unite_italia: "Unificar a Itália"
+SRI_unite_italia_desc: "A Itália foi dividida durante a Guerra Civil Italiana. No entanto, finalmente, a República Socialista da Itália triunfou e agora unificamos o país novamente."
+SRI_attack_italy: "Atacar [From.GetNameDef]"
+SRI_attack_italy_desc: "Chegou a hora de o Risorgimento ser completado - devemos libertar os trabalhadores de [From.GetNameDef] e incorporá-los à República Socialista."
+SRI_rally_supporters: "Rally de Apoiadores Dentro de [ITA.GetNameDef]"
+SRI_rally_supporters_desc: "Existe uma rede de sindicalistas dentro de [ITA.GetNameDef], aqueles que se levantariam se chamados. Eles têm trabalhado desde a guerra civil, e embora suas forças possam não inclinar o equilíbrio a nosso favor, podemos usar toda a ajuda disponível."
+
+INT_invite_SRI: "Convidar [From.GetNameDef] para a [Root.GetFactionName]"
+INT_invite_SRI_desc: "Tanto a Alemanha quanto a Áustria estão desconfiadas de uma aliança formal sendo criada entre a [Root.GetFactionName] e [From.GetNameDef], em que nossas forças seriam chamadas para ajudar [From.GetNameDef] a reunir a Itália sob o domínio sindicalista. No entanto, se alguma grande potência se envolver na região, ou se nos encontrarmos em guerra com [GER.GetNameDef] novamente, então tudo está em jogo."
+
+SRI_balance_of_power_category: "O Futuro da República Socialista"
+SRI_bop_syndie_in_control_side: "Ascensão dos Sindicatos"
+SRI_bop_totalist_in_control_side: "Presidência Empoderada"
+SRI_radsoc_side: "Equilíbrio Parlamentar"
+SRI_power_balance: "Construindo o Futuro da Itália"
+SRI_totalist_side: "A Presidência"
+SRI_syndie_side: "Os Sindicatos"
+SRI_abuse_the_presidency_bop_decision: "Abusar dos Poderes Presidenciais"
+SRI_launch_strike_bop_decision: "Iniciar Greves de Protesto"
+SRI_let_blackshirts_loose_bop_decision: "Soltar os Camisas Negras"
+SRI_negotiate_with_factory_cooperatives: "Negociar com Cooperativas de Fábrica"
+SRI_CP_30_PP_10: "£command_power §H30§! £poder_político §H10§!"
+SRI_CP_30_PP_10_blocked: "£command_power §R30§! £poder_político §R10§!"
+SRI_CP_30_PP_10_tooltip: "Custa $SRI_CP_30_PP_10_blocked$ para tomar a decisão"
+SRI_STAB_05: "£GFX_stability_texticon §Y5%§!"
+SRI_STAB_05_blocked: "£GFX_stability_texticon §R5%§!"
+SRI_STAB_05_tooltip: "Custa $SRI_STAB_05_blocked$ para tomar a decisão"
+
+### Flags ###
+SRI_1936_elections_held: "Realizadas as Eleições de §Y1936§!"
+SRI_italy_unified_flag: "A Itália foi unificada"
+SRI_pisa_pile_1: "Enrico Fermi começou seus experimentos nucleares"
+SRI_cannot_call_italy: "Não é possível chamar aliados para uma guerra pela Itália a menos que a Segunda Guerra Mundial tenha começado"
+SRI_cannot_join_italy: "[SRI.GetNameDefCap] não pode se juntar a uma facção a menos que a Segunda Guerra Mundial tenha começado ou o equilíbrio na Itália tenha sido quebrado"
+SRI_balance_broken: "O equilíbrio na Itália foi quebrado"
+SRI_balance_explanation: "§Y[SRI.GetNameDefCap]§! não será capaz de se juntar à Terceira Internacional, embora possa receber voluntários e outro apoio limitado deles, desde que o equilíbrio não seja perturbado por outra grande potência intervindo na região.\n\n"
+SRI_balance_will_be_broken: "Esta ação quebrará o equilíbrio na Itália - §Y[SRI.GetNameDef]§! será capaz de se juntar à Terceira Internacional sem medo de intervenção!\n\n"
+AUS_balance_will_be_broken: "Esta ação quebrará o equilíbrio na Itália - outros estados italianos serão capazes de se juntar a facções e chamar seus aliados contra nós sem medo de intervenção!\n\n"
+SRI_germany_may_intervene: "§Y[GER.GetNameDefCap]§! ficará alarmada com esta ação e pode optar por intervir na guerra contra nós!"
+
+### Companies ###
+accademia_militare_modena: "Accademia Militare di Modena"
+centro_addestramento_alpino: "Centro Addestramento Alpino"
+armiguerra: "Armiguerra"
+arsenale_torino: "Arsenale di Torino"
+fabbrica_darmi_terni: "Fabbrica d'Armi di Terni"
+fiat: "FIAT"
+officine_sestri_ponente: "Officine Sestri Ponente"
+industrie_belliche_liguri: "Industrie Belliche Liguri"
+acciaierie_terni: "Acciaierie di Terni"
+officine_meccaniche_reggiane: "Officine Meccaniche Reggiane"
+accademia_navale_livorno: "Accademia Navale di Livorno"
+cantieri_navali_riuniti: "Cantieri Navali Riuniti"
+cantieri_navali_livorno: "Cantieri Navali di Livorno"
+cantiere_navale_ancona: "Cantiere Navale di Ancona"
+accademia_aeronautica_ancona: "Accademia Aeronautica di Ancona"
+reggiane_aeronautica: "Reggiane Aeronautica"
+fiat_aviazione: "FIAT Aviazione"
+cmasa: "CMASA"
+siamic: "SIAMIC"
+societa_montecatini: "Società Montecatini"
+raffineria_livorno: "Raffineria di Livorno"
+universita_torino: "Università di Torino"
+
+### MIO ### 
+SRI_odero_terni_orlando_mio_name: "Odero-Terni-Orlando"
+SRI_cantieri_riuniti_del_tirreno_mio_name: "Cantieri Riuniti del Tirreno"
+SRI_cantieri_riuniti_dell_adriatico_mio_name: "Cantieri Riuniti dell'Adriatico"
+
+### Ideas ###
+SRI_dannunzian_coalition: "Coalizão Dannunziana"
+SRI_dannunzian_coalition_desc: "Desde 1934, a República Socialista tem sido governada pelo Presidente Giulietti e pelo Primeiro-Ministro Mussolini, governando juntos de maneira nacionalista e ainda internacionalista e evocando imagens do grande mártir revolucionário patriótico Gabriele d'Annunzio. Apesar de toda a propaganda, está claro que o mito de D'Annunzio não é suficiente para solidificar o governo de uma nação revolucionária; além disso, há temores de que Mussolini esteja trabalhando nos bastidores para erodir nossa democracia revolucionária."
+SRI_broken_orthodoxy: "Ortodoxia Quebrada"
+SRI_secret_polices: "Ministério da Segurança Pública"
+SRI_squadrismo_idea: "Esquadrismo"
+SRI_reformed_party_idea: "O Partido Reformado"
+SRI_national_guard_idea: "A Guarda Nacional Republicana"
+SRI_massive_protests_idea: "Protestos Massivos"
+SRI_party_opposition_idea: "Oposição Partidária"
+SRI_fulfilling_sansepolcro_idea: "Cumprindo Sansepolcro"
+SRI_italian_chetniks_idea: "Os Chetniks Italianos"
+SRI_italian_chetniks_idea_desc: "Formada em 1919, a Frente Militar Clandestina (apelidada de "Chetniks Italianos" por Togliatti) é o órgão encarregado da organização das unidades realistas encalhadas na Itália continental em uma unidade de retaguarda eficaz para ajudar o retorno da Casa de Saboia. Operando nas áreas mais conservadoras do país, mas também no sul do Piemonte e (com um apoio suíço significativo) no Val d'Ossola, eles permanecem um poderoso agente de reação incorporado dentro do que é ostensivamente nosso território."
+SRI_rural_communes_idea: "Sindicatos Rurais Fortalecidos"
+SRI_the_spirit_of_parma_idea: "O Espírito de Parma"
+SRI_mixed_communes_idea: "Compromisso Estilo Francês"
+SRI_fight_for_internationalism_idea: "Luta pelo Internacionalismo"
+SRI_urban_communes_idea: "Sindicatos Urbanos Fortalecidos"
+SRI_federated_unions_idea: "Os Sindicatos Federados"
+SRI_anti_squadrismo_idea: "Desmantelamento do Para-Estado Fascista"
+SRI_new_agrarian_reform_idea: "Nova Reforma Agrária"
+SRI_thought_and_action_idea: "Pensamento e Ação"
+SRI_oath_of_sansepolcro: "Juramento de Sansepolcro"
+
+SRI_recent_military_exercises_idea: "Exercícios Militares Recentes"
+SRI_recent_naval_exercises_idea: "Exercícios Navais Recentes"
+
+SRI_historic_compromise_idea: "O Compromisso Histórico"
+SRI_new_anticlerical_offensive_idea: "A Nova Ofensiva Anticlerical"
+
+SRI_standardised_electrical_networks: "Redes Elétricas Padronizadas"
+SRI_apulian_farming: "Agricultura Apuliana"
+
+SRI_legione_proletaria_modifier: "Legião Proletária"
+SRI_guardia_rossa_modifier: "Guarda Vermelha"
+SRI_citta_del_aria_modifier: "Città del'Aria"
+SRI_istituto_di_studi_militari_marittimi_modifier: "Instituto de Estudos Militares Marítimos"
+
+SRI_eternal_city_modifier: "Cidade Eterna"
+
+### Tooltips ###
+SRI_constitutional_restoration_tt: "§RMuitos poderes se opõem a essa medida, especialmente no FAR. Precauções são necessárias.§!"
+SRI_constitutional_restoration_elections_tt: "Novas §Geleições§! serão realizadas em um mês."
+SRI_focus_effects_depend_on_pope: "Os §Yefeitos deste foco§! mudarão dependendo do §cpapa atual§!."
+socitaly.4.a.tt: "O §Spartido no poder§! no momento das §Yprimeiras eleições pós-unificação§! determinará o §Ycaminho político pós-guerra§!.\n\n"
+SRI_owned_or_puppet: "é de propriedade de §Y[Root.GetName]§! ou um fantoche\n"
+SRI_expand_police_operations_tt: "§GAumenta§! a probabilidade do §Ypróximo ataque da FMC ser impedido§!, com seus organizadores sendo presos."
+SRI_expand_police_operations_opposite_tt: "§RDiminui§! a probabilidade do §Ypróximo ataque da FMC ser impedido§!."
+SRI_fmc_idea_still_here_tt: "§REmbora suas operações pareçam ter parado, unidades da FMC ainda percorrem o campo, aguardando instruções do governo realista.§!"
+SRI_leggi_fascistissime_tt: "§RA democracia na Itália acabará.§!"
+SRI_if_all_three_lunatics_hired: "§CSe os três, §Y$SRI_roberto_farinacci$§!, §Y$SRI_filippo_marinetti$§! e §Y$SRI_ettore_muti$§!, forem contratados como conselheiros políticos antecipadamente:§!"
+
+SRI_istituto_per_la_ricostruzione_industriale_modifier: "Istituto per la Ricostruzione Industriale"
+SRI_modify_istituto_per_la_ricostruzione_industriale: "Modificar §Y$SRI_istituto_per_la_ricostruzione_industriale_modifier$§! por"
+
+SRI_will_build_in_lombardy_if_owned: "§Y[159.GetName]§! também ganhará §Y1 $complexo_industrial$§! se controlado por §Y[ROOT.GetNameWithFlag]§!."
+SRI_will_build_in_venetia_if_owned: "§Y[160.GetName]§! também ganhará §Y1 $complexo_industrial$§! se controlado por §Y[ROOT.GetNameWithFlag]§!."
+
+SRI_modify_legione_proletaria: "Modificar §Y$SRI_legione_proletaria_modifier$§! por"
+SRI_legione_proletaria_custom_modifier_tooltip: "[ROOT.SRI_GetLegioneProletariaCustomModifierTooltip]"
+
+SRI_legione_proletaria_bonus: "$efeito_de_tecnologia_unidades_de_reconhecimento_aprimoradas$\n$SRI_bonus_de_producao_de_carros_blindados$\n$SRI_bonus_de_producao_de_blindados$"
+SRI_legione_proletaria_bonus_no_lar: "$efeito_de_tecnologia_unidades_de_reconhecimento_aprimoradas$\n$SRI_bonus_de_producao_de_blindados$"
+
+SRI_combined_armor_production_bonus: "$SRI_bonus_de_producao_de_carros_blindados$\n$SRI_bonus_de_producao_de_blindados$"
+SRI_bonus_de_producao_de_carros_blindados: "§Y$equipamento_de_carro_blindado$§!: £GFX_production_cost Custo de Produção: [?-0.1|-=%2]"
+SRI_bonus_de_producao_de_blindados: "§Y$blindagem$§!: £GFX_production_cost Custo de Produção: [?-0.05|-=%2]"
+
+SRI_modify_guardia_rossa: "Modificar §Y$SRI_guardia_rossa_modifier$§! por"
+SRI_guardia_rossa_custom_modifier_tooltip: "[ROOT.SRI_GetGuardiaRossaCustomModifierTooltip]"
+
+SRI_on_completion_legione_proletaria_or_guardia_rossa: "§CQuando completado §Y$SRI_la_legione_proletaria$§! ou §Y$SRI_la_guardia_rossa$§!§!:"
+SRI_modify_legione_proletaria_or_guardia_rossa: "Modificar §Y$SRI_legione_proletaria_modifier$§! ou §Y$SRI_guardia_rossa_modifier$§! por"
+
+SRI_add_two_forts_in_border_provinces: "Adicionar §G2§! §Y$bunker$§! em todas as províncias de fronteira.\n"
+SRI_if_fully_controlled: "O efeito também se aplicará a esses estados se totalmente controlados:"
+
+SRI_gain_militia_template: "Ganhar modelo §YFormazione di Difesa Proletaria§! composto por §Y6 $militia$§! batalhões e §Y$artillery$§!.\n§G§Y$assault_battalion$§! apoio será adicionado ao modelo se §Y$SRI_arditi_del_popolo$§! for concluído primeiro.§!"
+SRI_gain_militia_template_with_assault_battalion: "Ganhar modelo §YFormazione di Difesa Proletaria§! composto por §Y6 $militia$§! batalhões, §Y$artillery$§! e apoio §Y$assault_battalion$§!."
+
+SRI_upon_researching_engineers_2: "Após pesquisar §Y$tech_engineers2$§!:"
+
+SRI_has_tech_interwar_antiair: "Pesquisou §Y$SRI_anti_air_equipment_1$§! (§Y$interwar_antiair$§!)"
+SRI_has_tech_interwar_antitank: "Pesquisou §Y$SRI_anti_tank_equipment_1$§! (§Y$interwar_antitank$§!)"
+SRI_has_tech_infantry_weapons2: "Pesquisou §Y$SRI_infantry_weapons2$§! (§Y$infantry_weapons2$§!)"
+SRI_has_tech_support_weapons2: "Pesquisou §Y$SRI_support_weapons2$§! (§Y$support_weapons2$§!)"
+
+SRI_modify_citta_del_aria: "Modificar §Y$SRI_citta_del_aria_modifier$§! por"
+SRI_on_completion_citta_del_aria: "§CQuando completado §Y$SRI_citta_del_aria$§!§!:"
+SRI_cda_custom_modifier_tooltip: "[ROOT.SRI_GetCDACustomModifierTooltip]"
+SRI_aircraft_production_bonus: "§Y$equipamento_aereo$§!: £GFX_production_cost Custo de Produção: [?-0.05|-=%2]"
+
+SRI_modify_istituto_di_studi_militari_marittimi: "Modificar §Y$SRI_istituto_di_studi_militari_marittimi_modifier$§! por"
+SRI_on_completion_istituto_di_studi_militari_marittimi: "§CQuando completado §Y$SRI_istituto_di_studi_militari_marittimi$§!§!:"
+SRI_ismm_custom_modifier_tooltip: "[ROOT.SRI_GetISMMCustomModifierTooltip]"
+SRI_combined_naval_production_bonus: "$SRI_bonus_de_producao_de_naval_de_tela$\n$SRI_bonus_de_producao_de_naval_capital$"
+SRI_bonus_de_producao_de_naval_de_tela: "§Y$navio_de_tela$§!: £GFX_production_cost Custo de Produção: [?-0.1|-=%2]"
+SRI_bonus_de_producao_de_naval_capital: "§Y$navio_capital$§!: £GFX_production_cost Custo de Produção: [?-0.1|-=%2]"
+
+SRI_add_cruiser_submarines_tech: "Adicionar tecnologia: §Y$submarinos_cruzadores$§!."
+SRI_add_panzerschiffe_tech: "Adicionar tecnologia: §Y$navios_de_guerra_armados$§!."
+
+### Political Tree ###
+ SRI_build_a_new_government: "Construindo um Novo Governo"
+SRI_build_a_new_government_desc: "O experimento social-nacionalista de Giulietti claramente falhou, causando um impasse parlamentar após as novas eleições. No entanto, não devemos demonstrar fraqueza; uma nova solução governamental deve ser encontrada."
+SRI_making_the_new_italy: "Criando a Nova Itália"
+SRI_making_the_new_italy_desc: "Após anos de luta, a Itália finalmente está unida; no entanto, também está claro que o compromisso que encapsulou a política socialista nos últimos anos não pode mais durar. Novas eleições foram agendadas: vejamos o que o sol da manhã traz."
+SRI_deal_with_fmc: "Lidar com a FMC"
+SRI_deal_with_fmc_desc: "A Frente Militar Clandestina tem sido um espinho em nosso lado por tempo demais. Com um governo estável finalmente no lugar, agora podemos pelo menos conter e reduzir suas operações."
+SRI_crush_monarchist_militias: "Esmagar os Chetniks"
+SRI_crush_monarchist_militias_desc: "Com Caviglia finalmente em nossas mãos, nada pode impedir nossa entrega de justiça aos terroristas que têm devastado nossa nação por tantos anos."
+SRI_attract_socialist_intellectuals: "Atrair Intelectuais Socialistas"
+SRI_attract_socialist_intellectuals_desc: "Por toda a Península, muitos intelectuais socialistas ainda trabalham para outros governos ou aguardam sua libertação. Não mais: chamemos todos esses bravos filhos da Itália para virem aqui (é claro, com a promessa de uma compensação justa) e ajudarem a trazer a Revolução para nossa nação."
+
+ # RadSocs
+
+SRI_seven_points_manifesto: "O Manifesto dos Sete Pontos"
+SRI_seven_points_manifesto_desc: "Iniciaremos o processo de promulgação do Manifesto dos Sete Pontos. Este será o início de muitas noites difíceis para nós trabalharmos, e há muitos que se opõem a isso em cada fibra de seu ser e farão qualquer coisa para impedir isso. Mas a luta valerá a pena, para que a nova Itália nasça em um país moderno e livre."
+SRI_revise_colonial_agreements: "Rever Acordos Coloniais"
+SRI_revise_colonial_agreements_desc: "O programa de reforma agrária da república socialista, até agora, deixou muito a desejar. Limitado em escopo e paternalista em sua supervisão da peasantry rural pelo proletariado urbano, está há muito tempo para revisão. O PdA agora avançou legislação nesse sentido, o que daria grande poder ao campesinato em toda a Itália se aprovada."
+SRI_regionalist_turn: "A Virada Regionalista"
+SRI_regionalist_turn_desc: "É importante que as comunidades regionais da Itália tenham seus direitos respeitados e não sejam arrastadas para o esgoto por causa da ignorância de Roma sobre sua situação. Promovido por Emilio Lussu e Gaetano Salvemini, avançaremos com um novo sistema que concederá mais liberdade às federações sindicais regionais para planejar seus próprios acordos."
+SRI_paneuropean_cooperation: "Cooperação Paneuropeia"
+SRI_paneuropean_cooperation_desc: "Há muito tempo, Roma governava uma grande parte da Europa, e hoje as nações da Europa podem ser consideradas seus filhos. Faz sentido que um novo tipo de ideal Paneuropeu volte a enraizar-se aqui, com os valores modernos do socialismo e da democracia para nos reunir em uma era de paz para os trabalhadores da Europa."
+SRI_enforced_secularism: "Secularismo Imposto"
+SRI_enforced_secularism_desc: "Um dos Sete Pontos é o do Secularismo, que é necessário para evitar a estagnação causada pelo viés religioso. Para completar nossos objetivos, a Igreja Católica deve ser completamente separada do estado, e a educação deve ser mais inclusiva para todas as fé."
+SRI_liberalise_the_unions: "Liberar os Sindicatos"
+SRI_liberalise_the_unions_desc: "Os trabalhadores agora têm a liberdade de se juntar aos sindicatos liberais em vez do duopólio urbano-rural da CGdL e USI. Isso também permitirá que os sindicatos liberais tenham mais liberdades políticas para funcionar de forma mais independente em troca."
+SRI_break_enemies_of_democracy: "Quebrar os Inimigos da Democracia"
+SRI_break_enemies_of_democracy_desc: "As serpentes fascistas se escondem nas sombras para morder a chance de acabar com nossa liberdade, então, em troca, nos tornaremos as águias que as caçarão. O FAR e as Camisas Negras agora serão forçados a se desfazer, e qualquer um deles que for pego conspirando contra a democracia encontrará justiça, nomeadamente a do aspirante a César, Mussolini."
+SRI_constitutional_restoration: "A Restauração Constitucional"
+SRI_constitutional_restoration_desc: "Os liberais também valorizam a liberdade, e seria bastante tirânico de nossa parte excluí-los de terem voz na política de um sistema radical. A constituição original será restaurada, com algumas revisões que ainda estão voltadas para os valores dos trabalhadores."
+SRI_compromise_with_unions: "Um Compromisso com os Sindicatos"
+SRI_compromise_with_unions_desc: "Não devemos esquecer nossos irmãos sindicalistas, pois o trabalhador italiano não teria sido libertado sem sua ajuda. Daqui em diante, a Itália permanecerá uma república de trabalhadores pura e livre, e os remanescentes de quaisquer forças reacionárias que ameacem isso serão cortados permanentemente."
+
+ # Shared between RadSocs and Syndies
+SRI_reconcile_with_likeminded_republicans: "Reconciliar-se com Republicanos de Mente Semelhante"
+SRI_reconcile_with_likeminded_republicans_desc: "Com nosso controle sobre a Itália garantido, podemos oferecer um ramo de oliveira aos oficiais brancos simpáticos à nossa causa. Sua experiência será útil para a Revolução - sem mencionar que as pessoas com quem trabalharam estarão mais propensas a aceitar o novo status quo."
+
+SRI_amnesty_for_service: "Anistia por Serviço"
+SRI_amnesty_for_service_desc: "Ainda mais oficiais e soldados lutaram contra nós não por causa de sua oposição ideológica à nossa República, mas simplesmente por um senso de dever para com o governo sob o qual viviam. Eles realmente não guardam rancor contra o sindicalismo e lutarão por nós se oferecermos anistia por seus crimes contra o socialismo."
+
+ # Syndies
+SRI_the_syndicalist_orthodoxy: "A Ortodoxia Sindicalista"
+SRI_the_syndicalist_orthodoxy_desc: "Apesar dos ataques viscerais do FAR presidencialista e de Mussolini, a ortodoxia sindicalista estabelecida em 1919 sobrevive para ver outro dia. Algumas coisas precisarão mudar - o presidente interino Giulietti é quase universalmente desprezado e será rapidamente substituído - mas podemos ter certeza de que ninguém ameaçará nossa democracia novamente."
+SRI_empower_cgl: "Empoderar os Sindicatos Urbanos"
+SRI_empower_cgl_desc: "O compromisso inspirado na França entre sindicatos urbanos e rurais não pode ser mantido. Como a CGdL urbana é de longe o maior sindicato do país, ela e seu líder Giuseppe di Vittorio liderarão a Itália por enquanto."
+SRI_empower_usi: "Empoderar os Sindicatos Rurais"
+SRI_empower_usi_desc: "O compromisso inspirado na França entre sindicatos urbanos e rurais não pode ser mantido. Com a USI anarquista rural sendo o sindicato mais militante do país, ela e seu líder Alberto Meschi continuarão nossa revolução."
+SRI_follow_french_light: "Seguir os Portadores da Tocha Franceses"
+SRI_follow_french_light_desc: "O compromisso urbano-rural se manterá aqui como aconteceu na França. A unidade é, afinal, nossa maior força; como tal, o alinhado com os franceses Pietro Nenni ascenderá ao topo, em uma tentativa de unificação socialista."
+SRI_exclude_catholic_unions: "Excluir Sindicatos Católicos"
+SRI_exclude_catholic_unions_desc: "Não podemos nos dar ao luxo de chegar a um acordo com a força que trabalha para destruir a República. Mesmo que se declarem leais, os sindicatos alinhados com os católicos terão que ser desmantelados para a segurança da República."
+SRI_compromise_with_the_church: "Compromisso com a Igreja"
+SRI_compromise_with_the_church_desc: "A maioria de nossa população é católica e muitos sindicalistas aderem à Doutrina Social da Igreja. Mesmo que nos doa, devemos chegar a um entendimento com a Igreja Católica Romana, pela estabilidade de nossa nação."
+SRI_the_spirit_of_parma: "O Espírito de Parma"
+SRI_the_spirit_of_parma_desc: "Em 1907, a USI liderou a maior manifestação sindical da Itália antes da própria revolução de 1919, e foi apenas devido à inação do Partido Socialista que tivemos que adiar a libertação do proletariado por 12 anos. O espírito das greves de Parma vive através de nós - e estará na base da nova Itália."
+SRI_movement_of_true_action: "O Movimento da Verdadeira Ação"
+SRI_movement_of_true_action_desc: "Enquanto os maiores sindicatos e o Partido Socialista dançavam com o reformismo, nossa pequena USI sempre lutou pela revolução e pela libertação de todos os proletários. Mesmo que tenhamos perdido algumas vozes importantes no caminho, permanecemos o que sempre fomos - o único movimento que pede verdadeira ação revolucionária."
+SRI_crush_the_squadracce: "Esmagar as Squadracce"
+SRI_crush_the_squadracce_desc: "As camisas negras fascistas continuam a percorrer o país e atacar nossas organizações sindicais. O governo deve ser claro - os erros cometidos desde 1934 serão corrigidos, e as camisas negras antidemocráticas serão destruídas no processo."
+SRI_empower_federated_unions: "Empoderar os Sindicatos Federados"
+SRI_empower_federated_unions_desc: "Não podemos apenas fortalecer a CGdL como um todo - os sindicatos federados que formam a confederação devem receber os poderes e as liberdades de que precisam para proteger e gerenciar os trabalhadores italianos."
+SRI_appeal_to_socialist_unity: "Apelo à Unidade Socialista"
+SRI_appeal_to_socialist_unity_desc: "A maior força da República Socialista é nossa unidade diante da adversidade. O presidente Nenni sabe disso - por isso convocou socialistas de todas as denominações, e especialmente seu amigo moderado Giuseppe Saragat, para voltarem à união da Internacional."
+SRI_fight_for_internationalism: "Lutar pelo Internacionalismo"
+SRI_fight_for_internationalism_desc: "Nós mesmos vimos - a libertação de todos os trabalhadores não pode coincidir com disputas nacionalistas, e sempre será combatida por todas as forças antiproletárias. Devemos estar prontos para lutar pela liberdade - estaremos prontos!"
+SRI_the_federal_union: "A União Federal"
+SRI_the_federal_union_desc: "Assinamos um pacto interessante com a Igreja. Com seu apoio, os sindicatos católicos serão fundidos com a CGdL em uma nova união federal italiana para coordenar os esforços de todos os trabalhadores em direção à sua emancipação. Isso certamente nos trará algum apoio muito necessário."
+SRI_emphasise_the_social_saints: "Ênfase nos Santos Sociais"
+SRI_emphasise_the_social_saints_desc: "A Igreja é, de fato, a primeira aliada dos pobres. Ao promover nossa relação com a igreja, iremos... ignorar o último século de reação militante; em vez disso, vamos focar nos muitos padres de baixo escalão que fizeram muito para ajudar o proletariado."
+SRI_protect_local_democracy: "Proteger a Democracia Local"
+SRI_protect_local_democracy_desc: "Como parte de nosso acordo com a Igreja, políticos reacionários alinhados com os católicos poderão concorrer a cargos nos menores escalões do governo. Enquanto a República Socialista controla a nação e as cidades, a Igreja manterá seu controle sobre o campo - em cooperação com nosso governo."
+SRI_revolutionary_expropriations: "Expropriações Revolucionárias"
+SRI_revolutionary_expropriations_desc: "Com um relacionamento azedado com a igreja, não podemos permitir que ela controle a governança local da nação. Mesmo excluindo as igrejas em si, elas controlam uma miríade de outros prédios públicos - que terão que ser nacionalizados."
+SRI_empower_chambers_of_labour: "Empoderar as Câmaras do Trabalho"
+SRI_empower_chambers_of_labour_desc: "As câmaras locais do trabalho foram inicialmente instituídas no último século para lidar com o poder dos prefeitos centralmente nomeados, mas agora têm um novo objetivo: acabar com o poder da Igreja no nível local. Isso não pode ser alcançado ativamente: então, em vez disso, vamos gradualmente transferir os poderes do governo local para as Câmaras."
+SRI_building_a_new_mythos: "Construindo um Novo Mito"
+SRI_building_a_new_mythos_desc: "Garibaldi foi uma figura anticlerical, nacionalista e, ainda assim, progressista, que é o verdadeiro pai da Itália moderna. Usaremos sua imagem como a de uma nova Itália construída seguindo seus ideais."
+
+ # Totalists
+ SRI_the_fascist_revolution: "A Revolução Fascista"
+SRI_the_fascist_revolution_desc: "Com a Itália unida e nosso poder assegurado, podemos começar a verdadeira revolução para forjar adequadamente um novo caminho para o povo italiano. Pois sozinhos somos fracos, mas juntos, como um feixe de varas, nos tornaremos fortes!"
+SRI_abuse_dannunzian_rhetoric: "Abusar da Retórica Dannunziana"
+SRI_abuse_dannunzian_rhetoric_desc: "O espírito de D'Annunzio vive! Seus ideais serão fortemente promovidos ao povo da Itália que viveu sob as forças reacionárias dos regimes decadentes que nos encurralaram. A Itália renascerá e as ideias antigas... destruídas."
+SRI_institutionalise_squadrismo: "Institucionalizar o Squadrismo"
+SRI_institutionalise_squadrismo_desc: "Entre nós, há ratos que desejam espalhar sua praga e infectar nosso sistema perfeito! Em troca, nossas amadas Camisas Negras agora serão uma parte importante da defesa do nosso modo de vida, dos reacionários parasitas que espreitam nas sombras e dos traidores que eram nossos "aliados" e agora nos apunhalam pelas costas por uma chance de enriquecer apenas a si mesmos."
+SRI_leggi_fascistissime: "Leis Fascistíssimas"
+SRI_leggi_fascistissime_desc: "É hora de realmente consolidar nosso domínio, pois mais ninguém terá influência no governo. A Itália será liderada apenas por um partido devoto, e a natureza burocrática do governo anterior não atrapalhará mais nossas esperanças e sonhos por uma Itália independente e forte!"
+SRI_reform_the_party: "Reformar o Partido"
+SRI_reform_the_party_desc: "Há aqueles dentro de nosso partido que... não entendem a lealdade de Mussolini à Itália. Eles negam que sem ele, a Itália teria estado sob a bota dos reacionários retrógrados. Em troca, serão removidos do poder, e verdadeiros lealistas ocuparão seus cargos. O partido renascerá como o Partito Nazionale Fascista e seguirá Mussolini até o inferno sem questionar!"
+SRI_create_the_national_guard: "Criar a Guarda Nacional"
+SRI_create_the_national_guard_desc: "As Camisas Negras serão reformadas na Guarda Nacional Republicana! Um sucessor espiritual dos Carabinieri do antigo regime realista, para lutar contra quaisquer forças externas e, mais importante, quaisquer forças internas que busquem causar problemas e arruinar a nova prosperidade trazida por nosso glorioso líder."
+SRI_loyalty_to_mussolini: "[SRI.loyalty_to_mussolini_focus_name]"
+SRI_loyalty_to_mussolini_desc: "[SRI.loyalty_to_mussolini_desc]"
+SRI_loyalty_to_mussolini_1: "Lealdade a Mussolini"
+SRI_loyalty_to_mussolini_2: "O Renascimento Leninista"
+SRI_loyalty_to_mussolini_1_desc: "Viva il Duce! A Itália estará para sempre em dívida com ele, pois como Júlio César, ele marchou para Roma e enfrentou muitos traidores, que o apunhalaram pelas costas e causaram ruína para a república. Mas desta vez falharam, o povo italiano olhará para Mussolini como seu próprio pai nacional."
+SRI_loyalty_to_mussolini_2_desc: "Lenin vive novamente! Togliatti salvou a república após a queda de Mussolini. Reacenderemos os sonhos de nossos irmãos caídos na Rússia, e o partido se tornará a vanguarda do futuro do sonho comunista."
+SRI_fulfill_sansepolcro: "Realizar Sansepolcro"
+SRI_fulfill_sansepolcro_desc: "Há muito tempo, na Piazza San Sepolcro, nosso movimento nasceu, e com ele, o Manifesto Fascista co-escrito por Alceste De Ambris e Filippo Marinetti, escrito para expressar o sonho fascista. Agora podemos finalmente aproveitar o momento e realizar nossos desejos! Viva a nova Itália!"
+SRI_the_black_flag: "A Bandeira Negra"
+SRI_the_black_flag_desc: "O velho verde, branco e vermelho mal se encaixam na nova Itália, é hora de algo representar o novo! Erga a bandeira negra! O fascio, que esteve conosco desde nosso nascimento, será o símbolo nacional da Itália que o resto do mundo admirará!"
+SRI_complete_the_revolution: "Completar a Revolução"
+SRI_complete_the_revolution_desc: "Finalmente chegou a hora de completar totalmente a revolução, os últimos elementos reacionários que ainda persistem serão arrancados e as sementes do fascismo serão plantadas em seu lugar. Daqui a anos, o povo italiano olhará para este momento da história como o momento em que tudo foi mudado para o bem maior, de uma vez por todas."
+SRI_coerce_the_church: "Coagir a Igreja"
+SRI_coerce_the_church_desc: "A Igreja é tanto um enorme obstáculo para nosso poder quanto um potencial aliado poderoso. Devemos forçá-los a reconhecer que estamos aqui para ficar: tentaremos ser diplomáticos, mas não recuaremos de medidas radicais se o Vaticano resistir."
+
+### Risorgimento Focuses ###
+SRI_risorgimento: "Iniciar Risorgimento"
+SRI_risorgimento_desc: "O Risorgimento foi o processo pelo qual a Itália foi originalmente unificada, no entanto, com a Guerra Civil Italiana em 1919, a Itália foi despedaçada. Um novo Risorgimento é necessário agora. Um que não apenas unirá a Itália, mas espalhará a revolução para todas as partes do país."
+SRI_military_exercises: "Exercícios Militares"
+SRI_military_exercises_desc: "Antes de começarmos a campanha real de reunificação, devemos realizar exercícios militares para preparar o exército para as rigores da guerra com as quais lidaremos."
+SRI_naval_exericises: "Exercícios Navais"
+SRI_naval_exericises_desc: "Antes de começarmos a campanha real de reunificação, devemos realizar exercícios navais para preparar a marinha para os rigores da guerra com os quais lidaremos."
+SRI_italian_irredentism: "Irredentismo Revolucionário"
+SRI_italian_irredentism_desc: "Embora tenhamos destruído os falsos países que se intitulavam Itália ou estavam na Península Italiana, ainda há muitos lugares fora da Itália que deveriam pertencer à Itália ou que deveriam ver a luz da revolução."
+
+SRI_create_enel: "Criar ENEL"
+SRI_create_enel_desc: "Mesmo após a revolução, a provisão de eletricidade ficou a cargo de empresas regionais. Não mais: melhor eficiência será alcançada com a formação de um órgão nacional de energia."
+
+SRI_elettro_treno_rapido: "Elettro Treno Rapido"
+SRI_elettro_treno_rapido_desc: "Com a recente abertura da Ferrovia Bologna-Firenze Direttissima ('Super-Direta'), agora precisamos de melhores equipamentos rodantes para alcançar um serviço rápido, eficiente e confortável. O novo ETR 200 servirá perfeitamente."
+
+SRI_renew_the_ricostruzione_industriale: "Renovar a Reconstrução Industrial"
+SRI_renew_the_ricostruzione_industriale_desc: "Enquanto nos preparamos para levar a Revolução ao resto da península, devemos expandir nossa base industrial para contrabalançar os investimentos estrangeiros nos estados rebeldes. O Governo adotará uma abordagem ativa nesta reconstrução."
+
+SRI_foster_innovation: "Promover Inovação"
+SRI_foster_innovation_desc: "Já possuímos a maior parte da base industrial da Itália; o que nos falta em apoio internacional, podemos compensar com inovação. As mentes mais brilhantes da Península, do Mundo até, trabalham para nosso governo e ajudarão na Revolução."
+
+SRI_legacy_of_marconi: "Legado de Marconi"
+SRI_legacy_of_marconi_desc: "O pioneiro da comunicação por rádio, Guglielmo Marconi, veio de nossa nação; é imperativo honrarmos seu legado, encontrando aplicações (militares) para a tecnologia que ele nos deu."
+
+SRI_cinecitta: "Cinecittà"
+SRI_cinecitta_desc: "Com a libertação de Roma, agora temos a oportunidade de propagandear nossa missão revolucionária na tela grande. Instalações especiais serão construídas na capital para ajudar nessa tarefa."
+
+SRI_expand_turin_polytechnic_institute: "Expandir o Instituto Politécnico de Turim"
+SRI_expand_turin_polytechnic_institute_desc: "Com Milão em mãos estrangeiras, Turim tem sido a base de operações de nossos cientistas e engenheiros na última década. Como o sustento da República depende deles, concederemos o apoio necessário."
+
+SRI_fermis_nuclear_research: "Pesquisa Nuclear de Fermi"
+SRI_fermis_nuclear_research_desc: "Uma nova era de armas monstruosas está sobre nós. Com Fermi e seus Meninos de Panisperna tendo sido instrumentais na pesquisa teórica e prática do poder do átomo, daremos a eles ainda mais apoio, para que as terríveis aplicações militares de seu trabalho sejam usadas pela República Socialista e não por seus inimigos."
+
+SRI_thermojet_experiments: "Experimentos com Termojato"
+SRI_thermojet_experiments_desc: "O General Crocco, pioneiro da aeronáutica, tem liderado recentemente a Escola de Engenharia Aeronáutica em direção a novas tecnologias experimentais que podem ser essenciais para nossa superioridade aérea. Vamos encorajar essa direção."
+
+SRI_syndical_conglomerates: "Conglomerados Sindicais"
+SRI_syndical_conglomerates_desc: "As antigas uniões autônomas regionais, inspiradas na França, não funcionarão mais. Para manter a unidade econômica e social da nação, as várias uniões locais terão uma hierarquia clara e responderão a uma autoridade federal."
+
+SRI_maximise_production_capacity: "Maximizar Capacidade de Produção"
+SRI_maximise_production_capacity_desc: "Graças à nossa política de planejamento central, agora podemos ter certeza de que a República Socialista está funcionando tão suavemente e eficientemente quanto possível. É claro que não esperamos menos de nossa força de trabalho emancipada."
+
+SRI_maintain_regional_unions: "Manter Uniões Regionais"
+SRI_maintain_regional_unions_desc: "Enquanto alguns clamam pela centralização dos sindicatos, isso só levaria à tirania e a tudo o que nossa República Socialista combate. Devemos resistir a esses esforços e oficializar a devolução que é o princípio básico de nosso sistema econômico revolucionário."
+
+SRI_modern_production_lines: "Linhas de Produção Modernas"
+SRI_modern_production_lines_desc: "Com ajuda do governo central, os sindicatos regionais podem alcançar a modernidade e especialização que não poderiam alcançar de outra forma. Vamos então fornecer essa ajuda central."
+
+SRI_stabilimento_di_mirafiori: "Stabilimento di Mirafiori"
+SRI_stabilimento_di_mirafiori_desc: "O estabelecimento FIAT Lingotto, coração da produção automobilística na República Socialista, provou repetidamente não ser mais suficiente para fornecer para a República Socialista. O Governo aproveitou a oportunidade para começar a construir um novo complexo, mais expansivo, no bairro de Mirafiori, em Turim, de onde surgirão as máquinas de guerra de nossa República."
+
+SRI_finish_the_electrical_conversion: "Concluir a Conversão Elétrica"
+SRI_finish_the_electrical_conversion_desc: "As ferrovias por todo o país, especialmente no Piemonte e Ligúria, ainda usam o sistema de eletrificação AC desatualizado de 3.6 kV 16 2/3 Hz. Vamos finalmente substituir este sistema pelo mais avançado 3 kV DC, pelo menos em rotas principais."
+
+SRI_terni_city_of_steel: "Terni, Cidade do Aço"
+SRI_terni_city_of_steel_desc: "Desde 1884, Terni tem sido um importante centro de metalurgia e indústrias relacionadas, para fins civis, mas especialmente militares. Vamos expandir e modernizar esta base industrial estratégica mais importante."
+
+SRI_expand_ilva: "Expandir Ilva"
+SRI_expand_ilva_desc: "O antigo grupo Terni-Elba, agora uma amalgamação de muitas indústrias estratégicas de metalurgia, é a chave para impulsionar nossa capacidade industrial além dos governos rivais. Vamos expandir suas minas, modernizar suas indústrias, racionalizar sua gestão."
+
+SRI_agip_operations_in_romagna: "Operações da AGIP em Romagna"
+SRI_agip_operations_in_romagna_desc: "Abaixo das terras férteis de Romagna, fica a maior reserva de combustíveis fósseis da Itália. É imperativo que a exploremos a nosso favor na Grande Guerra Revolucionária."
+
+SRI_gomma_sintetica: "Gomma Sintética"
+SRI_gomma_sintetica_desc: "A única coisa que a Itália não tem é borracha, mas avanços recentes na tecnologia de hidrocarbonetos nos permitem processar borracha artificial em nossas refinarias - uma operação ganha-ganha."
+
+SRI_integrate_the_lombard_arms_industry: "Integrar a Indústria de Armas Lombarda"
+SRI_integrate_the_lombard_arms_industry_desc: "Antes de 1919, o coração da indústria de armas da Itália estava localizado nos vales de Brescia; nas últimas décadas, tivemos que construir nossa própria indústria, mas agora estamos em posição de fundir os estabelecimentos."
+
+SRI_modernise_the_po_farmlands: "Modernizar as Terras Agrícolas do Pó"
+SRI_modernise_the_po_farmlands_desc: "Enquanto o Piemonte alcança a modernidade, partes do Vale do Pó ainda estão presas à Idade Média. Politicamente, já fizemos o que pudemos - mas economicamente, ainda podemos intervir para melhorar sua situação."
+
+SRI_reform_the_iacp: "Reformar o IACP"
+SRI_reform_the_iacp_desc: "Desde 1903, o Instituto Autônomo de Habitação Pública lida com a construção e administração de habitações sociais para os menos afluentes de nossa sociedade. Ao longo das décadas, ele se tornou inchado e corrompido; em nome do proletariado desta República, vamos renová-lo imediatamente!"
+
+SRI_the_eternal_city: "A Cidade Eterna"
+SRI_the_eternal_city_desc: "Roma languideceu sob o governo restaurado do Papa-Rei. Vamos mostrar verdadeira caridade ao povo da Capital, iniciando a construção do bairro de Garbatella."
+
+SRI_a_new_partenope: "Uma Nova Partenope"
+SRI_a_new_partenope_desc: "Por uma década, Nápoles decaiu sob o governo autoritário e corrupto de seu prefeito, Achille Lauro; e mesmo antes, teve que lidar com epidemias e vários problemas sociais. Nós, que realmente temos as necessidades do Povo em mente, procederemos finalmente a trazer a cidade aos padrões do século XX."
+
+SRI_southern_reconstruction: "Reconstrução do Sul"
+SRI_southern_reconstruction_desc: "Por décadas, os governos liberais do Reino da Itália tentaram trazer o Sul da Itália para a era moderna, com pouco sucesso. Com a vontade do povo ao nosso lado, vamos terminar o que Garibaldi começou!"
+
+SRI_tap_sicilian_potential: "Explorar o Potencial Siciliano"
+SRI_tap_sicilian_potential_desc: "Com agitação na América do Norte, a Sicília tem a oportunidade única de recuperar sua hegemonia no mercado de sulfatos. Vamos aproveitar o momento!"
+
+SRI_rebuild_carbonia: "Reconstruir Carbonia"
+SRI_rebuild_carbonia_desc: "A ditadura realista na Sardenha construiu Carbonia como uma nova cidade na década de 1920; esta cidade sendo tudo o que está errado com o capitalismo, construída apenas para explorar as minas locais em benefício de corporações estrangeiras. Com nós agora no controle, Carbonia pode ser reconstruída como uma cidade do socialismo, liberdade e Itália."
+
+SRI_modernise_the_apulian_fields: "Modernizar os Campos Apulianos"
+SRI_modernise_the_apulian_fields_desc: "A região de Salento no sul da Apúlia tem um grande potencial agrícola, mas sofre com a falta perene de água. Canalizando água dos rios na Campânia, seremos capazes de desbloquear todo o poder agrícola da área."
+
+SRI_reunite_the_italian_heartlands: "Reunir os Corações Italianos"
+SRI_reunite_the_italian_heartlands_desc: "A linha Ticino-Po imposta pelos austríacos teve efeitos desastrosos nas ligações infraestruturais entre o Piemonte e a Lombardia. Vamos então restaurar essas ligações e drenar os pântanos do Vêneto no processo."
+
+SRI_modernise_the_armata_rossa: "Modernizar a Armata Rossa"
+SRI_modernise_the_armata_rossa_desc: "O Exército Vermelho foi formado a partir de unidades amotinadas na Revolução de 1919 e não mudou muito desde então. Como o atraso das forças armadas foi uma das principais razões para o fracasso em conquistar o resto do país em 1927, garantiremos que isso não seja um problema no futuro."
+
+SRI_commissione_armi_e_munizioni: "Comissão de Armas e Munições"
+SRI_commissione_armi_e_munizioni_desc: "A 'Comissão de Armas e Munições' será criada para organizar a pesquisa e fabricação de novas armas a serem usadas em nossa luta contra os reacionários."
+
+SRI_replace_the_six_point_five_milimetres: "Substituir o 6.5mm"
+SRI_replace_the_six_point_five_milimetres_desc: "O Carcano pré-Weltkrieg nos serviu bem, mas como os tempos estão mudando, nossas armas também devem mudar. Um novo fuzil é necessário nas mãos de nossos soldados."
+
+SRI_armaguerra: "Armaguerra"
+SRI_armaguerra_desc: "Nesses tempos perigosos, o ciclo de vida das armas é bastante curto. Um novo fuzil semi-automático, o Armaguerra, elevará o poder de fogo do esquadrão de fuzis [ROOT.GetAdjective] a um novo nível."
+
+SRI_telo_mimetico: "Telo Mimetico"
+SRI_telo_mimetico_desc: "Os jaquetas coloridas do passado não têm nada a ver com o campo de batalha moderno. Enquanto uniformes simples, de uma cor, já estão em uso, foi proposto o uso de um padrão de camuflagem originalmente destinado a tendas."
+
+SRI_howitzer_standardisation: "Padronização de Obuseiros"
+SRI_howitzer_standardisation_desc: "O número de diferentes tipos de canhões de campo nas forças armadas está aumentando, sobrecarregando as linhas de suprimento. Ao criar um padrão para canhões de obuseiro e munições, essas peças serão mais fáceis de fornecer e substituir."
+
+SRI_cannone_da_novanta: "Canhão de 90"
+SRI_cannone_da_novanta_desc: "Como veículos terrestres e aéreos inimigos estão mais fortemente blindados, um novo canhão maior é necessário para perfurá-los. Um novo, calibre 90 mm, fará o trabalho muito bem."
+
+SRI_motorise_the_bersaglieri: "Motorizar os Bersaglieri"
+SRI_motorise_the_bersaglieri_desc: "O motor de combustão interna desbloqueou velocidades de tropas até então inimagináveis. Infelizmente, não há o suficiente disponível em [ROOT.GetNameDef] - apenas nossas melhores tropas podem ser equipadas até agora."
+
+SRI_semoventi_dartiglieria: "Semoventi d'Artiglieria"
+SRI_semoventi_dartiglieria_desc: "O rei do campo de batalha é tão lento e imóvel quanto seu homólogo no tabuleiro de xadrez. A construção de canhões autopropulsados permitirá uma nova dimensão na guerra de artilharia."
+
+SRI_carri_di_rottura: "Carri di Rottura"
+SRI_carri_di_rottura_desc: "Para evitar os impasses do Weltkrieg, tanques mais pesados e com armamento mais poderoso são necessários para romper as defesas estáticas do inimigo e abrir caminho para o ataque da infantaria."
+
+SRI_ferrea_mole_ferreo_cuore: "Ferrea Mole, Ferreo Cuore"
+SRI_ferrea_mole_ferreo_cuore_desc: ""Massa de Ferro, Coração de Ferro" é o lema do Corpo Blindado [ROOT.GetAdjective], significando que não apenas a máquina, mas os homens que a conduzem à batalha precisam ser da mais alta qualidade e convicção."
+
+SRI_la_legione_proletaria: "A Legião Proletária"
+SRI_la_legione_proletaria_desc: "Cada trabalhador na Itália tem sua opinião sobre o que é a revolução e como ela será alcançada. O Risorgimento será uma oportunidade para os homens e mulheres da Itália fazerem nossa nação se orgulhar; vamos possibilitar isso esculpindo um exército onde até o mais humilde de nossos homens tem um lugar."
+
+SRI_corpo_darmata_di_manovra: "Corpo d'Armata di Manovra"
+SRI_corpo_darmata_di_manovra_desc: "Não basta quebrar a linha do inimigo, precisamos de unidades dedicadas que possam se mover e explorar brechas por meio de manobras agressivas e ataques em profundidade. O uso de tanques como apoio à infantaria durante o Weltkrieg permanece um conceito ultrapassado, nosso novo Corpo de Exército de Manobra usará tanques modernos e infantaria montada para atacar flancos expostos ou brechas na linha inimiga."
+
+SRI_ragruppamenti_esploranti: "Agrupamentos de Reconhecimento"
+SRI_ragruppamenti_esploranti_desc: "Como uma força originalmente partidária, o exército socialista está muito familiarizado com o valor do reconhecimento e o que pode ser feito com ele. Patrulhas de longo alcance permitirão penetrações mais profundas, menos riscos e operações geralmente mais eficazes."
+
+SRI_establish_military_inspectorate: "Estabelecer Inspeção Militar"
+SRI_establish_military_inspectorate_desc: "A miríade de milícias populares precisa ser transformada em uma força combinada para servir à revolução. Uma inspeção militar será criada para disciplinar o exército, e os comandantes de divisão anteriormente tão independentes serão obrigados a padronizar tanto o equipamento, a organização quanto o treinamento."
+
+SRI_one_army_one_command: "Um Exército, Um Comando"
+SRI_one_army_one_command_desc: "O movimento socialista na Itália cresceu de um movimento de resistência atrevido em 1919 para um estado genuíno preparado para governar toda a nação. Nossa estrutura militar deve refletir isso: enquanto a autonomia pode ser primordial quando a comunicação e logística são bênçãos ocasionais, comandar o grande exército da Itália hoje requer um comando central capaz de administrar todo o esforço de guerra, e os comandantes de campo devem ser capazes de seguir seus planos meticulosos."
+
+SRI_maintain_officer_autonomy: "Manter a Autonomia dos Oficiais"
+SRI_maintain_officer_autonomy_desc: "Nenhuma revolta armada jamais teve sucesso através de uma burocracia bizantina. Simplificar responsabilidades e dar mais poder aos oficiais inferiores lhes dá a margem de manobra necessária para resolver criativamente os desafios estratégicos que enfrentarão no campo de batalha."
+
+SRI_reform_modena_military_academy: "Reformar a Academia Militar de Modena"
+SRI_reform_modena_military_academy_desc: "Está claro que algum nível de profissionalização de nosso corpo de oficiais é necessário. Embora com uma origem feudal, a Academia Militar de Modena é agora mais famosa como um viveiro de revolucionários militares com uma miríade de ideias sobre como combinar o socialismo com o exército. Ao introduzir um currículo mais rigoroso em combinação com padrões acadêmicos mais elevados, podemos ser capazes de organizar as muitas ideias em políticas e iniciativas úteis para o exército."
+
+SRI_gruppi_di_difesa_della_donna: "Grupos de Defesa da Mulher"
+SRI_gruppi_di_difesa_della_donna_desc: "Há muito tempo na mente de muitos igualitários nas forças armadas, a introdução de mulheres nos serviços de combate do exército parece uma maneira óbvia de fortalecer não apenas nosso pool de mão-de-obra, mas também encorajar mulheres talentosas e ambiciosas a fazerem carreira em nossas forças armadas. Como um começo, criaremos Grupos de Defesa específicos para mulheres, de onde poderemos integrá-las ao exército como um todo."
+
+SRI_vallo_alpino: "Vallo Alpino"
+SRI_vallo_alpino_desc: "Os Alpes são uma das melhores defesas naturais que uma nação poderia pedir, mas a presença de passes de montanha torna imprudente confiar apenas na natureza para fazer todo o trabalho. Construindo defesas permanentes dentro desses passes e outros pontos fracos, a fronteira norte pode ser transformada em uma parede verdadeiramente intransponível."
+
+SRI_arditi_del_popolo: "Arditi del Popolo"
+SRI_arditi_del_popolo_desc: "Os Arditi foram famosos durante o Weltkrieg como tropas de choque capazes de desafiar o impasse da guerra de trincheiras. Desenvolvimentos adicionais em armas automáticas e combate de curto alcance apenas tornaram os possíveis usos de tais unidades mais atraentes. Combinando táticas dos Arditi com fervor revolucionário, os novos Arditi del Popolo serão as tropas de choque que abrirão caminho para nossa vitória contra os reacionários."
+
+SRI_corpo_speciale: "Corpo Especial"
+SRI_corpo_speciale_desc: "A única consistência do campo de batalha na Itália é que ele é inconsistente. Cordilheiras maciças, ilhas distantes, cidades lotadas e rios formidáveis dividem a península, e ignorar essas diferenças seria muito tolo. Em vez disso, devemos ter contingentes prontos para enfrentar cada situação."
+
+SRI_brigate_marine: "Brigadas Marinhas"
+SRI_brigate_marine_desc: "Uma vantagem de lutar uma guerra ofensiva na península é que, se a frente se acalmar, não ficamos sem opções. Unidades do Corpo Especial podem desembarcar atrás do inimigo para cercá-lo e perturbá-lo, e para atacar os alvos difíceis da Sardenha e Sicília."
+
+SRI_carabinieri_del_cielo: "Carabinieri do Céu"
+SRI_carabinieri_del_cielo_desc: "Embora não sejam tão facilmente aplicáveis quanto montanheses ou fuzileiros navais, paraquedistas ainda são um ativo valioso para qualquer exército moderno. Áreas inacessíveis, como fortificações e portos, podem ser capturadas através de choque e surpresa rápidos, limpando suas proximidades para o avanço das tropas regulares."
+
+SRI_alpini_rossi: "Alpini Rossi"
+SRI_alpini_rossi_desc: "Naturalmente, em uma península composta em grande parte por três cadeias de montanhas, o primeiro tipo de força especial que qualquer um pensaria necessário é o batalhão de montanheses, e com razão. A guerra de montanha é inevitável e devemos superar a capacidade de combate de nossos inimigos em tais campos de batalha."
+
+SRI_la_guardia_rossa: "La Guardia Rossa"
+SRI_la_guardia_rossa_desc: "O socialismo é a política da ciência e da razão. Derrotaremos nossos inimigos, não pelo sacrifício insensato de homens, mas com o exército profissional melhor treinado, equipado com as melhores armas produzidas pela indústria mais eficiente, enquanto os tradicionalistas em Nápoles e Cagliari tremem."
+
+SRI_formazione_di_difesa: "Formação de Defesa"
+SRI_formazione_di_difesa_desc: "Por mais ofensivamente competente que a Guardia Rossa possa ser, eles precisarão de uma espinha dorsal defensiva para ter sucesso. Em vez de confundir as responsabilidades e doutrina do exército nacional, usaremos milícias para preencher lacunas e defender posições, enquanto formações maiores estão livres para quebrar o inimigo."
+
+SRI_scuole_centrale_militare: "Escolas Centrais Militares"
+SRI_scuole_centrale_militare_desc: "A formação de um corpo federalizado de escolas militares em todo o país facilitará a padronização, permitindo-nos desenvolver táticas mais ambiciosas em torno das formações tecnologicamente ricas da Guardia Rossa."
+
+SRI_autotrasportabilita: "Autotransportabilidade"
+SRI_autotrasportabilita_desc: "A maioria de nossas terras e população permanece sob o controle de nossos inimigos, e a Guardia Rossa precisará de uma solução prática para garantir nossa superioridade sobre eles. Felizmente, nossa superioridade na indústria supre isso: ao projetar melhores veículos para unidades móveis e doutrina de apoio, podemos superar nossos inimigos na península e derrotá-los em detalhes antes que eles possam utilizar suas vantagens numéricas."
+
+SRI_guerra_brigantesca: "Guerra Brigantesca"
+SRI_guerra_brigantesca_desc: "As tropas da Guardia Rossa devem ser capazes de lutar como bandidos: móveis, escondidos e flexíveis. Essas qualidades tornaram a guerra socialista possível em primeiro lugar e serão integradas em nossa doutrina."
+
+SRI_guardia_alla_frontiera: "Guarda na Fronteira"
+SRI_guardia_alla_frontiera_desc: "Embora as táticas guerrilheiras possam ter nos servido bem dentro de nossas fronteiras, a Guardia Rossa deve estar preparada para guerras com seus vizinhos também, e para tal guerra, devemos ser capazes de defender uma ampla frente em preparação para ofensivas, seja de nosso território ou de uma expedição."
+
+SRI_corpo_del_genio_aeronautico: "Corpo do Engenho Aeronáutico"
+SRI_corpo_del_genio_aeronautico_desc: "Embora a construção de aeródromos e reparos de aeronaves geralmente tenham sido delegados a engenheiros do exército e unidades de suporte de esquadrões, ficou claro que um Corpo de Engenheiros da Força Aérea dedicado precisa ser estabelecido. Com a construção da Città del'Aria, seria óbvio colocar a sede do novo corpo também em Úmbria."
+
+SRI_citta_del_aria: "Città del'Aria"
+SRI_citta_del_aria_desc: "A Itália sempre esteve na vanguarda do poder aéreo, usando aeronaves para fins de combate mesmo antes da Weltkrieg. O caos e a instabilidade da guerra civil interromperam nossa posição de destaque, no entanto. Reservaremos terra e indústria em Úmbria para a criação de uma 'Cidade do Ar', onde combinaremos escolas, fábricas e pesquisa para fomentar um espírito de progresso e laboriosidade."
+
+SRI_accademia_aeronautica: "Academia Aeronáutica"
+SRI_accademia_aeronautica_desc: "A anarquia das forças italianas nos últimos dias da Weltkrieg e a natureza fervorosa da guerra civil deixaram pouco espaço para a modernização das táticas militares. No mundo de hoje, modernidade significa guerra conduzida no céu. O treinamento de pilotos é fundamental para igualar nossas capacidades armadas com nossos vizinhos."
+
+SRI_trimotore_bombers: "Bombardeiros Trimotores"
+SRI_trimotore_bombers_desc: "Nossa experiência anterior com aeronaves médias trimotoras mostrou grande promessa. Motores e designs melhorados nos permitiriam não apenas aumentar a carga útil desses bombardeiros, mas também equipá-los com a artilharia defensiva necessária para sobreviver em um espaço aéreo contestado."
+
+SRI_pursuit_aircraft: "Aeronaves de Perseguição"
+SRI_pursuit_aircraft_desc: "Embora plataformas multiuso certamente tenham feito nossa produção capaz de competir com nossos vizinhos, isso significou que algumas de nossas aeronaves poderiam ter um desempenho inferior em combate. Com a produção facilitada por nossas novas instalações e instituições, devemos nos concentrar no desenvolvimento de uma plataforma dedicada à superioridade aérea. Essas novas 'aeronaves de perseguição' buscarão apenas alvos inimigos e, com manobras e armamentos aprimorados, serão capazes de prevalecer em todos os combates aéreos."
+
+SRI_aviazione_marittima: "Aviação Marítima"
+SRI_aviazione_marittima_desc: "Com nossa força aérea se tornando um ramo mais centralizado e independente de nossas forças armadas, devemos torná-la capaz de assumir todos os papéis anteriormente desempenhados pelos serviços aéreos do exército e da marinha. Designs aéreos aprimorados permitiriam que nossas aeronaves contestassem o Mediterrâneo e apoiassem a marinha enquanto esta luta contra os regimes reacionários."
+
+SRI_command_of_the_air: "Comando do Ar"
+SRI_command_of_the_air_desc: "O terreno da Itália e as dificuldades que impõe às nossas forças armadas significam que temos que reconsiderar abordagens novas à guerra. Uma sugestão é seguir a doutrina e os pensamentos elaborados por Giulio Douhet, que durante a Weltkrieg argumentava a favor de campanhas massivas de bombardeio para quebrar o impasse da guerra de trincheiras. Nossas frotas de bombardeiros devem visar as cidades inimigas, bem como suas forças no campo de batalha, permitindo-nos obter uma vantagem decisiva em poder de fogo."
+
+SRI_arma_offensiva: "Arma Ofensiva"
+SRI_arma_offensiva_desc: "Uma das principais preocupações com campanhas de bombardeio estratégico tem sido a relativa vulnerabilidade associada ao fato de nossos bombardeiros passarem mais tempo sobre o território inimigo. Desenvolvimentos em novos tipos de bombas e táticas nos permitiriam voar mais alto e minimizar o risco que nossas aeronaves enfrentam do fogo antiaéreo."
+
+SRI_aerei_da_battaglia: "Aeronaves de Batalha"
+SRI_aerei_da_battaglia_desc: "O conceito de 'artilharia voadora' não é novo, mas temos que admitir que os bombardeiros médios mais pesados são taticamente inflexíveis para o suporte de fogo no campo de batalha. A criação de novas 'aeronaves de batalha', que terão um papel dedicado de suporte ao campo de batalha, significará que nossas divisões sempre terão suporte de fogo disponível, não importa quão rápido avancem, ou quão contestado seja o espaço aéreo sobre o campo de batalha."
+
+SRI_aviazone_dassalto: "Aviação de Assalto"
+SRI_aviazone_dassalto_desc: "Em vez de nos concentrarmos em destruir o inimigo através de melhores aeronaves bombardeiras, uma abordagem alternativa poderia ser simplesmente negar o espaço aéreo ao inimigo. Novos treinamentos poderiam enfatizar o caça como nosso principal tipo de aeronave. Não precisaríamos de bombardeiros melhores se os que temos correrem pouco risco de serem interceptados."
+
+SRI_zone_aeree_territoriali: "Zonas Aéreas Territoriais"
+SRI_zone_aeree_territoriali_desc: "Uma mudança organizacional é necessária para garantir a máxima eficiência entre nossos esquadrões. Novos comandos aéreos territoriais serão responsáveis pela defesa local, bem como pela coordenação com nossas indústrias para melhorar os designs de aeronaves. Removendo intermediários, não apenas nossos esquadrões serão capazes de responder melhor às intrusões locais em nosso espaço aéreo, mas também obteremos o feedback dos pilotos sobre novas aeronaves, esperançosamente tornando-as disponíveis mais rapidamente do que pelos métodos de teste e produção comuns."
+
+SRI_difesa_contraerea_territoriale: "Defesa Antiaérea Territorial"
+SRI_difesa_contraerea_territoriale_desc: "Uma parte às vezes subestimada do poder aéreo é o impacto que a artilharia antiaérea baseada em terra pode ter sobre a superioridade aérea local. Devemos criar unidades antiaéreas específicas sob o comando da força aérea, para garantir que nossa defesa aérea permaneça unificada em missão e propósito."
+
+SRI_istituto_di_studi_militari_marittimi: "Instituto de Estudos Militares Marítimos"
+SRI_istituto_di_studi_militari_marittimi_desc: "Para liderar um navio à vitória, é necessário conhecimento de táticas, engenharia e logística para oficiais de alto escalão. Estabelecer um novo instituto pesquisando e ensinando esses tópicos garantirá uma vantagem chave sobre as outras marinhas na península."
+
+SRI_expand_the_livorno_academy: "Expandir a Academia de Livorno"
+SRI_expand_the_livorno_academy_desc: "A marinha precisa de uma expansão adicional, o que não é possível sem homens nos convés. Para a sorte do governo [ROOT.GetAdjective], a academia de treinamento original da Marinha ainda está dentro do território sob seu controle, e pode ser facilmente expandida."
+
+SRI_corpo_del_genio_navale: "Corpo do Engenho Naval"
+SRI_corpo_del_genio_navale_desc: "Assim como um soldado não iria à guerra com um rifle enferrujado, um marinheiro não pode navegar em um navio vazado. Cuidar e manter navios tornou-se um conhecimento especializado, que deve ter sua própria seção dentro da Marinha."
+
+SRI_flottiglie_mas: "Flottiglie MAS"
+SRI_flottiglie_mas_desc: "O torpedo revolucionou a guerra naval, permitindo que pequenos barcos afundassem alvos muito maiores. Levando essa ideia para abaixo da superfície, temos um novo tipo de submarino que é pequeno, ágil e levemente tripulado."
+
+SRI_revolution_under_the_sea: "Revolução Sob o Mar"
+SRI_revolution_under_the_sea_desc: "Se a Entente acredita que o Mediterrâneo é uma porta fácil para as fronteiras sul da Europa revolucionária, eles estão profundamente enganados. Enquanto nossos aliados devem prestar atenção no Atlântico, faremos o nosso trabalho para afundar qualquer material ou mão de obra que tente atravessar nosso mar."
+
+ SRI_legacy_of_mignatta_and_the_mas: "Legado de Mignatta e o MAS"
+SRI_legacy_of_mignatta_and_the_mas_desc: "A arma que transformou a guerra naval nasceu em uma cidade habitada por italianos, no entanto, a indústria naval [ROOT.GetAdjective] não está atualizada em sua produção. É hora de cruzar o Adriático e alcançar seu verdadeiro potencial nas mãos de nossos marinheiros e aviadores."
+
+SRI_incrociatori_sommergibili: "Cruzadores Submarinos"
+SRI_incrociatori_sommergibili_desc: "O sucesso alemão na Weltkrieg mostrou a eficácia da guerra naval subaquática. Uma maneira óbvia de avançar é a criação de submarinos maiores e mais poderosos, com um aumento na quantidade de armamento e capazes de se manter por conta própria."
+
+SRI_artiglieria_marittima: "Artilharia Marítima"
+SRI_artiglieria_marittima_desc: "Pela sua natureza, a Península Apenina possui uma longa costa que precisa ser defendida de possíveis invasores. Estabelecer pontos fortes e artilharia naval estática em pontos estratégicos negaria qualquer invasão possível."
+
+SRI_expand_genoese_naval_yards: "Expandir Estaleiros Navais Genoveses"
+SRI_expand_genoese_naval_yards_desc: "Gênova é o maior porto que permaneceu sob o controle dos trabalhadores da Itália durante a Guerra Civil. Com uma indústria naval já decente, servirá como núcleo para uma maior expansão naval."
+
+SRI_odero_terni_orlando: "Odero-Terni-Orlando"
+SRI_odero_terni_orlando_desc: "O navio de guerra moderno é uma massa imponente de aço. Conectar construtores navais a fabricantes de aço, como a planta de Terni, permitirá um fluxo de material mais eficiente e uma melhor construção."
+
+SRI_cantieri_riuniti_del_tirreno: "Cantieri Riuniti do Tirreno"
+SRI_cantieri_riuniti_del_tirreno_desc: "Para construir nossos novos navios, é necessário um novo fabricante. Unir empresas navais através do Tirreno resultará em uma melhoria tanto na qualidade quanto na quantidade."
+
+SRI_increase_ship_exports: "Aumentar as Exportações de Navios"
+SRI_increase_ship_exports_desc: "Com todos os estaleiros construídos recentemente, a indústria naval [ROOT.GetAdjective] tem capacidade excedente para construir embarcações civis para nossos aliados ou outros compradores ao redor do mundo. Essas exportações criam empregos internamente e fornecem uma importante fonte de receita."
+
+SRI_cantieri_riuniti_dell_adriatico: "Cantieri Riuniti do Adriático"
+SRI_cantieri_riuniti_dell_adriatico_desc: "A fusão dos estaleiros através do Tirreno provou ser bem-sucedida. É hora de trazer esse modelo para os territórios recém-libertados no Golfo de Carnaro também."
+
+SRI_guerra_marittima: "Guerra Marítima"
+SRI_guerra_marittima_desc: "Assim como em terra, a guerra no mar se tornou uma questão de atrito e gestão de recursos. Ser capaz de produzir e gerenciar um grande número de navios permite que a marinha opere em mais teatros, dispersando nossos inimigos."
+
+SRI_fast_battleships: "Encouraçados Rápidos"
+SRI_fast_battleships_desc: "Com navios mais pesados geralmente ancorados durante seu serviço, é primordial que cheguem à batalha mais rapidamente do que seus oponentes. Comissionar novos navios para esse fim permitirá reações mais rápidas a qualquer combate naval."
+
+SRI_mariantisom: "Mariantisom"
+SRI_mariantisom_desc: "Tendo se mostrado bem-sucedido na Weltkrieg, nossos oponentes certamente usarão submarinos para nos negar capacidades de transporte marítimo. Criar um comando especial para combater essas ameaças salvará a vida de muitos marinheiros mercantes."
+
+SRI_sealane_protectors: "Protetores de Rotas Marítimas"
+SRI_sealane_protectors_desc: "Os navios em alto mar precisam de proteção contra atacantes inimigos. A solução é a construção de mais embarcações menores capazes de enfrentar ameaças tanto da superfície quanto subaquáticas."
+
+SRI_squadron_flagships: "Navios Capitânia de Esquadrão"
+SRI_squadron_flagships_desc: "Os esquadrões menores que patrulham nossas águas estão precisando urgentemente de um aumento no poder de fogo. Fornecer novos designs mais pesados para liderá-los aumentaria suas chances em um combate direto."
+
+SRI_maritime_air_power: "Poder Aéreo Marítimo"
+SRI_maritime_air_power_desc: "Com o aprimoramento das aeronaves nas últimas décadas, o campo de batalha marítimo agora cobre todas as dimensões. É hora de a Marinha abraçar aeronaves e os porta-aviões, permitindo que operem longe de casa."
+
+SRI_improved_gunnery: "Artilharia Aprimorada"
+SRI_improved_gunnery_desc: "Os dias do corvo estão muito longe - os navios se enfrentam a grandes distâncias. Melhores canhões significam atacar mais cedo e com mais força, levando ao afundamento de mais navios inimigos. Portanto, esta é uma parte crucial dos navios que não pode ser ignorada."
+
+SRI_mediterraneo_rosso: "Mediterrâneo Vermelho"
+SRI_mediterraneo_rosso_desc: "Há dois mil anos os romanos o chamavam de Mare Nostrum - Nosso Mar. Embora [SRI.GetNameDef] não possa reivindicar o controle de tanta costa, a península italiana ainda permite o controle de todo o mar."
+
+SRI_adopt_the_gufo: "Adotar o Gufo"
+SRI_adopt_the_gufo_desc: "O radar é o futuro do combate naval. Atento como seu homônimo, a coruja, permitirá a detecção de navios inimigos antes que o olho nu possa vê-los, e fornecer uma vantagem tática crucial em combate."
+
+SRI_joint_naval_intelligence: "Inteligência Naval Conjunta"
+SRI_joint_naval_intelligence_desc: "Como os imperialistas orgulhosamente proclamavam, Britannia dominava os mares. Mesmo com deserções para [CAN.GetName], a marinha de [ENG.GetNameDef] é uma das mais formidáveis da Europa. Seria prudente compartilhar informações com eles."
+
+SRI_battaglia_decisiva: "Batalha Decisiva"
+SRI_battaglia_decisiva_desc: "Se alguém soca com força suficiente, um único golpe de braço pode decidir uma luta. No mar, isso significa que uma concentração adequada de navios pode buscar e destruir a frota principal inimiga, dando o controle dos mares aos vencedores."
+
+SRI_rebuild_the_battle_line: "Reconstruir a Linha de Batalha"
+SRI_rebuild_the_battle_line_desc: "No caos da Guerra Civil, a Regia Marina foi dividida entre várias facções. Essa queda no número de frotas é especialmente difícil para os navios mais pesados - reconstruí-los é uma prioridade para recapturar o controle do Mediterrâneo."
+
+### Intro Screen ###
+SRI_country_intro_header: "A República Socialista da Itália"
+SRI_country_intro_content: "Em 1919, os italianos assinaram um armistício com os austríacos, encerrando a guerra para o Reino da Itália. No entanto, os bravos socialistas e nacionalistas na Itália se levantaram contra os destrutivos Saboias, determinados a substituir seu sistema por algo melhor. Nem mesmo a abdicação do Rei Vítor Emanuel e de seu filho foi suficiente para deter a vontade do povo, e a guerra civil eclodiu por toda a Itália. Mesmo enquanto empurrávamos os monarquistas para fora do norte da Itália, no entanto, havia traidores em nossas próprias fileiras. Os 'Branco' na revolta republicana, relutantes em aceitar a inevitabilidade da revolução, romperam com nosso movimento e logo se venderam completamente aos austríacos. Com todos os nossos inimigos unidos contra nós, nossos avanços foram interrompidos no rio Pó e na linha dos Abruzzos, e a guerra acabou.\n\nDesde o cessar-fogo em 1920, a situação política mudou: após o fracasso dos unionistas moderados em capitalizar a queda da Federação Italiana em 1927, os Nacionalistas na FAR, invocando o legado de Gabriele d'Annunzio, que morreu lutando contra os austríacos em 1919, iniciaram uma marcha rumo ao domínio político. Em 1931, isso efetivamente erodiu o domínio dos Sindicatos sobre o Parlamento, deixando-os com uma leve maioria; quando essa maioria desmoronou em 1934, o presidente Giulietti ultrapassou seus limites constitucionais para nomear um 'gabinete do presidente' liderado pelo líder da FAR, Benito Mussolini. Mussolini mesmo tem agido de forma muito mais autônoma do que o esperado, enquanto constantemente aumenta sua influência; muitos olham com apreensão para as próximas eleições de 1936, incertos sobre o que o futuro pode trazer para a República Socialista."
+
+SRI_country_intro_header_1: "Unificando a Itália"
+SRI_country_intro_content_1: "Os nacionalistas italianos já começaram a pedir por um Segundo Risorgimento, para unificar a Itália mais uma vez. Espalhar a revolução não será uma tarefa simples, no entanto. A península existe em um equilíbrio instável: Alemanha e Áustria estão cautelosas quanto a qualquer aliança formal entre a SRI e a Terceira Internacional. Eles sabem que uma aliança é inevitável, mas qualquer tentativa de nossa parte de trazer os franceses e britânicos para uma guerra para reunir a Itália sob o domínio sindicalista provocaria intervenção e começaria uma nova Weltkrieg. A República da Itália a leste é protegida pela Áustria, mas sob uma proibição semelhante de iniciar uma guerra contra nós. Enquanto a perspectiva de interferência alemã e austríaca permanecer, devemos estar cientes de que qualquer guerra para reunir a Itália só pode ser feita com apoio limitado da Terceira Internacional. Ainda não fizemos nenhum movimento, mas não podemos ficar parados por muito tempo - a Itália deve ser reunificada!"
+
+SRI_guide: "§RPdA - $SRI_carlo_rosselli$§!\n£white_dot Deixe os Socialistas Radicais no poder no momento das primeiras eleições pós-guerra, mantendo-se no meio do BoP.\n£white_dot Pegue o foco §Y$SRI_break_enemies_of_democracy$§! antes do foco §Y$SRI_constitutional_restoration$§!.\n\n§RPdA - $SRI_emilio_lussu$§!\n£white_dot Deixe os Socialistas Radicais no poder no momento das primeiras eleições pós-guerra, mantendo-se no meio do BoP.\n£white_dot Pegue o foco §Y$SRI_constitutional_restoration$§! antes do foco §Y$SRI_break_enemies_of_democracy$§!.\n\n§rCGdL-USI (IOS)§!\n£white_dot Deixe os Sindicatos no poder no momento das primeiras eleições pós-guerra, mantendo-se no lado esquerdo do BoP.\n\n§oFAR§!\n£white_dot Deixe os Totalistas no poder no momento das primeiras eleições pós-guerra, mantendo-se no lado direito do BoP.\n\n§oFAR - $SRI_alceste_de_ambris$§!\n£white_dot Deixe os Totalistas no poder no momento das primeiras eleições pós-guerra, mantendo-se no lado direito do BoP.\n£white_dot Pegue o foco §Y$SRI_reform_the_party$§!, tenha Mussolini sido baleado e deixe que os Camisas Negras restaurem o caminho da revolução fascista.\n\n§oPCd'I§!\n£white_dot Deixe os Totalistas no poder no momento das primeiras eleições pós-guerra, mantendo-se no lado direito do BoP.\n£white_dot Pegue o foco §Y$SRI_reform_the_party$§!, tenha Mussolini sido baleado e deixe que o Exército permaneça com Togliatti."
+
+### Events ###
+### Political ###
+socitaly.2.t: "Mussolini e a Carta Totalista"
+socitaly.2.d: "Quando partiu para a Grã-Bretanha, pensamos que a Cúpula Mussolini-Mosley seria simplesmente um encontro de cortesia e diplomacia. Em vez disso, Mussolini avançou e colocou sua assinatura na última invenção de Mosley, a 'ideologia' do 'totalismo'. Alguns funcionários ingênuos acreditam que nada mudou; desde o início, Mussolini se inscreveu na ideologia fascista e no Manifesto Fascista de 1919, e o fato de ele agora ter aliados internacionais não muda nada internamente. No entanto, esta foi mais uma ação autônoma enormemente divulgada sem endosso presidencial, complicando a posição do presidente Giulietti, já que quando ele quebrou a norma constitucional para nomear Mussolini, supostamente estava nomeando um 'gabinete do presidente' agindo sob suas ordens.\n\nCom as eleições de 1936 se aproximando cada vez mais, parece que o mandato de Giulietti como presidente pode estar chegando ao fim, já que, tendo alienado a maioria dos moderados por meio de sua quebra de norma constitucional e tendo perdido muito terreno para seu suposto fantoche Mussolini, ele não será capaz de conquistar a boa vontade para nomear outro Gabinete do Presidente tão cedo."
+socitaly.2.a: "Como formaremos um governo agora?"
+
+socitaly.3.t: "As Eleições de 1936"
+socitaly.3.d: "Com a constituição de 1920 criando um parlamento unicameral formado por candidatos eleitos tanto pelos sindicatos quanto pelo voto popular, o Parlamento da República Socialista sempre foi algo confuso. No entanto, nunca foi tão confuso quanto é hoje.\n\nParece que os sindicatos perderam ainda mais terreno do que o esperado; eles perderam muito apoio tanto para os Actionistas fortemente parlamentaristas quanto para os Fascistas e perderam sua maioria absoluta pela primeira vez na história da República Socialista. No novo clima, o presidente Giulietti tentou retomar seu papel como chefe de estado constitucional e então tentou formar um governo parlamentar; no entanto, com os sindicatos o culpando pelo seu fraco resultado e os actionistas se recusando a trabalhar sob o Presidente que quebrou normas constitucionais para nomear um governo nacionalista, as negociações logo emperraram. Embora ainda possa haver um caminho para um governo de trabalho, certamente não há caminho para frente para Giulietti."
+socitaly.3.a: "As negociações devem começar rapidamente, não queremos outra eleição!"
+
+socitaly.4.t: "O Novo Compromisso"
+socitaly.4.d: "No final, apesar de seu mandato durar até 1938, Giulietti renunciou à Presidência. Isso fez muito para reiniciar as negociações; Mussolini se apresentou como um homem que simplesmente estava cumprindo seu dever patriótico liderando o 'gabinete do presidente' em 1934; embora isso não tenha gerado simpatia dos actionistas parlamentaristas, foi o suficiente para fazer os sindicatos apoiarem sua candidatura à Presidência - especialmente quando ele prometeu nomear o alinhado com os sindicatos Angelo Tasca como Primeiro Ministro se eleito. E ele foi eleito: com seu primeiro ato como presidente sendo, é claro, a nomeação de um novo governo Tasca.\n\nIsso não significa que a estabilidade tenha retornado; longe disso. A infatuação dos sindicatos com Mussolini como homem do momento rapidamente desapareceu quando ficou claro que Mussolini estava sendo ainda mais agressivo em seu reforço da Presidência. Agora parece haver uma espécie de cabo de guerra entre Mussolini e a liderança sindical, buscando quebrar o domínio um do outro; no meio estão os Actionistas, agora esperando deslizar entre os dois lados e restaurar os poderes parlamentares enquanto os dois gigantes da política italiana se mutilam.\n\nUma fachada de unidade será mantida enquanto a Revolução não for cumprida; mas uma vez que a Península tenha alcançado sua Revolução, a fumaça se dissipará e alguém surgirá das cinzas para construir uma nova Itália."
+socitaly.4.a: "O futuro da Itália é construído a partir daqui."
+
+socitaly.5.t: "O Novo Governo Parlamentarista"
+socitaly.5.d: "Com o conflito entre Sindicatos e Presidência causando grandes baixas em ambos os lados, parece que nenhum dos dois agora é forte o suficiente para sustentar um governo. A única opção para um executivo viável acabou sendo os Actionistas; e, apesar da grande desconfiança mútua entre Rosselli e Mussolini, constantes ataques fascistas e críticas sindicais, o Presidente acabou sendo forçado a nomear Rosselli como Primeiro Ministro. Quanto tempo tal governo, formado pela falta de uma oposição unida em vez de uma maioria real, pode durar, ainda está para ser visto."
+socitaly.5.a: "Boa sorte, Rosselli"
+
+socitaly.6.t: "O Novo Governo Sindicalista"
+socitaly.6.d: "À medida que o equilíbrio político muda, parece que os Sindicatos emergiram como a única força capaz de formar um governo, apesar da constante interferência fascista. Com outras forças falhando em entregar, Mussolini foi forçado a nomear Tasca como Primeiro Ministro, muito para seu desgosto. Por enquanto, um governo sindical forte está no poder; os Fascistas sem dúvida lutarão com unhas e dentes para assumir o Governo, então a luta ainda não acabou."
+socitaly.6.a: "Boa sorte, Tasca"
+
+socitaly.7.t: "O Novo Governo Presidencialista"
+socitaly.7.d: "Com as outras facções sofrendo pesadamente sob o fogo dos Camisas Negras, parece que Mussolini finalmente conseguiu nomear seu aliado próximo de Ambris para o cargo de Primeiro Ministro. O conflito está longe de terminar, já que tanto os Sindicatos quanto os Actionistas se organizam para derrubar o executivo; mas por enquanto, os Fascistas estão no controle tanto da Presidência quanto do Governo."
+socitaly.7.a: "Boa sorte, de Ambris"
+
+socitaly.8.t: "A Eleição Pós-Guerra"
+socitaly.8.d: "Com a Itália finalmente unida, os diversos políticos em todo o país agora estão pedindo veementemente por novas eleições, que incluirão os territórios recém-libertados. Em um nível teórico, todos concordam que essas terras devem ter o direito de influenciar o governo da República Socialista - e efetivamente, o regime de reconstrução nesses territórios significa que essas novas eleições verão uma vitória certa do governo atual, que nos tiraria da constante instabilidade que assola o país desde 1936. Sindicatos, Actionistas e Fascistas ainda têm um mês para jogar seus jogos de poder, após o qual certamente se destruirão uns aos outros."
+socitaly.8.a: "Veremos quem sai vitorioso"
+
+socitaly.9.t: "Il Sol dell'Avvenire"
+socitaly.9.d.r: "As primeiras eleições pós-guerra finalmente foram realizadas. As cabines de votação foram abertas em todo o país, embora em certas áreas não reconstruídas o voto tenha sido severamente restrito - muito para o desgosto do governo actionista atual, que esperava usar essas eleições para provar a natureza democrática da República Socialista. No entanto, um recente impulso para expandir o sufrágio nessas áreas mostrou ser um jogo bem-sucedido para os actionistas, que acabaram sendo os grandes vencedores desta eleição. Desafiando a interferência dos Camisas Negras e superando em número os candidatos eleitos pelos sindicatos (com um número de eleitos simpáticos também vindo dessas fileiras), os actionistas agora certamente serão os líderes do primeiro governo pós-guerra.\n\nImediatamente, um acordo foi encontrado com os Sindicatos para impugnar Mussolini; o Presidente sentiu o fracasso do projeto presidencialista, renunciou ao poder e rapidamente deixou o país. Em seu lugar, o Parlamento elegeu Rosselli; embora ele se oponha aos poderes extraordinários da Presidência, ele optou por manter esses poderes até conseguir restaurar totalmente a normalidade constitucional."
+ socitaly.9.d.s: "As primeiras eleições pós-guerra finalmente foram realizadas. As urnas foram abertas por todo o país, embora em certas áreas não reconstruídas o voto tenha sido severamente restrito - algo que o governo unionista atual considerou necessário. O Governo também conseguiu manter os Camisas-negras à distância durante as eleições; esses dois fatores combinados acabaram surpreendendo tanto os Parlamentaristas quanto os Presidencialistas, enquanto os candidatos unionistas reconquistaram a maioria absoluta que haviam perdido em 1934. De fato, os Sindicatos são os grandes vencedores dessas primeiras eleições, embora suas divisões internas quase tenham tornado isso em vão.\n\nUma coisa em que todos concordaram foi uma ação imediata para impugnar Mussolini; o Presidente percebeu o fracasso do projeto Presidencialista, renunciou ao poder e deixou rapidamente o país. Logo depois, surgiu um conflito sobre seu sucessor; alguns expressaram apoio a uma restauração completa da presidência institucional, mas um consenso surgiu a favor de um modelo semi-presidencialista. No final, o Primeiro-Ministro Tasca quebrou o impasse ao propor que o ex-presidente Giulietti reassumisse temporariamente o cargo até que um candidato melhor fosse encontrado. Essa ação pode ter acabado com as esperanças de Tasca de permanecer no comando dos assuntos do governo uma vez que esse candidato seja eleito - mas salvaguardou a supremacia unionista sobre o governo."
+socitaly.9.d.t: "As primeiras eleições pós-guerra finalmente foram realizadas. As urnas foram abertas por todo o país, embora em certas áreas não reconstruídas o voto tenha sido severamente restrito - algo que Mussolini apoiou completamente. De fato, com o Exército ocupado com a pacificação das áreas liberadas, os Camisas-negras estavam livres para percorrer o país, produzindo um resultado eleitoral fortemente inclinado a favor dos Fascistas. Embora não tenham conseguido uma maioria absoluta, os Fascistas se tornaram a maior facção parlamentar de longe, e as divisões internas entre Sindicatos e Actionistas significam que nenhum desafio ao governo de Mussolini provavelmente terá sucesso.\n\nCom essa vitória retumbante, Mussolini está livre para avançar com sua "revolução fascista" - embora ele possa precisar conter seus próprios Camisas-negras antes que se tornem um problema muito grande para sua liderança."
+socitaly.9.a: "Um dia esplêndido para a democracia!"
+socitaly.9.b: "Que retorno impressionante!"
+socitaly.9.c: "A que isso levará?"
+
+socitaly.11.t: "Um Pacto de Pacificação?"
+socitaly.11.d: "Com o governo atual defendendo uma retórica radical e a violência aumentando na frente interna, sindicalistas e líderes dos Camisas-negras se uniram para negociar um acordo de paz temporária entre as duas facções. Eles argumentam que todos precisarão fazer o máximo para levar nossa revolução a sua conclusão; como tal, disputas mesquinhas devem ser adiadas indefinidamente.\n\nÉ claro que, efetivamente, esse "pacto de pacificação" provavelmente será irrelevante para realmente trazer paz ao país, e de fato o afastamento do governo provavelmente dará à oposição Parlamentarista a munição de que precisa para formar seu próprio governo. Ainda assim, a ideia de paz interna é muito popular, e se opor ao pacto será visto como um sinal de aumento de militância."
+socitaly.11.a: "Vamos chegar a um acordo"
+socitaly.11.b: "Não podemos baixar a guarda!"
+
+socitaly.12.t: "Aumento da Militância dos Camisas-negras"
+socitaly.12.d: "Recentemente, os Camisas-negras aumentaram seu raio de operações, lançando ações contra supostos \"subversivos e antirrevolucionários\" - com o claro objetivo de conter o poder dos sindicatos. Como são apoiados pela Presidência nos bastidores, é improvável que a Segurança Pública intervenha contra eles; no entanto, parece que a liderança sindical está organizando grupos de \"defesa proletária\", que podemos patrocinar: isso efetivamente neutralizaria a ofensiva dos Camisas-negras, mas também seria um assunto sangrento."
+socitaly.12.a: "Não há nada que possamos fazer"
+socitaly.12.b: "Podemos combater fogo com fogo!"
+
+socitaly.13.t: "Greves contra Mussolini"
+socitaly.13.d: "Num ataque direto ao governo da República Socialista, líderes sindicais proclamaram uma série de greves contra a liderança do Presidente Mussolini, suas supostas violações da constituição e ações dos Camisas-negras em geral. Embora a posição da Presidência não esteja ameaçada, está claro que a fachada de unidade deve ser restaurada... embora Mussolini pareça ter uma opinião diferente."
+socitaly.13.a: "Precisamos encontrar um acordo antes que isso saia do controle"
+socitaly.13.b: "Não podemos simplesmente ignorá-los...?"
+
+socitaly.14.t: "Conflito entre Presidente e Governo"
+socitaly.14.d: "As políticas divergentes do Presidente Mussolini e do Governo parecem ter nos levado ao ponto de ruptura. Com Mussolini patrocinando os Camisas-negras e vários outros movimentos antidemocráticos, enquanto mina diretamente a estabilidade do executivo, o Parlamento ameaçou aprovar uma moção de desconfiança nele, o que acabaria com seu governo e condenaria o projeto presidencialista.\n\nUma aprovação de tal moção é improvável, mas mostra que a Presidência não pode esperar fazer o que quiser e ignorar a vontade dos outros poderes do Governo.\n\nEmbora as tensões não sejam verdadeiramente resolvidas até que o Governo ou Mussolini sejam forçados a sair, a crise pode ser aliviada por um cessar-fogo temporário entre a FAR e o resto do país. Claro, Mussolini parece estar determinado a se reforçar, e há rumores de que um "Governo do Presidente" está pronto para ser nomeado."
+socitaly.14.a: "Traga-me de Ambris, por favor?"
+socitaly.14.b: "Isso seria insano!"
+
+socitaly.15.t: "Jornais contra a Presidência"
+socitaly.15.d: "Como tanto a Presidência quanto o Governo estão nas mãos de políticos da FAR, a oposição agora decidiu expressar sua oposição ao estado de coisas na imprensa. Desde a Revolução, a maioria das publicações tem estado nas mãos da Federação Nacional de Imprensa, com a maioria dos outros jornais sendo censurados de acordo com um Decreto Presidencial assinado em 1921. Isso agora está dando aos sindicatos a liberdade e os meios para criticar severamente a Presidência; nas últimas semanas, eles começaram a impactar verdadeiramente o governo, já que a opinião pública parece estar se voltando contra Mussolini e especialmente de Ambris.\n\nEmbora os assessores da Presidência se oponham à medida, há uma maneira de temporariamente deter a ofensiva da imprensa: o mesmo Decreto Presidencial de 1921 que censura publicações antissocialistas pode ser usado para suprimir críticas ao governo, mesmo que apenas por algumas semanas."
+socitaly.15.a: "Teremos que aguentar isso"
+socitaly.15.b: "De acordo com DPR 153/1921..."
+
+socitaly.16.t: "Comícios Massivos"
+socitaly.16.d: "Milhares aplaudem enquanto Mussolini fala.\n\n"Os poderes reacionários do mundo estão chegando ao fim, enquanto a Itália proletária se ergue para arrancar sua liberdade deles!"\n\nEste é apenas o último de uma série de grandes encontros em apoio ao Presidente, que Mussolini alimenta lançando discursos bombásticos. À medida que o tempo passa, Mussolini atrai multidões cada vez maiores; e quanto maiores essas multidões são, mais as palavras de Mussolini impactam a consciência pública."
+socitaly.16.a: "Isso é o início de um culto à personalidade?"
+
+socitaly.17.t: "Apoio ao Esforço de Guerra"
+socitaly.17.d: "Com a guerra pela unificação da Itália sobre nós, grandes manifestações de apoio público ao conflito estão se tornando comuns; e com Mussolini sendo o mais fervoroso defensor das campanhas de unificação, a Presidência está colhendo seus benefícios. A sensação de que a grande revolução italiana finalmente está sobre nós está permeando todas as camadas da sociedade; mas muitos lembram do fracasso dos sindicatos em capitalizar o colapso da Federação Italiana em 1927, e estão, portanto, se movendo para apoiar Mussolini."
+socitaly.17.a: "A Itália derrotará as forças do destino!"
+
+socitaly.18.t: "Aumento do Fervor Revolucionário"
+socitaly.18.d: "Nas últimas semanas, um senso de dedicação à Revolução parece ter descido sobre a sociedade italiana. Não temos certeza de como exatamente isso aconteceu, mas apesar de surtos localizados de sentimentos antifuncionários, isso claramente causou o aumento do apoio às instituições da República Socialista. Enquanto a Itália acorda para uma nova manhã, muitos no país estão mais do que dispostos a fazer o máximo para garantir justiça e liberdade, e eles sabem que isso só pode ser alcançado por meio de nós. O que permanece sem resposta, no entanto, é como esse sentimento público será recebido na arena política."
+socitaly.18.a: "A Presidência pode se beneficiar disso!"
+socitaly.18.b: "Foram os sindicatos que construíram esta revolução!"
+
+### FMC ###
+
+socitaly.22.t: "Atividades Chetnik Aumentam"
+socitaly.22.d: "Enquanto concluímos a libertação do restante da Itália, nossos inimigos internos aparentemente completaram a unificação de uma ampla frente antissocialista. Vindas de todo o país, cerca de uma dúzia de milícias antissocialistas independentes foram recentemente absorvidas dentro da Frente Militar Clandestina, o que lhes proporcionou melhor organização e as tornou várias vezes mais eficazes contra nosso governo. Isso coincidiu com uma nova ofensiva Chetnik na frente interna; com recursos significativos comprometidos na reconstrução dos territórios libertados, eles estão se mostrando um aliado perigosamente eficaz de quaisquer inimigos externos que ainda tenhamos."
+socitaly.22.a: "Não seremos intimidados!"
+
+socitaly.23.t: "Ataque Chetnik!"
+
+socitaly.25.t: "Fábrica Bombardeada em [attack_state.GetName]"
+socitaly.25.d: "A Frente Militar Clandestina mirou uma fábrica em [attack_state.GetName], causando grandes danos e a perda de muitas vidas. Investigadores da Guarda Republicana estão no local e afirmam estar mais perto de capturar os líderes por trás dos terroristas católicos do que estavam antes."
+socitaly.25.a: "Os pegaremos mais cedo ou mais tarde..."
+
+socitaly.26.t: "Fábrica Bombardeada em [attack_state.GetName]"
+socitaly.26.d: "A Frente Militar Clandestina mirou uma fábrica de armas em [attack_state.GetName], causando grandes danos e a perda de muitas vidas. Investigadores da Guarda Republicana estão no local e afirmam estar mais perto de capturar os líderes por trás dos terroristas católicos do que estavam antes."
+socitaly.26.a: "Os pegaremos mais cedo ou mais tarde..."
+
+socitaly.27.t: "Ferrovias Sabotadas em [attack_state.GetName]"
+socitaly.27.d: "A Frente Militar Clandestina detonou uma série de bombas na região de [attack_state.GetName], causando danos consideráveis às ferrovias, destruindo muitos trens e custando a vida de inúmeras pessoas inocentes."
+socitaly.27.a: "Malditos terroristas!"
+
+socitaly.28.t: "Quartel Bombardeado em [attack_state.GetName]"
+socitaly.28.d: "Durante a noite, um quartel da Guarda Republicana em [attack_state.GetName] foi atacado pela Frente Militar Clandestina, a bomba causando grande perda de vidas e equipamentos. A Guarda Republicana jurou vingança e planeja eliminar os terroristas e acabar com esse massacre."
+socitaly.28.a: "Os pegaremos mais cedo ou mais tarde..."
+
+socitaly.29.t: "Líderes Capturados!"
+socitaly.29.d: "Hoje mais cedo, vários dos líderes por trás da Frente Militar Clandestina foram capturados por investigadores da Guarda Republicana. Este é um golpe sério para os terroristas monarquistas e aproxima o país um passo mais perto de eliminá-los de vez."
+socitaly.29.a: "Quanto antes, melhor!"
+
+socitaly.30.t: "A Prisão do Marechal Caviglia"
+socitaly.30.d: "Quando esta manhã a polícia invadiu um suposto reduto da FMC no sul da província de Cuneo, não imaginava que encontraria algo de destaque. Em vez disso, entre um pequeno número de partidários monarquistas, encontraram também o Marechal Caviglia, um oficial de alta patente considerado o líder dos Chetniks.\n\nFugindo desde 1919, Caviglia foi um dos melhores generais da Itália na Primeira Guerra Mundial; durante a guerra civil, foi pego de surpresa pela decisão de Badoglio de evacuar o governo real para a Sardenha, e permaneceu no Piemonte com suas unidades monarquistas isoladas. A partir daí, ele construiu a Frente Militar Clandestina do zero, causando muitos problemas ao nosso governo.\n\nCom Caviglia em nossas mãos, os Chetniks sofreram um golpe letal."
+socitaly.30.a: "Este é o começo do fim."
+
+socitaly.40.t: "A Itália está Unida!"
+socitaly.40.d: "Finalmente, a Itália foi reunida, e a revolução se espalhou por todos os cantos da península! Hoje é um grande dia e será considerado um feriado nacional. Que todos os italianos se alegrem agora que a Itália está reunida!"
+socitaly.40.a: "Viva a Itália!"
+
+socitaly.41.t: "O Assassinato de Carlo Rosselli"
+socitaly.41.d: "Voltando para casa após um discurso contundente contra Mussolini no Parlamento, Rosselli foi espancado e sequestrado por unidades Blackshirt que acreditamos serem renegadas; ele é suspeito de já estar morto, mesmo que seu corpo ainda não tenha sido encontrado.\n\nEste não é o primeiro político morto pelos fascistas, seja sob as ordens de Mussolini ou não; no entanto, o assassinato de uma figura de tão alto perfil, que foi uma força política importante na República Socialista na última década, provocou enormes protestos em todo o país. Desta vez, Mussolini talvez tenha se metido em mais do que pode lidar."
+socitaly.41.a: "Isso não é ideal!"
+
+socitaly.42.t: "Conspiração contra Mussolini"
+socitaly.42.d: "Em Roma, uma reunião secreta está ocorrendo hoje entre Emilio Lussu, líder dos veteranos de guerra e agora secretário do partido do Partido da Ação, e a liderança militar da República. Com uma ampla oposição ao regime de Mussolini após o assassinato de Rosselli e um pacote de reformas cada vez mais autoritárias prestes a atingir o Parlamento, Lussu está agora convocando a liderança do Exército para se unir aos veteranos em uma tentativa de remover Mussolini do poder à força e desarmar os Blackshirts antes que seja tarde demais."
+socitaly.42.a: "Estamos comprometidos então"
+socitaly.42.b: "O exército se recusa a apoiar o plano!"
+
+socitaly.43.t: "O Golpe dos Veteranos"
+socitaly.43.d: "Inesperadamente para um movimento supostamente formado por uma 'aristocracia das trincheiras', as associações de veteranos hoje denunciaram a ditadura fascista; movendo-se em uníssono com o Exército, eles então ordenaram uma mobilização geral de todos os 'homens capazes leais ao socialismo e à democracia', que rapidamente tomaram a maioria das cidades do país.\n\nTanto Mussolini quanto de Ambris parecem ter sido presos; enquanto o Exército esperava uma luta prolongada, o completo colapso central da FAR significou que os Blackshirts se moveram erraticamente e foram facilmente desarmados.\n\nEmilio Lussu rapidamente foi às ondas do rádio para relatar a queda do Fascismo e sua ascensão ao poder, servindo como Presidente de um novo regime democraticamente orientado a ser construído sobre o legado do mártir Rosselli."
+socitaly.43.a: "Por justiça e liberdade!"
+
+socitaly.44.t: "A Responsabilidade Moral"
+socitaly.44.d: "Em um discurso arrepiante no Parlamento hoje, Mussolini falou sobre o assassinato de Carlo Rosselli. Falando sobre as acusações sobre seu suposto envolvimento no assassinato, ele perguntou a uma Câmara atônita se alguém ousaria invocar o Artigo 47 da Constituição contra ele e forçar uma investigação parlamentar; após a falta de respostas, ele então assumiu 'por si e somente por si' a responsabilidade 'política, moral e histórica' pelo clima que levou ao assassinato de Rosselli. Ele então prometeu que dentro de 48 horas, o problema da 'sedição e subversão' seria resolvido.\n\nEnfurecida, a oposição (agora englobando a maioria do Parlamento) optou por adotar os modos da Roma antiga, desertou o Parlamento e recuou para a Colina do Aventino em protesto contra o regime fascista, para bloquear o Governo até que fosse forçado a renunciar. Eles não consideraram que Mussolini simplesmente não se importa com o precedente constitucional: mesmo com um Parlamento remanescente, as leis especiais foram aprovadas, ordens executivas foram enviadas para suprimir efetivamente a liberdade de imprensa dentro de 48 horas, todos os partidos de oposição foram dissolvidos e todos os deputados 'aventinos' foram expulsos do Parlamento.\n\nO ex-presidente Giulietti comentou: 'Quando eu era presidente, o Parlamento me dava todo tipo de dor de cabeça, e agora eles o deixam fazer o que quiser.'"
+socitaly.44.a: "Então é assim que a liberdade morre."
+
+socitaly.45.t: "A Morte da Revolução Fascista"
+socitaly.45.d: "Sem movimentos do governo fascista após a morte de Rosselli, a indignação popular transbordou em uma greve geral contra Mussolini. Com os sindicatos mais uma vez na ofensiva, o Presidente tentou utilizar todo o poder dos Blackshirts contra eles.\n\nIsso, no entanto, o expôs ao perigo de um golpe de Estado militar; após uma reunião com a liderança do Exército na qual Mussolini pode ou não ter pedido ao Exército para abrir fogo contra os sindicatos que eles haviam combatido anteriormente, o que por sua vez resultou em ameaças golpistas veladas do Exército, tanto o Presidente quanto o Governo acabaram renunciando ao poder e deixando o país. O Exército então convocou o ex-presidente Giulietti para ser temporariamente empossado enquanto uma solução de governo mais permanente é negociada. Sem liderança, tanto a FAR quanto os Blackshirts se desintegraram efetivamente da noite para o dia."
+socitaly.45.a: "Um novo começo"
+
+socitaly.46.t: "Mussolini nomeia Novo Governo"
+socitaly.46.d: "Embora Mussolini certamente não se importasse com as repercussões do Caso Rosselli, ele o achou muito útil pelo backlash que deu ao seu suposto aliado mais próximo, Alceste de Ambris.\n\nOs dois trabalharam juntos por décadas até agora, mas de Ambris sempre foi visto como muito independente para o gosto de Mussolini. Isso era ótimo antes das Leggi Fascistissime, pois permitia uma separação nominal contínua entre Presidência e Governo para aplacar a oposição. Até agora, ele é apenas mais um obstáculo no caminho de Mussolini.\n\nComo tal, de Ambris foi obrigado a renunciar em relação às suas falhas ao lidar com o Caso Rosselli, e foi substituído por um aliado ainda mais próximo na pessoa de Palmiro Togliatti, um amigo pessoal de Mussolini desde os primeiros dias da Revolução. Embora ideologicamente seja ainda mais distante do Presidente (tendo liderado o Partido Comunista da Itália até ser efetivamente fundido na FAR em 1932), ele é politicamente muito mais fraco, o que é a única coisa que importa até agora. Claro, os Blackshirts (que apreciavam o sindicalismo nacional de de Ambris) não apreciam a mudança."
+socitaly.46.a: "Isso pode escalonar"
+
+socitaly.47.t: "Mussolini é Alvejado!"
+socitaly.47.d: "O desastre ocorreu hoje, quando uma mulher irlandesa louca atirou em Mussolini! O Presidente havia acabado de sair de uma conferência médica, quando uma tal Violet Gibson atirou nele. A mulher foi rapidamente neutralizada por policiais de segurança pública na área, e Mussolini foi resgatado por um exército de cirurgiões da conferência próxima; no entanto, na confusão do momento, não ficou claro se o Presidente havia sido gravemente ferido, ou até mesmo morto."
+socitaly.47.a: "Mussolini está morto!"
+socitaly.47.b: "Mussolini foi apenas roçado pela bala!"
+
+socitaly.48.t: "O Putsch dos Camisas-Negras"
+socitaly.48.d: "Após o assassinato de Mussolini, Togliatti ascendeu à presidência; isso foi completamente inesperado e jogou uma chave inglesa na revolução fascista. Parece que o legado de Mussolini no movimento será os efeitos desastrosos de seu projeto personalista, que parece ter seriamente ameaçado o fascismo como um todo; de fato, Togliatti já começou a construir pontes com os antigos movimentos leninistas e até mesmo com o que resta dos sindicatos, e nomeou seu amigo, o conhecido antifascista Luigi Longo como Primeiro-Ministro.\n\nA FAR imediatamente mergulhou no caos; com o antigo Partido Comunista da Itália seguindo Togliatti, grande parte do movimento se reuniu em torno do ex-Primeiro-Ministro de Ambris. Neste momento, os Camisas-Negras estão marchando para Roma para restaurar o curso da Revolução Fascista; se eles chegarão à cidade depende da lealdade do Exército."
+socitaly.48.a: "O Exército está ao lado de Togliatti!"
+socitaly.48.b: "Camisas-Negras leais à Revolução marcham sobre Roma!"
+
+socitaly.50.t: "Prisioneiro do Vaticano"
+socitaly.50.d: "Sua Santidade se trancou dentro do Vaticano, como fizeram os papas anteriores nos dias do Reino da Itália. Ele se recusa a reconhecer que [SRI.GetNameDef] governa a Itália. No entanto, enquanto estiver trancado dentro do Vaticano, pouco poderá fazer além de fazer barulho."
+socitaly.50.a: "O Papa! Quantas divisões ele tem?"
+
+socitaly.51.t: "O Conclave Papal Começa"
+socitaly.51.d: "O Conclave Papal começou! A Santa Sé se reunirá e escolherá um novo papa que apoiará o Socialismo. Pode levar algum tempo, mas eventualmente eles elegerão um novo Papa que fará a sua parte para libertar os fiéis de suas correntes."
+socitaly.51.a: "Eles escolherão certo!"
+
+socitaly.52.t: "Um Novo Papa"
+socitaly.52.d: "Depois de muitos dias de debates, o Conclave elegeu Achille Liènart como João XXIII."
+socitaly.52.a: "Viva!"
+
+socitaly.53.t: "Exílio do Papa"
+socitaly.53.d: "Decidimos que o Papa não tem lugar em nossa sociedade, e que ele será exilado. Para onde ele vai, não nos importamos, mas ele não ficará mais dentro da Itália!"
+socitaly.53.a: "Saia daqui!"
+
+socitaly.54.t: "O Papa Chega em [Root.GetNameDef]"
+socitaly.54.d: "O Papa chegou em [Root.GetNameDef] hoje, buscando refúgio dos sindicalistas dentro da Itália que o exilaram do país. Uma grande multidão já saiu para encontrar o Santo Padre. Ele solicitou residência mais permanente em uma de nossas catedrais, até que o Vaticano seja novamente restaurado à liberdade."
+socitaly.54.a: "Fique o tempo que quiser, Santo Padre!"
+
+socitaly.65.t: "Nascimento da Cidade do Vaticano"
+socitaly.65.d: "Recentemente concluímos uma reunião produtiva com o Papa. Um novo estado independente será criado ao redor da Basílica de São Pedro chamado Cidade do Vaticano que será independente da República. Enquanto isso, ele aceitará a legitimidade de nossa República e instará os católicos do mundo inteiro a fazerem o mesmo. Este é um grande dia para os fiéis e para a República."
+socitaly.65.a: "Obrigado, Santo Padre!"
+
+socitaly.68.t: "Julgamento dos Líderes Reacionários"
+socitaly.68.d: "Com nossa vitória sobre as forças reacionárias, os líderes da república corrupta e os líderes "nobres" dos reinos despóticos estão sendo julgados. Alguns querem que sejamos indulgentes com eles, enquanto outros querem que sejamos severos e façamos um exemplo deles. Como o tribunal decidirá?"
+socitaly.68.a: "Indulgente. Já temos nossa vitória."
+socitaly.68.b: "Faça um exemplo deles."
+
+socitaly.69.t: "O Que Fazer com os Palácios Reais?"
+socitaly.69.d: "Com a conquista do Sul, assumimos o controle do território do Reino das Duas Sicílias, e à medida que levamos a revolução para o sul, surge a questão do que fazer com os vários palácios nobres e reais. Alguns acham que deveriam ser transformados em museus públicos, outros acham que o governo deveria usá-los para os diversos cargos ministeriais. Por fim, alguns apoiam a ideia de entregá-los à Liga da Juventude Trabalhadora."
+socitaly.69.a: "Transforme-os em museus."
+socitaly.69.b: "Transforme-os em sedes do governo."
+socitaly.69.c: "Transforme-os em acampamentos juvenis."
+
+socitaly.70.t: "Resistência às Mudanças Sociais"
+socitaly.70.d: "Desde que unificamos a Itália, houve resistência contra as várias mudanças sociais que implementamos na República desde sua fundação, especialmente no caso dos direitos das mulheres. As mudanças que trouxemos para a sociedade italiana levarão tempo, mas eventualmente o resto da Itália as aceitará."
+socitaly.70.a: "Eles aprenderão com o tempo."
+
+socitaly.71.t: "Compromisso com a Ajuda da Igreja"
+socitaly.71.d: "Enquanto levamos a revolução para o resto da Itália, nosso compromisso com a Igreja está ajudando a trazê-los a entender os princípios do socialismo. Embora ainda haja bastante resistência entre os reacionários mais dedicados, há menos do que nossos estrategistas esperavam antes da guerra."
+socitaly.71.a: "Graças a Deus!"
+
+socitaly.72.t: "Reforma Agrária no Sul da Itália"
+socitaly.72.d: "Agora que temos controle do Sul da Itália, é hora de trazer reforma agrária para o sul e levar a revolução aos fazendeiros do sul. O pacote de reformas agrárias preparado pelo Parlamento coletivizará e devolverá a terra aos fazendeiros. Além disso, serão criados sindicatos agrícolas locais para levar o sindicalismo ao sul."
+socitaly.72.a: "Quebrem as correntes!"
+
+socitaly.73.t: "Industrialização para o Sul"
+socitaly.73.d: "O sul nunca foi industrializado em seu potencial total. No entanto, agora que temos controle do sul, podemos iniciar um programa para industrializar a região. Isso ajudará a melhorar a vida das pessoas que vivem lá, trazendo empregos e desenvolvimento e reduzindo a desigualdade em toda a Itália."
+socitaly.73.a: "O progresso se move para o sul!"
+
+socitaly.74.t: "Sindicalização da Economia"
+socitaly.74.d: "Com a Itália agora unificada, surge a questão de como levar a economia sindicalista para o restante da Itália. Alguns acham que a melhor maneira é focar na construção dos sindicatos nas áreas. Outros pensam que a melhor maneira de sindicalizar o resto do país é focar na agricultura coletiva. Uma terceira opção são as cooperativas de trabalhadores, especialmente aquelas que servem ao exército, que podem ser a chave para revolucionar as novas regiões."
+socitaly.74.a: "Foco nos sindicatos."
+socitaly.74.b: "Foco na agricultura comunal."
+socitaly.74.c: "Foco em cooperativas de trabalhadores."
+
+socitaly.75.t: "Criação das Juntas Provinciais"
+socitaly.75.d: "Na tentativa de fornecer alguma forma de governo descentralizado para as partes do país recentemente pacificadas, o Parlamento aprovou a formação de novos parlamentos provinciais, ou juntas, pelo país. Embora faltem poderes legislativos, as novas juntas provinciais terão algum nível de controle orçamentário e atuarão como um meio-termo entre a administração local e o governo nacional."
+socitaly.75.a: "Democracia em todos os níveis de governo!"
+
+socitaly.76.t: "Resistência às Mudanças Sociais"
+socitaly.76.d: "Desde que unificamos a Itália, houve resistência contra as várias mudanças sociais que implementamos na República desde sua fundação, especialmente no caso dos direitos das mulheres. As mudanças que trouxemos para a sociedade italiana levarão tempo, mas eventualmente o resto da Itália as aceitará."
+socitaly.76.a: "Malditos reacionários!"
+
+socitaly.77.t: "O Ministério da Segurança Pública ajuda a prevenir problemas"
+socitaly.77.d: "O Ministério da Segurança Pública prendeu um número de traidores reacionários à República operando no sul. Os Ministros garantiram que ninguém no resto da Itália ousará trair a revolução."
+socitaly.77.a: "A Polícia Secreta ao Resgate!"
+
+socitaly.79.t: "Exibição da Revolução"
+socitaly.79.d: "Em 1919, a República Socialista da Itália foi proclamada. No entanto, a guerra civil resultante deixaria a Itália dividida. Desde então, apagamos essas fronteiras falsas, reunificamos a Itália e levamos a revolução a todos os cantos de nosso país! Para demonstrar nossa gloriosa vitória ao povo, uma grande exposição da revolução e de nossas lutas e perdas foi inaugurada em Roma. Celebrando a luta para levar o sindicalismo a todos os cantos da Itália, sem dúvida ajudará a educar as massas sobre a revolução e informá-las sobre a glória de uma Itália reunida."
+socitaly.79.a: "Viva a República!"
+
+socitaly.80.t: "Mulheres Entrando na Política"
+socitaly.80.d: "Embora as mulheres tenham sido legalmente autorizadas a votar, trabalhar na política e sentar no Parlamento desde a fundação de nossa República, é apenas agora que unificamos a Itália que as mulheres em todo o país desfrutam desses direitos. Muitas mulheres, especialmente aquelas do sul e do nordeste onde os reacionários governavam, agora estão dando passos para entrar na política pela primeira vez em suas vidas, desde sindicatos locais e juntas provinciais até o próprio Parlamento."
+socitaly.80.a: "Ótimo!"
+
+socitaly.86.t: "Expansão do Partido Social Cristão"
+socitaly.86.d: "Formado em 1919 a partir dos herdeiros do PPI alinhados com os socialistas e liderado desde sua fundação por Riccardo Lombardi, o Partido Social Cristão tem sido o principal partido político católico na República Socialista; mesmo com a recente unificação do país, parece que isso pode não mudar. Com muitos ex-políticos do PPI se juntando às suas fileiras, o PCS parece determinado a expandir sua influência política - embora se esses políticos tiveram uma mudança genuína de coração ou estão apenas adotando uma tática de entrada reacionária, não podemos dizer."
+socitaly.86.a: "Lombardi deve manter seu partido sob controle estrito"
+
+socitaly.87.t: "Arquitetura Futurista"
+socitaly.87.d: "'Esta é a maior absurdidade da arquitetura moderna. É perpetuada pela cumplicidade gananciosa das academias, campos de concentração para a intelligentsia, onde os jovens são forçados a recopiar modelos clássicos onanisticamente em vez de esticar suas imaginações para buscar soluções para problemas novos e urgentes: a casa e a cidade futuristas. Uma casa e cidade espiritual e materialmente nossa, em que nossa atividade tumultuada pode correr sem parecer um anacronismo grotesco.' Assim diz o Manifesto Futurista da arquitetura. O futurismo como movimento arquitetônico tem sido recentemente altamente popular entre a FAR. Mussolini, em particular, é um patrono conhecido de arquitetos que constroem nesse estilo."
+socitaly.87.a: "O Futuro é agora!"
+
+socitaly.88.t: "Associação Recreativa e Cultural Italiana"
+socitaly.88.d: "A Associazione Ricreativa e Culturale Italiana, ou Associação Recreativa e Cultural Italiana, é a maior sociedade recreativa dentro da República. Fundada em Florença na década de 1920, a organização é puramente secular, e seu objetivo é ajudar a apoiar atividades recreativas para o povo, bem como promover a solidariedade entre os cidadãos da República. A cultura que antes era exclusiva das elites, como ópera, peças teatrais e música clássica, agora está disponível para o povo desfrutar. Além disso, a Associação apoia clubes do livro, férias no campo e muito mais através de acordos com as juntas provinciais locais e sindicatos."
+socitaly.88.a: "A cultura pertence às massas!"
+
+socitaly.89.t: "Congresso da União das Mulheres Italianas"
+socitaly.89.d: "'Não vemos por que a revolução está nas mãos apenas da metade da população. Somos anarquistas, mas também somos mulheres e queremos fazer nossa revolução. Não queremos que os homens a façam por nós. Não queremos uma luta desenhada para se ajustar ao homem porque seremos prejudicadas, como sempre. Queremos lutar para que possamos reivindicar nossa parte na partilha. Queremos deixar claro que, agora, estamos muito felizes e seria um erro nos manter em casa tricotando! Queremos morrer! Mas queremos morrer como homens, não viver como servos!' Assim disse Ada Prospero no congresso anual da Unione Donne Italiane, a maior organização feminina da república. O objetivo da União é dedicado à emancipação e libertação das mulheres. Ada Prospero, em particular, apoia a criação de unidades de combate femininas para lutar pela unificação da Itália."
+socitaly.89.a: "Veremos."
+
+socitaly.90.t: "Bolonha Vence Jogo de 1937 do Campeonato!"
+socitaly.90.d: "Foi uma partida acirrada, mas Bolonha venceu com um placar de 2-1, permanecendo como os campeões reinantes da Liga Italiana. Naturalmente, a cidade de Bolonha está comemorando esta vitória."
+socitaly.90.a: "Os Greyhounds continuam sendo os campeões!"
+
+socitaly.91.t: "Torino Vence Jogo de 1937 do Campeonato!"
+socitaly.91.d: "Em uma reviravolta surpreendente, a equipe de Torino derrotou Bolonha por 1-0. Pela primeira vez em pouco menos de uma década, os campeões reinantes foram derrotados. A cidade de Torino certamente estará celebrando a noite toda após essa vitória impressionante."
+socitaly.91.a: "Os Bulls são os novos campeões!"
+
+socitaly.92.t: "Torino Vence o Jogo do Campeonato de 1937!"
+socitaly.92.d: "Em uma surpreendente virada, a equipe de Torino derrotou Bologna por 1-0. Pela primeira vez em quase uma década, os campeões reinantes foram derrotados. A cidade de Torino certamente estará celebrando a noite toda após essa vitória impressionante."
+socitaly.92.a: "Os Touros são os novos campeões!"
+
+socitaly.100.t: "A Fundação de Cinecittà"
+socitaly.100.d: "Benito Mussolini revelou a abertura de Cinecittà hoje nos arredores da cidade de Florença. Cinecittà foi planejada por numerosos arquitetos para ser menos um estúdio de cinema e mais uma pequena cidade cinematográfica. Mussolini ele próprio foi citado durante a abertura do estúdio: 'O cinema é a arma mais poderosa contra o capitalismo.'. Muitos cineastas aspirantes já estão conversando com os sindicatos da área para ver sobre a produção de filmes lá, enquanto alguns já o chamam de Hollywood no Arno."
+socitaly.100.a: "O cinema é a arma mais poderosa contra o capitalismo!"
+
+socitaly.101.t: "Morte de Filippo Turati"
+socitaly.101.d: "Hoje, o grande estadista Filippo Turati faleceu aos 79 anos de idade. Filippo Turati foi um dos últimos fundadores sobreviventes do Partido Socialista Italiano. Seu forte e constante apoio aos direitos dos trabalhadores da Itália desde seus primeiros dias o tornou famoso em toda a República. Além de fundar o Partido Socialista da Itália, ele também foi um dos principais arquitetos da constituição da República Socialista da Itália. O funeral em Torino foi frequentado por visitantes de nações ao redor do mundo e autoridades de todo o espectro político, todos prestando homenagens ao grande líder falecido enquanto várias canções trabalhistas eram cantadas, incluindo o Inno dei Lavoratori, que ele próprio escreveu."
+socitaly.101.a: "A passagem de uma tocha."
+
+socitaly.102.t: "Maggio Musicale Fiorentino"
+socitaly.102.d: "Na cidade de Florença, o maestro Vittorio Gui criou um novo festival chamado Maggio Musicale Fiorentino, dedicado a realizar óperas e musicais gratuitamente para o povo, para que os clássicos possam ser apreciados por todos os cidadãos, não apenas pelas elites privilegiadas. A ópera de abertura do festival foi Nabucco, de Giuseppe Verdi. Embora seja o primeiro do seu tipo na Itália, Vittorio Gui declarou que espera que o sucesso do Maggio Musicale possa ser replicado em cidades por toda a República."
+socitaly.102.a: "Ópera para o Povo!"
+
+socitaly.103.t: "Enrico Fermi cria o Pisa Pile-1"
+socitaly.103.d: "Enrico Fermi recentemente criou o Pisa Pile-1; o primeiro reator nuclear artificial do mundo. Criado com a ajuda de estudantes da Universidade de Pisa, o dispositivo pode ter sido capaz de gerar apenas meio watt de energia, mas seu sucesso prova que um reator nuclear pode ser construído."
+socitaly.103.a: "O camarada Fermi traz progresso para a República e para o mundo!"
+
+socitaly.104.t: "Enrico Fermi ganha o Prêmio Nobel"
+socitaly.104.d: "O físico Enrico Fermi recentemente ganhou o Prêmio Nobel de Física por seu trabalho em radioatividade induzida. Fermi, que é professor na Universidade de Pisa desde a guerra civil, publicou numerosos trabalhos sobre física, especialmente relacionados ao novo campo da física nuclear. Com seu Prêmio Nobel, a República Socialista da Itália pode celebrar mais um herói da Itália e do Socialismo."
+socitaly.104.a: "Um herói da República!"
+
+socitaly.105.t: "Eleições em San Marino"
+socitaly.105.d: "A cidade-estado de San Marino é uma das repúblicas mais antigas na Península Italiana. Um vestígio da era das cidades-estado, San Marino sobreviveu por séculos, desde a era romana até o Risorgimento. No meio de nossa própria revolução de 1919, os socialistas de San Marino votaram para abandonar o aristocrático Arengo da Sereníssima República e formaram sua própria Câmara do Trabalho; isso abriu caminho para sua própria revolução independente, após a qual se tornaram nosso amigo e aliado mais próximo. Hoje, novas eleições para a Câmara do Trabalho foram realizadas em San Marino, com o Partido Sindicalista Sammarinese mais uma vez vitorioso. Os novos Capitães-Regentes, Giordano Giacomini e Primo Marani, declararam que, como sempre, se comprometerão com nossa amizade compartilhada."
+socitaly.105.a: "Saudações, camaradas!"
+
+socitaly.106.t: "Festival de Jazz de Roma"
+socitaly.106.d: "Com Roma novamente a capital da Itália, um festival de jazz foi organizado pelos diversos sindicatos musicais de toda a Itália. O jazz está presente na Itália desde antes da revolução, começando em 1904, embora o jazz italiano moderno se inspire na América. O famoso músico de jazz americano Louis Armstrong é o destaque do festival."
+socitaly.106.a: "Vamos aproveitar a nova música de uma nova Roma."
+
+socitaly.107.t: "Giro d'Italia Refundado"
+socitaly.107.d: "Com a Itália reunificada, o Giro d'Italia pode começar novamente. O Giro d'Italia é uma corrida de ciclismo que começou em 1909, mas o surto da Weltkrieg e a instabilidade política em curso na Itália impediram completamente a realização da corrida desde 1914. O percurso da corrida vai de Torino, no norte, até Napoli e Bari, no sul, e volta para Milan."
+socitaly.107.a: "Que a corrida comece!"
+
+socitaly.108.t: "Fausto Coppi Vence o Giro D'Italia"
+socitaly.108.d: "Fausto Coppi venceu o Giro D'Italia, estabelecendo um novo recorde. Aos vinte anos, ele é o ciclista mais jovem a completar a corrida. Sua vitória também popularizou seu regime de treinamento e sua dieta particular, que se concentra em grãos integrais enquanto outros corredores consomem grandes quantidades de carne vermelha."
+socitaly.108.a: "Parabéns, camarada Coppi!"
+
+socitaly.109.t: "Spartacus é Lançado"
+socitaly.109.d: "Cinecittà lançou o épico filme Spartacus. Contando a história do líder da antiga rebelião de escravos romanos Spartacus, o filme é, por todos os relatos, um épico com um elenco de milhares. Estrelando Gino Cervi como Spartacus e dirigido por Carmine Gallone, o filme já se mostrou um sucesso tanto para crítica quanto para o público em geral."
+socitaly.109.a: "Eu sou Spartacus!"
+
+socitaly.110.t: "Camarada Ines Donati"
+socitaly.110.d.ines_elected: "Ines Donati, uma forte apoiadora das políticas de Mussolini e Bianchi, acaba de ser eleita para o cargo de general na Guarda Vermelha. Ela provou ser bastante popular entre os soldados, homens e mulheres, e será um farol para todas as nossas soldadas seguirem."
+socitaly.110.d.ines_promoted: "Ines Donati, uma forte apoiadora das políticas de Mussolini e Bianchi, acaba de ser promovida dentro do Exército Vermelho. Ela provou ser bastante popular entre os soldados, homens e mulheres, e será um farol para todas as nossas soldadas seguirem."
+socitaly.110.a: "Parabéns, camarada Donati!"
+
+socitaly.126.t: "Partidários Sindicalistas se Levantam"
+socitaly.126.d: "Sempre tivemos suspeitas de que havia uma rede clandestina de sindicalistas se preparando para o dia em que nós e [SRI.GetNameDef] fôssemos para a guerra. Seus números não são esmagadores, mas sua aparição atrás de nossas linhas é inesperada e causou bastante perturbação em todo o país."
+socitaly.126.a: "Não mudará nada"
+
+socitaly.127.t: "O Equilíbrio na Itália"
+socitaly.127.d.ita: "O equilíbrio na península italiana tem sido delicado desde o fim da guerra civil, com [SRI.GetNameDef] mantendo uma paz tensa com seus vizinhos devido ao conhecimento de que envolver os franceses certamente traria intervenção dos alemães e austríacos. Assim, qualquer conflito na Itália precisaria ser um autônomo. Com [ITA.GetNameDef] atraindo seus próprios aliados para a guerra, a situação agora mudou oficialmente: o equilíbrio está quebrado."
+socitaly.127.d.sic: "O equilíbrio na península italiana tem sido delicado desde o fim da guerra civil, com [SRI.GetNameDef] mantendo uma paz tensa com seus vizinhos devido ao conhecimento de que envolver os franceses certamente traria intervenção dos alemães e austríacos. Assim, qualquer conflito na Itália precisaria ser um autônomo. Com [SIC.GetNameDef] atraindo seus próprios aliados para a guerra, a situação agora mudou oficialmente: o equilíbrio está quebrado."
+socitaly.127.d.srd: "O equilíbrio na península italiana tem sido delicado desde o fim da guerra civil, com [SRI.GetNameDef] mantendo uma paz tensa com seus vizinhos devido ao conhecimento de que envolver os franceses certamente traria intervenção dos alemães e austríacos. Assim, qualquer conflito na Itália precisaria ser um autônomo. Com [SRD.GetNameDef] atraindo seus próprios aliados para a guerra, a situação agora mudou oficialmente: o equilíbrio está quebrado."
+socitaly.127.d.ger: "O equilíbrio na península italiana tem sido delicado desde o fim da guerra civil, com [SRI.GetNameDef] mantendo uma paz tensa com seus vizinhos devido ao conhecimento de que envolver os franceses certamente traria intervenção dos alemães e austríacos. Assim, qualquer conflito na Itália precisaria ser um autônomo. Com os alemães agora em guerra com os sindicalistas, a situação agora mudou oficialmente: o equilíbrio está quebrado."
+socitaly.127.d.aus: "O equilíbrio na península italiana tem sido delicado desde o fim da guerra civil, com [SRI.GetNameDef] mantendo uma paz tensa com seus vizinhos devido ao conhecimento de que envolver os franceses certamente traria intervenção dos alemães e austríacos. Assim, qualquer conflito na Itália precisaria ser um autônomo. Com os austríacos agora em guerra com os sindicalistas, a situação agora mudou oficialmente: o equilíbrio está quebrado."
+socitaly.127.d.major: "O equilíbrio na península italiana tem sido delicado desde o fim da guerra civil, com [SRI.GetNameDef] mantendo uma paz tensa com seus vizinhos devido ao conhecimento de que envolver os franceses certamente traria intervenção dos alemães e austríacos. Assim, qualquer conflito na Itália precisaria ser um autônomo. Com a guerra à qual os sindicalistas agora foram arrastados, a situação oficialmente mudou: o equilíbrio está quebrado."
+socitaly.127.a: "Podemos pedir ajuda!"
+socitaly.127.b: "Isso significa problemas..."
+socitaly.127.c: "Entendi"
+
+socitaly.128.t: "Um Convite"
+socitaly.128.d: "Agora que todas as apostas foram retiradas em relação ao chamado 'equilíbrio' na Itália, [From.GetNameDef] estendeu um convite formal para [SRI.GetNameDef] se juntar às fileiras da Terceira Internacional."
+socitaly.128.a: "Finalmente!"
+ socitaly.128.b: "Pensando melhor, não..."
+
+socitaly.129.t: "O Pedido [From.GetAdjective]"
+socitaly.129.d: "Agora que todas as apostas estão fora em relação ao chamado 'equilíbrio' na Itália, [From.GetNameDef] fez um pedido formal para se juntar às fileiras da Terceira Internacional."
+socitaly.129.a: "Finalmente!"
+socitaly.129.b: "Pensando melhor, não..."
+
+ ### REVAMP FLAVOR ###
+
+ socitaly.130.t: "O Novo Hino Nacional"
+socitaly.130.d: "Como parte de nossos esforços para forjar uma nova identidade revolucionária, surgiu um debate sobre um novo hino para a república. Funcionários parlamentares, após um curto período de debate, decidiram adotar 'Inno di Garibaldi' ('O Hino de Garibaldi') como o novo hino nacional. A decisão já foi formalizada com uma emenda constitucional.\n\n'O Hino de Garibaldi' irá fortalecer ainda mais o status de Giuseppe Garibaldi como herói nacional e figura cult da Itália. O Herói dos Dois Mundos encomendou a música no final de 1858, como hino oficial do corpo dos Caçadores dos Alpes. A letra foi escrita pelo poeta Luigi Mercantini, com música de Alessio Olivieri. A música se tornou muito popular durante o Primeiro Risorgimento, embora tenha se tornado conhecida como 'O Hino de Garibaldi' apenas após a Expedição dos Mil."
+socitaly.130.a: "All’armi! All’armi!"
+
+socitaly.131.t: "Eleições Administrativas de [GetYear]"
+socitaly.131.d: "As eleições de [GetYear] para os conselhos locais são diferentes de todas as outras na história da República Socialista, pois marcam a primeira vez em que partidos não socialistas foram autorizados a participar livremente. Isso foi permitido com a condição de que os partidos locais e seus candidatos apoiassem as políticas nacionais da recém-formada CGIL, independentemente de sua visão política.\n\nEste acordo tem provado ser amplamente apoiado pela população, e a participação nas urnas foi alta. As pessoas que se abstiveram das eleições, em sua maioria o fizeram porque sentiam que sua escolha não contribuiria em nada para qualquer mudança potencial na política italiana. No entanto, vozes como essas eram escassas.\n\nOs resultados provaram que os ideais da revolução e do socialismo são apoiados pela população, com a CGIL e os candidatos apoiados pela CGIL ganhando a maioria dos assentos na maioria dos conselhos. Isso não é novidade em províncias urbanas. No entanto, em áreas rurais e agrárias, houve uma maior diversidade na nova composição dos conselhos. Candidatos actionistas e cristão-sociais venceram a maioria em vários lugares, e as opções republicanas, liberais e até conservadoras cristãs também desfrutaram de um apoio razoável. Tudo isso mostra que a democracia é um valor valorizado e mantido entre nossos cidadãos."
+socitaly.131.a: "De fato, podemos ter um discurso político educado."
+
+socitaly.132.t: "Pacto União-Actionista"
+socitaly.132.d: "Para evitar mais terror e selvageria dos fascistas, o Presidente [SRI.GetLeader] se reuniu com representantes do Partido da Ação, liderado por Emilio Lussu. O objetivo da reunião era esclarecer as condições de uma maior cooperação entre a Confederação Geral e os Actionistas, o que, no cenário político atual, é de extrema importância. Como um dos delegados actionistas observou: 'Dois lados lutando pelos mesmos ideais - liberdade e democracia - devem lutar pela unidade, para que sua luta não seja em vão'.\n\nDe natureza antifascista, as conversas também abordaram outros aspectos, como a representação do Partido da Ação dentro do governo atual. As negociações frutíferas terminaram com a assinatura de um acordo formal de cooperação por ambas as partes envolvidas."
+socitaly.132.a: "A liberdade não pode ser comprometida devido a disputas mesquinhas"
+
+socitaly.133.t: "Integração das Milícias Anarquistas"
+socitaly.133.d: "Muitos na [SRI.GetNameDef] comemoram hoje, pois os passos finais para a integração das milícias no exército da [SRI.GetAdjectiveCap] foram dados hoje. Uma reunião com líderes das milícias e o alto comando foi realizada hoje, durante a qual ambas as partes assinaram documentos confirmando que as milícias anarquistas agora servirão diretamente no exército da [SRI.GetNameDef], embora com garantia de autonomia operacional.\n\nPoliticamente, essa decisão confirma os compromissos em relação à ação revolucionária do governo. Muitos dos ex-milicianos, agora soldados, ajudaram a estabelecer a [SRI.GetNameDef] durante a Guerra Civil Italiana e subsequentemente defenderam as fronteiras da República."
+socitaly.133.a: "Como podemos agradecer aos lutadores pela verdadeira liberdade?"
+
+socitaly.134.t: "Companheiro Sandro Pertini Fala"
+socitaly.134.d: "Por iniciativa da Confederação Geral, uma reunião foi convocada hoje entre ativistas políticos e líderes sindicais. Muitas pessoas aproveitaram essa oportunidade para falar sobre a importância da unidade entre os indivíduos com mentalidade socialista. De particular interesse foi o discurso do companheiro Sandro Pertini, membro da Confederação Geral e amigo pessoal do Presidente Nenni.\n\nEm seu discurso, Pertini enfatizou a importância da 'unidade entre todas as classes e setores de nossa população, desde os trabalhadores até os camponeses, desde os intelectuais até os soldados; unidade entre todos os partidos e organizações de nossa república.' Citando a União da Grã-Bretanha e a Comuna da França como exemplos, Pertini apontou que a simbiose da atividade política e sindical pode ser possível e pode trazer resultados positivos na criação de uma sociedade socialista.\n\nPertini encerrou seu discurso dizendo:\n 'Liberdade sem justiça social é uma conquista vã. Você pode considerar verdadeiramente livre alguém que está com fome e na miséria, que não tem emprego? Que é humilhado porque não sabe cuidar de seus filhos e dar-lhes educação? Este não é um homem livre. Portanto, a liberdade deve estar associada à justiça social.'\n O discurso foi recebido com elogios e apreciação de todos os lados do panorama político socialista italiano."
+socitaly.134.a: "Palavras sábias deste jovem político em ascensão."
+
+socitaly.135.t: "Primeiro Congresso da CGIL"
+socitaly.135.d: "Hoje inauguramos o primeiro congresso da nova CGIL, a Confederação Geral Italiana do Trabalho. Criada como uma federação de todos os sindicatos, sejam católicos, socialistas ou liberais, e co-liderada pelo socialista Bruno Buozzi e pelo católico Achille Grandi, ela supostamente será o veículo para a integração total dos católicos na vida política da República. Isso não poderia ter sido feito sem a aquiescência da Igreja, que teremos que retribuir mais tarde; mas por enquanto, a maioria está feliz com o acordo, até mesmo alguns políticos antigos do PPI. Lombardi, secretário do Partido Social Cristão e forte defensor do socialismo cristão, parabenizou publicamente o governo pelo desenvolvimento."
+socitaly.135.a: "Pelo avanço de todos os trabalhadores!"
+
+socitaly.136.t: "Eleições Locais para as Câmaras do Trabalho"
+socitaly.136.d: "Em uma tentativa de quebrar o poder institucional local da Igreja, escolhemos expandir o sufrágio nas eleições das Câmaras do Trabalho locais e ampliar seus poderes sobre os municípios rurais localmente inclinados ao conservadorismo. Este esforço tem sido relativamente eficaz; enquanto a Igreja condenou a reforma, isso não significou muito, pois eles já se recusam a reconhecer a República Socialista em geral, enquanto os católicos progressistas estavam satisfeitos por terem alguma forma de influenciar a governança local de alguma maneira mínima. Claro, os Actionistas também se juntaram para condenar a medida como inerentemente antidemocrática, mas eles não estão em posição de fazer muito sobre isso."
+socitaly.136.a: "O avanço da Itália começa hoje!"
+
+socitaly.137.t: "As Eleições de [GetYear]"
+socitaly.137.d: "As eleições foram realizadas hoje, e os resultados foram decepcionantes para todas as forças envolvidas. Parece que a situação parlamentar permaneceu virtualmente inalterada, com uma maioria relativa da União, mas sem nenhum bloco parlamentar sólido capaz de se impor e acabar com a instabilidade política. Apesar de Uniões e Fascistas denunciarem supostas fraudes, parece que o que deveria ter sido um momento crucial para resolver nossa situação política acabou sendo completamente irrelevante. Para melhor ou pior, o impasse parlamentar provavelmente só será resolvido depois que a Península for completamente libertada."
+socitaly.137.a: "Então as cadeiras musicais continuarão?"
+
+socitaly.138.t: "Rosselli Atacado!"
+socitaly.138.d: "Notícias horríveis! Ao sair de uma conferência médica, o Presidente Rosselli foi baleado por um grupo de camisas-negras radicais, acreditamos. Os agressores foram neutralizados rapidamente pela segurança pública local, e um exército de cirurgiões correu para resgatar Rosselli - em vão, pois os múltiplos tiros se mostraram demais.\n\nA reação no mundo político foi de choque e horror, pois acreditávamos que a violência política havia acabado com os camisas-negras após as primeiras eleições do pós-guerra - mas parece que nem realmente desapareceu.\n\nO Primeiro Ministro Emilio Lussu, que também era o segundo de Rosselli dentro do Partido da Ação, fez um discurso emocionado no Parlamento em memória de seu amigo, que terminou com uma prolongada salva de palmas. Pouco depois, Lussu foi eleito para suceder Rosselli como Presidente; imediatamente, ele jurou usar seus novos poderes para moldar a Itália da maneira que seu antecessor teria desejado."
+socitaly.138.a: "Terrível!"
+
+socitaly.139.t: "As Eleições de [GetYear]"
+socitaly.139.d: "Novas eleições foram realizadas hoje. Com as derrotas dos anos 30 sendo uma memória cada vez mais distante, as Uniões e os candidatos alinhados às Uniões facilmente ganharam uma maioria absoluta de assentos e reelegeram o Presidente [SRI.GetLeader]. Isso não significa, no entanto, que o discurso democrático tenha diminuído: os representantes das Uniões têm origens ideológicas variadas e se alinham com diferentes facções revolucionárias, garantindo que nenhum governo possa contar com uma maioria autoritária sólida."
+socitaly.139.a: "Através dos sindicatos, a liberdade!"
+
+socitaly.140.t: "As Eleições de [GetYear]"
+socitaly.140.d: "Novas eleições foram realizadas hoje. Enquanto a abolição dos assentos da União que Rosselli havia proposto há muito tempo não foi aprovada, o Partido da Ação e os sindicatos amigos deram ao Presidente [SRI.GetLeader] uma maioria parlamentar relativamente estável, por meio da qual poderemos democratizar ainda mais o estado e levar a Revolução à sua conclusão natural."
+socitaly.140.a: "Nossa liberdade, exercida!"
+
+socitaly.141.t: "As Eleições de [GetYear]"
+socitaly.141.d: "Novas eleições foram realizadas hoje. As reformas democraticamente orientadas tiveram seus efeitos; com a abolição dos assentos da União, os Sindicatos correram como a 'Seção Italiana da Internacional dos Trabalhadores', ganhando uma quantidade respeitável de votos. O Partido da Ação permanece como o partido mais forte; mas diversos pequenos partidos de oposição também entraram no parlamento.\n\nPara construir uma maioria estável, o Presidente [SRI.GetLeader] propôs a formação de uma Frente Democrática Popular do Partido da Ação, Partido Social Cristão, Partido Republicano e representantes sindicais simpáticos. O líder natural de tal coalizão seria Rosselli, embora ele próprio tenha proposto o general Pacciardi (que também é secretário do Partido Republicano) para liderar o Governo em vez disso, em um gesto de unidade democrática."
+socitaly.141.a: "O presidente nomeia o honorável Pacciardi!"
+socitaly.141.b: "O presidente nomeia o honorável Rosselli!"
+
+socitaly.142.t: "A Nova Reforma Agrária"
+socitaly.142.d: "Reformas italianas anteriores no campo da agricultura e da posse de terras, como avançadas pelos governos de Mussolini e seus predecessores, dificilmente poderiam ser consideradas suficientes. Dentro do quadro dos chamados 'pactos coloniais', os supostamente esclarecidos sindicatos supervisionaram o limitado empoderamento da 'atrasada' peasantry. Este método de distribuição de terras não é apenas incrivelmente condescendente, pois falha em reconhecer o potencial revolucionário inerente à peasantry italiana, mas também foi tentado apenas em algumas dezenas de comunas.\n\nCom o sul rural agora sob controle da república socialista, tornou-se claro que um programa de reforma agrária mais extenso e empoderador é necessário. 'Pactos coloniais' devem ser revisados ou completamente eliminados (não importa o quanto os sindicatos possam se opor a isso), e uma nova classe inteira de pequenos proprietários de terras surgirá. Já, os sindicalistas alertam que tal 'pequena burguesia' poderia facilmente se voltar contra a revolução - uma noção em grande parte descartada pelo PdA."
+socitaly.142.a: "Liberdade para os agricultores da Itália!"
+
+socitaly.143.t: "A Restauração da Presidência"
+socitaly.143.d: "Desde a nomeação do 'gabinete presidencial' de Giuseppe Giulietti em 1934, uma quantidade extraordinária (e inconstitucional) de poder foi investida na presidência da república socialista. Agora, como parte da controversa restauração constitucional do PdA, a posição do presidente foi mais uma vez reduzida a mera figura decorativa. Carlo Rosselli renunciou ao cargo e abriu caminho para o independente Gaetano Salvemini, um candidato de compromisso aceitável para todas as facções parlamentares.\n\nSalvemini é respeitado por muitos, e por muitas razões diferentes. Seja pelo seu status como membro fundador do antigo PSI, seu apoio nacionalista a empreendimentos como a entrada da Itália na Weltkrieg ou sua defesa do controle parlamentar sobre o movimento sindical, são poucos aqueles que não conseguem encontrar algo ou outro que respeitam nele. Além disso, muitos acreditam que seus estudos anteriores no campo do Meridionalismo (ou seja, pesquisa sobre os problemas sociais e econômicos do sul da Itália) o tornam o chefe de estado perfeito para uma Itália recém-reunificada.\n\nÉ claro que isso não significa que Rosselli está totalmente fora de cena. Com a maioria do poder executivo passando do presidente para o primeiro-ministro, ele agora assumiu esta posição como chefe de um governo provisório, que se espera durar até a realização de novas eleições no próximo mês. Para Rosselli e o PdA, esta restauração da presidência ao seu estado constitucional original representa uma vitória política final e o total cumprimento de seu manifesto de sete pontos, encerrando as reformas radicais dos anos passados. Agora, a república e seus reformadores podem finalmente se estabelecer."
+socitaly.143.a: "Avante para a normalidade!"
+
+socitaly.144.t: "O Compromisso Union-Parlamentar"
+socitaly.144.d: "Após anos de conflitos de baixa escala, as divisões entre os Actionistas e a liderança sindical parecem finalmente estar se curando. O Partido da Ação nunca foi um movimento anti-sindical; mas sua oposição ao controle sindical do Parlamento significou que os dois lados trocaram golpes por algum tempo. Isso parece estar chegando ao fim, já que o Presidente [SRI.GetLeader] falou a favor de uma nova lei eleitoral que, enquanto reduz os assentos sindicais e concede mais direitos a grupos menores mais liberais, de fato mantém o conceito de assentos sindicais - em uma reversão inesperada de seu programa partidário.\n\nAlguns, especialmente no Partido da Ação, não estão felizes com a mudança; ainda assim, a maioria recebe a paz política recém-encontrada."
+socitaly.144.a: "Pelo socialismo e pela liberdade!"
+
+socitaly.200.t: "A Promoção de Leonilde Iotti"
+ socitaly.200.d: "Parece que nossas políticas em relação à igualdade de gênero estão rapidamente dando frutos, à medida que novos e jovens recrutas estão chegando aos mais altos escalões do Exército Vermelho.\n\nA mais recente promoção é a de Leonilde, ou Nilde, Iotti; anteriormente professora, filha de um sindicalista, Nilde mais tarde ingressou na luta revolucionária quando mal tinha 20 anos. Rapidamente, ela passou de papéis de apoio para participar de missões de combate ativo; e ela subiu pelos escalões do GDI.\n\nHoje, Iotti efetivamente se tornou a líder da organização, apesar de sua idade ainda muito jovem, um testemunho de seu valor revolucionário; como tal, o Presidente [SRI.GetLeader] escolheu reconhecer formalmente sua posição e concedeu-lhe uma comissão, tornando-a a oficial de ascensão mais rápida na história da Itália."
+socitaly.200.a: "Três hurrahs para as mulheres da Itália!"
+ 
+### Characters ###
+SRI_benito_mussolini: "Benito Mussolini"
+SRI_benito_mussolini_leader_desc: "§YDescrição do Líder\nNascimento:§! 29 de julho de 1883, em Dovia di Predappio, Forlì, Reino da Itália\n§ACarreira Política:§! Mussolini nasceu na Emília-Romanha, filho de um ferreiro socialista e uma professora católica devota. Apesar de ter sido batizado em uma idade precoce, tornou-se um ateu militante como seu pai, comparando sua escola religiosa a um inferno. No entanto, mais tarde se formou em uma escola não religiosa e se qualificou como mestre de escola primária.\n\nEmigrou para a Suíça por um breve período de tempo para evitar o serviço militar obrigatório e se familiarizou com as ideias de Nietzsche e Sorel, entre outros, o que o influenciou profundamente. Retornando à Itália em 1904, passou dois anos no serviço militar e depois se tornou professor. Em 1909, partiu para se tornar secretário do partido trabalhista no Trentino e foi posteriormente preso em 1911 por sua oposição militante à Guerra da Líbia.\n\nEm 1912, tornou-se parte da direção nacional do PSI, embora seu apoio à Intervenção Italiana na Weltkrieg o tenha levado à expulsão. Logo formou o Fascio Rivoluzionario d'Azione Internazionalista e juntou-se ao esforço de guerra como soldado, sendo gravemente ferido em 1917. A ICW o viu se juntar a d'Annunzio, De Ambris e outros na formação dos camisas-negras - uma milícia paramilitar radical que buscava estabelecer o socialismo e era militante anti-austríaca.\n\nEle rapidamente ascendeu nas fileiras da nova república socialista, defendendo uma abordagem militante para a reunificação da Itália. Sua relação com Giulietti o viu se tornar parte do governo e o crescimento de seus fascistas nas eleições subsequentes confirmou que os italianos queriam uma reunificação militante. Agora, como presidente, ele levará a luta aos reacionários cercando a SRI - ninguém impedirá a ascensão da Itália desta vez!"
+SRI_benito_mussolini_2_leader_desc: "§YDescrição do Líder\nNascimento:§! 29 de julho de 1883, em Dovia di Predappio, Forlì, Reino da Itália\n§ACarreira Política:§! Nascido na Emília-Romanha, Mussolini mostrou seu ateísmo radical em uma idade precoce - talvez como reação à sua mãe devota. Ele se formou como mestre de escola primária em uma escola não religiosa após comparar sua escola religiosa anterior ao inferno e decidiu ir para a Suíça para evitar o alistamento militar. Enquanto estava lá, familiarizou-se com as ideias de Nietzsche e Sorel, sendo profundamente influenciado por elas.\n\nSua oposição militante à Guerra da Líbia o levou à prisão, embora logo o impulsionasse para a direção nacional do PSI. No entanto, logo seria expulso devido a seu apoio igualmente militante à entrada italiana na Weltkrieg. Enquanto lutava na guerra, ficou gravemente ferido e foi enviado para casa, formando logo em seguida os camisas-negras ao lado de d'Annunzio, de Ambris e muitos outros socialistas militantes.\n\nDurante a ICW, os camisas-negras desempenharam um papel fundamental na derrota dos realistas primeiro e do movimento "branco" depois, e Mussolini se tornou uma grande figura na política italiana. Embora tivesse o apoio dos camisas-negras, sua atitude intransigente o levou a ser isolado do governo - até que Giulietti concordou com uma coalizão. Depois de usar sua nova plataforma para promover suas opiniões, tornou-se presidente e liderou a Itália através do Segundo Risorgimento.\n\nAgora, tendo controle absoluto sobre toda a Itália, ele busca centralizar o poder na figura do presidente para erradicar os revisionistas e reacionários. Parece que a era da relativa harmonia socialista que a SRI trouxe chegou a um fim abrupto, com a intimidação dos camisas-negras aos oponentes políticos atingindo níveis sem precedentes."
+
+SRI_giuseppe_giulietti: "Giuseppe Giulietti"
+SRI_giuseppe_giulietti_leader_desc: "§YDescrição do Líder\nNascido:§! 21 de maio de 1879, em Rimini, Reino da Itália\n§ACarreira Política:§! Giulietti nasceu em Emilia-Romagna, em uma família de pescadores pobres. Após se formar no Instituto Náutico, ele seguiu uma carreira na marinha mercante. Durante seu serviço militar na Marinha, entrou em contato com círculos anarquistas e socialistas em Ligúria. Ele se afiliou à Federação Italiana dos Trabalhadores do Mar, bem como ao partido socialista (PSI) logo após concluir seu serviço em 1903.\n\nApós tornar-se líder da federação em 1906, ele se tornou uma figura chave na unificação de todos os trabalhadores navais em um único sindicato, o que foi alcançado em apenas quatro anos. Entrou em conflito com o PSI após expandir os poderes executivos do sindicato recém-criado em 1913 e ainda mais quando apoiou a entrada da Itália na Weltkrieg ao lado de Mussolini. Durante a Weltkrieg, tornou-se oficial na Marinha e desempenhou um papel fundamental na confirmação da disponibilidade da marinha mercante, levando à criação de uma cooperativa de estivadores em Gênova em 1918.\n\nA Guerra Civil Italiana o viu se juntar ao lado Republicano, do qual apoiou a ala socialista. Inspirado por bravos mártires como D'Annunzio, que lutaram para manter a influência austríaca longe da Itália, tornou-se um grande defensor de uma política de militarização agressiva, vendo-a como um componente necessário para a sobrevivência da Itália Sindicalista. Finalmente tornou-se presidente em 1931, embora discordâncias com seus camaradas sindicalistas menos militaristas o tenham levado a concordar com um governo incluindo os fascistas de Mussolini em 1934.\n\nNa véspera das eleições de 1936, parece que Giulietti pode ter inadvertidamente legitimado Mussolini para a população italiana, levando a um movimento fascista maior do que poderia ter acontecido. Se este é um sacrifício válido por um maior grau de militarização, apenas o tempo dirá."
+SRI_giuseppe_giulietti_2_leader_desc: "§YDescrição do Líder\nNascido:§! 21 de maio de 1879, em Rimini, Reino da Itália\n§ACarreira Política:§! Giulietti nasceu em Emilia-Romagna, em uma família de pescadores pobres. Após se formar no Instituto Náutico, ele seguiu uma carreira na marinha mercante. Durante seu serviço militar na Marinha, entrou em contato com círculos anarquistas e socialistas em Ligúria. Ele se afiliou à Federação Italiana dos Trabalhadores do Mar, bem como ao partido socialista (PSI) logo após concluir seu serviço em 1903.\n\nApós tornar-se líder da federação em 1906, ele se tornou uma figura chave na unificação de todos os trabalhadores navais em um único sindicato, o que foi alcançado em apenas quatro anos. Entrou em conflito com o PSI após expandir os poderes executivos do sindicato recém-criado em 1913 e ainda mais quando apoiou a entrada da Itália na Weltkrieg ao lado de Mussolini. Durante a Weltkrieg, tornou-se oficial na Marinha e desempenhou um papel fundamental na confirmação da disponibilidade da marinha mercante, levando à criação de uma cooperativa de estivadores em Gênova em 1918.\n\nA Guerra Civil Italiana o viu se juntar ao lado Republicano, do qual apoiou a ala socialista. Inspirado por bravos mártires como D'Annunzio, que lutaram para manter a influência austríaca longe da Itália, tornou-se um grande defensor de uma política de militarização agressiva, vendo-a como um componente necessário para a sobrevivência da Itália Sindicalista. Finalmente tornou-se presidente em 1931, embora discordâncias com seus camaradas sindicalistas menos militaristas o tenham levado a concordar com um governo incluindo os fascistas de Mussolini em 1934.\n\nAgora que Mussolini foi deposto do poder, Giulietti é desconfiado entre seus companheiros sindicalistas. A única coisa que o mantém como presidente é o fato de que as diferentes facções estão lutando por dominação e ele emergiu como o candidato de compromisso, mas isso provavelmente não durará muito..."
+
+SRI_palmiro_togliatti: "Palmiro Togliatti"
+SRI_palmiro_togliatti_leader_desc: "§YDescrição do Líder\nNascido:§! 26 de março de 1893, em Gênova, Reino da Itália\n§ACarreira Política:§! Nascido em uma família de classe média, Palmiro Togliatti passou sua juventude mudando-se devido ao trabalho de seu pai como professor - primeiro para Novara, depois Turim, depois Sondrio e depois Sassari. A trágica morte de seu pai em 1911 o forçou a voltar para Turim, onde recebeu uma bolsa de estudos para estudar direito, embora preferisse filosofia.\n\nTogliatti ingressou no partido socialista (PSI) em 1914, pouco antes da Weltkrieg, onde favorecia a entrada da Itália ao lado da entente. Finalmente se formou no final de 1915 e, apesar de querer cursar filosofia, ingressou na Cruz Vermelha devido à sua miopia, lutando posteriormente nas linhas de frente. Quando a ICW começou, ele se juntou ao front republicano e mais tarde à facção 'vermelha' que emergiu.\n\nAo contrário de muitos outros sindicalistas, ele promoveu fortemente o militarismo para reunir a Itália sob uma bandeira sindicalista o mais rápido possível. Isso, combinado com sua oposição ao sistema sindicalista caótico e o desejo de um governo mais centralizado, o levou a simpatizar com o crescente movimento fascista. Essas simpatias se tornaram uma aliança formal após 1927, quando a Federação Italiana entrou em colapso, mas a SRI falhou em agir. Pressionado por Mussolini, ele eventualmente adotou o manifesto fascista como programa partidário do PCd'I e foi recompensado com o cargo de segundo em comando de Mussolini.\n\nQuando Mussolini foi assassinado, Togliatti viu a chance de criar uma nova direção para o movimento e a aproveitou. Reconstruindo pontes com os sindicatos enquanto os forçava a aceitar um maior controle central e simultaneamente denunciava os excessos dos camisas-negras, seu governo parece ser uma mudança radical em relação ao de Mussolini. Mas a questão permanece - os camisas-negras o aceitarão como seu líder?"
+
+SRI_alceste_de_ambris: "Alceste de Ambris"
+SRI_alceste_de_ambris_leader_desc: "§YDescrição do Líder\nNascido:§! 15 de setembro de 1874, em Licciana Nardi, Massa-Carrara, Reino da Itália\n§ACarreira Política:§! Alceste de Ambris nasceu em Licciana Nardi, Toscana, em 1874, como o primeiro de 8 irmãos. Ele se tornou ativo no movimento socialista desde tenra idade, envolvendo-se nos levantes populares de 1898. O resultado o viu exilado para Marselha, depois Rio de Janeiro e São Paulo, só conseguindo retornar à Itália em 1903.\n\nQuando voltou, tornou-se ativo no movimento sindical e mais tarde se tornou líder da juventude socialista em Roma. Ele se opôs à guerra da Líbia e se elegeu para o parlamento como parte do PSI em 1913. No entanto, quando a Weltkrieg começou, ele os opôs e pediu o intervencionismo ao lado da entente, ao lado de Mussolini. Após lutar por seu país, formou uma unidade paramilitar ao lado de Mussolini e d'Annunzio chamada camisas-negras, que lutaram pelo sindicalismo e contra a influência austríaca durante a ICW.\n\nNa nova república socialista, permaneceu proeminente dentro do movimento fascista, embora Mussolini tenha ficado com a maior parte do holofote. As tendências autocráticas deste fizeram com que de Ambris o visse com desconfiança, embora permanecesse comprometido com a causa fascista como organizador dos paramilitares fascistas. Ele se juntou ao gabinete durante os governos de Giulietti e Mussolini, sempre mantendo um papel proeminente.\n\nQuando Mussolini foi tragicamente assassinado, Togliatti tentou subverter tudo o que o movimento fascista representava, mas de Ambris liderou os camisas-negras em recapturar o poder daquele traidor. Agora, estando no topo de uma Itália unida, seu governo provavelmente verá os camisas-negras mais liberados do que estavam mesmo sob Mussolini - uma situação perigosa para revisores e reacionários alike."
+
+SRI_angelo_tasca: "Angelo Tasca"
+
+SRI_giuseppe_di_vittorio: "Giuseppe di Vittorio"
+SRI_giuseppe_di_vittorio_leader_desc: "§YDescrição do Líder\nNascido:§! 11 de agosto de 1892, em Cerignola, Foggia, Reino da Itália\n§ACarreira Política:§! A morte prematura do pai de Giuseppe Di Vittorio o forçou a assumir seu emprego como trabalhador agrícola aos 10 anos de idade. No entanto, ele fez o melhor da situação, educando-se com a ajuda de um dicionário que comprou aos 12 anos com seu próprio salário. Ele simpatizou com o anarquismo aos 12 anos, passando para o socialismo enquanto ajudava a fundar um clube de juventude socialista aos 15 anos.\n\nEle se afiliou ao movimento sindical em Cerignola e começou a acreditar no potencial revolucionário dos sindicatos. Quando a Weltkrieg começou, ele escreveu um artigo no 'Il Popolo d'Italia' de Mussolini abraçando o intervencionismo e quando chegou a hora, foi ferido enquanto lutava por seu país. A Guerra Civil Italiana viu ele abraçar os movimentos republicano e posteriormente socialista, através dos quais se afastou de sua Apúlia natal.\n\nNo entanto, ele se envolveu ativamente no movimento sindical, defendendo a causa dos trabalhadores urbanos. Embora viesse de uma origem rural, abandonou o USI principalmente rural e ingressou na CGL predominantemente urbana devido à sua atitude conciliatória em relação a facções mais moderadas da república socialista. Ele acreditava que o compromisso e a união seriam a melhor maneira para a república socialista sobreviver e, como tal, era cético em relação à aliança de Giulietti com Mussolini.\n\nEle acabou provando estar certo e, à medida que a poeira se assentava no Segundo Risorgimento, ele conseguiu reunir a maioria dos sindicatos atrás dele. Agora, com as ambições de Mussolini contidas, sua visão de um movimento sindical unificador prevaleceu."
+
+SRI_pietro_nenni: "Pietro Nenni"
+SRI_pietro_nenni_leader_desc: "§YDescrição do Líder\nNascido:§! 9 de fevereiro de 1891, em Faenza, Ravenna, Reino da Itália\n§ACarreira Política:§! Pietro Sandro Nenni nasceu em Faenza, Emilia-Romagna, em 1891, em uma família de camponeses e seu pai morreu quando jovem. Ele então foi colocado em um orfanato por uma família aristocrática local com a intenção de tê-lo se tornando um padre. Eles o fizeram recitar seu catecismo todos os domingos antes da condessa, recebendo uma moeda de prata se não cometesse erros. Nenni mais tarde descreveria esse caso como 'generoso, mas humilhante'.\n\nAtivo no movimento sindical, ele se tornou membro do Partido Republicano Italiano em 1909 e foi preso em 1911 devido à sua oposição à Guerra da Líbia. Compartilhando uma cela de prisão com Mussolini, ele estabeleceu uma amizade improvável com o jovem incendiário após intensos argumentos. Quando a Weltkrieg começou, ele se voluntariou para lutar no fronte do Isonzo, sendo gravemente ferido em 1916. Durante a ICW, ele lutou pela causa republicana, embora tenha ficado desanimado quando a divisão entre 'vermelhos' e 'brancos' aconteceu - apoiando ultimamente o primeiro devido ao reconhecimento austríaco do último.\n\nEle se envolveu no jornal socialista 'Avanti' após a guerra, como seu correspondente especial em Paris. Através disso, ele se envolveu profundamente na cena política francesa, tornando-se familiarizado com figuras como Marcel Cachin e Pierre Monatte. Quando Giulietti escolheu permitir Mussolini no governo, Nenni estava esperançoso devido à sua amizade anterior com Mussolini, embora rapidamente tenha passado a se opor à nova direção.\n\nApós o Segundo Risorgimento e como parte de um plano de compromisso intermediado por sindicalistas franceses, Nenni foi apoiado tanto pela CGL quanto pela USI para se tornar presidente. Agora no comando de uma Itália socialista unida, sua principal prioridade é a cooperação com outros estados socialistas."
+
+SRI_alberto_meschi: "Alberto Meschi"
+SRI_alberto_meschi_leader_desc: "§YDescrição do Líder\nNascido:§! 27 de maio de 1879, em Borgo San Donnino, Parma, Reino da Itália\n§ACarreira Política:§! Alberto Meschi nasceu em Borgo San Donnino, Parma, em 1879. Ele trabalhou como pedreiro desde jovem, envolvendo-se rapidamente no movimento socialista local como escritor para várias publicações. Em 1905, emigrou para a Argentina e foi apresentado a ideias anarco-sindicalistas, embora seu radicalismo o tenha levado a ser expulso em 1909. De volta à Itália, ele se envolveu na organização sindical em Carrara, na Toscana, um centro local de sindicalismo. De 1911 a 1914, seu ativismo garantiu muitos direitos para os trabalhadores, como uma pensão ou uma jornada de trabalho de oito horas.\n\nEm 1912, fundou a Unione Sindicale Italiana (USI), uma organização explicitamente sindicalista revolucionária. Quando a Weltkrieg começou, ele a viu como uma oportunidade para o proletariado internacional se livrar do jugo da burguesia, mas foi convocado para lutar mesmo assim e se tornou prisioneiro de guerra na Hungria. Suas exigências inflexíveis foram uma das principais causas da divisão do movimento republicano na ICW entre 'brancos' e 'vermelhos', com ele firmemente no último campo.\n\nUma vez estabelecida a SRI, ele posicionou a USI como o principal sindicato em áreas rurais, devido à sua atitude inflexível em relação à igreja católica. Inicialmente, ele era ambivalente em relação a uma aliança com Mussolini para militarizar a república socialista, vendo-a como um mal necessário. No entanto, quando ficou claro que Mussolini estava interessado apenas em controlar o estado, ele se tornou o principal defensor de uma estratégia de 'cooperação estratégica', argumentando que ele só deveria ser apoiado em ações que promovessem a revolução.\n\nO aftermath do Segundo Risorgimento o viu convencer a CGL mais moderada a apoiar sua visão de uma atitude revolucionária inflexível. Meschi no comando só pode significar uma coisa - nenhum quartel para os reacionários!"
+
+SRI_carlo_rosselli: "Carlo Rosselli"
+SRI_carlo_rosselli_leader_desc: "§YDescrição do Líder\nNascido:§! 16 de novembro de 1899, em Roma, Reino da Itália\n§ACarreira Política:§! Nascido em uma rica família judaica toscana em 1899, Rosselli participou da Weltkrieg com distinção suficiente para ser promovido a segundo tenente. Durante a guerra civil da Itália, ele apoiou o amplo movimento republicano contra o impopular Victor Emmanuel. Quando o movimento se dividiu em 'vermelhos' e 'brancos', ele pediu unidade no campo republicano, aparentemente relutante em se comprometer totalmente com qualquer lado. No entanto, quando a poeira assentou, ele se juntou à república socialista dominante.\n\nDepois de se formar em ciências políticas e direito em Florença e Turim, respectivamente, ele se envolveu profundamente na política da república. Lá, ele passou a desgostar do imenso poder exercido pelos sindicatos, que ele via como uma forma fundamentalmente antidemocrática de organizar uma sociedade. Quando a Revolução Britânica aconteceu, ele se voluntariou para aconselhar a nascente União Britânica, ajudando a moldar sua constituição e provando que o parlamentarismo e o socialismo não são mutuamente exclusivos.\n\nDe volta à Itália, ele fundou um novo partido, o Partito d'Azione, que era homônimo do partido de Mazzini do século anterior. Ele advogava por valores sociais liberais e pelo aumento do papel do parlamento na administração da economia. Seu novo partido rapidamente se tornou uma força a ser reconhecida, embora ainda fosse visto com desconfiança por outros revolucionários, especialmente após Mann dissolver o Parlamento Britânico.\n\nEmbora não tenha encontrado muito sucesso político até que o Segundo Risorgimento estivesse completo, Rosselli agora se encontra como o homem mais poderoso da Itália. Uma coisa é certa - sua eleição marca uma mudança sísmica na política revolucionária italiana."
+
+ SRI_giuseppe_romita: "Giuseppe Romita"
+
+SRI_olindo_vernocchi: "Olindo Vernocchi"
+
+SRI_gaetano_salvemini: "Gaetano Salvemini"
+SRI_gaetano_salvemini_leader_desc: "§YDescrição do Líder\nNascido:§! 8 de setembro de 1873, em Molfetta, Bari, Reino da Itália\n§ACarreira Política:§! Salvemini nasceu em 1873 e se formou em humanidades em Florença em 1895. Tendo um pai camisa-vermelha e uma mãe socialista, talvez não seja surpreendente que ele tenha se juntado ao partido socialista em 1894. No entanto, seu tempo dentro do partido não foi isento de problemas - o principal deles foi a Guerra da Líbia, na qual Salvemini achou que a atitude do PSI em relação à guerra era muito morna. No entanto, ele foi convencido por Mussolini a retornar ao PSI em 1914, bem a tempo da próxima confrontação.\n\nSalvemini apoiou fortemente a entrada da Itália na Weltkrieg ao lado da Entente, ao contrário da maioria do PSI. Quando a Itália finalmente se juntou, ele se alistou como voluntário, mas ficou doente e foi dispensado em dezembro de 1915. Quando a Itália foi derrotada e a Guerra Civil Italiana começou, ele se juntou à frente republicana e depois à sua facção socialista, embora não tenha participado de nenhum combate formal.\n\nTendo sido notável no PSI pré-guerra, foi fácil para ele subir nas fileiras da nova sociedade revolucionária. Ele se tornou amigo de Carlo Rosselli e simpatizou com seus argumentos sobre supervisão parlamentar dos sindicatos, mas parou antes de se juntar formalmente ao Partito d'Azione. Manter sua independência política seria melhor a longo prazo, ou assim ele pensava.\n\nE seu jogo parece ter valido a pena. Agora, após as reformas de Rosselli no sistema político, ele foi eleito presidente como uma figura de compromisso entre as diferentes facções. Embora nunca considerasse voltar ao sistema sindicalista do passado, sua vitória também marca o fim de mudanças radicais no sistema no estilo de Rosselli."
+
+SRI_emilio_lussu: "Emilio Lussu"
+SRI_emilio_lussu_leader_desc: "§YDescrição do Líder\nNascido:§! 4 de dezembro de 1890, em Armungia, Cagliari, Reino da Itália\n§ACarreira Política:§! Lussu obteve seu diploma de direito em Cagliari pouco antes da Itália entrar na Weltkrieg. Tendo servido como oficial de infantaria antes, sua experiência e bravura no campo de batalha lhe renderam quatro prêmios e o posto de capitão. Quando a Weltkrieg terminou e a Guerra Civil Italiana começou, Lussu se juntou à frente republicana e depois se tornou parte de sua facção socialista.\n\nA guerra civil o afastou de sua querida Sardenha, onde o governo real emitiu um mandado de prisão contra ele. No entanto, ele se tornou ativo na cena de veteranos de guerra, rapidamente alcançando destaque nacional. Seu socialismo ideal divergia da política dominada pelos sindicatos da Itália, e ele foi marginalizado como resultado.\n\nSua relação próxima com Carlo Rosselli permitiu que ele desempenhasse um papel fundamental na fundação do Partito d'Azione, homônimo do partido de Mazzini do século anterior. Através de sua influência no movimento de veteranos, ele defendia que o povo (através de seus representantes parlamentares) retomasse o poder dos sindicatos.\n\nApós o trágico assassinato de Rosselli por squadristi radicais, Lussu assumiu a liderança do Partito d'Azione. Sua perspectiva mais próxima da mentalidade sindicalista talvez seja por isso que ele conseguiu levar o Pd'A ao governo pela primeira vez, embora sua eleição ainda marque uma clara ruptura com o consenso revolucionário anterior."
+
+ SRI_riccardo_lombardi: "Riccardo Lombardi"
+ SRI_enrico_caviglia: "Enrico Caviglia"
+
+ SRI_achille_starace: "Achille Starace"
+ SRI_armando_borghi: "Armando Borghi"
+ SRI_nicola_bombacci: "Nicola Bombacci"
+ SRI_altiero_spinelli: "Altiero Spinelli"
+ SRI_antonio_gramsci: "Antonio Gramsci"
+ SRI_amadeo_bordiga: "Amadeo Bordiga"
+ SRI_achille_grandi: "Achille Grandi"
+ SRI_luigi_longo: "Luigi Longo"
+ SRI_attilio_sassi: "Attilio Sassi"
+ SRI_luigi_razza: "Luigi Razza"
+ SRI_bruno_buozzi: "Bruno Buozzi"
+ SRI_giuseppe_saragat: "Giuseppe Saragat"
+ SRI_tullio_cianetti: "Tullio Cianetti"
+ SRI_bruno_pontecorvo: "Bruno Pontecorvo"
+ SRI_roberto_farinacci: "Roberto Farinacci"
+ SRI_filippo_marinetti: "Filippo Marinetti"
+ SRI_ettore_muti: "Ettore Muti"
+
+ SRI_ilio_baroni: "Ilio Baroni"
+ SRI_oscar_sinigaglia: "Oscar Sinigaglia"
+ SRI_ada_gobetti: "Ada Gobetti"
+
+ SRI_randolfo_pacciardi: "Randolfo Pacciardi"
+ SRI_edmondo_rossoni: "Edmondo Rossoni"
+ SRI_dardano_fenulli: "Dardano Fenulli"
+ SRI_ettore_troilo: "Ettore Troilo"
+ SRI_giovanni_duca: "Giovanni Duca"
+ SRI_francesco_de_martini: "Francesco de Martini"
+ SRI_igino_ghisellini: "Igino Ghisellini"
+ SRI_michele_bianchi: "Michele Bianchi"
+ SRI_attilio_teruzzi: "Attilio Teruzzi"
+ SRI_arnaldo_azzi: "Arnaldo Azzi"
+ SRI_enea_navarini: "Enea Navarini"
+ SRI_pompeo_colajanni: "Pompeo Colajanni"
+ SRI_domenico_mondelli: "Domenico Mondelli"
+ SRI_italo_balbo: "Italo Balbo"
+ SRI_ines_donati: "Ines Donati"
+ SRI_piera_gatteschi_fondelli: "Piera Gatteschi Fondelli"
+ SRI_leonilde_iotti: "Leonilde Iotti"
+
+ SRI_giuseppe_fioravanzo: "Giuseppe Fioravanzo"
+ SRI_carlo_avegno: "Carlo Avegno"
+ SRI_inigo_campioni: "Inigo Campioni"
+ SRI_riccardo_paladini: "Riccardo Paladini"
+ SRI_romeo_bernotti: "Romeo Bernotti"
+ SRI_luigi_rizzo: "Luigi Rizzo"
+ SRI_luigi_biancheri: "Luigi Biancheri"
+
+ SRI_alfredo_pizzoni: "Alfredo Pizzoni"
+ SRI_vladimiro_pini: "Vladimiro Pini"
+ SRI_umberto_nobile: "Umberto Nobile"
+ SRI_italo_piccagli: "Italo Piccagli"
+ SRI_sabato_martelli_castaldi: "Sabato Martelli Castaldi"
+ SRI_ugo_macchieraldo: "Ugo Macchieraldo"
+
+ SRI_amedeo_mecozzi: "Amedeo Mecozzi"
+ SRI_enrico_fermi: "Enrico Fermi"
+ SRI_gaetano_crocco: "Gaetano Crocco"
+
+ # Traits
+SRI_il_duce: "II Duce"
+SRI_il_migliore: "Il Migliore"
+SRI_giustizia_e_liberta: "Giustizia e Libertà"
+SRI_giustizia_e_liberta_no_lar: "$SRI_giustizia_e_liberta$"
+SRI_loyal_buffoon_sic: "Bobo Leal"
+
+SRI_fascist_officer: "Oficial Fascista"
+SRI_fascist_officer_desc: "§LEste oficial é leal a Mussolini e à FAR, em vez da república em si.§!"
+
+SRI_socialist_officer: "Oficial Socialista"
+SRI_socialist_officer_desc: "§LEste oficial está comprometido com os ideais da revolução.§!"
+ 

@@ -1,0 +1,312 @@
+﻿l_braz_por:
+
+### Generic Faction Joining ###
+generic_events.10.t: "Uma Aliança com [FROM.GetNonIdeologyNameDef]?"
+generic_events.10.d: "As relações internacionais são frequentemente fluidas, com acordos e alinhamentos mudando rapidamente de geração em geração. Às vezes, mesmo dentro de uma geração, pactos são assinados e descartados à medida que os interesses mudam. A instabilidade gerada após a Segunda-feira Negra e outros desenvolvimentos políticos ao redor do mundo aumentou os temores em muitas nações mais fracas de que os grandes poderes entrando em conflito os pegarão no meio.\n\nEnquanto alguns optam pelo isolamento, seja por causa de seus próprios problemas domésticos ou na esperança de que a neutralidade os torne pouco interessantes para vários poderes os predarem, [FROM.GetNameDefCap] adotou a abordagem oposta. Com todos os problemas internos agora resolvidos, o povo em [FROM.GetNameDefCap] está agora olhando para fora, esperando encontrar as proteções que as alianças oferecem. Nós, talvez devido a condições geográficas superiores, poder militar ou consistência ideológica, somos a escolha de aliado de [ROOT.GetFactionName].\n\nA pergunta agora permanece: nós os aceitamos? Outro aliado em nosso pacto significa mais recursos contribuídos para nossas forças combinadas, embora quaisquer perigos adicionais que eles adicionem para nossa facção se tornem perigos que serão compartilhados. Quaisquer reivindicações concorrentes precisam ser levadas em consideração, assim como qualquer discórdia que possam causar entre os membros da facção. Qual deve ser nossa decisão?"
+generic_events.10.srd: "Um novo comunicado interessante chegou até nós de [ITA.GetNonIdeologyNameDef]: vendo nossa guerra comum contra o Socialismo e nosso objetivo comum do aprimoramento da pátria, eles escolheram propor a elevação do rei Amedeo como chefe de estado deles, efetivamente fundindo nossos dois países. Embora [ITA_GetNatPopLeader] permaneceria como chefe do governo, nosso primeiro-ministro foi oferecido uma posição de destaque dentro da ANI e influência significativa sobre as políticas militares."
+generic_events.10.a: "Mais forte juntos!"
+generic_events.10.b: "Uma proposta válida, encaminhe para [faction_leader.GetNonIdeologyNameDef]!"
+generic_events.10.c: "Pensando melhor, não..."
+
+generic_events.11.t: "[FROM.GetNonIdeologyNameDefCap] Aceitou!"
+generic_events.11.d: "Após ouvirem nosso pedido para entrar em sua aliança, [FROM.GetNameDef] aceitou nossa aplicação e agora estamos prestes a nos tornar membros de [FROM.GetFactionName]. Isso, esperançosamente, aumentará nossa segurança nestes tempos difíceis, enquanto nos esforçamos para garantir a proteção de nosso povo contra ameaças externas e interferências estrangeiras.\n\nIsso não quer dizer, no entanto, que esse acordo seja gratuito. Temos certas expectativas agora colocadas sobre nós para contribuir para a defesa comum das nações de [FROM.GetFactionName] e provavelmente seremos envolvidos em conflitos envolvendo este pacto. Isso inclui a possibilidade de sermos envolvidos em guerras iniciadas por membros deste pacto.\n\nVamos agora para o futuro juntos, nossos destinos agora entrelaçados tanto por palavras quanto pela força das armas. Com sorte, ganharemos muito mais com este acordo do que perdemos em autonomia."
+generic_events.11.a: "Excelente!"
+
+generic_events.12.t: "[FROM.GetNonIdeologyNameDefCap] Propõe uma Aliança com [FROM.GetNonIdeologyNameDef]"
+generic_events.12.d: "Um aviso urgente acaba de chegar do escritório estrangeiro: [FROM.GetNonIdeologyNameDef] nos pediu para considerar trazer [FROM.FROM.GetNonIdeologyNameDef] para nossa aliança militar. Aparentemente, [FROM.FROM.GetNonIdeologyNameDef] propôs originalmente a ideia para [FROM.GetNonIdeologyNameDef], que acreditou que a ideia tinha mérito suficiente para ser passada para nós.\n\nOs benefícios são bastante óbvios. Em estratégia, ter mais forças disponíveis é praticamente sempre algo bom, e [FROM.FROM.GetNonIdeologyNameDef] reconheceu que provavelmente seria compelido a participar de todos os conflitos em que possamos estar envolvidos, independentemente de sua origem. No entanto, a ideia não é isenta de riscos — também seríamos esperados a participar das guerras de [FROM.FROM.GetNonIdeologyNameDef], e entrar em uma aliança com eles pode ser contrário aos nossos objetivos estratégicos existentes. Tais questões sempre devem ser consideradas quando uma nova aliança está em pauta.\n\nCom tudo isso dito, qual é a nossa decisão?"
+generic_events.12.a: "Deixe-os se juntar."
+generic_events.12.b: "Não os queremos."
+
+generic_events.13.t: "[FROM.GetNonIdeologyNameDefCap] Aceitou!"
+generic_events.13.d: "Boas notícias! Após considerar a proposta de [FROM.FROM.GetNonIdeologyNameDef], [FROM.GetNonIdeologyNameDef] aceitou nossa solicitação de ingressar em sua aliança. Com amigos como esses, certamente dormiremos muito mais seguros."
+generic_events.13.a: "Excelente."
+
+generic_events.14.t: "[FROM.GetNonIdeologyNameDefCap] Aceitou!"
+generic_events.14.d: "Boas notícias! Após considerar nossa proposta, [FROM.FROM.GetNonIdeologyNameDef] concordou em permitir que [FROM.GetNonIdeologyNameDef] se junte à aliança. Ambos certamente se beneficiarão com o arranjo."
+generic_events.14.a: "Excelente."
+
+generic_events.15.t: "[FROM.GetNonIdeologyNameDefCap] Recusou!"
+generic_events.15.d: "Notícias infelizes: apesar do patrocínio de [FROM.FROM.GetNonIdeologyNameDef], [FROM.GetNonIdeologyNameDef] recusou nossa oferta de ingressar na [FROM.GetFactionName]. Parece que seus objetivos não estão tão alinhados como se pensava."
+generic_events.15.a: "Perda deles."
+
+generic_events.16.t: "[FROM.GetNonIdeologyNameDefCap] Recusou!"
+generic_events.16.d: "Notícias chocantes: apesar de argumentarmos em favor deles, [FROM.FROM.GetNonIdeologyNameDef] se recusou a permitir que [FROM.GetNonIdeologyNameDef] se juntasse à aliança. Nosso escritório estrangeiro foi pego completamente de surpresa por esse desenvolvimento — eles acreditavam que nosso pensamento estratégico estava muito mais próximo do que parece ser."
+generic_events.16.a: "O quê?"
+
+generic_events.17.t: "[FROM.GetNonIdeologyNameDefCap] Recusou!"
+generic_events.17.d: "Apesar de nossos apelos convincentes de que poderíamos ser um contribuinte eficaz e membro de sua aliança, para nossa consternação [FROM.GetNameDef] recusou nossa solicitação de ingressar na [FROM.GetFactionName]. De alguma forma, isso pode ser esperado: as alianças muitas vezes são delicadas e cheias de perigos, e alguma cautela é esperada ao fazê-las. Ainda assim, essa rejeição nos deixa em uma situação delicada. Ou eles não têm intenções de nos defender ou, de maneira mais cínica, nos veem como um alvo futuro no campo de batalha.\n\nPrecisamos agora correr para encontrar um meio de segurança nacional. Seja encontrando outra aliança para nos proteger da invasão, apelando para múltiplas facções como um mediador neutro benevolente ou virando-nos para uma defesa armada interna, precisamos garantir a segurança de nosso povo. A [FROM.GetFactionName] pode ou não se arrepender de nos rejeitar, mas é essencial que não nos arrependamos desse resultado."
+generic_events.17.a: "Perda deles."
+
+generic_events.18.t: "Uma Aliança com [FROM.GetNonIdeologyNameDef]?"
+generic_events.18.d: "As relações internacionais são frequentemente fluidas, com acordos e alinhamentos mudando rapidamente de geração em geração. Às vezes, mesmo dentro de uma geração, pactos são assinados e descartados à medida que os interesses mudam. A instabilidade gerada após a Segunda-feira Negra e outros desenvolvimentos políticos ao redor do mundo aumentou os temores em muitas nações mais fracas de que os grandes poderes entrando em conflito os pegarão no meio.\n\nEm um esforço para buscar interesses comuns, [FROM.GetFactionName] se uniu em uma abrangente aliança militar. Eles buscaram nossa adesão, oferecendo-nos o potencial de uma proteção adicional (seja contra ameaças externas ou deles mesmos) e, em troca de laços militares e econômicos aprofundados, nos tornaremos parte de um bloco mais forte e unido.\n\nNo entanto, ingressar não é isento de riscos. Provavelmente seremos envolvidos em quaisquer conflitos que surjam relacionados a esta aliança, e é possível que nossas contribuições superem os benefícios que obtemos da adesão. É essencial que, como nação, ponderemos cuidadosamente os custos e benefícios de tal acordo."
+generic_events.18.a: "Mais forte juntos!"
+generic_events.18.b: "Pensando melhor, não..."
+
+generic_events.19.t: "[FROM.GetNonIdeologyNameDefCap] Aceitou!"
+generic_events.19.d: "Após algumas deliberações, [FROM.GetNameDefCap] aceitou nosso convite para se juntar à [ROOT.GetFactionName], como sinceramente esperávamos que fizessem. Um novo membro de nossa aliança é geralmente bem-vindo, trazendo mais segurança uns para os outros e, no mínimo, garantindo a paz entre os membros dela. Suas contribuições de forças militares, financiamento e peso diplomático, esperançosamente, avançarão nos interesses mútuos de [ROOT.GetFactionName], mas há algumas preocupações pela frente.\n\nOutro aliado em nosso pacto significa mais recursos contribuídos para nossas forças combinadas, embora quaisquer perigos adicionais que eles acrescentem à nossa facção sejam perigos que serão compartilhados. Quaisquer reivindicações concorrentes precisam ser levadas em consideração, assim como qualquer discórdia que possam causar entre os membros da facção.\n\nTeremos que trabalhar diligentemente para garantir que essas questões sejam resolvidas e que esta aliança funcione para todos (ou, no mínimo, para nós mesmos). Ainda assim, isso não deve diminuir a vitória diplomática que conquistamos hoje para todos os nossos povos."
+generic_events.19.a: "Excelente!"
+
+generic_events.20.t: "[FROM.GetNonIdeologyNameDefCap] Recusou!"
+generic_events.20.d: "Após algumas deliberações, para nossa consternação [FROM.GetNameDef] recusou nosso convite para se juntar à [ROOT.GetFactionName]. Infelizmente, isso não é incomum quando se trata de construção de alianças. Algumas nações temem a perda de flexibilidade diplomática que um compromisso formal causaria, esperando evitar serem arrastadas para um conflito perdedor ou desejando ingressar em uma aliança mais adequada. Também é possível que eles tenham planos que sejam mutuamente exclusivos com nossos objetivos, embora esperemos que não de maneira antagonista.\n\nSeja qual for o caso, [FROM.GetNameDef] não fará ou quebrará nossa aliança. Ou, pelo menos, deveria ser o caso se nossa facção tiver algum peso. Continuaremos a alcançar nossos objetivos de uma maneira ou de outra, e se tiverem sorte, [FROM.GetNameDef] não se arrependerá muito de sua decisão infeliz."
+generic_events.20.a: "Perda deles."
+
+### Incoming War-ning ###
+generic_events.30.t: "Prepare-se para a Guerra!"
+ generic_events.30.d: "Recebemos inúmeros relatos de que as tropas [From.GetAdjective] estão atualmente se concentrando, e que uma grande quantidade de reconhecimento está ocorrendo ao longo da fronteira [Root.GetAdjective]. Oficiais militares afirmam que está claro que [From.GetNameDef] está planejando uma invasão de [Root.GetNameDef], que pode começar a qualquer momento nas próximas semanas."
+ generic_events.30.a: "Precisamos nos preparar!"
+ generic_events.31.d: "Recebemos informações alarmantes de [From.GetNameDef] de que as tropas [From.From.GetAdjective] estão atualmente se concentrando, e que uma grande quantidade de reconhecimento está ocorrendo ao longo da fronteira [From.GetAdjective]. Oficiais militares afirmam que está claro que [From.From.GetNameDef] está planejando uma invasão de [From.GetNameDef], que pode começar a qualquer momento nas próximas semanas."
+ generic_events.32.d: "Recebemos informações de nossos aliados em [From.GetNameDef] de que suas tropas estão atualmente se concentrando, e que uma grande quantidade de reconhecimento está ocorrendo ao longo da fronteira [attack_target.GetAdjective]. [From.GetNameDef] está planejando uma invasão de [attack_target.GetNameDef], que pode começar a qualquer momento nas próximas semanas."
+
+### Returning Cores ###
+return_cores_to_ally: "Devolver Terras [From.GetAdjective]"
+ return_cores_to_ally_desc: "O governo [Root.GetAdjective] tem discutido o que fazer com as terras [From.GetAdjective] que atualmente ocupamos - terras às quais não temos direito legítimo. Devemos devolver a terra aos nossos aliados [From.GetAdjective]?"
+ return_cores_to_subject: "Devolver Terras [From.GetAdjective]"
+ return_cores_to_subject_desc: "O governo [Root.GetAdjective] tem discutido o que fazer com as terras [From.GetAdjective] que atualmente ocupamos - terras às quais não temos direito legítimo. Devemos devolver a terra aos nossos súditos em [From.GetNameDef]?"
+
+ generic_events.75.t: "As Terras [From.From.GetAdjective]"
+ generic_events.75.d: "O governo [Root.GetAdjective] tem discutido o que fazer com as terras [return_to.GetAdjective] que atualmente ocupamos - terras às quais não temos direito legítimo. Devemos devolver esta terra a eles?"
+ generic_events.75.a: "Sim, devolva toda a terra a eles"
+ KR_will_return_all: "Todos os estados costeiros ou contíguos de propriedade que são núcleos ou reivindicações de [return_to.GetAdjective] serão devolvidos a §Y[return_to.GetNameDef]§!.\n\nObserve que isso §Rnão§! incluirá estados que são §Yreivindicados§! ou §Ynúcleos§! de [Root.GetAdjective]."
+ generic_events.75.b: "Sim, devolva a terra a eles... mas mantenha os estados mais vitais"
+ KR_will_return_rest: "Todos os estados costeiros ou contíguos de propriedade que são núcleos ou reivindicações de [return_to.GetAdjective] serão devolvidos a §Y[return_to.GetNameDef]§!.\n\nObserve que isso §Rnão§! incluirá estados que são §Yreivindicados§! ou §Ynúcleos§! de [Root.GetAdjective], nem incluirá estados §Yvitais§! como canais."
+ generic_events.75.c: "Devolver apenas suas terras principais"
+ KR_will_return_cores: "Todos os estados costeiros ou contíguos de propriedade que são núcleos de [return_to.GetAdjective] serão devolvidos a §Y[return_to.GetNameDef]§!.\n\nObserve que isso §Rnão§! incluirá estados §Yreivindicados§! ou §Ynúcleos§! de [Root.GetAdjective], nem estados §Yvitais§! como canais. Quaisquer §Yreivindicações§! de [return_to.GetAdjective] também serão retidas."
+ generic_events.75.e: "Vamos manter tudo!"
+ KR_will_not_return: "Não devolveremos §Rnenhuma§! de suas terras, nem seremos solicitados a fazê-lo novamente."
+
+ generic_events.76.t: "[From.GetNameDefCap] Devolve Terra [Root.GetAdjective]"
+ generic_events.76.d: "Nossos aliados em [From.GetNameDefCap] devolveram algumas de nossas terras apropriadas para nós!"
+ generic_events.76.a: "Ótimo!"
+
+### Ideology ###
+KR_different_ideology_close: "Ideologia Diferente"
+KR_different_ideology: "Ideologia Diferente"
+KR_similar_ideology_close: "Ideologia Semelhante"
+KR_similar_ideology: "Ideologia Semelhante"
+KR_similar_ideology_distant: "Ideologia Semelhante"
+KR_same_ideology: "Mesma Ideologia"
+KR_ideology_allowed: "Ministro permitido para a ideologia do país"
+KR_factional_rivalry: "Rivalidade Faccional"
+head_of_gov_available: "§ROs chefes de governo não podem ser adicionados ou removidos manualmente.§! Eles só podem ser alterados por meio de eventos, focos, decisões, etc.\n\nEsta lista representa todos os possíveis chefes de governo para uma nação, então as pessoas aqui podem estar em desacordo com o chefe atual, em um país diferente ou até mesmo mortas."
+minister_available: "§ROs ministros não podem ser adicionados ou removidos manualmente.§! Eles só podem ser alterados por meio de eventos, focos, decisões, etc.\n\nEsta lista representa todos os possíveis ministros para uma nação, então as pessoas aqui podem estar em desacordo com o governo atual, em um país diferente ou até mesmo mortas."
+military_staff_available: "Este membro da equipe militar está vivo e pronto para servir o governo."
+
+government_is_loc: "O partido atual no poder é "
+government_is_not_loc: "O partido atual no poder não é "
+
+ KR_is_socialist: "$government_is_loc$§Y$totalist$§!, §Y$syndicalist$§! ou §Y$radical_socialist$§!"
+ KR_is_socialist_NOT: "$government_is_not_loc$§Y$totalist$§!, §Y$syndicalist$§! ou §Y$radical_socialist$§!"
+
+ KR_is_elected: "$government_is_loc$§Y$social_democrat$§!, §Y$social_liberal$§!, §Y$market_liberal$§! ou §Y$social_conservative$§!"
+ KR_is_elected_NOT: "$government_is_not_loc$§Y$social_democrat$§!, §Y$social_liberal$§!, §Y$market_liberal$§! ou §Y$social_conservative$§!"
+
+ KR_is_democratic: "$government_is_loc$§Y$social_democrat$§!, §Y$social_liberal$§!, §Y$market_liberal$§!, §Y$social_conservative$§! ou §Y$authoritarian_democrat$§!"
+ KR_is_democratic_NOT: "$government_is_not_loc$§Y$social_democrat$§!, §Y$social_liberal$§!, §Y$market_liberal$§!, §Y$social_conservative$§! ou §Y$authoritarian_democrat$§!"
+
+ KR_is_authoritarian: "$government_is_loc$§Y$authoritarian_democrat$§!, §Y$paternal_autocrat$§! ou §Y$national_populist$§!"
+ KR_is_authoritarian_NOT: "$government_is_not_loc$§Y$authoritarian_democrat$§!, §Y$paternal_autocrat$§! ou §Y$national_populist$§!"
+
+ KR_is_dictatorship: "$government_is_loc$§Y$paternal_autocrat$§! ou §Y$national_populist$§!"
+ KR_is_dictatorship_NOT: "$government_is_not_loc$§Y$paternal_autocrat$§! ou §Y$national_populist$§!"
+
+ KR_right_wing_democracy: "$government_is_loc$§Y$market_liberal$§! ou §Y$social_conservative$§!"
+ KR_right_wing_democracy_NOT: "$government_is_not_loc$§Y$market_liberal$§! ou §Y$social_conservative$§!"
+
+ KR_left_wing_democracy: "$government_is_loc$§Y$social_democrat$§! ou §Y$social_liberal$§!"
+ KR_left_wing_democracy_NOT: "$government_is_not_loc$§Y$social_democrat$§! ou §Y$social_liberal$§!"
+
+ KR_is_any_authoritarian: "$government_is_loc$§Y$totalist$§!, §Y$authoritarian_democrat$§!, §Y$paternal_autocrat$§! ou §Y$national_populist$§!"
+ KR_is_any_authoritarian_NOT: "$government_is_not_loc$§Y$totalist$§!, §Y$authoritarian_democrat$§!, §Y$paternal_autocrat$§! ou §Y$national_populist$§!"
+
+ KR_is_liberal: "$government_is_loc$§Y$social_democrat$§!, §Y$social_liberal$§! ou §Y$market_liberal$§!"
+ KR_is_liberal_NOT: "$government_is_not_loc$§Y$social_democrat$§!, §Y$social_liberal$§! ou §Y$market_liberal$§!"
+
+ KR_is_conservative: "$government_is_loc$§Y$social_conservative$§! ou §Y$authoritarian_democrat$§!"
+ KR_is_conservative_NOT: "$government_is_not_loc$§Y$social_conservative$§! ou §Y$authoritarian_democrat$§!"
+
+### Party Popularity Tooltips ###
+popularity_ideology_tooltip: "O seu partido no poder atual é §H[?current_party_ideology_group.GetTokenLocalizedKey]§!"
+popularity_ideology_desc: "§L[GetPopularityTooltipDesc]§!"
+party_popularity_delayed_tooltip: "A popularidade do partido representa o controle do seu governo sobre a nação e o apoio do povo. Partidos políticos com alta popularidade têm mais capacidade de promover sua agenda política e estabilizar a nação."
+
+party_popularity_tooltip: "§HPopularidade do Partido§![GetPopularityPPGain]"
+party_popularity_tooltip_long: "§H\n\nEfeitos da nossa atual Popularidade do Partido:§!\nGanho Diário de Poder Político: [GetPopularityPPGainValue][GetHasCoalition][GetCoalitionTotalist][GetCoalitionSyndicalist][GetCoalitionRadicalSocialist][GetCoalitionSocialDemocrat][GetCoalitionSocialLiberal][GetCoalitionMarketLiberal][GetCoalitionSocialConservative][GetCoalitionAuthoritarianDemocrat][GetCoalitionPaternalAutocrat][GetCoalitionNationalPopulist]"
+
+party_popularity_dynamic_modifier: "Popularidade do Partido"
+party_popularity_dynamic_modifier_ideology_mapped: "Popularidade do Partido"
+party_popularity_dynamic_modifier_coalition: "Coalizões"
+
+party_pop_coalition: "\n\n§HParceiros da Coalizão:§!\n"
+party_pop_coalition_totalist: "- [?token:totalist.GetTokenLocalizedKey]\n"
+party_pop_coalition_syndicalist: "- [?token:syndicalist.GetTokenLocalizedKey]\n"
+party_pop_coalition_radical_socialist: "- [?token:radical_socialist.GetTokenLocalizedKey]\n"
+party_pop_coalition_social_democrat: "- [?token:social_democrat.GetTokenLocalizedKey]\n"
+party_pop_coalition_social_liberal: "- [?token:social_liberal.GetTokenLocalizedKey]\n"
+party_pop_coalition_market_liberal: "- [?token:market_liberal.GetTokenLocalizedKey]\n"
+party_pop_coalition_social_conservative: "- [?token:social_conservative.GetTokenLocalizedKey]\n"
+party_pop_coalition_authoritarian_democrat: "- [?token:authoritarian_democrat.GetTokenLocalizedKey]\n"
+party_pop_coalition_paternal_autocrat: "- [?token:paternal_autocrat.GetTokenLocalizedKey]\n"
+party_pop_coalition_national_populist: "- [?token:national_populist.GetTokenLocalizedKey]\n"
+
+add_to_coalition: "Os §[GetCoalitionTooltipColour][?coalition_partner_var.GetTokenLocalizedKey]s§! se juntarão à coalizão."
+remove_from_coalition: "Os §[GetCoalitionTooltipColour][?coalition_partner_var.GetTokenLocalizedKey]s§! deixarão a coalizão."
+
+has_coalition_with_target: "Está em coalizão com os §H[?coalition_target.GetTokenLocalizedKey]s§!."
+has_coalition_with_target_NOT: "Não está em coalizão com os §H[?coalition_target.GetTokenLocalizedKey]s§!."
+
+coalition_stability_tooltip: "Os parceiros da coalizão agora fornecem $RIGHT|G%0$ da sua popularidade como ganho adicional de §Hpoder político§!."
+
+### At War Notice ###
+has_scripted_peace: "Estamos Em Guerra"
+has_scripted_peace_desc: "O país está em guerra e está determinado a alcançar a vitória - embora as chances sejam de que nossa resistência seja um pouco mais frágil do que parece. (Observação: isso existe para guerras em que existe um evento de paz roteirizado, e é provável que o evento ocorra muito antes de atingirmos esse limite elevado de rendição, apenas para que você esteja ciente.)"
+
+### Demobilisation ###
+mobilisation_penalty_modifier: "Acima do Limite de Divisões"
+
+unit_limit_count: "[unit_limit_count_loc]/[?max_divisions|H0]"
+
+unit_limit_factory_bonus: "Limite de Divisões"
+unit_limit_bonus: "Limite de Divisões"
+unit_limit_subject_bonus: "Limite Adicional de Divisões para o soberano"
+
+unit_limit_label: "§HLimite Máximo de Divisões Suportadas§!\nDivisões: [?uncapped_max_divisions|H0][unit_limit_reached_cap]\n\nValor Base: [?base_units|G1]\n   - Da População do Núcleo: [?core_base|G1][unit_limit_noncore_population][unit_limit_subject_population_bonus]\n   - Dos Estados Possuídos: [?num_owned_states|G0][unit_limit_subject_state_bonus]\n\nMultiplicador de Contagem de Fábricas: [?industry_factor_uncapped|H%][unit_limit_modifier_was_capped][unit_limit_modified_by][unit_limit_faction_leader][unit_limit_economy_law]\n\nPadrão: [?global.base_unit_limit_bonus|G=0][unit_limit_bonus_used]"
+unit_limit_desc: "Cada país tem a capacidade de suportar um certo número de divisões militares individuais antes que sua economia e infraestrutura lutem para mantê-las.\n\nO número máximo de unidades suportadas é baseado na §Hpopulação§! do país e no §Hnúmero de estados possuídos§!, sendo então multiplicado por uma razão desse valor para o §Hnúmero de fábricas§! nos estados.\n\nEm §Hguerras civis§!, os valores base são calculados a partir da soma de todos os estados possuídos por todos os participantes.[unit_limit_above_limit]"
+
+unit_limit_above_limit_desc: "\n\n--------------\n\n§RAtualmente, excedemos nossa capacidade e a única maneira de aliviar o estresse em nosso país será remover algumas de nossas divisões.§!\n\n$MODIFIER_ARMY_ORG_FACTOR$: [?mobilisation_penalty_var|+=%1]\n$MODIFIER_CONSUMER_GOODS_FACTOR$: [?mobilisation_penalty_var_positive|=%H1]\n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: [?mobilisation_penalty_var|+=%]\n$MODIFIER_TRAINING_TIME_ARMY_FACTOR$: [?mobilisation_penalty_var_positive|-=%]\n$MODIFIER_LAND_REINFORCE_RATE$: [?mobilisation_penalty_var|+=%1]"
+
+unit_limit_reached_cap_desc: "\n(Limitado a um máximo de [?300|H0])"
+unit_limit_noncore_population_desc: "\n   - Da População fora do Núcleo: [?non_core_base|G1]"
+unit_limit_subject_population_bonus_desc: "\n   - Da População §Hde Súditos§!: [?subject_base_units|G1]"
+unit_limit_subject_state_bonus_desc: "\n   - Dos Estados §Hde Súditos§!: [?subject_states|G0]"
+unit_limit_modifier_was_capped_desc: "\n(Limitado a um mínimo de [?0.5|H%])"
+unit_limit_modified_by_desc: "\n\nModificado ainda mais por:"
+unit_limit_faction_leader_desc: "\n   - Líder de Facção: §G+15%§!"
+unit_limit_bonus_used_desc: "\nEspíritos Nacionais: [?modifier@unit_limit_bonus|=+0]"
+
+unit_limit_low_economic_mobilisation: "\n   - §H$low_economic_mobilisation$§!: [?modifier@unit_limit_factory_bonus|+=%0]"
+unit_limit_partial_economic_mobilisation: "\n   - §H$partial_economic_mobilisation$§!: [?modifier@unit_limit_factory_bonus|+=%0]"
+unit_limit_war_economy: "\n   - §H$war_economy$§!: [?modifier@unit_limit_factory_bonus|+=%0]"
+unit_limit_tot_economic_mobilisation: "\n   - §H$tot_economic_mobilisation$§!: [?modifier@unit_limit_factory_bonus|+=%0]"
+
+### Tooltips ###
+KR_party_pop_less_than_100: "Menos de §Y100%§! de apoio para [Root.GetRulingParty]"
+is_ally_of_ROOT: "É um aliado de [ROOT.GetNameDef]"
+has_coalition_with: "Está em coalizão com [?coalition_partner_to_check.GetTokenLocalizedKey]"
+
+KR_getting_faction_invite: "Atualmente estamos sendo convidados para uma facção."
+KR_getting_faction_invite_NOT: "Atualmente, §Rnão§! estamos sendo convidados para uma facção."
+
+### Decisions ###
+generic_raise_stability: "[generic_raise_stability_text]"
+generic_raise_stability_desc: "[generic_raise_stability_desc_text]"
+
+generic_raise_stability_socialist: "Melhoria nas Condições de Trabalho"
+generic_raise_stability_socialist_desc: "O trabalho de fábrica é difícil e repleto de muitos perigos. Melhorar as condições para nossos trabalhadores de fábrica reduzirá a produção a curto prazo, mas os benefícios a longo prazo valem a pena."
+
+generic_raise_stability_liberal: "Legislar Liberdades"
+generic_raise_stability_liberal_desc: "Talvez a maneira mais fácil de melhorar a estabilidade de nosso país seja dar ao povo o que eles querem. Isso envolverá alguns compromissos desconfortáveis, mas idealmente, essas são medidas apenas temporárias e projetadas para apaziguá-los até que a ordem possa ser adequadamente restaurada."
+
+generic_raise_stability_conservative: "Repressão Policial"
+generic_raise_stability_conservative_desc: "A desordem tornou-se desenfreada. Devemos flexibilizar as restrições em nossas forças policiais e dar-lhes a liberdade para fazerem seus trabalhos, prendendo os piores criminosos."
+
+generic_raise_stability_authoritarian: "Enviar o Exército"
+generic_raise_stability_authoritarian_desc: "A maneira de lidar com a desordem em nossa nação é enviar o exército e suprimi-la completamente. Nem todos ficarão felizes com isso, é verdade, mas às vezes a lei marcial é a única alternativa."
+
+generic_raise_support: "[generic_raise_support_text]"
+generic_raise_support_desc: "[generic_raise_support_desc_text]"
+
+rally_public_support: "Mobilizar Apoio Público"
+rally_public_support_desc: "Com algum poder político e apoio industrial, vamos mobilizar nossos apoiadores para nossa causa. Embora isso leve tempo e recursos, a longo prazo, isso melhorará nossa posição política."
+
+solidify_control: "Solidificar Controle"
+solidify_control_desc: "Algum uso tático de poder político aqui e alguns recursos ali e removeremos nossos obstáculos políticos; pode ser que não consigamos nos livrar de todos, mas mesmo nos livrar de alguns limpará nosso caminho e melhorará nosso poder político a longo prazo."
+
+restructure_supply_system: "Reorganizar o Sistema Ferroviário"
+restructure_supply_system_desc: "Redirecionando materiais de construção e trabalhadores ferroviários, podemos rapidamente criar um pequeno número de depósitos de suprimentos improvisados ao longo de algumas de nossas ferrovias. Isso não é sustentável, no entanto.\n\n§REsta decisão só pode ser tomada uma vez. O bônus desaparecerá se você construir mais de 3 depósitos de suprimentos adicionais.§!"
+
+debug_decisions: "Decisões de Depuração"
+turn_off_plpc_debug: "Desativar Conferências de Paz Lideradas por Jogadores"
+turn_off_plpc_debug_desc: "Isso desativará temporariamente as conferências de paz lideradas por jogadores - significando que as conferências de paz seguirão normalmente, e os países da IA não sairão se um jogador estiver envolvido."
+turn_on_plpc_debug: "Ativar Conferências de Paz Lideradas por Jogadores"
+turn_on_plpc_debug_desc: "Isso restaurará a funcionalidade normal das conferências de paz lideradas por jogadores. Os países da IA sempre sairão das conferências de paz se um jogador estiver envolvido no lado vencedor."
+KR_player_leads_conferences: "A regra de jogo de §YPrimazia do Jogador§! para Conferências de Paz está ativa e §Ghabilitada§!\n"
+KR_plpc_disable_tt: "A regra de jogo de §YPrimazia do Jogador§! será temporariamente §Rdesativada§!\n"
+KR_plpc_enable_tt: "A regra de jogo de §YPrimazia do Jogador§! será novamente §Gativada§!\n"
+KR_plpc_turned_off: "A regra de jogo de §YPrimazia do Jogador§! para Conferências de Paz está ativa, mas atualmente está §Rdesativada§!\n"
+stt_highlight_states: "Estados Marcados"
+
+##################
+### Ideologies ###
+##################
+
+### Names ###
+totalist: "Totalista"
+syndicalist: "Sindicalista"
+radical_socialist: "Socialista Radical"
+social_democrat: "Social-Democrata"
+social_liberal: "Liberal Social"
+market_liberal: "Liberal de Mercado"
+social_conservative: "Conservador Social"
+authoritarian_democrat: "Democrata Autoritário"
+paternal_autocrat: "Autocrata Paternalista"
+national_populist: "Populista Nacional"
+
+### Nouns ###
+totalist_noun: "Totalismo"
+syndicalist_noun: "Sindicalismo"
+radical_socialist_noun: "Socialismo Radical"
+social_democrat_noun: "Democracia Social"
+social_liberal_noun: "Liberalismo Social"
+market_liberal_noun: "Liberalismo de Mercado"
+social_conservative_noun: "Conservadorismo Social"
+authoritarian_democrat_noun: "Democracia Autoritária"
+paternal_autocrat_noun: "Autocracia Paternalista"
+national_populist_noun: "Populismo Nacional"
+
+### Ideology Grouping ###
+kr_government_grouping: "Grupo Ideológico"
+totalist_desc: "Socialista"
+syndicalist_desc: "Socialista"
+radical_socialist_desc: "Socialista"
+social_democrat_desc: "Liberal"
+social_liberal_desc: "Liberal"
+market_liberal_desc: "Liberal"
+social_conservative_desc: "Conservador"
+authoritarian_democrat_desc: "Conservador"
+paternal_autocrat_desc: "Reacionário"
+national_populist_desc: "Reacionário"
+
+### Subtype Descriptions ###
+totalist_subtype_desc: "O Totalismo é uma sinédoque para governos inspirados nas várias vertentes totalitárias, vanguardistas ou extremamente autoritárias do socialismo. Nomeado após os vários partidos socialistas nacionalistas que se uniram para assinar a Carta Totalista, muitos outros movimentos socialistas autoritários em todo o mundo têm sido associados a eles, às vezes para seu desagrado."
+syndicalist_subtype_desc: "O Sindicalismo é a ideologia revolucionária líder no mundo, uma evolução de correntes socialistas mais antigas focadas em sindicatos que passaram de uma forma insurgente de ação direta para um sistema de governo. Muitas vezes combinando socialismo industrial e libertário, muitos governos sindicalistas modernos se inspiram nos sistemas pioneiros na França e na Grã-Bretanha, embora muitos injetem ideias novas ou locais próprias."
+radical_socialist_subtype_desc: "O Socialismo Radical engloba uma ampla variedade de governos esquerdistas revolucionários, e essas facções rejeitam o reformismo político dentro de estruturas reacionárias como o meio último de mudar o status quo. As diversas vertentes do Socialismo Radical podem variar significativamente em crenças, mas compartilham o desejo comum de ver um futuro drasticamente diferente do que a antiga ordem tinha a oferecer."
+social_democrat_subtype_desc: "A Social Democracia representa vários governos liderados por grupos esquerdistas reformistas que rejeitam a necessidade inerente de luta de classes violenta para alcançar seus objetivos, às vezes entrando em conflito com seus pares mais radicais no processo. Muitos pedem mudanças através do voto, embora, se necessário, revolucionários desse tipo não sejam desconhecidos."
+social_liberal_subtype_desc: "O Liberalismo Social reflete muitos estilos de governo da tradição liberal progressista, muitas vezes buscando mudanças no contrato social para atender às crescentes demandas do povo. Esses governos tendem a focar na expansão ou proteção das liberdades civis por meio de reformas políticas e econômicas, embora seus objetivos variem de nação para nação."
+market_liberal_subtype_desc: "Os governos Liberais de Mercado derivam do liberalismo clássico e têm suas raízes em várias filosofias do Iluminismo. Defendendo a santidade da liberdade do indivíduo e geralmente apoiando o governo representativo e a livre empresa, esta categoria representa uma ampla variedade de grupos, incluindo liberais de mercado, liberais nacionais e liberais conservadores."
+social_conservative_subtype_desc: "O Conservadorismo Social abrange muitos governos democráticos que buscam preservar, defender ou reforçar os valores tradicionais de seu povo diante de circunstâncias em mudança. Seus adeptos não são rigidamente reacionários, sendo geralmente favoráveis ao Estado de direito e à democracia, e dispostos a buscar mudanças medidas e incrementais que estejam alinhadas com sua ética dentro dos sistemas políticos que habitam."
+authoritarian_democrat_subtype_desc: "A Democracia Autoritária descreve uma ampla gama de sistemas governamentais parcialmente representativos caracterizados por figuras poderosas e grupos de interesse governando através da aparência de uma legislatura livre. Às vezes, produto de convicção ideológica ou mero pragmatismo, outras vezes essa estrutura política surgiu devido a instituições eleitas fracas ou transitórias."
+paternal_autocrat_subtype_desc: "A Autocracia Paternal muitas vezes é mais uma mentalidade do que uma ideologia, e governos autocráticos paternais às vezes denunciam explicitamente o partidarismo ideológico. Muitas vezes, pedindo por um líder forte e sábio, como um Rei, General ou Clero, para proteger e guiar o povo, sua natureza dominadora não impediu os praticantes de exercerem influência sobre as massas."
+national_populist_subtype_desc: "O Populismo Nacional é um produto da confluência de movimentos ultranacionalistas de direita que surgem em um mundo em mudança e descreve governos que buscam canalizar a energia do povo para fins frequentemente radicais. Muitas vezes, abrigando um desprezo pela democracia tradicional e explorando a desafeição em massa com o establishment, muitos recorrem a inspirações ecléticas para resolver questões prementes."
+
+### Drift ###
+ totalist_drift: "Apoio Diário ao Totalismo"
+syndicalist_drift: "Apoio Diário ao Sindicalismo"
+radical_socialist_drift: "Apoio Diário ao Socialismo Radical"
+social_democrat_drift: "Apoio Diário ao Social-Democrata"
+social_liberal_drift: "Apoio Diário ao Liberalismo Social"
+market_liberal_drift: "Apoio Diário ao Liberalismo de Mercado"
+social_conservative_drift: "Apoio Diário ao Conservadorismo Social"
+authoritarian_democrat_drift: "Apoio Diário ao Democrata Autoritário"
+paternal_autocrat_drift: "Apoio Diário ao Autocrata Paternal"
+national_populist_drift: "Apoio Diário ao Populismo Nacional"
+
+totalist_acceptance: "Aceitação da Diplomacia Totalista"
+syndicalist_acceptance: "Aceitação da Diplomacia Sindicalista"
+radical_socialist_acceptance: "Aceitação da Diplomacia Socialista Radical"
+social_democrat_acceptance: "Aceitação da Diplomacia Social-Democrata"
+social_liberal_acceptance: "Aceitação da Diplomacia Liberal Social"
+market_liberal_acceptance: "Aceitação da Diplomacia Liberal de Mercado"
+social_conservative_acceptance: "Aceitação da Diplomacia Conservadora Social"
+authoritarian_democrat_acceptance: "Aceitação da Diplomacia Democrata Autoritária"
+paternal_autocrat_acceptance: "Aceitação da Diplomacia Autocrata Paternal"
+national_populist_acceptance: "Aceitação da Diplomacia Populista Nacional"

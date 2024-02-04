@@ -1,0 +1,10 @@
+﻿l_braz_por:
+ST: "º"
+ND: "º"
+RD: "º"
+TH: "º"
+WAR_NAME: "$ORDERFIRST$-$SECOND$ Guerra"
+CIVIL_WAR_NAME: "$ORDERSECOND$ Guerra civil"
+WAR_TAKE_CORE_NAME: "$ORDERFIRST$ reclamação de $STATE$"
+WAR_TAKE_CLAIM_NAME: "$ORDERFIRST$ Agressão para $STATE$"
+INDEPENDENCE_WAR_NAME: "$ORDER$$FIRST$ Guerra de Independencia"

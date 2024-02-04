@@ -1,0 +1,244 @@
+﻿l_braz_por:
+
+### Parties ###
+
+CHS_authoritarian_democrat_party: "Associação de Proteção Nacional"
+CHS_authoritarian_democrat_party_long: "Associação de Proteção Nacional"
+
+### Flags and Tooltips ###
+
+refused_npa: "Recusou-se a ingressar na NPA ou foi recusado pela NPA"
+NPA_secured: "Nossa liderança da NPA está assegurada após a queda de Pequim e estamos em paz"
+CHS_centralism_tt: "Substituir §H$CHS_empowered_legislative$§! ou §H$CHS_empowered_executive$§! por §H$CHS_empowered_executive_centralist$§!\nMudança Efetiva:\nVelocidade de Construção: §G+10.00%§!\n"
+CHS_federalism_tt: "Substituir §H$CHS_empowered_legislative$§! ou §H$CHS_empowered_executive$§! por §H$CHS_empowered_executive_federalist$§!\nMudança Efetiva:\nMáximo de Fábricas em um Estado: §G+10.00%§!\n"
+CHS_merge_personality_cult: "Mesclar §H$CHS_empowered_executive_centralist$§! ou §H$CHS_empowered_executive_federalist$§! com §H$CHS_NPA_legacy$§!\nMudança Efetiva:\nGanho Diário de Poder Político: §G+0.25§!\n$MODIFIER_WAR_SUPPORT_FACTOR$: §G+10.00%§!"
+CHS_merge_new_republic: "Mesclar §H$CHS_empowered_executive_centralist$§! ou §H$CHS_empowered_executive_federalist$§! com §H$CHS_xinhai_legacy_idea$§!\nMudança Efetiva:\nGanho Diário de Poder Político: §G+0.25§!\nEstabilidade: §G+10.00%§!"
+NPA_northern_officers_tt: "Este foco é um trabalho em andamento e atualmente não tem efeito."
+
+### Ideas ###
+
+ CHS_legitimacy: "Legitimidade Limitada"
+CHS_legitimacy_desc: "Agora que o Norte e o Sul foram reunificados, devemos começar a tarefa gigantesca de criar um novo Governo Central para a China. Muitos em toda a China, especialmente no recentemente conquistado Norte, não nos reconhecem como legítimos desde o início. Levará tempo e esforço para provarmos a nós mesmos para aqueles que duvidam de nós, e somente então poderemos reivindicar verdadeiramente ter reunificado a China."
+
+CHS_bureaucracy: "Burocracia Sobrecarregada"
+CHS_bureaucracy_desc: "Da noite para o dia, nossa burocracia passou de governar algumas províncias no sul para governar a maioria da China. Dizer que nossa burocracia está sobrecarregada é um eufemismo. Nosso serviço civil precisará ser expandido de maneira significativa para atender às províncias recém-anexadas. Até lá, nossa economia e capacidade de alcançar o povo sofrerão."
+
+CHS_military: "O Novo Exército Chinês"
+CHS_military_desc: "Agora que a China foi reunificada, nossos exércitos vitoriosos são agora os do novo Governo Central. Como tal, vários arsenais e academias militares precisam ser integrados após décadas de desenvolvimento independente."
+NPA_navallegacy: "Estaleiros da República"
+CHS_NPA_legacy: "Legado das Guerras de Proteção Nacional"
+CHS_empowered_executive: "Executivo Empoderado"
+CHS_empowered_executive_centralist: "Governo Centralista"
+CHS_empowered_executive_federalist: "Governo Federalista"
+CHS_empowered_executive_centralist_NPA: "Sistema Presidencial Unitário"
+CHS_empowered_executive_federalist_NPA: "Sistema Presidencial Federalista"
+CHS_xinhai_legacy_idea: "Legado da Revolução de Xinhai"
+CHS_empowered_legislative: "Legislativo Empoderado"
+CHS_empowered_legislative_federalist: "Governo Federalista"
+CHS_empowered_legislative_centralist: "Governo Centralista"
+CHS_empowered_legislative_federalist_xinhai: "República Federal"
+CHS_empowered_legislative_centralist_xinhai: "República Unitária"
+
+### Focus ###
+
+CHS_provisional_government: "O Governo Provisório"
+CHS_provisional_government_desc: "Com o núcleo da China sob nosso controle, estabelecemos um novo Governo Provisório que trabalhará em uma nova, esperançosamente permanente, constituição e criará uma República unida que resistirá ao teste do tempo."
+
+CHS_strengthen_parliament: "Fortalecer o Parlamento"
+CHS_strengthen_parliament_desc: "Democratas por toda a China concordam que o Parlamento deve ser fortalecido para garantir a democracia no país e garantir que autoritários não consigam usurpar o poder na jovem República mais uma vez."
+
+CHS_strengthen_presidency: "Empoderar a Presidência"
+CHS_strengthen_presidency_desc: "O fracasso do governo republicano anterior mostra que os poderes do governo devem ser claramente definidos e a importância da presidência para garantir estabilidade e governança adequada."
+
+CHS_xinhai_legacy: "Legado de Xinhai"
+CHS_xinhai_legacy_desc: "A Revolução de Xinhai marca o nascimento da China moderna e da República. Ela e seus revolucionários devem ser honrados e comemorados, pois seu legado viverá enquanto nossa República viver."
+
+CHS_national_protection_legacy: "Legado da Proteção Nacional"
+CHS_national_protection_legacy_desc: "Os movimentos de Proteção Nacional tornaram-se um símbolo do compromisso de nossos líderes e exércitos com o republicanismo e o constitucionalismo, e devem ser honrados juntamente com a Revolução de Xinhai que deu à luz à nossa República, pois garantiram que a República sobrevivesse."
+
+CHS_federalist_model: "Modelo Federalista"
+CHS_federalist_model_desc: "O movimento Federalista na China surgiu e caiu várias vezes desde a Revolução de Xinhai, mas permanece um movimento importante em nosso governo provisório. Um sistema federal garantirá que os poderes sejam devidamente separados e que os assuntos locais permaneçam nas mãos dos locais que entendem melhor seus próprios problemas do que qualquer governo central."
+
+CHS_weaken_provincialism: "Atacar o Provincialismo"
+CHS_weaken_provincialism_desc: "O provincialismo é uma ferramenta para dividir nossa nação em feudos, e o federalismo é uma tentativa de institucionalizar isso. A supremacia do governo central deve ser garantida, pois é a única maneira de a China ser verdadeiramente reunificada como uma única nação e não uma coleção de tiranos locais."
+
+CHS_new_republic: "A Nova República"
+CHS_new_republic_desc: "Com as lições da antiga República, podemos construir uma nova República. Uma nova ordem na China, uma que realmente respeite o legado de seus fundadores, republicanismo, constitucionalismo e democracia, nascerá e, desta vez, perdurará."
+
+CHS_personality_cult: "Culto à Personalidade"
+CHS_personality_cult_desc: "[Root.GetLeader] é a única razão pela qual a Aliança de Proteção Nacional foi capaz de esmagar os monarquistas, radicais e pretensiosos e restaurar o legado da Revolução de Xinhai. Sem ele, não haveria República, e seu legado como libertador da China perdurará."
+
+CHS_new_bureaucracy: "A Nova Burocracia"
+CHS_new_bureaucracy_desc: "De governar uma ou duas províncias para governar o núcleo da China, nossa burocracia tem lutado, para dizer o mínimo. Independentemente de adotarmos um modelo federalista ou centralista, novos funcionários públicos precisam ser contratados e todo o serviço deve ser reorganizado do zero."
+
+CHS_election: "Nova Eleição da Assembleia Nacional"
+CHS_election_desc: "O novo governo não pode esperar agir legitimamente como uma República sem reunir um novo Parlamento. Novas eleições para a Assembleia Nacional serão realizadas pela primeira vez em décadas (desconsiderando as ilegítimas pelos tiranos manchus, é claro), ajudando a trazer legitimidade ao nosso Governo Provisório."
+
+CHS_national_reunification: "Reunificação Nacional"
+CHS_national_reunification_desc: "Com uma nova Assembleia Nacional reunida e uma nova Constituição ratificada, nosso governo não é mais provisório, mas o único governo legítimo da China. O Presidente [Root.GetLeader] liderará a nação em direção à Reunificação Nacional, e a China será mais uma vez unida e livre. Viva a República!"
+
+CHS_reintegrate_academies: "Reintegrar Academias"
+CHS_reintegrate_academies_desc: "Academias militares estão espalhadas por toda a China desde antes da Revolução de Xinhai e se desenvolveram largamente de forma independente desde o primeiro colapso da dinastia Qing. Elas devem ser reintegradas e o currículo de todos os oficiais padronizado mais uma vez."
+
+CHS_standardised_arsenals: "Arsenais Padronizados"
+CHS_standardised_arsenals_desc: "Por várias décadas, os arsenais da China estiveram sob o controle de diferentes e em grande parte independentes governos provinciais e nacionais. Agora que alguns desses arsenais estão sob nosso controle, os problemas logísticos decorrentes de diferentes arsenais produzindo armas diferentes em calibres diferentes para um único exército são substanciais e devem ser corrigidos o mais rápido possível."
+
+CHS_fate_of_northern_officers: "Destino dos Oficiais do Norte"
+CHS_fate_of_northern_officers_desc: "Desde a derrota dos senhores da guerra do Norte, temos muitos oficiais como prisioneiros de guerra. Chen Jiongming acredita que devemos ser lenientes, pois muitos deles são competentes e a maioria está disposta a jurar lealdade à nova República. No entanto, não muitos compartilham desse otimismo, e eles devem servir como exemplo como traidores da China."
+
+CHS_small_arms_development: "Desenvolvimento de Armas Leves"
+CHS_small_arms_development_desc: "Apesar das tentativas dos inúmeros governos nacionais e provinciais de atualizar, o rifle mais difundido em serviço ainda é o venerável, mas severamente obsoleto, Modelo 88. Tornar a padronização de um novo rifle moderno uma realidade, em vez de um projeto no papel, é uma prioridade máxima para melhorar nossas capacidades militares insatisfatórias em comparação com outros exércitos modernos."
+
+CHS_motorisation: "Motorização do Exército"
+CHS_motorisation_desc: "À medida que a infraestrutura de uma China unificada melhora, não apenas a motorização se torna uma possibilidade, mas uma necessidade devido ao tamanho de nosso país. Aumentar nossa mobilidade aumentará nossas capacidades no campo de batalha, permitindo uma maior flexibilidade e alcance, especialmente em áreas remotas onde bandidos continuam a rondar."
+
+CHS_artillery_modernisation: "Modernização da Artilharia"
+CHS_artillery_modernisation_desc: "A artilharia é a rainha do campo de batalha, e peças modernas eram um luxo na era dos senhores da guerra. Com as capacidades de uma China unida, podemos modernizar nossas armas e aproximar nossa capacidade de fogo do padrão global."
+
+CHS_support_companies: "Apoio e Logística do Exército"
+CHS_support_companies_desc: "Amadores estudam táticas, mestres estudam logística. Com um país tão grande e variado como a China, este provérbio deve ser levado a sério, pois muitos senhores da guerra aprenderam da maneira difícil. Melhorar nossa logística aumentará as capacidades de combate de nossos exércitos muito mais do que qualquer arma moderna."
+
+CHS_tank_arsenal: "Um Arsenal de Tanques"
+CHS_tank_arsenal_desc: "O desenvolvimento da guerra blindada certamente foi notado na China, mas desenvolvê-la e usá-la aqui era apenas um devaneio. Agora que estamos unidos e mais fortes do que nunca, agora é a hora de nos aprofundarmos nessas tecnologias avançadas. Um arsenal dedicado a veículos blindados deve ser fundado como uma pedra fundamental importante na modernização da China."
+
+CHS_aviation_school: "Formalizar Escolas de Aviação"
+CHS_aviation_school_desc: "Embora existam escolas para pilotos na China, são poucas e relativamente desorganizadas. Formalizar essas escolas e criar um currículo adequado para pilotos e equipes de manutenção ajudará a criar uma força aérea adequada para a China."
+
+CHS_new_aircraft_factories: "Novas Fábricas de Aeronaves"
+CHS_new_aircraft_factories_desc: "O sul do país viu a criação de várias oficinas de aeronaves pequenas nas últimas décadas, mas permaneceu relativamente pequeno, apenas capaz de reparar os poucos aviões que havia. Criar fábricas adequadas é mais um passo em direção ao desenvolvimento de uma indústria aeronáutica incipiente, uma parte essencial da era moderna."
+
+CHS_native_fighter_design: "Projeto de Caça Doméstico"
+CHS_native_fighter_design_desc: "Houve várias tentativas de criar uma aeronave chinesa, principalmente baseadas em designs estrangeiros. Com a ajuda de especialistas estrangeiros e um número crescente de técnicos locais, agora estamos mais do que nunca capazes de desenvolver nossos próprios designs na esperança de criar uma força aérea moderna para defender nossos céus."
+
+CHS_medium_bomber: "Frota de Bombardeiros Táticos"
+CHS_medium_bomber_desc: "Bombardeiros táticos médios oferecem versatilidade a uma força aérea, com a capacidade de realizar diferentes tipos de missões. Claro, projetar uma aeronave tão grande tem sido inédito até agora e certamente será um desafio."
+
+CHS_light_bomber: "Apoio Aéreo ao Exército"
+CHS_light_bomber_desc: "Bombardeiros leves como uma espécie de artilharia voadora são a melhor maneira de uma força aérea apoiar operações terrestres. É apenas lógico que nos concentremos nesses aviões de apoio aéreo próximo enquanto forjamos uma força aérea moderna."
+
+CHS_southern_fleets_legacy: "Legado da Frota do Sul"
+CHS_southern_fleets_legacy_desc: "A Frota de Guangdong (ou do Sul) teve uma história curta e tumultuada. Criada no final do século XIX, seu financiamento foi desviado para a Frota de Nanyang em Xangai, alcançando pouco nas Guerras Sino-Francesa e Sino-Japonesa, e foi desativada sem cerimônia antes da Revolução de Xinhai. No entanto, ela foi uma das quatro frotas modernas da China e seu legado perdura na memória local."
+
+CHS_naval_academy: "Reviver as Academias Navais"
+CHS_naval_academy_desc: "As academias navais da China foram largamente negligenciadas pelos sucessivos governos nacionais e provinciais. Agora que há um único Governo Central novamente, sem contestação, temos a capacidade de renovar os interesses navais e apoiar um novo grupo de oficiais para a Marinha Republicana."
+
+CHS_destroyers: "Flotilha de Destróieres Modernos"
+CHS_destroyers_desc: "Destróieres são a espinha dorsal de qualquer marinha moderna, especialmente de uma tão incipiente como a da China. Eles protegerão nossas costas, rotas de navegação e navios de guerra maiores contra submarinos e pequenas embarcações de ataque."
+
+CHS_submarines: "Desenvolver Submarinos"
+CHS_submarines_desc: "Submarinos estão se mostrando indispensáveis na guerra naval moderna. Para uma marinha tão limitada quanto a nossa, eles podem se mostrar salvadores, permitindo-nos atacar inimigos muito mais fortes ao saquear suas rotas de navegação e assediar suas frotas maiores."
+
+CHS_cruisers: "Cruzadores para Nossa Frota"
+CHS_cruisers_desc: "Cruzadores são importantes para reconhecimento e proteção, e, falando realisticamente, podem ser os maiores navios de guerra que somos capazes de construir neste momento."
+
+CHS_coastal_defence: "Foco na Defesa Costeira"
+CHS_coastal_defence_desc: "Seria insano começar a planejar uma grande frota capaz de rivalizar com as Grandes Potências Navais. Como tal, devemos nos concentrar em uma marinha mais flexível capaz de proteger nossa extensa costa e interesses no Pacífico."
+
+CHS_grand_fleet: "Uma Grande Frota?"
+CHS_grand_fleet_desc: "Se a China deve ser considerada uma Grande Potência, como deveria ser, uma marinha é indispensável. Embora certamente seja um plano de longo prazo, nossa grande marinha deve começar de algum lugar e deve começar agora."
+
+CHS_naval_bomber: "Projeto de Bombardeiro Naval"
+CHS_naval_bomber_desc: "Embora inicialmente ignorados, os bombardeiros navais armados com torpedos e bombas perfurantes estão rapidamente se tornando uma séria ameaça até mesmo para os maiores navios de guerra atualmente no mar. Essa tecnologia pode ser exatamente o que a China precisa: uma maneira custo-eficaz de destruir uma frota inimiga muito maior ameaçando nossa costa."
+
+### Events ###
+
+ npa.1.t: "Formação da Aliança de Proteção Nacional"
+npa.1.d: "Por tempo demais Pequim traiu a nação chinesa. Desde apoiar ditadores até monarquistas, não podemos mais ficar de braços cruzados enquanto o norte continua a corroer nossa grande nação. Os líderes provinciais do sul devem se unir mais uma vez e restaurar o movimento de Proteção Nacional para derrubá-los de uma vez por todas. Uma nova república trará grandeza à China mais uma vez!"
+npa.1.a: "Viva a República!"
+
+npa.2.t: "Um Pedido de [From.GetLeader]"
+npa.2.d: "[From.GetLeader] fez um pedido formal para se juntar à Aliança de Proteção Nacional. Embora a unidade deva vir primeiro contra o norte, seria imprudente aceitar o pedido sem considerar adequadamente as consequências de uma possível traição."
+npa.2.a: "É claro!"
+npa.2.b: "Seria imprudente."
+
+npa.3.t: "[ROOT.GetLeader] Aceito na NPA"
+npa.3.d: "Nossa província foi recebida na Aliança de Proteção Nacional. Agora nos prepararemos para a inevitável Segunda Expedição do Norte que certamente trará o governo de Pequim aos seus joelhos!"
+npa.3.a: "Pela República!"
+
+npa.4.t: "[ROOT.GetLeader] Recusado na NPA"
+npa.4.d: "Nosso pedido foi negado; [From.GetLeader] recusou permitir nossa entrada na Aliança de Proteção Nacional."
+npa.4.a: "Que rude!"
+
+npa.5.t: "Um Convite de [From.GetLeader]"
+npa.5.d: "[From.GetLeader], líder da Aliança de Proteção Nacional, nos convidou oficialmente a nos juntarmos ao movimento para derrubar o regime de Pequim. A aliança, assim como o movimento anterior de Proteção Nacional, é uma coalizão composta por diversos líderes provinciais com diferentes níveis de ambição. Embora isso fortaleça a influência de [From.GetLeader] na região, pode potencialmente consolidar nossa própria posição tanto regional quanto nacionalmente, e uma possível luta pelo poder após tomar Pequim pode potencialmente nos beneficiar."
+npa.5.a: "Devemos nos unir!"
+npa.5.b: "Devemos recusar."
+
+npa.6.t: "[From.GetLeader] Junta-se!"
+npa.6.d: "[From.GetLeader] aceitou nossa oferta, juntando-se à Aliança de Proteção Nacional. Estamos um passo mais perto de poder conquistar o norte!"
+npa.6.a: "Excelente!"
+
+npa.7.t: "[From.GetLeader] Recusa"
+npa.7.d: "[From.GetLeader] recusou-se a se juntar à Aliança de Proteção Nacional. Teremos que lidar com ele mais tarde ou nos virar sem ele."
+npa.7.a: "Traidor!"
+
+npa.8.t: "Pequim Liberada"
+npa.8.d: "Com a antiga capital imperial sob controle da Aliança de Proteção Nacional, finalmente podemos restaurar a República e honrar o legado da Revolução de Xinhai. Como líder da Aliança, é nosso dever proclamar um novo Governo Provisório e assumir nosso lugar como os líderes do novo Governo Central da China."
+npa.8.a: "Viva a República!"
+
+npa.9.t: "Formação do Governo Provisório"
+npa.9.d: "Com nossos aliados firmemente ao nosso lado, agora podemos começar a tarefa monumental de reconstruir a China e a República."
+npa.9.a: "Viva a República!"
+
+npa.10.t: "Formação do Governo Provisório"
+npa.10.d: "Com a antiga capital imperial sob controle da Aliança de Proteção Nacional, finalmente podemos restaurar a República e honrar o legado da Revolução de Xinhai. [From.GetLeader], líder da Aliança, nos convidou oficialmente a nos juntarmos a ele para criar um novo governo provisório. Isso nos colocará firmemente sob sua liderança e o apoiaremos na grande tarefa que se avizinha."
+npa.10.a: "Muito bem."
+npa.10.b: "[From.GetLeader] não está apto para liderar!"
+
+npa.11.t: "(( Processando Conflito de Poder... ))"
+npa.11.d: "Este é um evento oculto. Se você ver isso, então eu, Vidyaország, estraguei tudo, ou você trapaceou. Por favor, envie um relatório de bug se você ver isso. Obrigado."
+npa.11.a: "Beep boop"
+
+npa.12.t: "Conflito de Poder"
+npa.12.d: "A frágil aliança que era a NPA foi despedaçada. Alguns de nossos antigos aliados se voltaram contra nós, declarando-nos incapazes de liderar a nova República e nosso governo provisório ilegítimo.\n\nParece que outra rodada de guerra civil começou."
+npa.12.a: "Traidores! Traidores!"
+
+npa.13.t: "(( Finalizando Conflito de Poder... ))"
+npa.13.d: "Este é um evento oculto. Se você ver isso, então eu, Vidyaország, estraguei tudo (ou você trapaceou). Por favor, envie um relatório de bug se você ver isso. Obrigado."
+npa.13.a: "No Ano [GetYear] a Guerra Foi Declarada"
+
+npa.14.t: "Governo Provisório Garantido"
+npa.14.d: "Com todos os outros pretendentes subjugados, garantimos nossa posição como líder do governo provisório. Agora podemos começar a tarefa monumental de reconstruir a China e a República."
+npa.14.a: "Viva a República!"
+
+npa.15.t: "Formação da Associação de Proteção Nacional"
+npa.15.d: "Com a formação do Governo Provisório, um número de políticos chineses, desde militares e empresários até bajuladores sem vergonha, se uniram para formar um partido político: a Associação de Proteção Nacional. Buscando garantir a nova república e o legado do movimento de Proteção Nacional, este partido pró-governo busca apenas apoiar nossas políticas e angariar apoio público para elas. Isso nos garante muitas vozes no futuro parlamento da China e um significativo poder político à medida que fazemos a transição de um governo provincial para um nacional."
+npa.15.a: "Uma presença necessária na Assembleia Nacional."
+
+npa.16.t: "Restabelecendo a Constituição de 1924"
+npa.16.d: "A última constituição da República da China foi adotada em seus anos finais para substituir as antigas Constituições Provisórias. Embora a nova tenha se mostrado tão provisória quanto, o novo Governo Provisório decidiu, não surpreendentemente, restabelecê-la até que uma nova possa ser decidida. Esperançosamente, a nova e final Constituição será redigida de maneira oportuna, ao contrário dos tempos turbulentos da primeira República."
+npa.16.a: "É apenas provisória... certo?"
+
+npa.17.t: "Eleição da Assembleia Nacional de [GetYear]"
+npa.17.d: "Chegou a hora de finalmente eleger representantes para a nova legislatura. Devido à situação política e constitucional, candidatos pró-governo concorrem praticamente sem oposição devido ao eleitorado relativamente estreito e ao boicote dos radicais. Embora isso possa não promover o pluralismo político, garantirá que a legislatura apoie nossas políticas, garantindo assim que a República permaneça estável em seus primeiros anos."
+npa.17.a: "Viva a República!"
+
+npa.19.t: "Ultimato do Governo Central"
+npa.19.d: "O novo Governo Central exigiu que reconheçamos eles como o governo legítimo da China. Isso significaria a integração na nova República e uma perda significativa de autonomia."
+npa.19.a: "Aceitar"
+npa.19.b: "Recusar"
+
+npa.20.t: "[From.GetLeader] Aceita"
+npa.20.d: "[From.GetLeader] de [From.GetNameDef] aceitou nossas demandas e nos reconheceu como o governo legítimo da China. Eles serão integrados à nova República."
+npa.20.a: "Viva a China!"
+
+npa.21.t: "[From.GetLeader] Recusa"
+npa.21.d: "[From.GetLeader] de [From.GetNameDef] recusou-se a nos reconhecer como o governo legítimo da China. Sua insolência será um belo exemplo para os outros que se recusam a se submeter."
+npa.21.a: "Eles pagarão."
+
+### Decisions ###
+
+CHS_national_protection_alliance: "Aliança de Proteção Nacional"
+CHS_national_protection_alliance_desc: "A Aliança de Proteção Nacional é uma confederação solta de senhores da guerra do sul com o objetivo de derrubar o governo de Pequim e restaurar o governo republicano."
+
+CHS_NPA_second_northern_expedition: "A Segunda Expedição do Norte"
+CHS_NPA_second_northern_expedition_desc: "Invadir o Norte é uma tarefa muito difícil, como demonstrado pela tentativa do Kuomintang que levou à sua queda. Isso exigirá um planejamento minucioso, logística segura e, é claro, um exército unido em propósito. Teremos sucesso onde o KMT falhou e reuniremos a nação!"
+
+CHS_NPA_invite_country: "[From.GetFlag] Convidar [From.GetNameDef]"
+CHS_NPA_attack_country: "[From.GetFlag] Assegurar [From.GetNameDef]"
+CHS_NPA_attack_KMT: "[CHI.GetFlag] Purificar os Esquerdistas"
+
+CHS_NPA_mopping_up: "Reunificando o País"
+CHS_NPA_mopping_up_desc: "A Aliança de Proteção Nacional restaurou a República. Agora, é hora de consolidar e reintegrar o país destruindo províncias rebeldes e desmantelando paramilitares opositores."
+
+CHS_NPA_mop_up_tag: "[From.GetFlag] Ultimato a [From.GetNameDef]"

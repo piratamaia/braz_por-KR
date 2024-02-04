@@ -1,0 +1,78 @@
+﻿l_braz_por:
+
+### Parties ###
+ SLV_totalist_party: "SRP ("Pravi komunisti")"
+ SLV_totalist_party_long: "Socialistička radnička partija - "Pravi komunisti" (Partido Socialista dos Trabalhadores - "Verdadeiros Comunistas")"
+
+ SLV_syndicalist_party: "SRP (ZSS)"
+ SLV_syndicalist_party_long: "Zveza Slovenskih sindikatov (Liga de Uniões Eslovenas)"
+
+ SLV_radical_socialist_party: "SRP-KS"
+ SLV_radical_socialist_party_long: "Socialistička radnička partija - Kulturniška skupina (Partido Socialista dos Trabalhadores - Grupo Cultural)"
+
+ SLV_social_democrat_party: "JSDS"
+ SLV_social_democrat_party_long: "Jugoslovanska socialdemokratska stranka (Partido Social-Democrata Iugoslavo)"
+
+ SLV_social_liberal_party: "NNS"
+ SLV_social_liberal_party_long: "Narodno napredna stranka (Partido Progressista Nacional)"
+
+ SLV_market_liberal_party: "NNS (Desnica)"
+ SLV_market_liberal_party_long: "Narodno napredna stranka - Desnica (Partido Progressista Nacional - Direita)"
+
+ SLV_social_conservative_party: "SLS"
+ SLV_social_conservative_party_long: "Slovenska ljudska stranka (Partido Popular Esloveno)"
+
+ SLV_authoritarian_democrat_party: "SLS-R"
+ SLV_authoritarian_democrat_party_long: "Slovenska ljudska stranka - radikali (Partido Popular Esloveno - Radical)"
+
+ SLV_paternal_autocrat_party: "SLS-R"
+ SLV_paternal_autocrat_party_long: "Slovenska ljudska stranka - radikali (Partido Popular Esloveno - Radical)"
+
+ SLV_national_populist_party: "Boj"
+ SLV_national_populist_party_long: "Združenje borcev Jugoslavije (A Associação de Guerrilheiros da Iugoslávia)"
+
+### Names ###
+ SLV: "Eslovênia"
+ SLV_ADJ: "Esloveno"
+ SLV_DEF: "Eslovênia"
+
+ SLV_totalist: "República Socialista Eslovena"
+ SLV_totalist_ADJ: "Esloveno"
+ SLV_totalist_DEF: "a República Socialista da Eslovênia"
+ SLV_syndicalist: "República Socialista Eslovena"
+ SLV_syndicalist_ADJ: "Esloveno"
+ SLV_syndicalist_DEF: "a República Socialista da Eslovênia"
+ SLV_radical_socialist: "República Socialista Eslovena"
+ SLV_radical_socialist_ADJ: "Esloveno"
+ SLV_radical_socialist_DEF: "a República Socialista da Eslovênia"
+
+### Characters ###
+ SLV_Lovro_Klemencic: "Lovro Klemenčič"
+ SLV_Lovro_Klemencic_leader_desc: "§YDescrição do Líder\nNascido:§! 9 de agosto de 1891, em Šentvid pri Stični, Ducado da Carníola, Áustria-Hungria\n§YCarreira Política:§! Nascido em uma família de comerciantes, em 1911 ele se formou no Gimnazija de Novo Mesto e pouco depois foi estudar medicina em Viena. No final de seus estudos, ele começou a se envolver na política radical e, em 1913, estabeleceu conexões com revolucionários russos. Após o início da Weltkrieg, ele foi enviado para lutar na Galícia, onde foi capturado e se voluntariou para servir como médico na Sérvia. Após sua chegada, ele se retirou com o exército sérvio através da Albânia e até a ilha de Corfu. Em 1917, foi enviado por Nikola Pašić para estabelecer o apoio russo ao projeto iugoslavo, mas acabou se aliando aos bolcheviques, ingressando no Exército Vermelho em 1918.\nCom as perdas dos Vermelhos na guerra civil russa, ele retornou à Eslovênia no início de 1919, junto com seu agora braço direito Vladislav Fabjančič, onde se juntaram à ala esquerdista do JSDS, apenas para se dividir no SRP. No final de 1923, Klemenčič, junto com Fabjančič, concorreu nas eleições da Carníola pelo SRP, alcançando pouco mais de 12% do total de votos. No entanto, logo depois, eles tiveram problemas com o restante do SRP por seu apoio ao iugoslavismo unitário e defesa de uma coalizão com outros partidos de esquerda, resultando em sua expulsão do partido. Klemenčič e Fabjančič permaneceram politicamente ativos e se juntaram novamente ao JSDS, onde mais uma vez estavam em sua ala de esquerda. Ao longo do restante dos anos 1920 e início dos anos 1930, Klemenčič escreveu para vários jornais, não conseguindo alcançar a proeminência que brevemente teve.\n\nCom a indicação de Milan Gorkić em 1932 para liderar a seção ilíria do SRP, as coisas tomaram um rumo diferente. Como parte de sua estratégia de frente ampla, Gorkić solicitou que os dois \"Verdadeiros Comunistas\" retornassem ao partido e eles prontamente aceitaram seu convite.\n\nE agora Klemenčič foi instalado como líder marionete da Eslovênia, devido ao fato de que ninguém na extrema esquerda política do país com competência ou conexões queria assumir a posição de um capacho totalitário. Essa posição lhe rendeu muitos detratores, mas por enquanto suas conexões mais amplas com moderados e disposição para usar a força o mantiveram à tona."
+ 
+ SLV_josip_vidmar: "Josip Vidmar"
+ SLV_albert_kramer: "Albert Kramer"
+ SLV_miha_krek: "Miha Krek"
+ SLV_dragotin_loncar: "Dragotin Lončar"
+ SLV_franc_kulovec: "Franc Kulovec"
+ SLV_marko_natlacen: "Marko Natlačen"
+ SLV_bogumil_vosnjak: "Bogumil Vošnjak"
+
+ SLV_anton_korosec: "Anton Korošec"
+ SLV_leon_rupnik: "Leon Rupnik"
+ SLV_edvard_kocbek: "Edvard Kocbek"
+ SLV_engelbert_besednjak: "Engelbert Besednjak"
+ SLV_franc_snoj: "Franc Snoj"
+ SLV_gregorij_rozman: "Gregorij Rožman"
+ SLV_izidor_cankar: "Izidor Cankar"
+ SLV_janko_ravnik: "Janko Ravnik"
+ SLV_josip_vilfan: "Josip Vilfan"
+ SLV_leonid_pitamic: "Leonid Pitamic"
+ SLV_pavel_groselj: "Pavel Grošelj"
+ SLV_valdimir_vauhnik: "Vladimir Vauhnik"
+ SLV_jaka_avsic: "Jaka Avšič"
+ SLV_rudolf_maister: "Rudolf Maister"
+ SLV_boris_kidric: "Boris Kidrič"
+ SLV_ernest_peterlin: "Ernest Peterlin"
+ SLV_franjo_malgaj: "Franjo Malgaj"
+ SLV_karl_novak: "Karl Novak"

@@ -1,0 +1,32 @@
+﻿l_braz_por:
+
+### International Workers' Olympiad ###
+iwo.1.t: "Uma nova atmosfera na cidade"
+iwo.1.d: "Tem havido algo diferente na atmosfera de [iwo_host_city] nos últimos dias; e basta perguntar a um transeunte o motivo: apesar de ainda faltar uma semana para a data da cerimônia de abertura, atletas de todo o mundo socialista têm chegado constantemente, seu número aumentando a cada dia. A população local está positivamente extasiada por fazer parte deste evento internacional e está felizmente se misturando com os viajantes do exterior que nossa cidade agora hospeda."
+iwo.1.a: "Verdadeiramente um evento para as idades."
+
+iwo.2.t: "A Olimpíada dos Trabalhadores de 1937"
+iwo.2.d: "Hoje, a Olimpíada Internacional dos Trabalhadores de 1937 foi aberta em [iwo_host_city]. A cerimônia foi frequentada por dignitários e atletas de todo o mundo socialista. Após um desfile pela cidade-sede, um evento de ginástica em massa seguiu, atraindo uma multidão de dezenas de milhares de pessoas. Nos próximos dias, atletas locais e estrangeiros participarão de inúmeros eventos como Atletismo, Ciclismo e Futebol.\n\nOrganizado pela Internacional Socialista dos Esportes Operários, o I.W.O. é concebido como a antítese dos jogos olímpicos burgueses: onde os deles são um showcase de competição elitista, nossos Jogos são baseados em participação em massa e amizade entre nossos povos. Essa diferença de concepção certamente mostrou seu efeito nos números de comparecimento!"
+iwo.2.a: "Que dia glorioso para o trabalhador!"
+
+iwo.5.t: "De Volta para Casa"
+iwo.5.d: "A Olimpíada dos Trabalhadores terminou há uma semana agora e foi considerada um grande sucesso. Por um breve momento, [iwo_host_city] foi um lugar onde os muitos povos de nosso movimento puderam trocar sonhos, esperanças e ideais, mas todas as coisas devem chegar ao fim. Até os últimos retardatários estão começando a embarcar nos trens e ônibus deixando a cidade, levando consigo memórias e histórias para contar às suas famílias e camaradas em casa."
+iwo.5.a: "Pena que acabou."
+
+iwo.23.t: "Escolhendo uma Cidade Anfitriã para a Olimpíada Internacional dos Trabalhadores"
+iwo.23.d: "A Internacional Socialista dos Esportes Operários nos pediu assistência para planejar a edição de 1937 da Olimpíada Internacional dos Trabalhadores. Enquanto as Olimpíadas anteriores aconteceram em cidades de toda a Europa, especialmente os Jogos de 1931 em Viena, o clima político piorando fez com que um evento dentro do bloco sindicalista fosse a aposta mais segura. Agora cabe a nós escolher um local para a Quinta Olimpíada Internacional dos Trabalhadores."
+iwo.23.a: "Marselha servirá."
+iwo.23.b: "Lá na Grã-Bretanha, Birmingham será a anfitriã."
+iwo.23.c: "Nossos camaradas italianos serão os anfitriões em Turim."
+
+iwo.24.t: "Preparando-se para a Olimpíada dos Trabalhadores"
+iwo.24.d: "Embora tenhamos tido o prazer de sediar uma Olimpíada dos Trabalhadores no passado, isso foi em Paris, não em Marselha. Espera-se que o número de participantes exceda o soar desta vez, e seria melhor garantir que a cidade de Marselha possa lidar com um evento dessa magnitude."
+iwo.24.a: "Ao trabalho que devemos fazer."
+
+iwo.25.t: "Birmingham sediará a Olimpíada dos Trabalhadores de 1937"
+iwo.25.d: "A Internacional Socialista dos Esportes Operários nos pediu assistência para planejar a edição de 1937 da Olimpíada Internacional dos Trabalhadores. Os jogos acontecerão em Birmingham. Espera-se que o número de participantes exceda o soar desta vez, e seria melhor garantir que a cidade de Birmingham possa lidar com um evento dessa magnitude."
+iwo.25.a: "Ao trabalho que devemos fazer."
+
+iwo.26.t: "Turim sediará a Olimpíada dos Trabalhadores de 1937"
+iwo.26.d: "A Internacional Socialista dos Esportes Operários nos pediu assistência para planejar a edição de 1937 da Olimpíada Internacional dos Trabalhadores. Os jogos acontecerão em Turim. Espera-se que o número de participantes exceda o soar desta vez, e seria melhor garantir que a cidade de Turim possa lidar com um evento dessa magnitude."
+iwo.26.a: "Ao trabalho que devemos fazer."

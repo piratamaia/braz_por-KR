@@ -1,0 +1,66 @@
+﻿l_braz_por:
+ #Este arquivo é necessário para permitir que o tema principal padrão funcione ao lado do tema do Kaiserreich. O jogo parece não gostar de carregar o tema, tê-lo sobrescrito e, em seguida, carregar a mesma música com um novo nome. Isso leva a uma localização quebrada para a referida música.
+ maintheme: "Die Wacht am Rhein\n§PThe Watch on the Rhine§!"
+
+ # Trilha sonora do HOI4
+ main_vanilla: "Tema Principal - Aliados"
+ # axis_war_1: "Axis Theme" - substituído
+ allies_peace_1: "Manhã do Dia D"
+ general_war_1: "Traga os Tanques"
+ axis_peace_1: "Cracóvia"
+ general_war_2: "O Ataque"
+ # comintern_war_1: "O Poder da União Soviética" - substituído
+ # comintern_war_2: "Comintern Theme" - substituído
+ axis_war_4: "Dias de Trovão"
+ general_peace_1: "Corações de Homens"
+ allies_war_2: "A Força Aérea Real"
+ axis_war_2: "Água Pesada"
+ comintern_war_3: "A Grande Guerra Patriótica"
+ general_peace_3: "Uma Canção para as Crianças da Segunda Guerra Mundial"
+ # comintern_peace_2: "O Exército Vermelho" - substituído
+ allies_war_1: "Nós Somos Soldados"
+ comintern_peace_1: "Mãe Rússia"
+ axis_peace_2: "Marcha da Luftwaffe - Reprise"
+ axis_war_3: "Operação Barbarossa"
+ allies_peace_2: "Fim da Turnê"
+ comintern_peace_3: "Vitória Russa"
+ general_peace_2: "O Fim da Guerra"
+
+ # Trilha sonora do HOI2
+ achtungpanzer: "Achtung Panzer!"
+ astateofgrace: "Um Estado de Graça"
+ happymarch: "Marcha Feliz"
+ heartsofiron2overturemenu: "Hearts of Iron 2 Abertura/Menu"
+ hoilero: "Hoilero"
+ japanoverture: "Abertura Japonesa"
+ kriegsgewitter: "Kriegsgewitter"
+ leavingshore: "Deixando a Costa"
+ lullabyofwar: "Canção de Ninar da Guerra"
+ marchtothefront: "Marcha para a Frente"
+ montgomerysmarch: "Marcha de Montgomery"
+ rafheroesofthesky: "R.A.F - Heróis do Céu"
+ stalingradadagioindminor: "Stalingrado - Adagio em Ré Menor"
+ the101stairborne: "A 101ª Aerotransportada"
+ war: "Guerra"
+ variationsontherussianthem: "Variações sobre o Tema Russo"
+
+ # Trilha sonora do HOI3
+ alliesfaction: "Fação dos Aliados"
+ alotofseactions: "Ação no Mar"
+ axis1march: "Marcha do Eixo"
+ bigairforce: "Força Aérea Poderosa"
+ bigfleet: "Frota Poderosa"
+ bombingthem: "Bombardeando-os"
+ epicbattle: "Batalha Épica"
+ hoi3maintheme: "Tema Principal"
+ hymnfortheoneslostatsea: "Hino para os Perdidos no Mar"
+ landactions: "Ações em Terra"
+ lettersfromhome: "Cartas de Casa"
+ lotsofbattles: "Muitas Batalhas"
+ offensive: "Ofensiva"
+ sovietsuite_finale: "Suite Soviética - Final"
+ sovietsuite_part2: "Suite Soviética - Parte 2"
+ threatenedwhileatpeace: "Ameaçados"
+ unitednations: "Nações Unidas"
+ unitylow: "Unidade Baixa"
+ wearefree: "Nós Somos Livres"

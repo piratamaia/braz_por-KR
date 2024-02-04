@@ -1,0 +1,155 @@
+﻿l_braz_por:
+
+bukhara_kabul_pact: "Pacto Bucara-Cabul"
+
+### Tensão Mundial
+AFG_anglo_afghan_war_threat: "Quinta Guerra Anglo-Afegã"
+
+### Events ###
+afg.0.t: "A 5ª Guerra Anglo-Afegã?"
+afg.0.d: "Nos remanescentes do Raj ao sul, a dissidência surgiu como flores silvestres após a sucessão de [CAN_king_full_name]. Em Cabul, temos nossos próprios problemas para conter o descontentamento latente da reforma. Uma repetição da vitoriosa Quarta Guerra Anglo-Afegã pode solidificar nossa posição enquanto conquistamos novas terras e súditos para a coroa!"
+afg.0.a: "A hora é propícia! Vamos repetir nossas vitórias!"
+afg.0.b: "O que a Índia tem além de vacas?"
+
+afg.1.t: "O Terceiro Tratado de Rawalpindi"
+afg.1.d: "Catástrofe! Nossa campanha contra [RAJ.GetNameDef] foi coroada com um fracasso espetacular, e nossos exércitos estão fugindo em pânico pelo Passo de Khyber. Seu líder, [RAJ.GetLeader], ofereceu paz, exigindo a restauração das fronteiras anteriores a 1926. Infelizmente, não podemos recusar, a menos que nossa nação seja destruída..."
+afg.1.d.puppet: "Catástrofe! Nossa campanha contra o [RAJ.GetNameDef] foi coroada com um fracasso espetacular, e nossos exércitos estão fugindo em pânico pelo Passo de Khyber. O líder, [RAJ.GetLeader], ofereceu paz - exigindo a restauração das fronteiras anteriores a 1926 e a submissão permanente de nosso governo ao deles. Infelizmente, não podemos recusar, a menos que nossa nação seja destruída..."
+afg.1.a: "Cedemos porque não temos outra escolha..."
+
+afg.2.t: "O Terceiro Tratado de Rawalpindi"
+afg.2.d: "A vitória é nossa! Derrotamos completamente os lacaios britânicos decadentes, e nossas forças estão entrincheiradas nos restos fumegantes de sua capital. Agora pode ser o melhor momento para exigir concessões, enquanto ainda temos a vantagem."
+afg.2.a: "Reivindiquemos Caxemira e abramos um caminho até a Foz do Indo!"
+afg.2.b: "Serei o emancipador e libertador de todos os muçulmanos no Vale do Indo!"
+afg.2.c: "Nenhuma paz com adoradores de ídolos, vamos completar nossa conquista!"
+
+afg.3.t: "Demandas do Emir"
+afg.3.d: "Maldição! Os cães afegãos nos dominaram completamente e reduziram nossa orgulhosa nação à humilhação. Agora, o Emir afegão exige a rendição do estado principesco de Caxemira e acesso à Foz do Indo. Embora essas sejam condições duras, pode ser sábio cumprir, a menos que nossos rivais no continente ajam diante de nossa situação exposta."
+afg.3.a: "Cedemos porque não temos outra escolha..."
+afg.3.b: "Eles devem estar brincando! Hindustan Zindabad!"
+
+afg.4.t: "[RAJ.GetNameDef] Recusa!"
+afg.4.d: "Foolishmente, os lacaios britânicos recusaram nossas reivindicações legítimas."
+afg.4.a: "A guerra continua!"
+
+afg.5.t: "Muçulmanos Shia Fugindo da Guerra"
+afg.5.d: "Por décadas, a situação da minoria xiita no Afeganistão tem sido ruim. A situação pós-guerra não era boa, e outra guerra só pioraria as coisas. Imãs xiitas nas províncias de Herat e Farah incentivaram a minoria xiita a fugir para o amigável vizinho Pérsia. Vamos torcer para que os persas os enviem de volta, pois precisamos dessa mão de obra."
+afg.5.a: "Traidores!"
+
+afg.6.t: "Refugiados do Afeganistão"
+afg.6.d: "Mais uma guerra começou entre o Afeganistão e o Domínio da Índia. A minoria xiita no Afeganistão teme que isso só piore sua situação, e eles decidiram começar uma nova vida aqui. No entanto, essa situação pode ser mais problemática do que pensamos. Se aceitarmos essas pessoas em nossa nação, o governo do Afeganistão ficará profundamente chateado conosco."
+afg.6.a: "Serão mais do que bem-vindos, instale-os em Mashhad!"
+afg.6.b: "Isso seria interferir na política interna afegã, recuse-os!"
+
+afg.7.t: "A Pérsia Fecha Suas Fronteiras"
+afg.7.d: "Os persas fizeram a escolha certa e enviaram nosso povo de volta para casa."
+afg.7.a: "Urra!"
+
+afg.8.t: "Reação Interna à Derrota Afegã"
+afg.8.d: "A derrota de nossos exércitos enviou ondas de choque através do Afeganistão! Nossos serviços secretos relatam grande insatisfação com o governo real entre os camponeses e o exército! Ainda pior, clérigos radicais estão mobilizando apoio para uma insurreição geral contra o programa de reforma real! Estes são tempos verdadeiramente sombrios para nosso pequeno reino."
+afg.8.a: "O Rei pode fazer o que quiser! Suprima qualquer rebelião!"
+afg.8.c: "Mohammed Nadir depõe Amanullah e se proclama rei!"
+
+afg.9.t: "Ordem no Afeganistão"
+afg.9.d: "As tendências revolucionárias no povo do Afeganistão foram suprimidas, e restauramos a ordem à nação."
+afg.9.a: "Aqui está para um amanhã melhor."
+
+afg.10.t: "Afeganistão em Caos!"
+afg.10.d: "Apesar de nossos melhores esforços, forças rebeldes expulsaram as tropas do rei Amanullah de Cabul e estão efetivamente controlando o país!"
+afg.10.b: "As brigadas do General Nadir derrotam toda oposição e o proclamam rei!"
+
+afg.14.t: "Reivindicação de Mohammed Nadir Khan ao Trono"
+afg.14.d: "Como assumiu o trono por métodos não tão cordiais e suas relações com a família real, Mohammed Nadir Khan precisa desesperadamente de legitimidade para fortalecer seu regime. Sugere-se que Sua Majestade convoque uma 'loya jirga' (grande assembleia) de líderes pashtuns para confirmar sua ascensão."
+afg.14.a: "Chame uma loya jirga para confirmar minha ascensão!"
+
+afg.15.t: "Mohammed Nadir Khan e a Loya Jirga"
+afg.15.d: "Falando perante a Grande Assembleia de líderes tribais, Nadir Khan espera receber apoio suficiente para continuar seu governo sem obstáculos."
+afg.15.a: "A assembleia saúda Mohammed Nadir como rei!"
+afg.15.b: "A assembleia denuncia Mohammed Nadir!"
+
+afg.16.t: "Oligarquia Real de Nadir Khan"
+afg.16.d: "Com o país dilacerado pela guerra finalmente restaurado a alguma semelhança de ordem, Nadir Khan resolve reorganizar seu gabinete para garantir estabilidade contínua para o Afeganistão. Preencher o governo com parentes seria a maneira óbvia de vincular o aparato estatal às ambições de Nadir, mas buscar alguns dos apoiadores de Amanullah também pode preencher uma grande lacuna entre os reformistas radicais e moderados."
+afg.16.a: "O acadêmico humilde Muhammed Ghobar 'liderará' o gabinete!"
+afg.16.b: "Atraia o grupo de Amanullah e nomeie Abdul Hadi Dawai!"
+afg.16.c: "Meu irmão de maneiras suaves, Mahmud Khan, manterá a posição!"
+
+afg.17.t: "Status das Reformas de Amanullah"
+afg.17.d: "Mohammed Nadir Khan assumiu o controle de nossa nação abalada após o fracasso de Amanullah Khan em impor o progresso afegão. Ciente de que um grande fator para a queda de seu antecessor foi a velocidade de suas reformas de ocidentalização, Nadir Khan ainda precisa lidar com a grande questão da reconstrução do Afeganistão."
+afg.17.a: "Interrompa a reforma social, mas galvanize a melhoria de nossa infraestrutura!"
+afg.17.b: "Ceda aos tradicionalistas e abandone toda pretensão de modernidade!"
+afg.17.c: "Eu terei sucesso onde Amanullah falhou e levarei o Afeganistão para o mundo moderno!"
+
+afg.18.t: "Sarrafs deixam o Afeganistão"
+afg.18.d: "Sarrafs são um grupo de comerciantes indianos que viajam entre o Afeganistão e [RAJ.GetNameDef], trocando dinheiro e negociando mercadorias em ambos. Nossa economia depende muito de suas visitas. Agora, a guerra começou e as fronteiras não são mais seguras. Apenas alguns desses sarrafs têm coragem suficiente para continuar negociando conosco. Com a maioria de suas caravanas indo embora, agora sofremos uma crise econômica."
+afg.18.a: "Não precisamos desses cachorros indianos de qualquer maneira!"
+
+afg.19.t: "Retorno dos Sarrafs"
+afg.19.d: "A guerra acabou e as fronteiras agora estão seguras. Nada mais perturba os sarrafs agora, e a primeira onda deles já retomou suas negociações dentro do Afeganistão. Em breve, nossa economia se recuperará."
+afg.19.a: "Bem-vindos, senhores!"
+
+### Partidos
+AFG_totalist_party: "Trabalhadores"
+AFG_totalist_party_long: "Trabalhadores"
+AFG_syndicalist_party: "Trabalhadores"
+AFG_syndicalist_party_long: "Trabalhadores"
+AFG_radical_socialist_party: "Trabalhadores"
+AFG_radical_socialist_party_long: "Trabalhadores"
+AFG_social_democrat_party: "Trabalhadores"
+AFG_social_democrat_party_long: "Trabalhadores"
+AFG_social_liberal_party: "Intelectuais"
+AFG_social_liberal_party_long: "Intelectuais"
+AFG_market_liberal_party: "Comerciantes"
+AFG_market_liberal_party_long: "Comerciantes"
+AFG_social_conservative_party: "Ulema"
+AFG_social_conservative_party_long: "Ulema"
+AFG_authoritarian_democrat_party: "YA"
+AFG_authoritarian_democrat_party_long: "Jovens Afegãos"
+AFG_paternal_autocrat_party: "Barakzai"
+AFG_paternal_autocrat_party_long: "Dinastia Barakzai"
+AFG_national_populist_party: "TM"
+AFG_national_populist_party_long: "Movimentos Tribais"
+
+### Country Names ###
+AFG: "Afeganistão"
+AFG_ADJ: "Afegão"
+AFG_DEF: "Afeganistão"
+
+AFG_totalist: "República Democrática do Afeganistão"
+AFG_totalist_ADJ: "Afegão"
+AFG_totalist_DEF: "a República Democrática do Afeganistão"
+AFG_syndicalist: "República Democrática do Afeganistão"
+AFG_syndicalist_ADJ: "Afegão"
+AFG_syndicalist_DEF: "a República Democrática do Afeganistão"
+AFG_radical_socialist: "República Democrática do Afeganistão"
+AFG_radical_socialist_ADJ: "Afegão"
+AFG_radical_socialist_DEF: "a República Democrática do Afeganistão"
+AFG_national_populist: "Estado Islâmico do Afeganistão"
+AFG_national_populist_ADJ: "Afegão"
+AFG_national_populist_DEF: "o Estado Islâmico do Afeganistão"
+
+### Dicas
+AFG_chaos_tooltip: "§g\nEsta escolha pode resultar em §Rcaos§! e §Rinquietação§! por toda a nação. Se o governo cair, é provável que §YNadir Khan§! ascenda ao trono§!"
+
+### Personagens
+AFG_amanullah_khan: "Amanullah Khan"
+AFG_amanullah_khan_leader_desc: "Quem, além de Babur, já trouxe maior mudança e prestígio para o Afeganistão do que Amanullah Khan? Ascendendo ao trono no meio da Weltkrieg, Amanullah atacou imediatamente o Império Britânico e obteve concessões generosas. Ele capitalizou essa vitória e ganhos subsequentes após o colapso do Império Britânico para implementar reformas sociais abrangentes. Embora o domínio de Amanullah permaneça absoluto, ele sonha em trazer uma verdadeira governança constitucional para o Afeganistão e superar as profundas divisões étnicas e tribais da nação. O tempo dirá se a visão deste grande reformador se concretizará."
+
+AFG_habibullah_kalakani: "Habibullah Kalakani"
+AFG_habibullah_kalakani_leader_desc: "Um tajique étnico, Kalakani foi por muito tempo oficial no Exército Real Afegão, desertando um pouco antes do caos do colapso do Império Britânico. Usando esse caos e a ocupação regular do exército, Kalakani se voltou para uma vida de crime. No entanto, uma vez que o exército conseguiu restaurar um mínimo de ordem, Kalakani fugiu e buscou a proteção de seus coétnicos tajiques.\nAbertamente contrário às reformas e campanhas de modernização de Amanullah Khan, Kalakani liderou um movimento ultraconservador rural que leva seu nome. Surpreendentemente, seu movimento derrubou com sucesso Amanullah, e Kalakani conquistou a coroa afegã."
+
+ AFG_mohammad_nadir_khan: "Mohammad Nadir Khan"
+ AFG_wali_khan: "Wali Khan"
+ AFG_mohammad_daoud_khan: "Mohammad Daoud Khan"
+ AFG_nasrullah_khan: "Nasrullah Khan"
+ AFG_mahmud_khan: "Mahmud Khan"
+ AFG_mohammad_ghobar: "Ghulam Mohammad Ghobar"
+ AFG_abdul_hadi_dawi: "Abdul Hadi Dawi"
+ AFG_mohammad_hashim_khan: "Mohammad Hashim Khan"
+ AFG_mohammad_gul_khan_momand: "Mohammad Gul Khan Momand"
+ AFG_inayatullah_khan: "Inayatullah Khan"
+ AFG_ali_ahmad_khan: "Ali Ahmad Khan"
+ AFG_faiz_mohammad_khan_zikeria: "Faiz Mohammad Khan Zikeria"
+ AFG_mohammad_yusuf: "Mohammad Yusuf"
+ AFG_abdul_ahad_wardak: "Abdul Ahad Wardak"
+ AFG_abdul_majid_zabuli: "Abdul Majid Zabuli"
+ ARG_sher_khan_nashir: "Sher Khan Nashir"
+

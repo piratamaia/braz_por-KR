@@ -1,0 +1,412 @@
+﻿l_braz_por:
+
+### Ideas ###
+SER_reparation_payments: "Pagamentos de reparações de guerra para a Bulgária"
+SER_reparation_payments_desc: "Como a Sérvia perdeu a Quarta Guerra Balcânica, precisa pagar reparações de guerra para a Bulgária."
+BUL_reparation_payments_from_serbia: "Reparações de guerra da Sérvia"
+BUL_reparation_payments_from_serbia_desc: "A Sérvia paga reparações de guerra à Bulgária."
+is_in_belgrade_pact: "Está no Pacto de Belgrado"
+BPL_pact_of_organisation: "Pacto da Organização"
+BPL_pact_of_organisation_desc: "Assinar o Pacto da Organização ajudou a integrar as economias das nações dos Bálcãs e a aprofundar as relações. O Conselho Econômico do Pacto ajudou a coordenar o comércio e as relações econômicas, e nossa nação está colhendo os benefícios.\n\n§RSe nos encontrarmos em guerra com algum membro desta união econômica, o Conselho será dissolvido e perderemos todos os benefícios.§!"
+BPL_modify_pact_of_organisation: "Modificar §H$BPL_pact_of_organisation$§! por"
+BP_war_exhaustion: "Exaustão de Guerra dos Bálcãs"
+belgrade_part_arms_embargo: "Embargo Internacional de Armas"
+belgrade_part_arms_embargo_desc: "Sob a decisão do Império Austro-Húngaro e seus aliados em toda a Europa, agora fomos atingidos por um embargo internacional de armas. Nossas fronteiras estão fechadas para importações de armas e munições, e teremos que lidar com nossa escassa produção doméstica. Portanto, precisamos derrotar a Bulgária rapidamente."
+
+### Decisions ###
+Belgrade_Pact_Balkan_War: "O Pacto de Belgrado"
+
+Belgrade_Pact_invite_member: "Convidar [From.GetNameDef] para o Pacto de Belgrado"
+Belgrade_Pact_invite_member_desc: "Os exércitos [From.GetAdjective] serão muito necessários se quisermos alcançar nossos objetivos. É hora de convidá-los para a nossa grande aliança."
+
+Belgrade_Pact_Romania_capture_dobrudzha_mission: "Capturar Dobruja"
+Belgrade_Pact_Romania_capture_dobrudzha_mission_desc: "Finalmente podemos ter nossa vingança contra os búlgaros. É nosso dever recapturar Dobruja, que nos foi roubada pelas Potências Centrais após a Weltkrieg."
+Belgrade_Pact_Serbia_capture_macedonia_mission: "Capturar a Macedônia"
+Belgrade_Pact_Serbia_capture_macedonia_mission_desc: "Finalmente podemos ter nossa vingança contra os búlgaros. É nosso dever recapturar a Macedônia, que é legítimamente nossa, mas foi roubada pela Bulgária após a Weltkrieg."
+Belgrade_Pact_Greece_capture_southern_macedonia: "Capturar a Macedônia do Sul"
+Belgrade_Pact_Greece_capture_southern_macedonia_desc: "Finalmente podemos ter nossa vingança contra os búlgaros. É nosso dever recapturar a Macedônia, que é legítimamente nossa, mas foi roubada pela Bulgária após a Weltkrieg."
+Belgrade_Pact_race_to_sofia: "Corrida até Sofia"
+Belgrade_Pact_race_to_sofia_desc: "As defesas búlgaras foram rompidas e o caminho para Sofia agora está aberto. É questão de tempo até a queda da capital búlgara. Capturar esta cidade importante seria um grande sucesso para nossa nação."
+
+### Opinion Modifiers ###
+Belgrade_Pact_anti_bulgaria: "Contra a Bulgária"
+Belgrade_Pact_joined_boo: "Entrou no Pacto contra a Bulgária"
+Belgrade_Pact_did_not_join_yay: "Não entrou no Pacto de Belgrado"
+Belgrade_Pact_refused: "Recusou-se a entrar em nosso Pacto"
+Belgrade_Pact_joined_against_us: "Entrou no Pacto contra nós"
+Belgrade_Pact_joined_yay: "Entrou no Pacto de Belgrado"
+Belgrade_Pact_supported_enemy: "Apoiou a Bulgária"
+Belgrade_Pact_supported_us: "Nos apoiou"
+Belgrade_Pact_refused_us_entry: "Recusou nossa entrada no Pacto de Belgrado"
+Belgrade_Pact_they_withdrew_boo: "Retirou-se do Pacto de Belgrado"
+Belgrade_Pact_they_withdrew_yay: "Retirou-se do Pacto de Belgrado"
+Belgrade_Pact_didnt_send_promised_aid: "Não enviou a ajuda prometida"
+Belgrade_Pact_sent_promised_aid: "Enviou ajuda durante a Guerra dos Bálcãs"
+Belgrade_Pact_serbia_wont_pressure_ottomans: "Recusou-se a pressionar os Otomanos"
+Belgrade_Pact_refused_thrace: "Recusou-se a ceder a Trácia"
+Belgrade_Pact_refused_occupation_zone: "Recusou-se a dividir a Bulgária"
+Belgrade_Pact_refused_to_end_occupation: "Recusou-se a encerrar a ocupação da Bulgária"
+
+### Flags ###
+BP_working_on_eco_union: "Um aliado já está trabalhando neste projeto."
+
+### Events ###
+pact.1.t: "O Congresso de Belgrado"
+pact.1.d: "A cooperação das nações dos Bálcãs contra um inimigo comum, apesar de suas discordâncias internas, é um caminho bem trilhado pela história. A Liga Balcânica, formada entre Sérvia, Bulgária e Grécia para derrotar o Império Otomano nos Bálcãs, foi um exemplo disso, mesmo que tenha se desintegrado na Segunda Guerra Balcânica apenas meses após a vitória. Hoje, Sérvia, Romênia e Grécia enfrentam outro hegemon - o Tsardom da Bulgária - e cada um deles tem territórios a recuperar.\n\nPor quase duas décadas, a ideia de uma aliança assim era impensável. Os três estados dos Bálcãs foram desmantelados, enfraquecidos, desarmados, e o olho das grandes potências da Europa sempre vigilante. No entanto, até a década de 1930, a situação mudou de forma conclusiva. A constante fragilidade do Império Austro-Húngaro e, portanto, a falta de vontade de intervir nos Bálcãs, deram às potências menores dos Bálcãs a chance de se rearmar, e agora, deram a chance de planejar juntas. Cúpulas bipartidárias e conversas diplomáticas vinham ocorrendo entre Sérvia e Romênia desde 1932, e entre Sérvia e Grécia desde 1934, e tudo culminou no Congresso de Belgrado.\n\nUm evento de quatorze dias na capital da Sérvia, é um evento cultural tanto quanto político. O planejamento diplomático entre os ministros das Relações Exteriores dos três estados ocorre em paralelo com o diálogo entre as Universidades de Belgrado e Bucareste sobre pesquisas e intercâmbios de estudantes, por exemplo.\n\nIndependentemente disso, ao final do Congresso, as delegações dos três estados divulgaram uma resolução de 14 pontos - o mais alarmante dos quais foi "o reconhecimento de que apenas a autodeterminação das pessoas, de acordo com suas afiliações étnicas, pode ser considerada um caminho justo para soberania e reivindicação territorial", e um apelo por uma "nova ordem nos Bálcãs" para implementar esse princípio, presumivelmente às custas da Bulgária."
+#Claro, um evento assim não poderia ocorrer sem controvérsias. A inclusão da delegação romena, embora crucial, foi protestada por muitos representantes na Skupština, que não conseguiam se ver [SER.GetLeader] apertando as mãos do desprezado Corneliu Codreanu. - A ser abordado posteriormente###
+pact.1.a: "Abra o Congresso!"
+
+pact.2.t: "O Congresso de Belgrado"
+pact.2.d: "[From.GetNameDefCap] nos convidou a enviar um diplomata a Belgrado para participar do Congresso de Belgrado, para que possamos discutir a situação política e militar nos Bálcãs. Desde a vitória da Bulgária na Weltkrieg, temos nossos olhos em terras que são legitimamente nossas, assim como a Sérvia. Eles sugerem que formemos uma nova aliança formal chamada Pacto de Belgrado, para proteger nossos interesses mútuos e conter a ameaça búlgara. Isso, no entanto, pode irritar os antigos aliados da Bulgária, Alemanha, Áustria e Império Otomano."
+pact.2.a: "Anunciar nosso apoio ao Pacto de Belgrado"
+pact.2.b: "Não temos interesse em sua aliança"
+
+pact.3.t: "[From.GetName] Junta-se ao Pacto de Belgrado"
+pact.3.d: "O governo [From.GetAdjective] anunciou que participará do congresso em Belgrado e se juntará formalmente ao Pacto de Belgrado."
+pact.3.a: "Juntos pela paz!"
+
+pact.4.t: "[From.GetName] Recusa"
+pact.4.d: "O governo [From.GetAdjective] anunciou que, por enquanto, não fará parte de nenhuma aliança formal voltada para a Bulgária."
+pact.4.a: "Não precisamos deles"
+
+pact.5.t: "Fim do Pacto"
+pact.5.d: "Embora tenhamos tentado formar uma aliança para promover os interesses sérvios nos Bálcãs, nos encontramos sozinhos contra o mundo maior. Chegou a hora de reconhecer que o Pacto de Belgrado chegou ao fim."
+pact.5.a: "Ah"
+
+pact.6.t: "Congresso de Belgrado Defende uma Nova Ordem nos Bálcãs"
+pact.6.d: "Por iniciativa da Sérvia, representantes de vários países se reuniram em Belgrado para discutir a situação política e militar nos Bálcãs. Nesse evento de quatorze dias, sérvios, romenos e gregos planejam criar uma chamada 'nova ordem nos Bálcãs', indo tão longe a ponto de criar uma resolução de 14 pontos que declara que "apenas a autodeterminação das pessoas, de acordo com suas afiliações étnicas, pode ser considerada um caminho justo para soberania e reivindicação territorial".\n\nClaramente, os Bálcãs estão inquietos mais uma vez, e as resoluções do Congresso de Belgrado certamente serão usadas para justificar uma guerra comum contra a Bulgária e, em última instância, contra o Império Austro-Húngaro. O que fazer com essas notícias?"
+pact.6.a: "Os sérvios e romenos pensarão duas vezes depois de um embargo!"
+pact.6.b: "Deixe-os vir, os Bálcãs não podem nos ameaçar"
+
+pact.7.t: "[From.GetName] Anuncia Apoio à Bulgária"
+pact.7.d: "O governo [From.GetAdjective] anunciou hoje que apoiará a Bulgária em futuros conflitos entre o Pacto de Belgrado e o Tsardom da Bulgária, e se juntará a um embargo internacional de armas para prejudicar nossos estoques de armamentos em preparação para a guerra."
+pact.7.a: "Isso não é bom."
+
+pact.8.t: "[From.GetName] Anuncia Apoio à Bulgária"
+pact.8.d: "Por iniciativa da Sérvia, representantes de vários países se reuniram em Belgrado para discutir a situação política e militar nos Bálcãs. Nesse evento de quatorze dias, sérvios, romenos e gregos planejam criar uma chamada 'nova ordem nos Bálcãs', indo tão longe a ponto de criar uma resolução de 14 pontos que declara que "apenas a autodeterminação das pessoas, de acordo com suas afiliações étnicas, pode ser considerada um caminho justo para soberania e reivindicação territorial".\n\nClaramente, os Bálcãs estão inquietos mais uma vez, e as resoluções do Congresso de Belgrado certamente serão usadas para justificar uma guerra comum contra a Bulgária e, em última instância, contra o Império Austro-Húngaro. Os austríacos convocaram um embargo internacional sobre os estados balcânicos para apoiar a Bulgária, devemos anunciar nosso apoio aos búlgaros também?"
+pact.8.a: "Apenas a Bulgária manterá os Bálcãs estáveis"
+pact.8.b: "Não estamos interessados nos Bálcãs"
+
+pact.17.t: "O Golpe Sérvio!"
+pact.17.d: "Após um tenso impasse de duas semanas no rio Morava, o governo sérvio finalmente se manifestou - eles exigem que evacuemos a Macedônia e a região de Niš em 48 horas, efetivamente entregando-as ao controle sérvio, para proteger a população sérvia local de mais terror e derramamento de sangue. Ultimatos de acompanhamento foram enviados por seus aliados no Pacto de Belgrado, abordando o conflito étnico e suas preocupações em seus territórios respectivos.\n\nAntes mesmo que a tinta nesses documentos secasse, nossas forças em Niš já enviaram relatos de forças sérvias cruzando o Morava, primeiros confrontos e bombardeios aéreos ocorrendo. Apenas uma opção nos resta, então."
+pact.17.a: "À guerra! Defenda a honra da Bulgária!"
+
+pact.21.t: "A Questão da Trácia"
+pact.21.d: "Com a Bulgária agora envolvida em uma guerra com o Pacto de Belgrado, uma questão surgiu nos salões do governo sobre se nós também deveríamos recuperar terras que são legitimamente nossas. Desde o fim da Weltkrieg, a Bulgária ocupou terras na Trácia Ocidental que são em grande parte tanto muçulmanas quanto turcas - certamente eles veriam razão se seu antigo 'aliado' pedisse que fossem entregues?"
+pact.21.a: "Faça a demanda"
+pact.21.b: "Não temos interesse em nos envolver agora"
+
+pact.22.t: "Os Otomanos Exigem Trácia"
+pact.22.d: "Parece que nossos antigos 'aliados' no Império Otomano desejam capitalizar em nosso conflito atual com o Pacto de Belgrado. Eles exigiram a devolução da Trácia ocidental, uma área que é em grande parte tanto muçulmana quanto turca, mas que ocupamos legitimamente desde o fim da Weltkrieg. Se recusarmos, eles podem muito bem nos atacar por trás, uma frente adicional para a guerra que dificilmente podemos suportar."
+pact.22.a: "Dê a eles o que querem"
+pact.22.b: "Nunca! Nós os derrotaremos também!"
+
+pact.23.t: "Bulgária Concorda"
+pact.23.d: "Vendo a sabedoria em não prosseguir com uma guerra em dois frontes, a Bulgária concordou em devolver as terras na Trácia ocidental para nós."
+pact.23.a: "Muito sábio"
+
+pact.24.t: "Bulgária Recusa"
+pact.24.d: "Teimosos até o fim, o governo búlgaro respondeu às nossas demandas apenas com indignação. Eles estão prontos para nos enfrentar também, se necessário."
+pact.24.a: "Que assim seja"
+
+pact.25.t: "Os Otomanos se Movimentam"
+pact.25.d: "Talvez decidindo que nossa guerra contra o Pacto de Belgrado apresenta uma oportunidade, as forças otomanas estão se reunindo ao longo de nossa fronteira mútua. É difícil dizer se farão uma exigência ou simplesmente invadirão, mas devemos estar prontos para qualquer eventualidade."
+pact.25.a: "Como se atrevem"
+
+pact.26.t: "Ajuda dos [From.GetAdjective]"
+pact.26.d: "Como prometido, o governo de [From.GetNameDefCap] nos enviou ajuda no conflito em andamento contra o Pacto de Belgrado. Infelizmente, eles não podem intervir diretamente, mas várias divisões voluntárias e algum equipamento chegaram."
+pact.26.a: "Qualquer ajuda é bem-vinda"
+pact.26.tt: "Tropas e equipamentos dos [From.GetAdjective] chegam"
+
+pact.27.t: "Sérvia Negociando a Paz"
+pact.27.d: "O Ministério das Relações Exteriores Sérvio informou-nos que estão atualmente negociando um tratado de paz com a Bulgária que porá fim à Guerra e atenderá a generosas exigências territoriais para todos os membros do Pacto. Como a guerra tem se arrastado, tal paz seria bem recebida pelo povo. No entanto, a Bulgária permanecerá um estado independente, algo que preocupa os oficiais em nosso governo - isso significará que a Bulgária pode, teoricamente, se rearmar e contra-atacar-nos, assim como fizeram durante a Weltkrieg. Devemos aceitar essa paz?"
+pact.27.a: "Ponhamos fim à guerra agora, antes que os custos aumentem."
+pact.27.b: "Bulgaria delenda est!"
+BP_temporary_breakaway_tt: "Você poderá se reunir ao Pacto após a guerra."
+
+pact.28.t: "A Paz de Sofia"
+pact.28.d: "Um tratado de paz foi assinado entre os membros do Pacto de Belgrado e a Bulgária em Sofia, pondo fim à Quarta Guerra Balcânica."
+pact.28.a: "Vitória!"
+
+pact.29.t: "Exaustão de Guerra"
+pact.29.d: "Nosso país entrou na Quarta Guerra Balcânica com a promessa de que a guerra seria curta e resultaria em ganhos territoriais rápidos, mas agora, ela estagnou e a população anseia por paz. Rumores se espalharam de que os búlgaros ofereceram um tratado de paz muito generoso que atenderia a todas as nossas reivindicações territoriais, mas foi recusado, e assim mais homens serão enviados para morrer em uma guerra sem propósito. Nossos oficiais lutam para motivar seus soldados a continuar lutando, e o front doméstico está se tornando indisciplinado."
+pact.29.a: "Maldição..."
+
+pact.30.t: "Reconvite ao Pacto de Belgrado"
+pact.30.d: "Agora que a guerra com a Bulgária concluiu, oficiais sérvios se aproximaram de nós com o pedido de restaurar nossa filiação no Pacto de Belgrado para a iminente luta contra a Áustria."
+pact.30.a: "Vamos fazer isso."
+pact.30.b: "Não, vamos nos abster de mais empreendimentos estrangeiros."
+
+pact.35.t: "Estamos Perdendo a Guerra Balcânica"
+pact.35.d: "As forças do Pacto de Belgrado nos derrotaram de forma contundente em batalha e ocuparam uma grande parte de nosso país. Devemos encerrar esta guerra antes que consigam invadir toda a nossa pátria, ou a Bulgária pode deixar de existir."
+pact.35.a: "Buscar a paz"
+pact.35.b: "Ainda podemos vencer isso!"
+BUL_other_states_may_continue_war_tt: "A paz, se aceita, será processada em sete dias. Durante esse tempo, membros do Pacto podem continuar a guerra de forma independente."
+
+pact.36.t: "Bulgária Pede Paz"
+pact.36.d: "Com uma grande parte de sua pátria ocupada e suas forças em plena retirada, a Bulgária nos pediu paz. Eles entregarão todas as terras disputadas, mas teremos que recuar nossas forças para trás dessas novas fronteiras. Um estado búlgaro independente continuará a existir, por enquanto."
+pact.36.a: "O Pacto de Belgrado triunfa!"
+pact.36.b: "Não, eles serão completamente derrotados!"
+SER_other_states_may_continue_war_tt: "A paz será processada em sete dias. Durante esse tempo, nossos aliados podem deixar o Pacto para continuar a guerra de forma independente."
+
+pact.37.t: "Paz com o Pacto de Belgrado"
+pact.37.d: "O Pacto de Belgrado aceitou nossa oferta de paz. Devemos ceder toda a terra disputada, mas eles retirarão suas forças para trás da nova fronteira."
+pact.37.a: "Pelo menos existimos!"
+
+pact.38.t: "Bulgária se Rende"
+pact.38.d: "As forças armadas conjuntas do Pacto de Belgrado conseguiram reverter as injustiças impostas a nós após o fim da Weltkrieg. A Bulgária cederá todas as terras disputadas ao Pacto de Belgrado, mas devemos recuar nossas forças atrás da fronteira. Um estado búlgaro independente, mas consideravelmente reduzido, continuará a existir, por enquanto."
+pact.38.a: "O Pacto de Belgrado triunfa!"
+
+pact.39.t: "Bulgária Faz Paz"
+pact.39.d.gained: "A Bulgária fez as pazes com o Pacto de Belgrado, e assim somos forçados a encerrar nossa guerra também. Felizmente, sairemos da guerra tendo conquistado quaisquer estados reivindicados que controlamos, negando aos sérvios a oportunidade de dividí-los com seus aliados."
+pact.39.d.nogain: "A Bulgária fez as pazes com o Pacto de Belgrado. Infelizmente, como não acabamos controlando nossos estados reivindicados, eles permanecem nas mãos dos sérvios para serem divididos como desejarem. Parece que deveríamos ter agido mais rapidamente."
+pact.39.a: "Muito bem"
+pact.39.b: "Então continuamos a guerra!"
+
+pact.40.t: "Ocupamos a Trácia"
+pact.40.d: "Ocupamos a Trácia ocidental com nossas tropas e ainda seguramos a linha contra a Bulgária. Certamente, eles verão a sabedoria em fazer a paz agora?"
+pact.40.a: "Faça a oferta - vamos encerrar isso"
+pact.40.b: "Não - eles queriam guerra, terão guerra!"
+
+pact.41.t: "Otomanos Oferecem Paz"
+pact.41.d: "Os otomanos ocuparam seus estados reivindicados e ainda seguram a linha contra nós - se continuarmos a empurrar a guerra contra eles, podemos muito bem cair completamente. Talvez devêssemos considerar dar a eles o que querem?"
+pact.41.a: "Ah! Seja assim!"
+pact.41.b: "Não, continuamos a guerra, não importa o quê!"
+
+pact.42.t: "Estamos Perdendo a Guerra"
+pact.42.d: "Apesar das probabilidades contra eles, e o que presumimos que seria uma guerra rápida, os búlgaros nos empurraram para trás. De fato, não controlamos mais terras na Europa, e se isso continuar, acabaremos em situação muito difícil. Talvez possamos oferecer a renúncia de nossas reivindicações sobre a Trácia e encerrar essa guerra agora?"
+pact.42.a: "Sim, faça uma oferta de paz"
+pact.42.b: "Não, lutamos até o fim!"
+
+pact.43.t: "Otomanos Pedem Paz"
+pact.43.d: "Os otomanos, claramente lamentando sua intervenção na guerra e já tendo sido empurrados para fora da Europa, ofereceram fazer a paz - eles renunciarão às suas reivindicações sobre a Trácia ocidental e partirão para onde vieram."
+pact.43.a: "Que assim seja"
+pact.43.b: "Isso é tudo? Continuamos a guerra!"
+
+pact.46.t: "[From.GetNameDefCap] Recusa Paz"
+pact.46.d: "Embora tenhamos oferecido grandes concessões ao nosso inimigo, o governo [From.GetAdjective] recusou nossa oferta de paz, afirmando que seremos completamente derrotados."
+pact.46.a: "Precisamos reverter a situação!"
+
+pact.47.t: "Estamos Perdendo a Guerra Balcânica"
+pact.47.d: "A guerra contra a Bulgária foi um desastre total. Apesar de nossos aliados no Pacto de Belgrado, a Bulgária conseguiu nos derrotar mais uma vez, e está próxima de Belgrado. Podemos oferecer aos búlgaros a desmontagem de nossa aliança, a capitulação da província de Montenegro, a concessão de autonomia aos albaneses em Kosovo e Albânia, e a desmilitarização de províncias fronteiriças. Além disso, precisamos oferecer a eles pagamentos de reparação por vários anos. Estas são condições rigorosas, mas caso contrário, podemos perder completamente nossa independência."
+pact.47.a: "Buscar a paz"
+pact.47.b: "Ainda podemos vencer isso!"
+
+pact.48.t: "Sérvia Pede Paz"
+pact.48.d: "Com nosso sucesso na Guerra Balcânica, o Pacto de Belgrado está à beira do colapso. A Sérvia se aproximou de nós com uma oferta de paz. Eles capitularão no território de Montenegro, várias províncias fronteiriças serão desmilitarizadas, o Pacto de Belgrado será dissolvido, e a Sérvia nos pagará reparações de guerra. Em troca, permitimos que eles mantenham sua independência."
+pact.48.a: "Triunfamos mais uma vez"
+pact.48.b: "Não, eles serão esmagados!"
+
+pact.49.t: "Bulgária Aceita Oferta de Paz"
+pact.49.d: "A Quarta Guerra Balcânica não teve exatamente os sucessos que tínhamos em mente. A Bulgária conseguiu montar com sucesso uma ofensiva e estava prestes a tomar Belgrado. Eles aceitaram nossa oferta de paz para que possamos manter nossa independência. No entanto, precisamos entregar a independência de Montenegro, dar Kosovo à Albânia e pagar reparações de guerra pelos próximos anos."
+pact.49.a: "Pelo menos existimos"
+
+pact.50.t: "Os Búlgaros são Vitoriosos"
+pact.50.d: "A Quarta Guerra Balcânica não foi exatamente o sucesso que tínhamos em mente. A Bulgária conseguiu montar com sucesso uma ofensiva e estava prestes a tomar Belgrado. Negociações entre a Sérvia e a Bulgária resultaram em um acordo de paz. Precisamos desmilitarizar Oltenia e o Pacto de Belgrado será dissolvido."
+pact.50.a: "Eles são invencíveis?"
+
+pact.51.t: "Os Búlgaros são Vitoriosos"
+pact.51.d: "A Quarta Guerra Balcânica não foi exatamente o sucesso que tínhamos em mente. A Bulgária conseguiu montar com sucesso uma ofensiva e estava prestes a tomar Belgrado. Negociações entre a Sérvia e a Bulgária resultaram em um acordo de paz. Precisamos desmilitarizar a Tessália, ceder Salonica, renunciar às nossas reivindicações ao território búlgaro, e o Pacto de Belgrado será dissolvido."
+pact.51.a: "Eles são invencíveis?"
+
+pact.52.t: "A Guerra Chegou ao Fim"
+pact.52.d: "Com a Quarta Guerra Balcânica chegando ao fim, os soldados [Root.GetAdjective] estão retornando para casa do campo de batalha, e as coisas estão voltando ao normal."
+pact.52.a: "Finalmente"
+
+pact.53.t: "A Guerra Chegou ao Fim"
+pact.53.d: "A guerra com os búlgaros chegou ao fim, e finalmente nossas fronteiras ao norte estão voltando a algo semelhante à normalidade."
+pact.53.a: "Finalmente"
+
+pact.54.t: "Bulgária Faz Paz"
+pact.54.d: "A Bulgária fez as pazes com o Pacto de Belgrado, e assim temos a chance de encerrar nossa guerra com eles também. Aproveitamos a vitória da Sérvia e obtemos nossas reivindicações, ou prolongamos ainda mais a guerra?"
+pact.54.a: "Vamos encerrar isso agora"
+pact.54.b: "Não paramos até conquistá-los!"
+
+pact.64.t: "Chamado para Ocupação Conjunta da Bulgária"
+pact.64.d: "Os búlgaros foram derrotados e nos redimimos aos olhos do mundo! No entanto, não tínhamos pensado originalmente no que fazer com as terras restantes da Bulgária além de reparações industriais. A maioria de nossos oficiais militares está pedindo pelo menos uma ocupação militar temporária de toda a Bulgária, enquanto alguns afirmam que uma ocupação pode ser muito custosa para nossa nação exausta lidar."
+pact.64.a: "Dividir a Bulgária em zonas de ocupação!"
+pact.64.b: "Deixe-os terem sua independência."
+
+pact.65.t: "[From.GetName] Chama para Ocupação Conjunta da Bulgária"
+pact.65.d: "O governo [From.GetAdjective] convocou uma ocupação conjunta das terras restantes da Bulgária. No futuro, um estado búlgaro muito menor pode ser formado a partir desses territórios. Por enquanto, temos o direito de governar nossa zona de ocupação como quisermos, até saqueando-a de qualquer coisa valiosa."
+pact.65.a: "Muito bem."
+pact.65.b: "Não, mantemos nossas novas terras!"
+
+pact.66.t: "[From.GetName] Recusa a Estabelecer Zonas de Ocupação"
+pact.66.d: "O governo [From.GetAdjective] recusou nossa exigência de estabelecer zonas de ocupação nos antigos territórios búlgaros. Eles afirmaram que toda a terra que possuem agora é legitimamente deles. As relações com [From.GetName] foram seriamente prejudicadas, e a única coisa que nos resta é cancelar nossa aliança militar."
+pact.66.a: "Isso é ultrajante!"
+
+pact.70.t: "Ajudar a Bulgária?"
+pact.70.d: "Os sérvios atacaram a Bulgária junto com seus aliados do Pacto de Belgrado. Durante a Weltkrieg, a Bulgária nos ajudou lutando ao lado de nossos homens, enviando ajuda na forma de armas. Alguns argumentam que devemos intervir diretamente a favor da Bulgária, mas outros dizem que isso pode perturbar o delicado equilíbrio nos Bálcãs e pode resultar em alguns de nossos vizinhos declarando guerra contra nós. Claro, também podemos ignorar completamente o conflito, mas isso significaria que não ajudamos nosso antigo aliado."
+pact.70.a: "Enviar ajuda."
+pact.70.b: "Oferecer aos búlgaros uma aliança!"
+pact.70.c: "Não podemos fazer nada."
+
+pact.71.t: "Albânia Oferece-nos uma Aliança"
+pact.71.d: "Surpreendentemente, os albaneses nos ofereceram uma aliança, citando a ajuda que oferecemos a eles durante a Weltkrieg ao lutar contra os sérvios. Embora isso possa ser benéfico, eles também podem ser um obstáculo para o esforço de guerra. O que dizemos?"
+pact.71.a: "Ótimo!"
+pact.71.b: "Não precisamos deles."
+
+pact.72.t: "Bulgária Aceitou Nossa Oferta de Aliança"
+pact.72.d: "O governo búlgaro aceitou com prazer nossa oferta de aliança, e nossas tropas já estão se movendo para o território deles. Juntos, conteremos a agressão do Pacto de Belgrado e defenderemos a integridade territorial da Bulgária."
+pact.72.a: "Vamos derrotar a ameaça sérvia."
+
+pact.73.t: "Bulgária Recusou Nossa Oferta de Aliança"
+pact.73.d: "O governo búlgaro recusou nossa oferta de aliança e afirmou que não precisam de nossa ajuda contra o Pacto de Belgrado."
+pact.73.a: "Assim seja."
+
+pact.74.t: "Estamos Perdendo a Guerra Balcânica"
+pact.74.d: "Nossa intervenção na Quarta Guerra Balcânica foi um desastre total. A Bulgária não existe mais, e parte de nossa terra está agora ocupada pelo Pacto de Belgrado. Devemos buscar a paz enquanto ainda podemos!"
+pact.74.a: "Buscar a paz."
+pact.74.b: "Ainda podemos vencer isso!"
+
+pact.75.t: "Os Albaneses Pedem Paz"
+pact.75.d: "Com parte de sua terra ocupada e suas forças em plena retirada, a Albânia nos pediu paz."
+pact.75.a: "O Pacto de Belgrado triunfa."
+pact.75.b: "Não, eles serão esmagados!"
+
+pact.76.t: "Paz com o Pacto de Belgrado"
+pact.76.d: "O Pacto de Belgrado aceitou nossa oferta de paz. Precisamos ceder algumas terras disputadas, mas eles retirarão suas forças."
+pact.76.a: "Pelo menos ainda somos uma nação soberana!"
+
+pact.77.t: "Albânia se Rende"
+pact.77.d: "As forças armadas conjuntas do Pacto de Belgrado conseguiram derrotar os albaneses. Eles se renderam e cederam algumas terras disputadas ao Pacto, mas temos que devolver a eles sua capital. Outro inimigo nosso foi derrotado."
+pact.77.a: "O Pacto de Belgrado triunfa!"
+
+pact.78.t: "Estamos Perdendo a Guerra Balcânica"
+pact.78.d: "Embora nos doa admitir, a intervenção albanesa virou o jogo. Devemos oferecer a devolução de todas as terras reivindicadas por eles, para não perdermos nossa independência."
+pact.78.a: "Buscar a paz"
+pact.78.b: "Ainda podemos vencer isso!"
+
+pact.79.t: "Sérvia Pede Paz"
+pact.79.d: "O Pacto de Belgrado está em retirada. Agora, a Sérvia se aproximou de nós com uma oferta de paz. O Pacto de Belgrado desistirá de todas as nossas terras reivindicadas, retornando ao estado pré-guerra. Em troca, permitiremos que eles mantenham sua independência."
+pact.79.a: "Chega de derramamento de sangue. Encerremos esta guerra."
+pact.79.b: "Não, eles serão esmagados!"
+
+pact.80.t: "Paz Assinada, Fim da Guerra"
+pact.80.d: "Embora nos doa admitir, os albaneses foram capazes de nos derrotar no campo de batalha. As negociações entre Sérvia e albaneses resultaram em um acordo de paz. Precisamos desistir de todas as terras reivindicadas por eles."
+pact.80.a: "Não esqueceremos disso!"
+
+pact.81.t: "A Guerra Acabou"
+pact.81.d: "A guerra com os sérvios chegou ao fim, e finalmente nossas fronteiras estão voltando a algo semelhante à normalidade."
+pact.81.a: "Finalmente"
+
+pact.200.t: "Vitória na Guerra Balcânica"
+pact.200.d: "Após anos de planejamento e preparação, as forças combinadas do Pacto de Belgrado agora estão vitoriosas sobre a ameaça búlgara! Não podemos mais ser pressionados pelos búlgaros para fazer o que querem, pois agora somos os mestres dos Bálcãs. Nossa vitória teve um custo, é claro, muitos homens corajosos deram suas vidas para alcançar nosso sonho há muito acalentado, e são essas vidas que celebraremos nesta vitória impressionante.\n\nNo entanto, mesmo depois de recuperar nossos territórios legítimos das garras dos búlgaros, nossa missão não acabou. A Áustria está firme ao norte, oprimindo sua população sul-eslava para cumprir os desejos dos Habsburgos. Isso não pode continuar. Devemos corrigir as injustiças da Weltkrieg e finalmente nos vingar de Viena, embora para garantir a unidade entre os membros do Pacto de Belgrado, um segundo Congresso de Belgrado será realizado nas próximas semanas."
+pact.200.a: "Envie os convites!"
+
+pact.201.t: "Um convite da Sérvia"
+pact.201.d: "Hoje recebemos uma mensagem da embaixada sérvia, convidando-nos a participar de um segundo Congresso de Belgrado em algumas semanas. Nossos aliados desejam libertar os sul-eslavos que ainda estão sob a bota austríaca e certamente querem que ajudemos nesse empreendimento. Além disso, provavelmente há despojos que podemos obter de uma derrota austríaca, então é imperativo que pelo menos participemos do Segundo Congresso para formular um plano de ação."
+pact.201.a: "Muito bem, vamos participar."
+
+pact.202.t: "Possíveis Novos Aliados"
+pact.202.d.ITA: "Os estados balcânicos não são os únicos que têm queixas territoriais contra o Império Habsburgo. Mesmo que não contemos as etnias concorrentes que o compõem, os países ao redor têm parentes a libertar dessa 'prisão das nações'. Durante a guerra civil italiana, os austríacos arrancaram um pedaço da Itália e estabeleceram uma república vassala em Milão. Eles não puderam reprimi-la por muito tempo, no entanto, e agora um governo revanchista extremo está no controle de [ITA.Capital.GetCapitalVictoryPointName], liderado por [ITA.GetLeader], que busca recuperar todas as terras italianas - incluindo aquelas mantidas pela Áustria.\n\nTalvez eles possam ser persuadidos a se juntar à nossa causa?"
+pact.202.a: "Toda ajuda é bem-vinda."
+pact.202.b: "Não se incomode."
+
+pact.203.t: "Um convite para Belgrado"
+pact.203.d: "Os estados balcânicos, tendo derrotado conjuntamente a Bulgária e agora liderados pela Sérvia, agora voltam suas atenções para o norte, em direção ao Império Austro-Húngaro - e, como seus interesses se alinham com os nossos, o governo sérvio se aproximou de nós com uma proposta - um convite para Belgrado para participar do Segundo Congresso, onde os delegados decidirão sobre a ação conjunta contra a Áustria. Qual deve ser nossa resposta?"
+pact.203.a: "Muito bem, vamos participar."
+pact.203.b: "Isso é perda de tempo."
+
+pact.204.t: "[FROM.GetNameDefCap] Concorda em Participar"
+pact.204.d: "O Ministério das Relações Exteriores de [FROM.GetNameDef] respondeu-nos, informando que concordam em se juntar à nossa causa comum contra a Áustria."
+pact.204.a: "Excelente."
+
+pact.205.t: "Os Delegados Chegam"
+pact.205.d: "Hoje, uma multidão multinacional de diplomatas, observadores e oficiais militares de [GetCongressMembers] desceu sobre Belgrado para participar da cerimônia de abertura do Segundo Congresso de Belgrado. Em um breve discurso, o Primeiro-Ministro agradeceu a todos os delegados por comparecerem e, em seguida, brindou à nossa vitória certa sobre nossos inimigos mútuos em Viena. Amanhã, as discussões sérias começarão, tratando das reivindicações de todos sobre o território dos Habsburgos e nossa abordagem para lidar com eles. Mas hoje é um dia para celebrar essa rara celebração da unidade pan-nacional!"
+pact.205.a: "Que o Congresso comece!"
+
+CongressMembers_Pact_minus_one: "[?SER_attending_congress^0.GetNameDef]"
+CongressMembers_Pact: "[?SER_attending_congress^0.GetNameDef] e [?SER_attending_congress^1.GetNameDef]"
+CongressMembers_Pact_plus_one: "[?SER_attending_congress^0.GetNameDef], [?SER_attending_congress^1.GetNameDef] e [?SER_attending_congress^2.GetNameDef]"
+CongressMembers_Pact_plus_two: "[?SER_attending_congress^0.GetNameDef], [?SER_attending_congress^1.GetNameDef], [?SER_attending_congress^2.GetNameDef] e [?SER_attending_congress^3.GetNameDef]"
+
+pact.206.t: "Decidindo sobre um Objetivo"
+pact.206.d: "Nosso objetivo geral pode ser unificado, mas existem várias maneiras de lidar com Viena. Os delegados mais radicais no Congresso estão pedindo uma guerra para enfraquecer os austríacos, em vingança por suas ações durante a Weltkrieg. Por outro lado, os diplomatas moderados favorecem uma abordagem mais diplomática, esperando negociar com Viena em vez de serem puramente beligerantes. Uma abordagem pacífica seria preferível, mas poucos estão otimistas quanto às chances de Viena realmente ir para a mesa de negociações. Em última análise, os principais delegados sérvios têm a escolha final sobre que abordagem devemos buscar, e depois de algumas horas de reuniões nos bastidores, eles retornam ao Congresso com seu curso de ação."
+pact.206.a: "Para a guerra com a Áustria!"
+pact.206.b: "Forçá-los com diplomacia!"
+
+pact.207.t: "O Congresso Escolhe Atacar a Áustria"
+pact.207.d: "Os delegados em Belgrado decidiram que, com a hegemonia búlgara derrubada, era hora de derrubar a hegemonia dos Habsburgos na Europa Central. Como a maioria dos membros do Pacto tem extensas reivindicações sobre o Império Austro-Húngaro, seus delegados estão ansiosos para finalmente alcançar seus objetivos nacionais respectivos, mas nem todos os membros estão tão ansiosos para se lançar contra o Império podre. Independentemente disso, é hora de anunciar oficialmente nosso apoio a este plano de ação ou sair do Congresso."
+pact.207.a: "Nós apoiamos esta iniciativa."
+pact.207.b: "Nós nos juntaremos ao Pacto!"
+pact.207.c: "O quê? Não!"
+pact.207.e: "Nunca nos importamos com a Transilvânia de qualquer maneira."
+
+pact.208.t: "[FROM.GetNameDefCap] Deixa o Congresso"
+pact.208.d.war: "A delegação de [FROM.GetNameDef] deixou o Congresso, seja para protestar contra nosso plano de ação acordado ou porque não veem benefícios para si mesmos."
+pact.208.d.diplomacy: "A delegação de [FROM.GetNameDef] deixou o Congresso, aparentemente desinteressada na questão austríaca."
+pact.208.a: "Problema deles."
+
+pact.209.t: "A Questão das Reivindicações"
+pact.209.d: "Com o plano de ação decidido, as delegações decidiram formalizar suas reivindicações sobre o Império Austro-Húngaro. Naturalmente, garantimos informar-lhes que o objetivo final de nosso governo é unir os sul-eslavos do sul sob nossa bandeira, libertando-os de séculos de opressão."
+pact.209.a: "Vamos libertar os eslavos!"
+
+pact.210.t: "A Questão das Reivindicações"
+pact.210.d: "Com o plano de ação decidido, as delegações decidiram formalizar suas reivindicações sobre o Império Austro-Húngaro. Naturalmente, garantimos informar-lhes que o objetivo final de nosso governo é libertar as terras habitadas por romenos étnicos, atualmente humilhados por séculos de opressão."
+pact.210.a: "Vamos nos reunir com a Transilvânia!"
+
+pact.211.t: "A Questão das Reivindicações"
+pact.211.d: "Com o plano de ação decidido, as delegações decidiram formalizar suas reivindicações sobre o Império Austro-Húngaro. A Grécia, no entanto, tem pouco a ganhar em termos de território diretamente dos Habsburgos, mas acreditamos que isso faz parte da melhoria da cooperação regional e da solidificação das relações."
+pact.211.a: "Não temos reivindicações."
+pact.211.b: "O Norte da Epiro nos pertence!"
+
+pact.213.t: "A Questão das Reivindicações"
+pact.213.d: "Com o plano de ação decidido, as delegações decidiram formalizar suas reivindicações sobre o Império Austro-Húngaro. Naturalmente, garantimos informar-lhes que o objetivo final de nosso governo é finalmente pôr fim ao Risorgimento, libertando os italianos da Áustria do jugo dos Habsburgos e vingando a mancha de 1919!"
+pact.213.a: "Vamos recuperar Ístria e Trento!"
+
+pact.214.t: "O Congresso Chegou ao Fim"
+pact.214.d: "Com nossos planos e intenções claros, o Congresso chega ao fim. Agora marchamos em direção à batalha final na criação de uma nova ordem nos Bálcãs, onde as nações são livres de impérios estrangeiros e opressão."
+pact.214.a: "Avante!"
+
+pact.215.t: "O Congresso Escolhe Negociar com a Áustria"
+pact.215.d: "Os delegados em Belgrado decidiram que seria imprudente nos lançarmos sem sentido contra o Exército Austro-Húngaro. Para expressar claramente nossas queixas e ganhar a simpatia da comunidade internacional, devemos abrir negociações com Viena para alcançar o objetivo declarado do Congresso de corrigir erros históricos e encerrar o sofrimento de muitos de nossos compatriotas atualmente residindo na Áustria-Hungria. Se eles se recusarem, teremos todas as desculpas para buscar justiça pela força das armas."
+pact.215.a: "Nós apoiamos esta iniciativa."
+pact.215.b: "O quê? Não!"
+
+pact.216.t: "Um Convite para Belgrado?"
+pact.216.d: "O Congresso de Belgrado nos estendeu um convite. Embora tenham declarado claramente seus objetivos de desmantelar nossa antiga Monarquia, parecem dispostos a tentar chegar a um acordo na mesa de negociações primeiro. Claro, conhecemos seus termos e são completamente inaceitáveis; seria uma perda de tempo completa comparecer e devemos, em vez disso, nos preparar para mobilizar contra eles."
+pact.216.a: "Uma chance para a paz, talvez?"
+pact.216.b: "Rejeitamos sua oferta ridícula!"
+
+pact.217.t: "A Áustria Repudia Nossos Esforços"
+pact.217.d: "Previsivelmente, Viena se recusou a negociar. Como eles claramente desejam a guerra que finalmente trará o fim de seu império podre, é hora de marcharmos em direção à nossa batalha final para derrubar o jugo dos Habsburgos."
+pact.217.a: "Guerra será, então."
+
+pact.300.t: "O Pacto de Organização"
+pact.300.d: "[FROM.GetNameDefCap] está propondo aprofundar os laços entre as nações balcânicas por meio de uma união econômica. Se assinarmos seu pacto, será formado um Conselho Econômico para coordenar o comércio e os interesses econômicos de seus estados membros. Sem dúvida, nos beneficiaremos dessa estreita aliança econômica."
+pact.300.a: "Claro, todos podemos beneficiar disso."
+pact.300.b: "Isso resultará em uma perda de independência!"
+
+BP_economic_integration_tt: "§GNos tornaremos membros do Pacto de Organização e receberemos seus benefícios econômicos§!."
+
+pact.301.t: "[FROM.GetNameDefCap] se Recusa"
+pact.301.d: "O governo [FROM.GetAdjective] se recusou a assinar o Pacto de Organização, desinteressado em laços econômicos mais estreitos na região dos Bálcãs."
+pact.301.a: "Pena para eles."
+
+pact.302.t: "Formação do Conselho Econômico"
+pact.302.d: "Com a ratificação do Pacto de Organização, o Conselho Econômico está prestes a começar seu trabalho na coordenação do comércio e das relações econômicas entre seus membros."
+pact.302.a: "Bálcãs mais próximos, prósperos."
+
+pact.303.t: "Formação do Conselho Econômico"
+pact.303.d: "Com a ratificação do Pacto de Organização, o Conselho Econômico está prestes a começar seu trabalho na coordenação do comércio e das relações econômicas entre seus membros."
+pact.303.a: "Bálcãs mais próximos, prósperos."
+
+pact.304.t: "Relatório do Conselho Econômico"
+pact.304.d: "Através dos esforços do Conselho Econômico e de nossos aliados, os benefícios que obtemos da integração regional adicional melhoraram significativamente."
+pact.304.a: "Excelente!"
+
+pact.305.t: "Deixando o Conselho Econômico"
+pact.305.d.war: "Devido a atos de agressão contra outros membros do Conselho Econômico dos Bálcãs, fomos expulsos do Conselho com efeito imediato. Como tal, não receberemos mais seus benefícios."
+pact.305.d.revolution: "Nosso novo regime socialista declarou todos os tratados com o Conselho Econômico dos Bálcãs nulos e sem efeito, com efeito imediato. Como tal, não receberemos mais seus benefícios."
+pact.305.a: "Muito bem."
+
+pact.306.t: "[FROM.GetNameDefCap] Junta-se ao Conselho Econômico"
+pact.306.d: "O governo [FROM.GetAdjective] assinou o Pacto de Organização, tendo perdido a formação do Conselho anteriormente, e todos os membros da organização agora desfrutam de benefícios aumentados da cooperação econômica mútua."
+pact.306.a: "Bálcãs mais próximos, prósperos."
+
+pact.307.t: "Futuro do Pacto de Belgrado"
+pact.307.d: "Com nosso objetivo principal de derrotar a Áustria alcançado, muitos estão fazendo a pergunta: e agora? Embora as alianças nos Bálcãs frequentemente tenham sido de curta duração, algumas vozes mais idealistas têm promovido a ideia de transformar o Pacto de Belgrado em uma aliança de longo prazo, não apenas para defender os Bálcãs contra ameaças estrangeiras, mas também para cooperar economicamente e trazer prosperidade para as nações sérvia e romena. Vozes mais pessimistas apontam todos os problemas percebidos: diferenças ideológicas, Banato Ocidental, descrença sobre se as nações balcânicas realmente podem se opor a gigantes como Alemanha e Rússia por conta própria. Independentemente disso, se nosso governo endossar a ideia de cooperação de longo prazo, aumentaria muito as chances de nossa aliança permanecer unida."
+pact.307.a: "Derramamos sangue juntos, permaneceremos juntos."
+pact.307.b: "Desculpe, foi apenas uma coisa de guerra."

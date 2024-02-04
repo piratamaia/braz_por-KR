@@ -1,0 +1,89 @@
+﻿l_braz_por:
+
+ st_state_name: "§H[This.GetName]§!"
+
+mark_tooltip_loc: "[THIS.mark_tooltip]"
+mark_tooltip_desc: "[!mark_state_click]"
+
+ST_STATE_MARK_FOR_TRANSFER: "§HMarcar Estado§!"
+ST_STATE_UNMARK_FOR_TRANSFER: "§HDesmarcar Estado§!"
+
+STT_set_mark: "Será §Hmarcado§! para transferência ou incorporação."
+STT_clear_mark: "Não será mais §Hmarcado§! para transferência ou incorporação."
+
+MARK_ALL_STATES: "§HMarcar Todos os Estados [This.owner.GetAdjective]§!"
+MARK_ALL_STATES_DELAYED: "[!mark_all_states_click]"
+
+MARK_COLONIES: "§HMarcar Estados Desconectados [This.owner.GetAdjective]§!\n\nVai marcar todos os estados [This.owner.GetAdjective] que não estão conectados à capital."
+MARK_COLONIES_DELAYED: "[!mark_colonial_states_click]"
+
+MARK_NONCORE: "§HMarcar Estados Não-Core [This.owner.GetAdjective]§!\n\nVai marcar todos os estados [This.owner.GetAdjective] que não são núcleos [This.owner.GetAdjective]."
+MARK_NONCORE_DELAYED: "[!mark_noncore_states_click]"
+
+CLEAR_ALL_MARKINGS: "§HLimpar Todos os Estados Marcados§!"
+CLEAR_ALL_MARKINGS_DELAYED: "[!clear_all_markings_click]"
+
+AWARD_STATES: "§HTransferir Estados§!\n\nVai transferir todos os estados marcados para §Y[This.owner.GetNameDef]§!."
+AWARD_STATES_DELAYED: "[!award_states_click]"
+
+add_core_loc: "[This.GetAddCoreRuleDesc]"
+ADD_CORE_STATES: "§HAdicionar Núcleos [This.owner.GetAdjective]§!\n\nVai adicionar núcleos [This.owner.GetAdjective] a todos os estados marcados que ainda não são núcleos [This.owner.GetAdjective]."
+ADD_CORE_STATES_MP: "§HAdicionar Núcleos [This.owner.GetAdjective]§!\n\n§RDesativado em multiplayer!§!"
+ADD_CORE_STATES_DELAYED: "[!add_cores_click]"
+
+remove_core_loc: "[This.GetRemoveCoreRuleDesc]"
+REMOVE_CORE_STATES: "§HRemover Núcleos [This.owner.GetAdjective]§!\n\nVai remover núcleos [This.owner.GetAdjective] de todos os estados marcados que já são núcleos [This.owner.GetAdjective]."
+REMOVE_CORE_STATES_MP: "§HRemover Núcleos [This.owner.GetAdjective]§!\n\n§RDesativado em multiplayer!§!"
+REMOVE_CORE_STATES_DELAYED: "[!remove_cores_click]"
+
+add_claim_loc: "[This.GetAddClaimRuleDesc]"
+ADD_CLAIM_STATES: "§HAdicionar Reivindicações [This.owner.GetAdjective]§!\n\nVai adicionar reivindicações [This.owner.GetAdjective] a todos os estados marcados que ainda não são núcleos ou reivindicações [This.owner.GetAdjective]."
+ADD_CLAIM_STATES_MP: "§HAdicionar Reivindicações [This.owner.GetAdjective]§!\n\n§RDesativado em multiplayer!§!"
+ADD_CLAIM_STATES_DELAYED: "[!add_claims_click]"
+
+remove_claim_loc: "[This.GetRemoveClaimRuleDesc]"
+REMOVE_CLAIM_STATES: "§HRemover Reivindicações [This.owner.GetAdjective]§!\n\nVai remover reivindicações [This.owner.GetAdjective] de todos os estados marcados que já são reivindicações [This.owner.GetAdjective]."
+REMOVE_CLAIM_STATES_MP: "§HRemover Reivindicações [This.owner.GetAdjective]§!\n\n§RDesativado em multiplayer!§!"
+REMOVE_CLAIM_STATES_DELAYED: "[!remove_claims_click]"
+
+mark_country_tooltip_loc: "[THIS.mark_country_tooltip]"
+
+COUNTRY_MARKING: "§HMarcar País§!"
+CLEAR_COUNTRY_MARKING: "§HLimpar País Marcado§!"
+mark_country_tooltip_desc: "[!mark_country_click]"
+
+STT_set_country_mark: "§H[This.owner.GetNameWithFlag]§! será §Hmarcado§! para ser um Estado Satélite, para entrar/sair de facções e para guerra/paz."
+STT_clear_country_mark: "§H[marked_country.GetNameWithFlag]§! não será mais §Hmarcado§! para ser um Estado Satélite, para entrar/sair de facções e para guerra/paz."
+
+ADD_PUPPET_LOC: "[THIS.add_puppet_tooltip]"
+ADD_PUPPET_LOC_TT: "§HFazer Satélite§!\n\nVai transformar §H[marked_country.GetNameWithFlag]§! em um estado satélite de §H[This.owner.GetNameWithFlag]§!."
+ADD_PUPPET_DEFAULT: "§HFazer Satélite§!"
+ADD_PUPPET_LOC_DELAYED: "[!add_puppet_click]"
+
+REMOVE_PUPPET_LOC: "[THIS.remove_puppet_tooltip]"
+REMOVE_PUPPET_LOC_TT: "§HRemover Satélite§!\n\nVai remover o status de satélite de §H[marked_country.GetNameWithFlag]§! e torná-los independentes."
+REMOVE_PUPPET_DEFAULT: "§HRemover Satélite§!"
+REMOVE_PUPPET_LOC_DELAYED: "[!remove_puppet_click]"
+
+ADD_FACTION_LOC: "[THIS.add_faction_tooltip]"
+ADD_FACTION_LOC_TT: "§HEntrar na [This.owner.GetFactionName]§!\n\n§H[marked_country.GetNameWithFlag]§! entrará na facção de §H[This.owner.GetNameWithFlag]§!, a [This.owner.GetFactionName]."
+ADD_FACTION_LEADER_LOC_TT: "§HTornar Líder da Facção§!\n\n§H[marked_country.GetNameWithFlag]§! se tornará o novo líder da [marked_country.GetFactionName]."
+ADD_FACTION_DEFAULT: "§HAdicionar à Facção§!"
+ADD_FACTION_LOC_DELAYED: "[!add_faction_click]"
+
+REMOVE_FACTION_LOC: "[THIS.remove_faction_tooltip]"
+REMOVE_FACTION_LOC_TT: "§HSair da [marked_country.GetFactionName]§!\n\nVai remover §H[marked_country.GetNameWithFlag]§! da [marked_country.GetFactionName]."
+REMOVE_FACTION_DEFAULT: "§HRemover da Facção§!"
+REMOVE_FACTION_LOC_DELAYED: "[!remove_faction_click]"
+
+ADD_PEACE_LOC: "[THIS.add_peace_tooltip]"
+ADD_PEACE_LOC_TT: "§HFazer Paz com [This.owner.GetNameDef]§!\n\n§H[marked_country.GetNameWithFlag]§!, incluindo todos os aliados, encerrará a guerra com §H[This.owner.GetNameWithFlag]§! e seus aliados."
+ADD_PEACE_ALL_WARS_LOC_TT: "§HFazer Paz em Todas as Guerras§!\n\n§H[marked_country.GetNameWithFlag]§! fará paz branca em todas as guerras em que está envolvido."
+ADD_PEACE_DEFAULT: "§HFazer Paz§!"
+ADD_PEACE_LOC_DELAYED: "[!add_peace_click]"
+
+ADD_WAR_LOC: "[THIS.add_war_tooltip]"
+ADD_WAR_LOC_TT: "§HDeclarar Guerra contra [This.owner.GetNameDef]§!\n\n§H[marked_country.GetNameWithFlag]§! declarará guerra contra §H[This.owner.GetNameWithFlag]§!."
+ADD_WAR_DEFAULT: "§HDeclarar Guerra§!"
+ADD_WAR_LOC_DELAYED: "[!add_peace_click]"
+ 

@@ -1,0 +1,6 @@
+﻿l_braz_por:
+FACTION_LEADER: "Líder da Facção: §Y$COUNTRY$§!"
+FACTION_MEMBER: "Membro da Facção: §Y$COUNTRY$§!"
+FACTION_CREATED_UNDER_MASTER_TITLE: "Juntou-se à Facção do Mestre"
+FACTION_CREATED_UNDER_MASTER_MESSAGE: "Nós nos juntamos à facção $FACTION|H$ sob a liderança do nosso mestre"
+ 

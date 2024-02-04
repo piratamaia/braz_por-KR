@@ -1,0 +1,135 @@
+﻿l_braz_por:
+
+###Focus
+KMT_white_sun: "Sol Branco sobre a China"
+KMT_white_sun_desc: "Embora o processo tenha sido árduo, finalmente consolidamos nosso domínio em todo o país e podemos começar a formação oficial de uma nova república sob o Sol Branco. Agora devemos lançar as bases para a próxima etapa de nossa revolução, integrando todas as províncias da China aos órgãos de nosso governo."
+
+KMT_tridemism: "Doutrina Sanmin"
+KMT_tridemism_desc: "Os Três Princípios do Povo, ou Doutrina Sanmin, são a base da filosofia política de Sun Yat-sen e do Kuomintang. Os Princípios guiam nosso governo em suas políticas e decisões, e sua importância deve ser compreendida pelo povo na luta que se aproxima."
+
+KMT_organic_law: "Lei Orgânica da República"
+KMT_organic_law_desc: "Enquanto o Tutorado Político continua e a Constituição final está sendo elaborada, a Lei Orgânica do Governo Nacional foi promulgada. Este ato reorganizou o Governo Nacional em cinco ramos, ou Yuan, e reforçou o exercício do poder soberano pelo Kuomintang durante o Tutorado Político."
+
+KMT_minzu_focus: "Minzu"
+KMT_minzu_focus_desc: "Minzu, ou Nacionalismo, é um dos Três Princípios do Povo de Sun Yat-sen e gira em torno de uma vida comum, língua, religião, costumes e, o mais importante, uma linhagem compartilhada. A unidade nacional é fundamental para o nosso sucesso e permitirá que a China vença outras nações na luta pela supremacia."
+
+KMT_minquan_focus: "Minquan"
+KMT_minquan_focus_desc: "Minquan, ou Democracia, é o segundo dos Três Princípios do Povo de Sun Yat-sen. Criar instituições democráticas e preparar o povo chinês para elas é um dos objetivos mais importantes da Revolução Nacional e, a longo prazo, provará que o Partido é a melhor escolha para a China."
+
+KMT_legislature: "Yuan Legislativo"
+KMT_legislature_desc: "Embora a China não esteja pronta para eleições completas, o Governo Nacionalista precisa começar a formar as instituições que a democracia, um dia, tornará sua vontade conhecida. O Yuan Legislativo, composto por representantes do KMT de territórios controlados e contestados, assumirá as responsabilidades legislativas do Comitê Central."
+
+KMT_land_reform: "Reforma Agrária Nacionalista"
+KMT_land_reform_desc: "Os camponeses formam a maioria absoluta da população chinesa, mas poucos deles são proprietários das terras que cultivam, eliminando qualquer chance de ascensão socioeconômica. A reforma agrária é uma necessidade para melhorar suas condições de vida e reduzir as tensões sociais. Até que os camponeses da China se tornem donos da terra em vez de arrendá-la de senhores corruptos, nunca serão livres."
+
+KMT_rent_control: "Imposto sobre Valor da Terra"
+KMT_rent_control_desc: "Sun Yat-sen defendeu a adoção de um Imposto sobre o Valor da Terra para melhorar as finanças do país, impulsionar a reforma agrária e criar um sistema tributário e econômico mais justo. Devemos implementar sua visão para ajudar a modernizar o país e melhorar a economia."
+
+KMT_minsheng: "Minsheng"
+KMT_minsheng_desc: "Minsheng, comumente traduzido como 'Bem-Estar do Povo', é o último dos Três Princípios do Povo de Sun Yat-sen. Após a implementação do imposto sobre o valor da terra, programas sociais serão criados e expandidos para ajudar camponeses e trabalhadores a melhorar sua qualidade de vida, subsidiando o consumo de alimentos, roupas e moradia."
+
+KMT_revive_china: "Programa Reviver a China"
+KMT_revive_china_desc: "Sem o Partido Nacionalista, não haverá uma nova China. Um vasto programa de planejamento estatal e iniciativas é necessário para trazer a China de volta ao mesmo nível que o Ocidente e aliviar a economia danificada."
+
+KMT_national_mausoleum: "Construir o Mausoléu Nacional"
+KMT_national_mausoleum_desc: "Já passou da hora de honrar aqueles que caíram a serviço da Democracia Chinesa. Um mausoléu nacional será construído fora de [Root.Capital.GetCapitalVictoryPointName] para abrigar os restos de Sun Yat-Sen e outros revolucionários proeminentes."
+
+KMT_civil_service: "Expandir o Serviço Civil"
+KMT_civil_service_desc: "Para perdurar a longo prazo, o Governo Nacionalista deve ser mais do que uma clique de senhores da guerra ou um estado partidário. Um serviço civil independente tanto do aparato partidário do KMT quanto do exército deve começar a ser formado."
+
+KMT_academia_sinica: "Academia Sinica"
+KMT_academia_sinica_desc: "Para promover melhor o desenvolvimento de nossas capacidades científicas nativas, o KMT deve se comprometer a criar e patrocinar nossas próprias instituições de pesquisa acadêmica. Há muito proposto, mas nunca promulgado, o plenamente estabelecido Academia Sinica será o centro desses esforços."
+
+KMT_national_reconstruction_commission: "Comissão Nacional de Reconstrução"
+KMT_national_reconstruction_commission_desc: "Inspirada em propostas elaboradas por Zhang Renjie, uma Comissão de Reconstrução Nacional centralmente dirigida deve ser formada pelo Governo Nacionalista para planejar um programa nacional de investimentos e padronizações. Este programa envolverá vários esforços independentemente escaláveis centrados em vários grandes centros populacionais."
+
+KMT_bopomofo: "Bo, Po, Mo, Fo..."
+KMT_bopomofo_desc: "Os métodos atuais para romanizar o mandarim e até ensinar o script chinês são inadequados para crianças ou para a pessoa comum. Um novo padrão de símbolos fonéticos, semelhante ao silabário Hiragana criado para o japonês, deve ser criado e difundido em todo o nosso sistema educacional para padronizar os dialetos chineses e abrir a conversação em massa com o Ocidente."
+
+KMT_triumphant_revolution: "Revolução Triunfante"
+KMT_triumphant_revolution_desc: "A China finalmente foi reunificada sob o Sol Branco, Céu Azul e Terra Totalmente Vermelha do Kuomintang. Embora haja ainda um longo caminho a percorrer antes de nos recuperarmos do Século da Humilhação, realizamos o sonho do falecido Dr. Sun."
+
+KMT_renovate_whampoa: "Expandir a Academia Militar de Whampoa"
+KMT_renovate_whampoa_desc: "A Academia Militar do Kuomintang foi fundada pela primeira vez por Sun Yat-sen em 1924 em Whampoa, perto de Guangzhou, e criou um grupo de oficiais politicamente conscientes entre aqueles que treinaram lá. Embora simplesmente restaurá-la fosse suficiente anteriormente, a transformação do NRA em um exército verdadeiramente nacional requer que Whampoa seja expandida para atender à necessidade de oficiais politicamente confiáveis e capazes."
+
+KMT_central_military_academy: "Estabelecer a Academia Militar Central"
+KMT_central_military_academy_desc: "Com o controle da revolução sobre a China garantido, não há mais necessidade de a Academia Militar de Whampoa permanecer em Guangzhou. A distinta escola militar será transferida para nossa capital nacional para criar uma academia militar centralizada. Isso ajudará nossa estrutura de comando central e incentivará recrutas de todo o país a aprender com os melhores oficiais que a China tem a oferecer."
+
+KMT_standardised_arsenals: "Padronizar Arsenais"
+KMT_standardised_arsenals_desc: "Por várias décadas, os arsenais da China estiveram sob o controle de governos provinciais e nacionais diferentes e em grande parte independentes. Agora que alguns desses arsenais estão sob nosso controle, as questões logísticas decorrentes de diferentes arsenais produzindo armas diferentes em diferentes calibres para um único exército são substanciais e devem ser corrigidas o mais rápido possível."
+
+KMT_small_arms_development: "Desenvolvimento de Armas Leves"
+KMT_small_arms_development_desc: "Apesar das tentativas dos inúmeros governos nacionais e provinciais de atualização, o rifle mais difundido em serviço continua sendo o venerável, mas severamente obsoleto, Modelo 88. Tornar a padronização de um novo rifle moderno uma realidade, em vez de um projeto no papel, é uma prioridade máxima para melhorar nossas capacidades militares insatisfatórias em comparação com outros exércitos modernos."
+
+KMT_artillery_modernisation: "Modernização da Artilharia"
+KMT_artillery_modernisation_desc: "A artilharia é a rainha do campo de batalha e as peças modernas eram um luxo na era dos senhores da guerra. Com as capacidades de uma China unida, podemos modernizar nossas armas e aproximar nosso poder de fogo do padrão global."
+
+KMT_tank_arsenal: "Guerra Blindada"
+KMT_tank_arsenal_desc: "O desenvolvimento da guerra blindada certamente foi notado na China, mas desenvolvê-la e usá-la aqui era apenas um devaneio. Agora que estamos unidos e mais fortes do que nunca, é hora de mergulhar nessas tecnologias avançadas como uma pedra fundamental importante na modernização da China."
+
+KMT_new_model_army: "Exército Novo Modelo"
+KMT_new_model_army_desc: "Um exército voluntário profissional será o futuro do exército chinês: um exército menor dedicado aos Três Princípios do Povo e à Revolução Nacional, concentrando-se na qualidade em vez de quantidade. Isso criará um maior Espírito de Corpo e disciplina, formando soldados melhores capazes de realizar tarefas difíceis e seguir ordens difíceis."
+
+KMT_professionalisation: "Inculcar Disciplina Militar"
+KMT_professionalisation_desc: "O novo exército chinês será um exército profissional, focando no treinamento militar em tempo integral, incentivando altos níveis de disciplina e habilidade. O exemplo do Exército de Ferro se tornará um modelo para exércitos profissionais modernos comparáveis a qualquer potência ocidental."
+
+KMT_peoples_army: "Exército do Povo"
+KMT_peoples_army_desc: "O Exército Chinês deve aproveitar sua mão de obra e tamanho para lutar em guerras. Deve ser um Exército do Povo: Um que represente o povo e o proteja. Um pilar de unificação nacional, não de opressão ou repressão."
+
+KMT_conscription: "Unidade Através do Serviço"
+KMT_conscription_desc: "O serviço militar generalizado reúne pessoas de muitas regiões, dando-lhes experiências compartilhadas e ajudando-as a se verem como irmãos; exemplos concretos e verdadeiros de fraternidade em vez de conceitos vagos de nacionalidade. A unidade nacional será fortalecida por isso."
+
+KMT_NRA: "O NRA Revitalizado"
+KMT_NRA_desc: "Apesar dos problemas do NRA após a unificação, conseguimos reformar e modernizar o NRA para conflitos futuros. Todos os dias, recebemos recrutas novos e ansiosos prontos para serem ensinados por veteranos experientes do NRA. Como o verdadeiro exército da República Chinesa, nossas forças armadas serão um testemunho do sucesso da modernização chinesa por gerações. Viva o Exército Revolucionário Nacional, viva o Kuomintang Chinês!"
+
+KMT_aviation_school: "Formalizar Escolas de Aviação"
+KMT_aviation_school_desc: "Embora existam de fato escolas para pilotos na China, elas são poucas e relativamente desorganizadas. Formalizar essas escolas e criar um currículo adequado para pilotos e equipes de manutenção ajudará a criar uma força aérea adequada para a China."
+
+KMT_new_aircraft_factories: "Novas Fábricas de Aeronaves"
+KMT_new_aircraft_factories_desc: "O sul do país viu a criação de várias oficinas de aeronaves pequenas na última década ou duas, mas permaneceram bastante pequenas, capazes apenas de reparar os poucos aviões que havia. Criar fábricas adequadas é mais um passo em direção ao desenvolvimento de uma indústria aeronáutica incipiente, uma pedra angular da era moderna."
+
+KMT_native_fighter_design: "Design de Caça Doméstico"
+KMT_native_fighter_design_desc: "Houve várias tentativas de criar uma aeronave chinesa, principalmente com base em projetos estrangeiros. Com a ajuda de especialistas estrangeiros e um crescente grupo de técnicos locais, agora somos mais capazes do que nunca de desenvolver nossos próprios projetos na esperança de criar uma força aérea moderna para defender nossos céus."
+
+KMT_naval_bomber: "Projeto de Bombardeiro Naval"
+KMT_naval_bomber_desc: "Embora tenha sido ignorada no início, os bombardeiros navais armados com torpedos e bombas perfurantes estão se tornando rapidamente uma séria ameaça mesmo para os maiores navios de guerra atualmente no mar. Essa tecnologia pode ser exatamente o que a China precisa: uma maneira eficaz e econômica de destruir uma frota inimiga muito maior ameaçando nossa costa."
+
+KMT_medium_bomber: "Frota de Bombardeiros Táticos"
+KMT_medium_bomber_desc: "Os bombardeiros táticos médios oferecem versatilidade a uma força aérea com a capacidade de realizar diferentes tipos de missões. Claro, projetar uma aeronave tão grande era impensável até agora e certamente será um desafio."
+
+KMT_light_bomber: "Apoio Aéreo ao Exército"
+KMT_light_bomber_desc: "Bombardeiros leves como uma espécie de artilharia voadora são a melhor maneira de uma força aérea apoiar operações terrestres. É lógico que nos concentremos nessas aeronaves de apoio aéreo próximo enquanto forjamos uma força aérea moderna."
+
+KMT_expand_dockyard: "Expandir Estaleiros Republicanos"
+KMT_expand_dockyard_desc: "Com a conclusão da unificação nacional e o cumprimento da visão do Dr. Sun, devemos agora tomar medidas para transformar nossas antigas forças navais provinciais em uma nova marinha nacional. Vamos reviver a Marinha da República da China sob a bandeira do Sol Branco e incentivar a construção de estaleiros ao longo da costa da China para atender à nossa crescente necessidade de navios."
+
+KMT_incorporate_beiyang_fleet: "Incorporar a Frota Beiyang"
+KMT_incorporate_beiyang_fleet_desc: "Como resultado das guerras de unificação, alguns dos melhores almirantes e oficiais navais da China agora se encontram desempregados desde a Unificação Nacional. Ofereceremos a eles anistia completa do governo para que esses oficiais navais possam treinar e liderar a próxima geração de marinheiros chineses nos mares, como parte da nova marinha revolucionária da China."
+
+KMT_destroyers: "Flotilha de Destróieres Modernos"
+KMT_destroyers_desc: "Destróieres são a espinha dorsal de qualquer marinha moderna, especialmente uma tão incipiente quanto a da China. Eles protegerão nossas costas, rotas de navegação e navios de guerra maiores contra submarinos e pequenas embarcações de ataque."
+
+KMT_submarines: "Desenvolver Submarinos"
+KMT_submarines_desc: "Os submarinos estão se mostrando indispensáveis na guerra naval moderna. Para uma marinha tão limitada quanto a nossa, eles podem ser a salvação, permitindo-nos atacar inimigos muito mais fortes saqueando suas rotas de navegação e assediando suas frotas maiores."KMT_cruisers: "Cruzadores para Nossa Frota"
+
+KMT_cruisers: "Cruzadores para nossa Frota"
+KMT_cruisers_desc: "Cruzadores são importantes para reconhecimento e proteção, e, realisticamente falando, podem ser os maiores navios de guerra que somos capazes de construir neste momento."
+
+KMT_coastal_defence: "Foco na Defesa Costeira"
+KMT_coastal_defence_desc: "Seria insano planejar uma grande frota capaz de rivalizar com as Grandes Potências Navais. Como tal, devemos nos concentrar em uma marinha mais flexível capaz de proteger nossa longa costa e interesses no Pacífico."KMT_grand_fleet: "Uma Grande Frota"
+
+KMT_grand_fleet: "Uma Grande Frota"
+KMT_grand_fleet_desc: "Se a China deve ser considerada uma Grande Potência, como deve ser, uma marinha é indispensável. Embora certamente seja um plano de longo prazo, nossa grande marinha deve começar de algum lugar e deve começar agora."
+
+ ###Ideas
+
+ KMT_revolution_minsheng: "Três Princípios do Povo"
+
+KMT_economy_1: "Economia Revitalizada"
+
+KMT_model_army_1: "Novo Exército Modelo"
+
+KMT_peoples_army_1: "Exército do Povo"
+
+KMT_model_army_3: "NRA Reformado"
+

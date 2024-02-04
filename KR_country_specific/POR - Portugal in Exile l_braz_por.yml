@@ -1,0 +1,90 @@
+﻿### Portugal in Exile Loc ###
+### Don't merge this file into the base Portugal file, it's separate to avoid merge issues
+l_braz_por:
+
+### Ideas ###
+ POR_last_stand: "Última Resistência"
+
+### Events ###
+
+ portugal_exile.1.t: "Última Resistência de Portugal"
+ portugal_exile.1.d: "À medida que as forças inimigas romperam nossas fronteiras, nossos exércitos se encontram encurralados. Com pouco espaço para recuar e uma força avassaladora do outro lado, nossas chances de vitória são escassas. No entanto, devemos continuar e defender nosso povo dos atacantes, custe o que custar. Assim, lutaremos até que Lisboa seja ocupada!"
+ portugal_exile.1.a: "Audaces Fortuna Juvat!"
+
+ portugal_exile.2.t: "A Queda de Portugal"
+ portugal_exile.2.d: "Apesar dos esforços bravos de nossos exércitos, a verdade é tão amarga quanto inegável. Não podemos mais manter-nos no continente, pois as forças inimigas estão sobrecarregando as nossas, avançando rapidamente sobre nossas terras com pouco que podemos fazer a respeito. Felizmente, o Império Português é vasto, e ainda podemos recuar para nossas colônias por enquanto, e planejar uma maneira de libertar nossa pátria de lá."
+ portugal_exile.2.d.noretreat: "Apesar dos esforços bravos de nossos exércitos, a verdade é tão amarga quanto inegável. Não podemos mais manter-nos, pois as forças inimigas estão sobrecarregando as nossas, avançando rapidamente sobre nossas terras com pouco que podemos fazer a respeito."
+ portugal_exile.2.a: "Devemos resistir!"
+
+ portugal_exile.3.t: "Reintegrar-se à Entente?"
+ portugal_exile.3.d: "Com a perda de nossas posses continentais, o retorno do nosso governo legítimo parece improvável, pelo menos não por nossos próprios meios, diante de probabilidades avassaladoras. Felizmente, ainda mantemos conexões diplomáticas, e podemos entrar em contato com nossos antigos aliados mais uma vez para que possam, esperamos, nos ajudar a recuperar nossa pátria."
+ portugal_exile.3.a: "Entrar em contato com os [ENT.GetAdjective]."
+ portugal_exile.3.b: "Não precisamos deles."
+
+ #ENT PoV:
+ portugal_exile.4.t: "Portugal se Aproxima Novamente de Nós"
+ portugal_exile.4.d: "Com a derrota portuguesa no continente e a retirada para as colônias, emissários portugueses nos contataram recentemente solicitando que Portugal possa se reintegrar à Entente. Embora a derrota na Weltkrieg tenha deixado um gosto amargo na maioria dos membros da Entente, os portugueses ainda mantêm boas relações conosco, mesmo que tenham se afastado lentamente ao longo dos anos. Como devemos responder ao pedido deles?"
+ portugal_exile.4.a: "Bem-vindos de Volta."
+ portugal_exile.4.b: "Sem o Continente, Portugal é Inútil para Nós."
+
+ portugal_exile.5.t.accept: "[FROM.GetNameDefCap] Aceita"
+ portugal_exile.5.t.refuse: "[FROM.GetNameDefCap] Recusa"
+ portugal_exile.5.d.accept: "Apesar da perda de nossas terras continentais, nossos aliados ainda nos valorizam e nos permitiram unir esforços para reconquistar suas terras natais, bem como as nossas."
+ portugal_exile.5.d.refuse: "Com a perda de nossas terras continentais, nossos antigos aliados nos consideraram um peso desnecessário na aliança e recusaram nosso pedido de ingresso em sua facção. Embora possamos ainda resistir e recuperar nossa pátria, as chances disso acontecer indiscutivelmente se tornaram mais sombrias..."
+ portugal_exile.5.a: "Juntos pela Vitória!"
+ portugal_exile.5.b: "Os britânicos enlouqueceram?"
+
+ #MAF PoV:
+ portugal_exile.6.t: "O Colapso Português"
+ portugal_exile.6.d.peace: "Com o colapso do Exército Continental Português, as forças hostis foram retiradas da África. O financiamento secou e as armas foram removidas. Isso é tanto a prova final de que estavam por trás do caos na fronteira quanto um grande alívio para nossas forças."
+ portugal_exile.6.d.war: "Com o colapso do Exército Continental Português, as escassas forças que os portugueses deixaram na África abandonaram as linhas de frente em retirada. Desesperados, os portugueses foram rápidos em assinar um acordo de paz com a Alemanha, e assim estamos vitoriosos mais uma vez!"
+ portugal_exile.6.a: "Menos um problema para se preocupar."
+ portugal_exile.6.b: "Assim Termina a Guerra na África."
+
+ #SWF/FRA PoV:
+ portugal_exile.7.t: "O Colapso Português"
+ portugal_exile.7.d: "Com nossas forças avançando rapidamente pelas linhas portuguesas, parece que o governo deles não suportou mais a pressão e partiu em direção às colônias, evitando covardemente a justiça revolucionária. Embora tenhamos garantido o continente português, a ameaça de uma invasão portuguesa, embora improvável, ainda persiste."
+ portugal_exile.7.a: "O tempo deles chegará, eventualmente."
+
+ portugal_exile.9.t: "A Apreensão de Macau?"
+ portugal_exile.9.d: "Com o colapso do Império Colonial Português, o porto e a base naval de Macau se abriram para nós, um destacamento pequeno poderia facilmente tomá-lo como uma base para nós no Sul da China..."
+
+ portugal_exile.10.t: "A Apreensão de Goa?"
+ portugal_exile.10.d: "Com o colapso do Império Colonial Português, o pequeno enclave de Goa se abriu para nós. Um pequeno destacamento poderia facilmente reivindicá-lo como nosso..."
+
+ portugal_exile.11.t: "A Apreensão de Timor?"
+ portugal_exile.11.d: "Com o colapso do Império Colonial Português, o território de Timor se abriu para nós. Um pequeno destacamento poderia facilmente reivindicá-lo como nosso..."
+
+ portugal_exile.seize: "Faça isso!"
+ portugal_exile.dont_seize: "É melhor deixar, na verdade..."
+
+ #News event:
+ portugal_exile.12.t: "Posses Orientais Tomadas!"
+ portugal_exile.12.d: "Com o Império enfrentando o colapso e o continente perdido, os abutres habituais aproveitaram a oportunidade para tomar nossas posses no Extremo Oriente. Macau, Goa e Timor estão agora perdidos, ocupados por [729.Owner.GetNameDef], [321.Owner.GetNameDef] e [721.Owner.GetNameDef], respectivamente. Com nossas forças armadas derrotadas na Península Ibérica, há pouco que podemos fazer para detê-los."
+ portugal_exile.12.a: "Vamos reuperá-las, eventualmente."
+
+ #News event:
+ portugal_exile.13.t: "Colapso do Império Português"
+ portugal_exile.13.d.noretreat: "Com as forças inimigas se aproximando de Lisboa, o governo português começou a entrar em colapso. Eles não têm para onde fugir, nenhuma possessão colonial onde seus líderes pudessem desembarcar. Em resumo, foram encurralados e, portanto, devem enfrentar seu destino junto com o restante de seus cidadãos europeus."
+ portugal_exile.13.d.noangola: "Com as forças inimigas se aproximando de Lisboa, o governo português decidiu que sua posição era insustentável, e dada a relativa proteção do porto de Lisboa e a cobertura da marinha portuguesa, embarcaram em seus navios com o máximo de soldados e seguidores leais que puderam transportar e fugiram para o exílio. O único lugar para fazer isso são suas possessões no Atlântico, um local fraco de onde esperar um eventual retorno ao continente. Assim, o futuro da nação portuguesa permanece incerto."
+ portugal_exile.13.d: "Com as forças inimigas se aproximando de Lisboa, o governo português decidiu que sua posição era insustentável, e dada a relativa proteção do porto de Lisboa e a cobertura da marinha portuguesa, embarcaram em seus navios com o máximo de soldados e seguidores leais que puderam transportar e fugiram para o exílio. Ao se reagruparem em suas colônias distantes, o futuro da nação portuguesa permanece incerto, com seu governo em fuga e sua pátria ocupada no futuro previsível."
+ portugal_exile.13.a: "Será Este o Fim do Império Português?"
+
+ portugal_exile.14.t: "O Colapso Final"
+ portugal_exile.14.d: "Apesar dos esforços valentes de nossos exércitos para retomar nossa pátria, fomos completamente mal-sucedidos em nossa missão, e o futuro da nação portuguesa permanece sombrio. Com a moral desabando, muitos de nossos soldados e oficiais começaram a desertar, pedindo perdão oficial aos invasores para retornar a Portugal. A posição de nosso governo tornou-se insustentável, e os poucos ministros ainda leais a nós sugeriram que devemos marchar para o exílio em uma nação neutra para evitar captura, agora que não podemos nos defender daqueles que buscam nos julgar injustamente."
+ portugal_exile.14.a: "Talvez Um Dia Retornaremos..."
+
+ #MAF:
+ portugal_exile.15.t: "O Colapso do Governo Português"
+ portugal_exile.15.d: "Com a perda do continente finalmente os alcançando, o governo português oficialmente marchou para o exílio, pois suas forças começaram a vacilar e a retornar ao território ocupado. Com apenas forças simbólicas restantes em suas colônias, podemos rapidamente tomá-las se agirmos agora, pois terão pouco motivo ou até mesmo meios para nos opor."
+ portugal_exile.15.a: "Angola e Moçambique São Nossas Agora!"
+
+ #NFA:
+ portugal_exile.16.t: "O Colapso do Governo Português"
+ portugal_exile.16.d: "Com a perda do continente finalmente os alcançando, o governo português oficialmente marchou para o exílio, pois suas forças começaram a vacilar e a retornar ao território ocupado. Com apenas forças simbólicas restantes em suas colônias, podemos rapidamente tomá-las se agirmos agora, pois terão pouco motivo ou até mesmo meios para nos opor."
+ portugal_exile.16.a: "Mova tropas para Guiné e Cabo Verde."
+
+ #SWF:
+ portugal_exile.17.t: "O Colapso do Governo Português"
+ portugal_exile.17.d: "Com a perda do continente finalmente os alcançando, o governo português oficialmente marchou para o exílio, pois suas forças começaram a vacilar e a retornar ao território ocupado sob nosso controle, pedindo perdão. Enquanto partidários portugueses ainda percorrem o campo, a crescente força de nossas milícias e agora o colapso dos portugueses certamente enfraquecerão a insurreição, e em breve podemos estar totalmente no controle de Portugal, de uma vez por todas..."
+ portugal_exile.17.a: "O Proletariado de Hoje Consegue O Que os Reis do Passado Falharam"

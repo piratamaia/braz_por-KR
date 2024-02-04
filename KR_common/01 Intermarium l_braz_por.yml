@@ -1,0 +1,209 @@
+﻿l_braz_por:
+
+### EE Cooperation Mechanics ###
+
+mie.0.t: "A Ameaça Russa"
+mie.0.d: "A recessão de uma década da Rússia chegou ao fim e agora os russos estão se reconstruindo. Já reivindicam seus antigos territórios imperiais, e os estados do leste europeu certamente serão um de seus alvos.\n\nPara garantir que a ameaça russa seja contida e que os estados do leste europeu possam defender sua soberania, líderes e generais dos Oststaaten se reuniram em [MIE_leader.Capital.GetCapitalVictoryPointName] para discutir um programa de cooperação mútua. Um fundo de defesa militar conjunto foi estabelecido, e [MIE_leader.GetNameDef] foi encarregado de gerenciá-lo para financiar empreendimentos conjuntos de defesa da região."
+mie.0.a: "Ótimo!"
+
+MIE_decisions: "Cooperação na Defesa do Leste Europeu"
+MIE_decisions_desc: "[219.owner.GetNameDefCap] está ressurgindo, e a segurança da região do leste europeu está ameaçada. Quando a Segunda Weltkrieg começar, teremos que nos preparar contra a tempestade russa - e a menos que trabalhemos juntos, seremos escolhidos um a um.\n\nApós [219.owner.GetNameDef] ativar sua árvore de política externa, todos os membros do leste do Reichspakt desbloqueiam a capacidade de §Ycentralizar recursos§! e distribuí-los entre seus estados membros para eliminar qualquer elo fraco. O país responsável por distribuir o pool de recursos conjunto pode investir em seus estados membros para §Yconstruir fortificações§!, §Ycriar divisões§!, e fornecer §YEspíritos Nacionais§! benéficos.\n\nRecursos conjuntos atuais:\n £rifle_texticon Equipamento de Infantaria: §Y[?global.MIE_infantry_equipment]§!\n £support_texticon Equipamento de Apoio: §Y[?global.MIE_support_equipment]§!\n £unit_artillery_icon_small Equipamento de Artilharia: §Y[?global.MIE_artillery_equipment]§!\n\n[MIE_leader.GetNameWithFlag] é atualmente responsável por distribuir o pool de recursos."
+MIE_intermarium_active: "A §YCooperação na Defesa do Leste Europeu§! está ativa."
+
+MIE_decisions_GER: "Ostpolitik"
+MIE_decisions_GER_desc: "Nosso império domina o leste, do Báltico ao Mar Negro, através dos Oststaat, estados clientes controlados pela força e pelo medo da Rússia. Mantemos vigilância sobre seus avanços políticos e reagimos quando preciso.\n\n[POL_in_RP]"
+
+POL_in_RP_yes: "A Polônia pode ser um de nossos súditos mais leais por enquanto, mas não há garantia de que isso permanecerá assim. Devemos considerar cuidadosamente nossos investimentos na Polônia para garantir sua lealdade e cooperação econômica.\n\n[POL_GER_polish_loyalty]\n"
+
+POL_early: "Resultado previsto das eleições para os apoiadores de Augusto IV: [POL_circle_chance]"
+POL_status_stable: "§GA Polônia é leal e estável.§!"
+POL_status_restless: "§YPolônia é estável, embora a situação possa mudar.§!"
+POL_status_uprising_ready: "§YPolônia está instável, e reversões militares podem desencadear uma revolta.§!"
+POL_status_uprising_imminent: "Uma revolta na Polônia é iminente!"
+POL_status_rebellious: "§RPolônia está rebelde!§!"
+
+MIE_intermarium_formed: "O programa de §YCooperação na Defesa do Leste Europeu§! começou."
+
+GER_sponsor_MIE: "Patrocinar a CDLE"
+GER_sponsor_MIE_desc: "A Cooperação na Defesa do Leste Europeu foi fundada para coordenar a construção militar dos exércitos dos Oststaat. Nosso complexo militar-industrial esteve envolvido, embora mais apoio direto do governo possa fortalecê-los ainda mais."
+GER_fight_forest_brothers: "Criar a Feldgendarmerie Báltica"
+GER_fight_forest_brothers_desc: "O envio de uma força temporária de polícia militar para o Ducado Unido Báltico pode ser necessário para ajudá-los em sua luta contra os separatistas bálticos."
+GER_fight_LAF: "Reforçar a Polícia Lituana"
+GER_fight_LAF_desc: "O governo lituano está ocupado com o supostamente patrocinado pela Rússia Frente Ativista Lituana, uma organização terrorista responsável por inúmeros atos hediondos. Poderíamos enviar a eles algumas forças especializadas da Prússia para combater a insurgência."
+GER_WHR_coup: "Remover o Governo BSDP"
+GER_WHR_coup_desc: "Fomos tolerantes em relação às experiências da Rutênia Branca com a democracia de esquerda, mas aparentemente isso foi um erro. Nossas fontes de inteligência nos informaram sobre seu pacto secreto com Moscou e planos de nos trair. Isso não pode ser permitido."
+
+POL_GER_buy: "Investimentos na Polônia"
+POL_GER_buy_desc: "Aumentar nosso controle econômico sobre a Polônia solidificará nosso domínio sobre eles e garantirá que sua futura política externa sirva bem aos nossos interesses comerciais."
+POL_GER_sell: "Vender Ativos Poloneses"
+POL_GER_sell_desc: "Alguns de nossos empreendimentos comerciais na Polônia não foram tão úteis quanto esperávamos. Felizmente, há muitos empresários austríacos, tchecos e poloneses para assumi-los em troca de dinheiro."
+POL_GER_lobby: "Campanha Pró-Monarquista Polonesa"
+POL_GER_lobby_desc: "[POL.GetLeader] nunca foi o rei mais popular, mas nada que um pouco de trabalho de relações públicas alemãs não possa consertar."
+
+POL_GER_promises: "Prometer Autonomia para a Polônia"
+POL_promise_tt: "§CA lealdade da Polônia aumentará drasticamente.§!"
+POL_GER_agricultural_exports: "Desviar Bens Agrícolas"
+POL_promises1: "Prometeu independência para a Polônia"
+
+POL_GER_recruit_poland: "Aumentar Recrutamento na Polônia"
+POL_GER_recruit_poland_reduce: "Diminuir Recrutamento na Polônia"
+POL_GER_recruitment: "Recrutamento de Trabalhadores Poloneses"
+
+POL_invest_tt: "Ao financiar os apoiadores de Augusto IV, garantiremos a lealdade polonesa."
+POL_exploit_tt: "Políticas exploradoras em relação à Polônia fortalecerão o sentimento anti-alemão e revolucionário na Polônia."
+
+MIE_refuse_equipment_shipments: "Recusar Envios de Equipamentos"
+MIE_refuse_equipment_shipments_desc: "Por nossas próprias razões, devemos informar aos nossos aliados que não precisamos de nenhum envio de equipamentos no momento, e que eles devem ser usados em outro lugar."
+MIE_allow_equipment_shipments: "Permitir Envios de Equipamentos"
+MIE_allow_equipment_shipments_desc: "Embora tenhamos dito anteriormente aos nossos aliados para não enviar nenhum equipamento, estamos livres para revogar essa decisão a qualquer momento."
+
+MIE_spend_guns: "Enviar 1000 £rifle_texticon Equipamento de Infantaria"
+MIE_spend_support: "Enviar 250 £support_texticon Equipamento de Apoio"
+MIE_spend_artillery: "Enviar 250 £unit_artillery_icon_small Equipamento de Artilharia"
+
+MIE_spend_guns_self: "Pegar 1000 £rifle_texticon Equipamento de Infantaria"
+MIE_spend_support_self: "Pegar 250 £support_texticon Equipamento de Apoio"
+MIE_spend_artillery_self: "Pegar 250 £unit_artillery_icon_small Equipamento de Artilharia"
+
+MIE_invest_guns: "Investir 500 £rifle_texticon Equipamento de Infantaria"
+MIE_invest_support: "Investir 150 £support_texticon Equipamento de Apoio"
+MIE_invest_artillery: "Investir 250 £unit_artillery_icon_small Equipamento de Artilharia"
+
+MIE_500_guns: "£rifle_texticon §H500§!"
+MIE_500_guns_blocked: "£rifle_texticon §R500§!"
+MIE_500_guns_tooltip: "Custa $MIE_500_guns_blocked$ para tomar a decisão"
+
+MIE_1000_guns: "£rifle_texticon §H1000§!"
+MIE_1000_guns_blocked: "£rifle_texticon §R1000§!"
+MIE_1000_guns_tooltip: "Custa $MIE_1000_guns_blocked$ para tomar a decisão"
+
+MIE_5000_guns: "£rifle_texticon §H5000§!"
+MIE_5000_guns_blocked: "£rifle_texticon §R5000§!"
+MIE_5000_guns_tooltip: "Custa $MIE_5000_guns_blocked$ para tomar a decisão"
+
+MIE_150_supporteq: "£support_texticon §H150§!"
+MIE_150_supporteq_blocked: "£support_texticon §R150§!"
+MIE_150_supporteq_tooltip: "Custa $MIE_150_supporteq_blocked$ para tomar a decisão"
+
+MIE_250_supporteq: "£support_texticon §H250§!"
+MIE_250_supporteq_blocked: "£support_texticon §R250§!"
+MIE_250_supporteq_tooltip: "Custa $MIE_250_supporteq_blocked$ para tomar a decisão"
+
+MIE_250_artilleryeq: "£unit_artillery_icon_small §H250§!"
+MIE_250_artilleryeq_blocked: "£unit_artillery_icon_small §R250§!"
+MIE_250_artilleryeq_tooltip: "Custa $MIE_250_artilleryeq_blocked$ para tomar a decisão"
+
+MIE_2000_guns_500_sup: "£rifle_texticon §H2000§! £support_texticon §H500§!"
+MIE_2000_guns_500_sup_blocked: "£rifle_texticon §R2000§! £support_texticon §R500§!"
+MIE_2000_guns_500_sup_tooltip: "Custa $MIE_2000_guns_500_sup_blocked$ para tomar a decisão"
+MIE_2000_guns_tt: "£rifle_texticon §H2000§! e £support_texticon §H500§! são adicionados ao pool."
+
+MIE_1000_sup: "£support_texticon §H1000§!"
+MIE_1000_sup_blocked: "£support_texticon §R1000§!"
+MIE_1000_sup_tooltip: "Custa $MIE_1000_sup_blocked$ para tomar a decisão"
+
+MIE_1500_sup: "£support_texticon §H1500§!"
+MIE_1500_sup_blocked: "£support_texticon §R1500§!"
+MIE_1500_sup_tooltip: "Custa $MIE_1500_sup_blocked$ para tomar a decisão"
+
+air_xp_50: "£air_experience §H50§!"
+air_xp_50_blocked: "£air_experience §R50§!"
+air_xp_50_tooltip: "Custa $air_xp_50_blocked$ para tomar a decisão"
+
+MIE_build_forts_in_whr: "Expansão do Muro Oriental"
+MIE_build_forts_in_whr_tt: "§gConstruir nível 1 £GFX_land_fort_texticon §Y$bunker_plural$§! em cada província fronteiriça na Bielorrússia.§!"
+
+mie.1.t: "Cooperação no Leste Europeu"
+mie.1.d: "[MIE_leader.GetNameDefCap] escolheu investir parte do nosso fundo conjunto de cooperação na defesa construindo fortificações em nossa fronteira russa. Essas fortificações foram concluídas e estão prontas para servir às nossas forças."
+mie.1.a: "Ótimo!"
+
+MIE_joint_offensive_exercises: "Exercícios Ofensivos Conjuntos"
+
+mie.2.t: "Cooperação no Leste Europeu"
+mie.2.d: "[MIE_leader.GetNameDefCap] escolheu investir parte do nosso fundo conjunto de cooperação na defesa organizando um exercício militar conjunto entre os estados do leste europeu. Aqui, generais orientados para o ataque e blindagem simularam um contra-ataque contra forças inimigas e trocaram dicas e conselhos uns com os outros."
+mie.2.a: "Ótimo!"
+MIE_all_gain_1_attack: "Todos os Generais dos estados membros com a habilidade §HPanzer Leader§! ganharão §G1§! de Ataque."
+
+MIE_joint_grand_strategy_planning: "Grande Estratégia"
+
+mie.3.t: "Cooperação no Leste Europeu"
+mie.3.d: "[MIE_leader.GetNameDefCap] escolheu investir uma parte de nosso fundo conjunto de cooperação na defesa organizando jogos de guerra entre os estados-maiores do exército dos estados do Leste Europeu. Aqui, nossos generais discutiram uma invasão completa da região, dividiram os papéis entre os estados-nação e fizeram planejamento de grande estratégia para deter o assalto."
+mie.3.a: "Ótimo!"
+MIE_all_gain_1_planning: "Todos os Generais dos estados membros com a habilidade §HInfantry Leader§! ganharão §G1§! de Planejamento."
+
+MIE_defense_contributions: "Implementar Contribuições Obrigatórias de Defesa"
+MIE_contributions: "Contribuições de Defesa do Leste Europeu"
+MIE_contributions_desc: "Este país está destinando parte de seu orçamento para um fundo de defesa conjunto do Leste Europeu para comprar armas de fogo e outros equipamentos militares."
+MIE_defense_contributions_tt: "Cada estado membro que paga contribuições adicionará £rifle_texticon §H20§!, £support_texticon §H10§!, £unit_artillery_icon_small §H10§! ao fundo de armas mensalmente."
+
+mie.4.t: "Cooperação no Leste Europeu"
+mie.4.d: "[MIE_leader.GetNameDefCap] ofereceu aprofundar a cooperação entre os estados do Leste Europeu implementando um sistema de contribuições de defesa. Se aderirmos ao sistema, pagaremos uma parte de nosso orçamento para um fundo de defesa conjunto do Leste Europeu, com o qual [MIE_leader.GetName] poderá comprar equipamentos para nosso fundo de armas."
+mie.4.a: "Nós vamos aderir."
+mie.4.b: "Nós recusamos."
+MIE_monthly_purchases: "Compras de Armas"
+MIE_defense_contributions_amount: "£rifle_texticon §H[?global.MIE_infantry_equipment_monthly]§!, £support_texticon §H[?global.MIE_support_equipment_monthly]§!, £unit_artillery_icon_small §H[?global.MIE_artillery_equipment_monthly]§! serão adicionados ao fundo de armas."
+
+mie.5.t: "Cooperação no Leste Europeu"
+mie.5.d: "[MIE_leader.GetNameDefCap] escolheu investir uma parte de nosso fundo conjunto de cooperação na defesa nos enviando um lote de rifles e munições diretamente. Este equipamento foi direcionado para nossos estoques."
+mie.5.a: "Ótimo!"
+
+mie.6.t: "Cooperação no Leste Europeu"
+mie.6.d: "[MIE_leader.GetNameDefCap] escolheu investir uma parte de nosso fundo conjunto de cooperação na defesa nos enviando um lote de equipamento de apoio do exército diretamente. Este equipamento foi direcionado para nossos estoques."
+mie.6.a: "Ótimo!"
+
+mie.7.t: "Cooperação no Leste Europeu"
+mie.7.d: "[MIE_leader.GetNameDefCap] escolheu investir uma parte de nosso fundo conjunto de cooperação na defesa nos enviando um lote de peças de artilharia diretamente. Este equipamento foi direcionado para nossos estoques."
+mie.7.a: "Ótimo!"
+
+MIE_air_command_1: "Infraestrutura Conjunta de Defesa Aérea"
+MIE_all_build_air_infra: "Cada estado membro construirá um nível adicional de §HBase Aérea§! e dois níveis adicionais de §HAntiaérea§! em sua capital, e receberá §H50§! £unit_fighter_icon_small\n\nIsso desbloqueará novas decisões."
+
+mie.8.t: "Cooperação no Leste Europeu"
+mie.8.d: "[MIE_leader.GetNameDefCap] escolheu investir uma parte de nosso fundo conjunto de cooperação na defesa estabelecendo infraestrutura para um comando de defesa aérea conjunto entre os estados do Leste Europeu. Isso inclui a construção de novas bases aéreas e o fornecimento de aviões de caça para todos os participantes do sistema."
+mie.8.a: "Ótimo!"
+
+MIE_air_command_2: "Asas Aéreas Integradas"
+MIE_joint_air_command: "Comando Aéreo Conjunto do Leste Europeu"
+
+mie.9.t: "Cooperação no Leste Europeu"
+mie.9.d: "[MIE_leader.GetNameDefCap] escolheu investir uma parte de nosso fundo conjunto de cooperação na defesa estabelecendo oficialmente um Comando Aéreo Conjunto de Defesa do Leste Europeu. Isso integrará as asas aéreas de todas as nações participantes em uma estrutura abrangente, permitindo uma maior cooperação e controle dos céus."
+mie.9.a: "Ótimo!"
+
+MIE_air_command_3: "Comando Aéreo Conjunto Multilíngue"
+
+mie.10.t: "Cooperação no Leste Europeu"
+mie.10.d: "[MIE_leader.GetNameDefCap] escolheu investir uma parte de nosso fundo conjunto de cooperação na defesa estabelecendo importantes reformas para o Comando Aéreo Conjunto de Defesa do Leste Europeu. Com a integração bem-sucedida de despachantes aéreos multilíngues e uma cooperação ainda mais próxima de nossas forças aéreas, a eficácia de nossa força aérea certamente aumentará."
+mie.10.a: "Ótimo!"
+
+MIE_international_tank_division: "Divisão de Tanques Internacional"
+MIE_transferable_armored_division_tt: "Esta divisão blindada será transferida entre os estados do Leste Europeu sempre que o país responsável pela distribuição de recursos mudar."
+
+mie.11.t: "Cooperação no Leste Europeu"
+mie.11.d: "[MIE_leader.GetNameDefCap] escolheu investir uma parte de nosso fundo conjunto de cooperação na defesa formando uma divisão blindada internacional composta por voluntários de cada estado do Leste Europeu. Embora [MIE_leader.GetNameDef] a integrará em sua estrutura militar, ela será transferida de estado para estado no caso de quedas."
+mie.11.a: "Ótimo!"
+
+mie.12.t: "Ameaça Russa Neutralizada"
+mie.12.d: "A Rússia caiu diante do poder do Reichspakt, e não há mais necessidade de continuar o projeto de Cooperação - ele cumpriu seu propósito principal. Agora podemos descansar tranquilos, sabendo que a Rússia não ameaçará nossa independência novamente."
+mie.12.a: "Um grande dia."
+
+mie.13.t: "Alemanha Doa Equipamentos"
+mie.13.d: "O Ministério da Guerra Alemão fez uma generosa doação de equipamentos militares antigos para o programa EEDC. Estes Mausers antigos, mas confiáveis, serão bem utilizados nas mãos dos Patriotas Bálticos e Eslavos defendendo seus lares contra a ameaça russa."
+mie.13.a: "Deutschland über alles."
+
+mie.14.t: "Chegada da Baltische Feldgendarmerie"
+mie.14.d: "Uma unidade de policiais militares anti-insurgência treinados especialmente chegou do Kaiserreich para reforçar nossas forças de segurança. Com uma longa experiência lidando com forças guerrilheiras como os Irmãos da Floresta, esses homens certamente serão úteis para conter a rebelião nas terras bálticas."
+mie.14.a: "Dirija-os para a Letônia."
+mie.14.b: "Dirija-os para a Estônia."
+
+mie.15.t: "Alemanha Oferece Apoio à Aplicação da Lei"
+mie.15.d: "Berlim nos propôs uma operação conjunta contra os terroristas da Frente Ativista. Eles estão dispostos a enviar várias unidades de polícia militar da Prússia Oriental para o lado lituano da fronteira e coordenar ataques conjuntos contra a LAF. Com nossas forças combinadas, estamos certos de pressionar a LAF com força."
+mie.15.a: "Bom."
+
+mie.17.t: "Golpe Pró-Alemão na Bielorrússia!"
+mie.17.d: "Parece que os serviços de inteligência alemães perceberam nossa conspiração com o governo bielorrusso e agiram com decisão. Sob ordens alemãs, elementos reacionários do exército bielorrusso assumiram o controle de Minsk e prenderam o Presidente Taraškievič por traição. Neste momento, socialistas estão sendo presos na Bielorrússia, enquanto o exército burguês está extinguindo a liberdade do povo bielorrusso. Eles agora estão impossibilitados de se juntar à nossa luta quando a guerra começar - mas farão o possível para prejudicar os esforços do governo militar em se opor a nós. Agora é nosso dever fraternal libertar os bielorrussos da opressão prussiana!"
+mie.17.a: "Para Minsk!"
+GER_coup_WHR: "Golpe Pró-Alemão na Rutenia Branca"
+
+mie.18.t: "Acordo de Auxílio Alemão"
+mie.18.d: "Nossos amigos em Berlim não nos deixaram sozinhos! Apesar de suas próprias dificuldades econômicas, o governo alemão estava disposto a conceder algumas isenções às nossas exportações de grãos, apesar de suas políticas protecionistas aumentadas para proteger seus próprios setores agrícolas. Além disso, estavam dispostos a reestruturar parte de nossa dívida nacional que devemos aos bancos alemães, aliviando grandemente o fardo financeiro que estamos enfrentando. Essas isenções devem amenizar os problemas no campo."
+mie.18.a: "Que aliados graciosos temos."

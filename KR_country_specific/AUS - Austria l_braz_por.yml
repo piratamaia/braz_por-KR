@@ -1,0 +1,1535 @@
+﻿l_braz_por:
+
+ austrian_focus: "Árvore de Foco da Áustria"
+
+### Commanders ###
+
+ 
+ AUS_eugen_von_habsburg_commander_desc: "§YDescrição do General\nNascido:§! §g21 de maio de 1863, em Gross-Seelowitz, Margraviate da Morávia, Império Austríaco§!\n§YCarreira Militar:§! §gNeto do "Herói de Aspern", Arquiduque Karl, Eugen entrou para o exército aos 14 anos como parte do Regimento de Kaiserjäger de elite. Em 1885, tornou-se o primeiro Arquiduque a receber educação formal na Academia Militar Theresian e tornou-se oficial general completamente treinado naquele ano. Em 1887, tornou-se cavaleiro da Ordem Teutônica, e enquanto subia nas fileiras do Exército Austro-Húngaro, sucedeu seu tio como "Hoch- und Deutschmeister" (Grão-Mestre) dos Cavaleiros em 1894, uma responsabilidade que leva muito a sério desde então. Foi nomeado General de Cavalaria em 1901, mas se aposentou do serviço ativo dez anos depois por motivos de saúde.\nEugen se apresentou imediatamente para o serviço ativo no início do Weltkrieg, mas não foi considerado para nenhum comando de campo até suceder Oskar Potiorek como comandante do Front Sérvio em dezembro. Ele e seu chefe de gabinete, Alfred Krauss, reorganizaram completamente suas forças, terrivelmente debilitadas pela incompetência sem igual de seu antecessor, e as prepararam para a bem-sucedida invasão das Potências Centrais na Sérvia no ano seguinte. No entanto, antes disso, Eugen foi promovido a Marechal de Campo e transferido para comandar o Front Italiano. Com a defesa bem-sucedida contra os traiçoeiros italianos e presença ativa na frente, o Arquiduque tornou-se muito popular entre seus subordinados e tropas. Ele se tornou marechal de campo em novembro de 1916 e seria um dos principais comandantes durante a Ofensiva de Caporetto no ano seguinte. No entanto, ele se aposentou do serviço ativo em janeiro de 1918, já que o próprio Imperador assumiu o comando geral das forças austro-húngaras.\nDesde então, o Arquiduque Eugen teve um papel limitado nos assuntos militares, à medida que se aproxima da aposentadoria completa, usando sua posição para influenciar decisões de pessoal, garantir o bem-estar das tropas e veteranos, e, de outra forma, concentrar-se em seus deveres como Grão-Mestre dos Cavaleiros Teutônicos.§!"
+ AUS_joseph_august_von_habsburg_commander_desc: "§YDescrição do General\nNascido:§! §g9 de agosto de 1872, em Alcsút, Reino da Hungria, Áustria-Hungria§!\n§YCarreira Militar:§! §gPalatino Titular da Hungria, o Arquiduque Joseph August é o descendente do chamado ramo húngaro da família Imperial e Real, nascido e criado nessa metade da Monarquia. Como esperado de um Arquiduque, iniciou sua carreira militar jovem em 1890. Ao contrário de seus parentes, no entanto, transferiu-se para o Honvéd Real Húngaro em 1902, quando alcançou a patente de Major, com suas simpatias e identidade claramente voltadas para o Reino da Hungria.\nNo início da Weltkrieg, o Arquiduque Joseph já havia provado ser um oficial talentoso, sendo promovido a Major General em 1908 e Tenente Marechal de Campo (Tenente General) em 1911. Nas fases iniciais da guerra, o Arquiduque rapidamente demonstrou sua competência quando sua divisão foi transferida do Front Sérvio para o Front Russo, cobrindo com sucesso a retirada do 2º Exército antes de lutar na desastrosa luta de inverno nos Cárpatos, que falhou em aliviar Przemysl, mas impediu os russos de invadir a Hungria. Em maio de 1915, comandando o VII Corpo, o Arquiduque Joseph comandou a porção sul do Fronte Isonzo, suportando numerosos ataques italianos. Lá, ele provou sua bravura pessoal e liderança, comandando na frente onde foi ferido duas vezes e se tornando o único comandante sênior a receber a Cruz de Tropa Karl por doze semanas de serviço na linha de frente. Permaneceu no Front Italiano até dezembro de 1916, após o qual foi transferido para o Front Romeno durante todo o ano de 1917. Retornou ao Front Italiano em julho de 1918 para comandar o Armeegruppe Tirol, onde derrotaria o último ataque italiano da guerra em outubro, sendo logo promovido a Marechal de Campo.\nApós a guerra, permaneceu no exército, sendo amado e respeitado, mas envolveu-se cada vez mais em círculos políticos e, especialmente, acadêmicos na Hungria. Durante grande parte dos anos tumultuados desde o Weltkrieg, Joseph August permanece como um símbolo de conexão entre a Monarquia e a Hungria.§!"
+ AUS_alfred_jansa_von_tannenau_commander_desc: "§YDescrição do General\nNascido:§! §g16 de julho de 1884, em Stanislau, Reino da Galícia e Lodomeria, Áustria-Hungria§!\n§YCarreira Militar:§! §gProveniente de uma família militar, Alfred Jansa formou-se na Kriegsschule em Viena em novembro de 1912 e foi comissionado como Capitão no estado-maior do Governador da Bósnia, Oskar Potiorek. Dois anos depois, em Sarajevo, testemunhou o assassinato do Arquiduque Franz Ferdinand e o início da Weltkrieg.\nJansa acabaria servindo em quase todos os fronts; a partir de 1915, foi oficial de ligação, servindo com distinção no estado-maior de famosos generais alemães como Mackensen, Seeckt e Below.\nAo final da guerra, foi promovido a general, continuando seu trabalho no estado-maior na cadeia de comando. Durante a maior parte dos anos 30, foi adido militar em Berlim, onde suas conexões no estado-maior alemão da Weltkrieg se mostraram inestimáveis. Atualmente, Jansa é um reformador enérgico com grande respeito por seus colegas alemães, mas tem sido vocal sobre a necessidade da Áustria-Hungria manter a independência de suas forças militares.§!"
+ AUS_erhard_raus_commander_desc: "§YDescrição do General\nNascido:§! §g8 de janeiro de 1889, em Wolframitz, Margraviado da Morávia, Áustria-Hungria§!\n§YCarreira Militar:§! §gFormado em uma escola de cadetes perto de Brno, Raus ingressou em um batalhão de Feldjäger (infantaria leve) aos 18 anos. Passou a maior parte da Weltkrieg no Front Oriental, destacando-se como comandante de uma companhia de bicicletas. Após a guerra, foi promovido a Coronel no estado-maior geral, ensinando táticas de infantaria. Com experiência em guerra móvel durante o Weltkrieg, foi eventualmente transferido para o batalhão de ciclismo da Fast Division. Sua promoção a General é muito recente, tornando Raus ainda não testado como comandante de campo, mas ele já está mostrando talento natural para a guerra blindada.§!"
+ AUS_lothar_rendulic_commander_desc: "§YDescrição do General\nNascido:§! §g25 de outubro de 1887, em Wiener Neustadt, Baixa Áustria, Áustria-Hungria§!\n§YCarreira Militar:§! §gFilho de um oficial de origem croata, Rendulic primeiro estudou direito antes de ingressar na Academia Militar Theresian. Em 1910, foi comissionado como Tenente e lutou na Galícia nos primeiros anos da Weltkrieg. Ao final da guerra, era Capitão no estado-maior geral como parte do XXI Corpo no front italiano.\nApós a guerra, concluiu seus estudos de direito antes de subir mais nas fileiras como parte do Ministério da Guerra. Em 1934, após ser promovido a Major General, assumiu o comando da primeira unidade mecanizada da Áustria-Hungria, a Fast Division.\nApesar de uma carreira respeitável no Ministério da Guerra e como comandante da Fast Division, sua experiência ainda é limitada como uma promoção relativamente recente, enquanto suas lealdades podem ser questionáveis com vínculos a organizações nacionalistas alemãs.§!"
+ AUS_karl_eglseer_commander_desc: "§YDescrição do General\nNascido:§! §g5 de julho de 1890, em Bad Ischl, Alta Áustria, Áustria-Hungria§!\n§YCarreira Militar:§! §gApós se formar na Escola de Cadetes de Infantaria em Marburgo (Maribor), ingressou no 87º Regimento de Infantaria em 1908 como cadete oficial, recebendo sua comissão como Tenente em 1911. Quando a Weltkrieg começou, Eglseer foi enviado para o front e, em setembro de 1914, foi ferido pela primeira vez. Ele foi enviado de volta ao front em dezembro, apenas para ser gravemente ferido novamente na véspera de Natal. Desta vez, foi capturado pelos russos e permaneceu em cativeiro até março de 1918. Foi promovido a Capitão ao retornar e serviu com distinção no Front Italiano a tempo do último ataque italiano e da ofensiva austro-húngara que finalmente trouxe a vitória sobre os italianos em 1919.\nTendo passado a maior parte da guerra como prisioneiro de guerra, a carreira de Eglseer avançou lentamente, e ele permanece um dos membros menos experientes do estado-maior geral.§!"
+ AUS_julius_ringel_commander_desc: "§YDescrição do General\nNascido:§! §g16 de novembro de 1889, em Völkermarkt, Ducado da Caríntia, Áustria-Hungria§!\n§YCarreira Militar:§! §g\"Papa\" Ringel ingressou na Landwehr austríaca como alferes em 1909 após frequentar a Escola de Cadetes da Landwehr. Desde o início de sua carreira, esteve envolvido na guerra de montanha, primeiro como parte do 4º Regimento da Landwehr e depois no 2º Regimento de Rifles de Montanha até o início da Weltkrieg. Inicialmente, participou dos combates na Galícia antes de ser transferido para os Alpes contra os invasores italianos. No final da guerra, era um Capitão altamente condecorado, logo promovido a Major enquanto permanecia na Landwehr após a guerra. Foi promovido ainda mais após frequentar um curso no estado-maior geral.\nVale ressaltar que Ringel está fortemente envolvido em organizações nacionalistas alemãs, mantendo uma atitude bastante anti-eslava e recusando qualquer cargo no Exército Comum.§!"
+ AUS_franz_bohme_commander_desc: "§YDescrição do General\nNascido:§! §g15 de abril de 1885, em Zeltweg, Ducado da Estíria, Áustria-Hungria§!\n§YCarreira Militar:§! §gBöhme ingressou no Exército Austro-Húngaro em 1900 e foi comissionado como tenente cinco anos depois. Um ano após o início da Weltkrieg, foi promovido a Capitão depois de servir com distinção nos intensos combates na Galícia. Böhme continuaria a servir em todo o Front Oriental sob o comando alemão. Quando foi transferido para o Front Ocidental como parte da força austro-húngara lá, já havia lutado de Tarnopol na Galícia até Dvinsk na região do Báltico. Após a guerra, Böhme subiu lentamente nas fileiras, trabalhando brevemente para o Evidenzbureau no campo da inteligência militar.\nSua filiação a organizações nacionalistas alemãs trouxe dúvidas sobre sua lealdade à Monarquia.§!"
+ AUS_sigismund_schilhawsky_von_bahnbruck_commander_desc: "§YDescrição do General\nNascido:§! §g7 de abril de 1881, em Budapeste, Reino da Hungria, Áustria-Hungria§!\n§YCarreira Militar:§! §gDescendente de uma família militar germânico-boêmia, \"Zsiga\" Schilhawsky é o mais jovem de três filhos (incidentemente, todos generais) do Feldzeugmeister (General de Artilharia) Joseph Schillhawsky. Sigismund formou-se na Academia Militar Theresian em 1901, tornando-se oficial do estado-maior. Em 1912, fez parte do estado-maior da Landwehr austríaca antes de ser transferido para o XV Corpo no início da Weltkrieg. Depois de servir como chefe de estado-maior da 14ª Divisão de Infantaria de outubro de 1915 a abril de 1917, foi transferido para o departamento de operações do Armeeoberkommando (Comando Supremo do Exército), onde ajudou a planejar a ofensiva de Caporetto, a última ofensiva austro-húngara da guerra.\nAdministrador e planejador comprovado, Schilhawsky foi promovido a Major General logo após a guerra, tornando-se depois General de Infantaria.§!"
+ AUS_eduard_barger_commander_desc: "§YDescrição do General\nNascido:§! §g6 de setembro de 1882, em Leitmeritz, Reino da Boêmia, Áustria-Hungria§!\n§YCarreira Militar:§! §gNo início da Weltkrieg, Barger era capitão, liderando uma companhia. Sua guerra não foi nada menos que exemplar: ferido quatro vezes, tornou-se conhecido por sua iniciativa, liderança e bravura pessoal. Lutou nas terríveis condições da campanha de inverno nos Cárpatos, depois nos Alpes contra os italianos. Nas últimas fases da guerra, liderou um regimento tcheco nos intensos combates no Planalto de Asiago, reforçando sua crença na Monarquia enquanto suas tropas, apesar dos falsos rumores de sua suposta falta de confiabilidade, lutavam corajosamente. Após a guerra, Barger subiu lentamente nas fileiras, tornando-se general em 1935.\nEmbora sua coragem pessoal e impressionante liderança na linha de frente sejam impossíveis de serem exageradas, a verdade é que ele não tem experiência em liderar unidades maiores do que um regimento.§!"
+ AUS_friedrich_materna_commander_desc: "§YDescrição do General\nNascido:§! §g21 de junho de 1885, em Hof, Margraviado da Morávia, Áustria-Hungria§!\n§YCarreira Militar:§! §gMaterna ingressou no Exército Austro-Húngaro como alferes em 1904. Em 1913, formou-se na Kriegsschule em Viena, atuando como oficial do estado-maior na Galícia nos primeiros anos da guerra. Após 1917, foi oficial do estado-maior sob o comando do Arquiduque Eugen, encerrando a guerra como Tenente-Coronel. Após a guerra, totalmente dedicado ao estado-maior, foi rapidamente promovido a Coronel e, em seguida, a Major General como membro da inspectorate militar.\nCom a maior parte de sua experiência sendo oficial do estado-maior e chefiando o departamento de recrutamento e treinamento do Ministério da Guerra, sua habilidade como comandante de campo permanece definitivamente não testada.§!"
+ AUS_wilhelm_zehner_commander_desc: "§YDescrição do General\nNascido:§! §g2 de setembro de 1883, em Bistritz, Reino da Hungria, Áustria-Hungria§!\n§YCarreira Militar:§! §gVindo de uma família protestante, Zehner ingressou no Exército Austro-Húngaro como Tenente em 1903. Durante o treinamento, mostrou-se muito capaz e um atirador habilidoso. Durante as manobras anuais em 1912, recebeu uma recomendação de seu comandante. No início da Weltkrieg, Zehner era o intendente (administrador de suprimentos fora de armas e munições) do XVI Corpo, com o início da guerra movendo-se para a administração da 1ª Brigada de Montanha no Front Sérvio. Em dezembro de 1916, após solicitar transferência para o serviço de frente, foi promovido a Capitão, comandando o 7º batalhão do 64º Regimento. Após servir na Frente Romena durante a maior parte de 1917 e início de 1918, seu batalhão lutou contra as Guardas Vermelhas à medida que o Exército Austro-Húngaro avançava para a Ucrânia, distinguindo-se durante os amargos combates de rua para a captura de Mykolaiv. Em abril de 1918, assumiu o comando do Batalhão de Assalto 59, passando o resto da guerra na Ucrânia, lutando contra mais Guardas Vermelhas e cuidando da segurança na fronteira. No final da guerra, foi altamente condecorado e respeitado, suas tropas o chamavam de "Zehner de Ferro". Após a guerra, Zehner fez cursos de oficial do estado-maior e rapidamente subiu nas fileiras. Um entusiasta modernizador e já um administrador militar comprovado e, até 1934, era General de Infantaria, servindo no departamento de pessoal do Ministério da Guerra por vários anos.§!"
+ AUS_ludwig_von_eimannsberger_commander_desc: "§YDescrição do General\nNascido:§! §g19 de novembro de 1878, em Viena, Baixa Áustria, Áustria-Hungria§!\n§YCarreira Militar:§! §gFilho de um oficial de carreira morto durante a Ocupação da Bósnia, Eimannsberger foi criado por sua mãe, também de uma família militar, em um estilo de vida espartano. Com a tenra idade de 10 anos, foi enviado para uma escola militar antes de ingressar na antiga e prestigiosa Academia Militar Técnica, formando-se em 1899 como oficial de artilharia. Em 1905, concluiu seus estudos na Kriegsschule e tornou-se oficial do estado-maior.\nAté 1914, passou alguns anos lecionando na Academia Militar Técnica antes de transferir-se para o XII Corpo quando a guerra eclodiu. Até 1916, lutou na Galícia antes de tornar-se comandante de artilharia da Divisão de Kaiserschützen (infantaria de montanha) no Tirol do Sul. Seu papel durante a ruptura em Caporetto em 1917 rendeu-lhe a Ordem de Leopoldo. No final da Weltkrieg, era Coronel.\nDurante o Entre-Guerras, Eimannsberger ficou fascinado por uma das armas mais recentes da guerra, os tanques. Em 1926, tornou-se chefe do Comitê Técnico Militar e foi promovido a Feldzeugmeister (General de Artilharia) no ano seguinte. Em 1934, publicou "Der Kampfwagenkrieg" (Guerra de Tanques), uma análise completa do uso de tanques durante a Weltkrieg e sua crescente importância. Embora seja visto como um visionário, tem lutado contra tradicionalistas no estado-maior geral e financiamento insuficiente. No entanto, conseguiu garantir a criação de uma moderna divisão mecanizada com base em suas teorias. O tempo dirá se o tanque se mostrará a arma revolucionária do futuro.\n\n\"Os cavaleiros estão mortos, não há lugar para eles ao lado dos tanques. Embora suas tarefas permaneçam, serão resolvidas atribuindo esquadrões de tanques no futuro!\"\n\n"Atacar é poder de fogo e mobilidade, e esses dois elementos se combinam em uma única arma no tanque.\"§!"
+ HUN_miklos_horthy_de_nagybanya_admiral_desc: "§YDescrição do Almirante\nNascido:§! §g18 de junho de 1868, em Kenderes, Reino da Hungria, Áustria-Hungria§!\n§YCarreira Naval:§! §gAos 14 anos, Horthy ingressou na Academia Naval em Fiume (Rijeka), recebendo a patente de Tenente de Fragata em 1896, marcando o início de sua longa carreira como oficial naval. Como era esperado, viajou ao redor do mundo enquanto subia nas fileiras. Notavelmente, tornou-se ajudante de campo do Imperador Franz Joseph, aconselhando adicionalmente o monarca em assuntos húngaros, de 1909 a 1914. Horthy via o velho Imperador com muito respeito e frequentemente lembrava com carinho de seu tempo como conselheiro.\nQuando o Weltkrieg começou, Horthy comandou o pré-dreadnought SMS Habsburgo antes de assumir o comando do cruzador SMS Novarra, onde consolidou sua reputação como um comandante audacioso. Em 1917, planejou e liderou a Batalha do Estreito de Otranto, onde conduziu sua frota de cruzadores e contratorpedeiros à vitória, mesmo sendo gravemente ferido a ponto de perder a consciência. No ano seguinte, viu um rápido ascenso nas fileiras, tornando-se Contra-almirante e Comandante-em-Chefe da Frota em fevereiro de 1918, Vice-almirante em outubro, e Almirante pleno em 1919 após conquistar outra vitória contra as forças da Entente no Mediterrâneo.\nApós a guerra, Horthy foi o herói nacional mais proeminente e popular da Hungria e continuou sua carreira na Marinha. Tornou-se Grande Almirante, Comandante-em-Chefe da Marinha e Chefe da Seção Naval no Ministério da Guerra na década de 1920, garantindo que, apesar das restrições orçamentárias, a Kriegsmarine continuasse recebendo financiamento suficiente e a indústria naval permanecesse empregada. Com a economia em frangalhos, no entanto, tem se tornado cada vez mais difícil garantir fundos para a Marinha, mas sua popularidade e diligência garantem que o ramo frequentemente esquecido não caia no abandono.§!"
+ AUS_georg_von_trapp_admiral_desc: "§YDescrição do Almirante\nNascido:§! §g4 de abril de 1880, em Zara, Reino da Dalmácia, Áustria-Hungria§!\n§YCarreira Naval:§! §gEm 1894, Trapp ingressou na Academia Naval em Fiume (Rijeka), seguindo os passos de seu pai. Ele foi designado para o SMS Zenta em 1900, participando da Batalha dos Fortes de Taku durante a Rebelião dos Boxers. Três anos depois, foi promovido a Tenente-Fragata. Fascinado por submarinos, solicitou ser transferido para a U-boot-Waffe, o novo braço de submarinos da marinha, em 1908.\nDurante a Weltkrieg, ele iniciou sua notável carreira como comandante de U-Boat com o SM U-5, afundando dois navios de guerra inimigos em nove patrulhas de combate em 1915. Em agosto, já era aclamado como herói em todo o Império. Mais tarde naquele ano, assumiu o comando do SM U-14 (anteriormente submarino francês Curie). No final da guerra, Trapp havia sido promovido a Capitão de Corveta, passando por dezenove patrulhas de combate, afundando dois navios de guerra e mais de 45.000 toneladas no fundo do mar.\nApós a guerra, Trapp permaneceu na Marinha, eventualmente tornando-se comandante da frota de submarinos como Contra-Almirante. Não surpreendentemente, ele tem sido o principal defensor da expansão e modernização da frota de U-Boats, que ele vê como a arma mais importante da Monarquia, capaz de lutar contra seus inimigos mesmo se o Adriático estiver bloqueado.\nEm uma nota mais pacífica, ele e o resto de sua talentosa família musical têm se apresentado recentemente como um grupo vocal para serviços religiosos e festivais.§!"
+ AUS_heinrich_pergler_von_perglas_admiral_desc: "§YDescrição do Almirante\nNascido:§! §g26 de março de 1871, em Budweis, Reino da Boêmia, Áustria-Hungria§!\n§YCarreira Naval:§! §gPergler ingressou na Academia Naval em Fiume (Rijeka) em 1886, juntando-se à Marinha Austro-Húngara após formar-se em 1890. Seu primeiro comando foi um barco torpedo em 1900, mas, até 1914, comandava o cruzador SMS Panther. Como capitão do Panther, ajudou o Exército a repelir o Exército Montenegrino do porto e base naval em Cattaro (Kotor). Após ser promovido a chefe de estado-maior da Segunda Divisão, comandou um pré-dreadnought antes de se tornar capitão do dreadnought SMS Tegetthoff. Foi com o Tegetthoff que Pergler participou da Segunda Batalha de Otranto, que viu o afundamento de seu navio irmão SMS Szent István. Em janeiro de 1919, foi promovido ao cargo de Contra-Almirante. Grande parte de seu tempo após a Weltkrieg foi dedicado à Associação da Marinha Austríaca (Marineverband), promovendo as realizações da Marinha durante a guerra, sua importância geopolítica e econômica, e exaltando seus heróis.§!"
+ AUS_maximilian_eugen_von_habsburg_admiral_desc: "§YDescrição do Almirante\nNascido:§! §g13 de abril de 1895, em Viena, Baixa Áustria, Áustria-Hungria§!\n§YCarreira Naval:§! §gO irmão mais novo do Imperador Karl tinha apenas 19 anos quando o Weltkrieg começou e estava cumprindo seu serviço militar inicial, como esperado de um jovem arquiduque. Com o privilégio de sua posição, ele rapidamente ascendeu ao posto de Major, demonstrando acuidade tática e coragem: Durante o assalto a Dosso Alto em junho de 1918, ele foi ferido em combate quando uma concha explodiu perto dele, parcialmente o deixando surdo. Dois meses depois, transferiu-se para a marinha e tornou-se comandante da U-Bootsuchflottille (flotilha antissubmarino). A partir desse momento, Maximilian Eugen assumiu o papel de patrono da Kriegsmarine dentro da família Imperial e Real, uma responsabilidade anteriormente assumida por dois parentes que tiveram fins trágicos: o Arquiduque Franz Ferdinand e o Imperador Maximiliano do México, juntamente com o menos trágico Arquiduque Stephen, um importante candidato ao trono polonês.§!"
+ 
+### Ship Name Lists ###
+ NAME_ZERSTORER: "Zerstörer (Z)"
+ NAME_TORPEDOBOOTZERSTORER: "Torpedobootzerstörer (TZ)"
+ NAME_TORPEDOBOOTE: "Torpedoboote (TB)"
+ NAME_T_M_ZERSTORER: "Montanhas"
+ NAME_T_S_ZERSTORER: "Soldados"
+ NAME_T_C_ZERSTORER: "Corpos Celestiais"
+ NAME_T_R_ZERSTORER: "Rios"
+ NAME_T_A_ZERSTORER: "Répteis e Anfíbios"
+ NAME_T_MM_ZERSTORER: "Mamíferos Marinhos"
+ NAME_T_MC_ZERSTORER: "Criaturas Míticas"
+ NAME_AUFLARUNGKREUZER: "Aufklärungskreuzer (AK)"
+ NAME_LEICHTERKREUZER: "Leichter Kreuzer (LK)"
+ NAME_KREUZER: "Kreuzer (K)"
+ NAME_GROSE_KREUZER: "Großer Kreuzer (GK)"
+ NAME_T_B_KREUZER: "Batalhas"
+ NAME_T_A_KREUZER: "Almirantes"
+ NAME_T_C_KREUZER: "Cidades"
+ NAME_UBOOTJAGER: "U-Boot-Jäger (UJ)"
+ NAME_MINESHIPS: "Minenabwehrfahrzeug (MT)"
+ NAME_AAship: "Flakschiffe (FS)"
+ NAME_PZS: "Panzerschiffe (PZS)"
+ NAME_SS: "Schlachtschiffe (SS)"
+ NAME_T_HH: "Pessoas e Monarcas Históricos"
+ NAME_CVE: "Geleitflugzeugträger (GFT)"
+ NAME_CV: "Flugzeugträger (FT)"
+ NAME_T_CV: "Ases da Weltkrieg e Reformadores Navais"
+ NAME_U: "U-Boote"
+
+### WIP ### (Isn't this whole file WIP...)
+
+ CZE_ausgleich_slovak_state: "Liberdade para nossos Irmãos Eslovacos"
+ CRO_ausgleich_backan_claims: "A Questão Bačkan"
+ GAL_ausgleich_transcarpathian_claims: "Nossa Transcarpácia"
+
+ AUS_new_administration: "Repensando nossa Administração"
+
+### Flags and Tooltips ###
+ AUS_economy_ready_tooltip: "Nossa economia deve estar pronta para tais empreendimentos.\n\nIsso, é claro, significa que precisamos superar quaisquer crises econômicas em andamento."
+ AUS_potb_albania_tooltip: "Albânia faz fronteira com nossa Esfera de Influência."
+ AUS_potb_greece_tooltip: "Grécia faz fronteira com nossa Esfera de Influência."
+ AUS_potb_bulgaria_tooltip: "Bulgária faz fronteira com nossa Esfera de Influência."
+ AUS_no_greek_economic_sanctions: "Não aplicou sanções econômicas contra a Grécia"
+
+ AUS_slovakia_occupied: "Slovakia is under military occupation"
+ AUS_hungary_occupied: "Hungary is under military occupation"
+ AUS_transylvania_occupied: "Transylvania is under military occupation"
+
+ AUS_tag_becomes_crownland: "§H[?tag_to_release.GetName]§! torna-se um §HCrownland§!."
+ AUS_hungary_becomes_crownland: "§H[?tag_to_release.GetName]§! será reorganizada como um §HCrownland§!."
+
+ AUS_syndicalist_menace_tooltip: "As Chamas da Guerra queimam mais uma vez, e nossos interesses na Itália estão ameaçados por uma Internationale fortalecida."
+
+ AUS_request_forces_puppets: "Agora podemos solicitar divisões do exército de nossos estados componentes Cisleithanianos."
+ AUS_request_forces_hungary: "Agora podemos solicitar divisões do exército da Hungria."
+
+ AUS_military_occupation_tooltip: "§ROs seus súditos não ficarão felizes com isso!§!"
+ AUS_danubian_federation_tooltip: "Resultará na formação da "Federação do Danúbio, Alpes e Adriático""
+ AUS_united_states_tooltip: "Resultará na formação dos "Estados Unidos da Grande Áustria""
+
+ ITA_bruh_why: "A República rejeitou nossos pedidos diplomáticos"
+ ITA_bruh_yay: "A República aceitou nossos pedidos diplomáticos"
+ sicilian_reengage: "Nós apoiamos a Federação na Itália"
+ sicilian_disengage: "Nós apoiamos os Republicanos na Itália"
+
+ AUS_treaty_of_budapest: "A Áustria foi derrotada pelo Pacto de Belgrado"
+
+ AUS_HUN_Civil_war: "§YHungria§W iniciará uma guerra civil contra nós.\n\n"
+ greater_austrian_empire: "Decidiu unir a Monarquia Dual sob o domínio austríaco durante o Ausgleich, e a Hungria foi subjugada.\n\nOU\n\nA Áustria derrotou a Hungria (e anexou Budapeste) e decidiu centralizar nas negociações do passado."
+ AUS_racial_revolts_fired: "As Tensões Étnicas não escalaram."
+ AUS_racial_tensions_solved: "As Tensões Étnicas se acalmaram."
+ AUS_racial_tensions_evolve: "§YTensão Étnica§W irromperá por toda a nossa terra."
+ AUS_horthy_apeared: "Um novo rosto apareceu nos conflitos étnicos. §YMiklós Horthy§W aparece para liderar o movimento de libertação húngaro.\n\n"
+ AUS_prowlers_apeared: "Os§YProwlers§W estão se reunindo nas florestas da Transilvânia."
+ AUS_tensions_calm_down: "As§YTensões Étnicas§W se acalmaram. O Império está seguro novamente."
+ AUS_tensions_nothing: "Nada acontecerá."
+ AUS_unlock_daimler: "Desbloqueia a Companhia §YAustro Daimler§W.\n"
+ AUS_unlock_skoda: "Desbloqueia a Companhia §YŠkoda§W.\n"
+ AUS_italy_friend: "Decidiu ser amigo da Itália e a Itália aceitou a proposta."
+ AUS_italy_force: "A Itália não aceitou nossos laços."
+ AUS_italy_bond: "Amizade Austro-Italiana"
+ AUS_italy_rival: "Rivalidade Austro-Italiana"
+ AUS_not_fully_implemented: "§REste caminho ainda não está completamente implementado. Use com cuidado.§!\n\n"
+ AUS_unlock_phoenix: "Desbloqueará a empresa aérea §YPhönix§!.\n"
+ AUS_unlock_bayer: "Desbloqueará a empresa sintética §YBayer§W.\n"
+ AUS_italy_friend_planned: "Decidiu não conquistar a Itália."
+ AUS_stops_italian_revolts: "Impedirá que as §YRevoluções Italianas§W causem muito problema no futuro."
+ AUS_ausgleich_kingdoms: "Todos os reinos convidados para o Ausgleich."
+ AUS_ausgleich_peoples: "Todas as nacionalidades convidadas para o Ausgleich."
+ 
+ AUS_will_not_get_puppet_divisions: "§CTodas as divisões serão §Rdesmobilizadas§!, mas herdaremos seu equipamento e mão de obra.§!"
+
+### Companies ###
+ austria_montage: "Oesterreichisch-Alpine Montangesellschaft"
+ puch: "Puch"
+ leopold_gasser_waffenfabrik: "Leopold Gasser Waffenfabrik"
+ semperit: "Semperit"
+ austro_daimler: "Austro Daimler"
+ hansa_brandenburg_aus: "Hansa-Brandenburg"
+ skoda: "Škoda"
+ phoenix: "Phönix Flugzeugwerke"
+ steyr: "Steyr"
+ ganz_danubius: "Ganz Danubius"
+ kapsch: "AG Kapsch & Söhne"
+ graef_stift: "Gräf & Stift"
+ aviatik: "Austria Aviatik"
+ lohner: "Lohner"
+ sauerwerke: "Sauerwerke"
+ stabilimento_tecnico_triestino: "Stabilimento Tecnico Triestino"
+ bayer_austria: "Bayer Austria"
+ bohler: "Böhler AG"
+ simmering_graz_pauker: "Simmering-Graz-Pauker"
+ trinecke_zelezarny: "Třinecké Železárny"
+ wiener_neu_lokomotiv: "Wiener Neustädter Lokomotivfabrik"
+ wiener_neu_flugzeug: "Wiener Neustädter Flugzeugwerke"
+ oeffag: "Oesterreichische Flugzeugfabrik AG"
+ hirtenberger: "Hirtenberger"
+
+### Bohemia ###
+ skodovy_zavody: "Škodovy Závody"
+ bata: "Baťa"
+ elektro_praga: "Elektro Praga"
+ spolchemie: "Spolchemie"
+ cz: "Č-Z"
+ praga_automobily: "Praga Automobily"
+ laurin_a_klement: "Laurin a Klement"
+ skoda_tanks: "Škoda Lokomotivy"
+ tatra_koprivnice: "Tatra Kopřivnice"
+ praga: "Praga"
+ aero: "Aero"
+ letov: "Letov"
+ trinecke_slevarny: "Třinecké Slévarny"
+ c_k_d: "Českomoravská Kolben a Daněk"
+ skoda_pilsen: "Škoda Plzeň"
+ zbrojovka_brno: "Zbrojovka Brno"
+ tatra: "Tatra"
+ avia: "Avia"
+ #tesla_company: "Tesla"
+
+### Hungary ###
+ feg: "FÉG"
+ raba: "Rába"
+ mavag: "MAVAG"
+ ganz_mavag: "Ganz-MAVAG"
+ ganz: "Ganz"
+ manfred_weiss_steel: "Siderúrgica e Metalúrgica Manfréd Weiss Steel"
+ feigl_rotter: "Feigl & Rotter"
+ apollo_refinery: "Refinaria Apolo"
+ orion_electronics: "Órion Eletrônicos"
+ magyar_lloyd: "Magyar Lloyd"
+ ungarische_flugzeugfabrik: "Ungarische Flugzeugfabrik A.G."
+ danubian_aircraft_company: "Companhia Aeronáutica Danubiana"
+
+### Galicia ###
+ clb: "CLB"
+ uniwersytet_jagiellonski: "Uniwersytet Jagielloński"
+ standard_nobel: "Standard-Nobel"
+ zaklady_mechaniczne_tarnow: "Zakłady Mechaniczne Tarnów"
+ aviatik_galizien: "Aviatik Galizien und Lodomerien"
+ lwl: "LWL"
+
+### Illyria ###
+ ganz_kroatien_slawonien: "Ganz Kroatien-Slawonien"
+ koncar_elektroindustrija: "Končar Elektroindustrija"
+ ina: "INA"
+ prva_hrvatska_tvornica_rublja: "Prva Hrvatska Tvornica Rublja"
+ taz: "TAZ"
+ tzv_gredelj: "TŽV Gredelj"
+ aviatik_kroatien_slawonien: "Aviatik Kroatien-Slawonien"
+ brodosplit: "Brodosplit"
+
+### Bosnia ###
+ aluminij: "Aluminij"
+ univerzitet_u_sarajevu: "Univerzitet u Sarajevu"
+ energopetrol: "Energopetrol"
+ bnt_tvornica: "BNT Tvornica"
+ igman: "IGMAN"
+ bosanske_drzave_zeljeznice: "Bosanske Drzave Zeljeznice"
+ aviatik_bosnia: "Aviatik Bosnia"
+ ganz_danubius_bosnia: "Ganz Danubius"
+
+### Ideas ###
+ AUS_financial_ties_broken: "Laços Austro-Húngaros Rompidos"
+ AUS_financial_ties_broken_desc: "A Coroa da Hungria se recusa a pagar seus impostos para os cofres comuns dos ministérios compartilhados.\n\nEles ainda estão insatisfeitos com a formação do Reino da Ilíria como uma resolução dos levantes sul-eslavos de 1926 e se veem como traídos pelo governo vienense. Eles desejam ser compensados pela perda das terras croatas."
+
+ HUN_financial_ties_broken: "Laços Austro-Húngaros Rompidos"
+ HUN_slovak_demonstrations: "Demonstrações Pró-Independência Eslovacas"
+ HUN_transylvanian_demonstrations: "Demonstrações Pró-Independência Transilvanas"
+
+ AUS_paid_reparations: "Pagou Reparações à Hungria"
+
+ AUS_vienna_circle: "O Círculo de Viena"
+ AUS_vienna_circle_desc: "O Círculo de Viena é um grupo de filósofos e cientistas, provenientes das ciências naturais e sociais, lógica e matemática, que se encontram regularmente na Universidade de Viena desde 1924.\n\nO pensamento central por trás de suas atividades era "Pensamento Exato à Beira da Perdição"."
+
+ austrian_research_name: "O Círculo de Viena"
+ austrian_research_desc: "O Círculo de Viena é um grupo de filósofos e cientistas, provenientes das ciências naturais e sociais, lógica e matemática, que se encontram regularmente na Universidade de Viena desde 1924.\n\nO pensamento central por trás de suas atividades era "Pensamento Exato à Beira da Perdição"."
+ 
+ AUS_socialist_promises: "Promessas Socialistas"
+
+ AUS_divided_society: "Sociedade Dividida"
+ AUS_divided_society_desc: "Quase metade da população está insatisfeita com o resultado das eleições. Devemos corrigir isso."
+ 
+
+ AUS_black_monday: "Consequências da Segunda-Feira Negra"
+ AUS_black_monday_cs-1: "Consequências da Segunda-Feira Negra"
+ AUS_black_monday_cs-2: "Consequências da Segunda-Feira Negra"
+ AUS_black_monday_cs-3: "Consequências da Segunda-Feira Negra"
+ AUS_tuned_economy: "Economia Ajustada"
+
+ AUS_black_monday_sdap-1: "Consequências da Segunda-Feira Negra"
+ AUS_black_monday_sdap-2: "Consequências da Segunda-Feira Negra"
+ AUS_black_monday_sdap-3: "Consequências da Segunda-Feira Negra"
+ AUS_workers_spirit: "Espírito dos Trabalhadores"
+
+ AUS_imperial_development_scheme: "Esquema de Desenvolvimento Imperial"
+
+ AUS_kaiser_faith: "Fé no Kaiser"
+ AUS_kaiser_faith_desc: "O povo passou a confiar no novo Império. Gott erhalte unseren Kaiser!"
+
+ AUS_military_integration: "Integração Militar"
+
+ AUS_DNF_political_instability: "Instabilidade Política"
+ AUS_DNF_political_instability_desc: "O Princípio da Autonomia Pessoal Nacional está em vigor. As muitas etnias da Áustria estão atualmente se reorganizando em partidos-nacionais, deixando o cenário político um caos. Uma mudança tão radical certamente traria muita instabilidade, mas até os céticos não previam que seria tão ruim."
+ AUS_DNF_political_instability-1: "Instabilidade Política"
+ AUS_DNF_political_instability-1_desc: "O Princípio da Autonomia Pessoal Nacional está em vigor. As muitas etnias da Áustria estão atualmente se reorganizando em partidos-nacionais, deixando o cenário político um caos. Uma mudança tão radical certamente traria muita instabilidade, mas até os céticos não previam que seria tão ruim."
+ AUS_DNF_political_instability-2: "Instabilidade Política"
+ AUS_DNF_political_instability-2_desc: "O Princípio da Autonomia Pessoal Nacional está em vigor. As muitas etnias da Áustria estão atualmente se reorganizando em partidos-nacionais, deixando o cenário político um caos. Uma mudança tão radical certamente traria muita instabilidade, mas até os céticos não previam que seria tão ruim."
+
+ AUS_modern_army: "Modernização do Exército Comum"
+ AUS_artillery_production: "Vitória Através do Poder de Fogo"
+
+ AUS_kuk_fliegerkorps: "k.u.k. Fliegerkorps"
+
+ AUS_crownland_revolt: "Revolta nos Territórios da Coroa"
+
+### Decisions ###
+ AUS_syndie_threat: "A Ameaça Sindicalista"
+ AUS_syndie_threat_desc: "Nossos vizinhos e velhos aliados estão em guerra com a França, um fato que dificilmente se pode ignorar. O que as mentes militares alemãs esperavam que fosse resolvido em algumas semanas se transformou em uma repetição da Weltkrieg. Se os Comunardos forem os vencedores desta guerra, não apenas nossos interesses na Itália serão comprometidos, mas a integridade de nosso Império também estará em jogo. Talvez seja melhor deixarmos nossas diferenças de lado e lutar ao lado dos alemães mais uma vez."
+ AUS_russian_threat: "A Ameaça Russa"
+ AUS_russian_threat_desc: "O Grande Urso Russo ergueu sua cabeça novamente no leste e ameaça não apenas retomar toda a terra perdida durante a Weltkrieg, mas também avançar para dentro da Alemanha. Não há dúvida de que, se a Rússia alcançar seus objetivos, eventualmente voltarão sua atenção para nós também. Parece que devemos nos envolver mais uma vez na frente oriental, quer gostemos ou não."
+ AUS_reform_faction: "Reformar a Aliança Donau-Adriabund"
+ AUS_reform_faction_desc: "Agora que a guerra acabou, chegou a hora de retomarmos a liderança em nossos próprios termos: como a cabeça da aliança Donau-Adriabund."
+ AUS_germany_on_the_ropes: "§Y[FRA.GetName]§!: penetrou profundamente no sul da Alemanha"
+ AUS_syndicalism_winning_Italy: "Os aliados franceses conquistaram o controle de grande parte da Itália"
+ AUS_russia_penetrated_germany: "§Y[RUS.GetNameDefCap]§! ou seus aliados tomaram o controle de §Y[5.GetName]§!"
+ AUS_poland_fallen_to_russia: "§Y[POL.GetNameDefCap]§! está no Reichspakt e caiu para §Y[RUS.GetNameDef]§!"
+
+ AUS_integration_of_germany: "Integrando Terras Alemãs"
+
+ AUS_elections_decisions: "Decisões Eleitorais"
+ AUS_endorse_CS: "Apoiar o Christlichsoziale"
+ AUS_endorse_SDAP: "Apoiar o SDAP"
+ endorsing_a_party: "Já apoiando um partido"
+
+ CZE_join_belgrade_pact: "Juntar-se ao Pacto de Belgrado"
+ CZE_join_germany: "Juntar-se ao [GER.GetFactionName]"
+ #also used by POL, GAL:
+ CZE_leave_belgrade_pact: "Deixar o [BPL.GetFactionName]"
+ CZE_form_czechoslovakia: "Formar a Tchecoslováquia"
+ GAL_unite_with_poland: "Unir-se à Polônia"
+ SER_Ultimatum_To_Illyria: "Ultimato a [FROM.GetNameDef]"
+ SER_Ultimatum_To_Illyria_desc: "Temos uma demanda simples para o governo "Iliriano". Unidade, ou guerra. Já que ambos estamos envolvidos em conflito com os austríacos, seria tolice deles negar-nos a oportunidade de finalmente criar uma união dos eslavos do sul."
+ AUS_unite_with_germany: "Unir-se à Alemanha"
+ AUS_join_vienna_circle: "Juntar-se ao Círculo de Viena"
+### Focuses ###
+ AUS_eco_council: "Plano de Reabilitação Econômica"
+ AUS_eco_council_desc: "Estabelecido em 1935 durante uma conferência para discutir o estado moroso da indústria austríaca, o Plano de Reabilitação Econômica teve que ser interrompido devido à crise econômica em andamento. Ainda assim, seu conteúdo, com pequenas alterações, descreve uma boa maneira de combater os efeitos desastrosos do colapso da Segunda-Feira Negra e fortalecer a indústria austríaca, agora privada de seu principal concorrente."
+
+ AUS_skoda: "Škoda"
+ AUS_skoda_desc: "Durante a Weltkrieg, a Škoda Works a oeste de Praga foi nosso maior produtor de armas, mas caiu em tempos difíceis com o poder opressor das indústrias alemãs. Com a Alemanha abalada até o cerne pela Segunda-Feira Negra, subsídios para a Škoda são um grande passo para reparar nossa economia."
+
+ AUS_daimler: "Austro Daimler"
+ AUS_daimler_desc: "A empresa Austro Daimler nos forneceu muitos veículos blindados e motores para nosso esforço de guerra. Carros e motores alemães inundaram o mercado nas últimas décadas, mas com a Porsche à beira da falência e a Mercedes-Benz prestes a seguir o mesmo caminho, é hora de dar nova vida à nossa indústria automobilística."
+
+ AUS_vienna_circle_1: "Institucionalizar o Círculo de Viena"
+ AUS_vienna_circle_1_desc: "O Círculo de Viena é um encontro das mentes mais brilhantes da Universidade de Viena, matemáticos brilhantes, filósofos, cientistas naturais que estão na vanguarda da pesquisa científica e filosófica. Vamos disponibilizar fundos do governo para eles, mas também direcionar seu trabalho para novos campos mais práticos."
+
+ AUS_vienna_circle_2: "Convidar Outros para se Juntar ao Círculo de Viena"
+ AUS_vienna_circle_2_desc: "Com o Círculo de Viena bem estabelecido, financiado e ganhando reconhecimento internacional, o próximo passo é convidar países estrangeiros com laços com a coroa a participar da pesquisa conduzida lá."
+
+ AUS_suedbahn: "Eletrificação da Südbahn"
+ AUS_suedbahn_desc: "A Südbahn, ou Ferrovia do Sul, é uma ferrovia que vai de Viena a Graz, Laibach e Trieste, o principal porto marítimo da Monarquia Austro-Húngara, e finalmente Milão. Embora ainda seja uma importante linha de transporte, foi construída de 1836 a 1860, então os trilhos estão em necessidade urgente de modernização. Eletrificar a conexão ocorreria relativamente rapidamente e ajudaria muito com isso."
+
+ AUS_homeland_eco: "Economia Civil Austríaca"
+ AUS_homeland_eco_desc: "Nossa economia já fraca foi reduzida a farrapos pelo colapso da Segunda-Feira Negra, e o choque pode ser sentido fortemente em torno de Viena, mas especialmente na industrializada Boêmia. Apesar de nossos vizinhos sofrerem um destino semelhante, eles já começam a se recuperar e a nos superar na produção, então devemos fortalecer nossa própria economia por meio de subsídios para empresas automotivas e elétricas-chave para competir melhor."
+
+ AUS_alpine_mines: "Minas Alpinas"
+ AUS_alpine_mines_desc: "Os Alpes sempre foram uma rica fonte mineral, mas até agora não tínhamos ideia da verdadeira extensão da riqueza que estávamos sentados. Grandes quantidades de minério de ferro estão sendo retiradas de nossas minas anteriores e novas minas estão surgindo diariamente. Subsidiar ou nacionalizar parcialmente essas indústrias aumentaria significativamente nossa independência econômica."
+
+ AUS_homeland_mil: "Economia Militar Austríaca"
+ AUS_homeland_mil_desc: "O Exército Austríaco sempre sofreu com má gestão e equipamentos ruins, mas nesta era isso é algo que não podemos mais aceitar. As ameaças dos "liberais" húngaros e das nações sindicalistas próximas que juraram nossa destruição estão crescendo diariamente, então devemos armar adequadamente nossos bravos soldados para sobreviver."
+
+ AUS_airbase_expansion: "Expandir as Bases Aéreas Austríacas"
+ AUS_airbase_expansion_desc: "A nova tecnologia de monoplanos de maior alcance nos oferece grandes oportunidades, tanto militares quanto econômicas. Se usadas como bases para o Fliegerkorps, nos permitirá obter superioridade aérea sem perder milhares de homens. Também pode ser usada para transportar novos produtos e estimular as economias locais."
+
+ AUS_istria_ports: "Portos da Ístria"
+ AUS_istria_ports_desc: "Trieste e Pflaum são nossas duas principais bases navais e são vitais para nosso comércio ultramarino. A marinha, tradicionalmente ignorada por imperadores sucessivos, nos suplicou para aumentar os gastos em obras industriais e bases navais na Ístria, e, influenciado por seus argumentos sobre o aumento da receita comercial, este imperador ouviu."
+
+ AUS_farms_expand: "Expandir Fazendas Domésticas"
+ AUS_farms_expand_desc: "As férteis planícies da Hungria e da Baixa Áustria estão cobertas de campos e fazendas, cultivando alimentos para alimentar nosso império. Mas essas regiões, especialmente a Hungria, sofrem com menos investimento industrial e mecanização. Iniciar um esforço em grande escala para melhorar as técnicas agrícolas nos custará, mas seremos recompensados com homens jovens e aptos prontos para o serviço."
+
+ #AUS_montenegro_resources: "Plataformas de Petróleo de Montenegro"
+ #AUS_eco_comeup: "A Nova Economia Austríaca"
+ #AUS_fortify_vienna: "Fortificar Viena"
+ #AUS_fortify_italy: "Fortificar a Fronteira Italiana"
+
+### Elections of 1936
+ AUS_elections: "Eleições Gerais de 1936"
+AUS_elections_desc: "Eleições eram realizadas a cada seis anos na parte austríaca da Monarquia Dual, embora desde o fim da Weltkrieg, vários desses períodos de atuação tenham sido encurtados por reformas ou escândalos.\nA política austríaca é dominada pelo SDAP, o Partido dos Trabalhadores Social-Democrata e pelo CS, os Cristãos-Sociais. Ambos têm ideias diferentes sobre como resolver a crise em curso, mas quem vencerá?"
+
+ AUS_sdap_industrial_workers_council: "Reformas de Bem-Estar Público"
+ AUS_sdap_industrial_workers_council_desc: "A principal preocupação do SDAP durante a campanha eleitoral era garantir que o trabalhador austríaco sobrevivesse à crise em curso. Eles planejam reafirmar as muitas reformas introduzidas em conjunto com o CS desde a Weltkrieg e fornecer pensões para todos aqueles que perderam seus empregos."
+
+ AUS_sdap_1: "Escolas, Hospitais e Parques"
+ AUS_sdap_1_desc: "Construir coisas novas é uma ótima maneira de criar empregos a curto prazo. Além disso, as coisas que estão sendo construídas podem acabar proporcionando ainda mais empregos, e se são escolas, hospitais e parques, são para o bem comum de qualquer maneira, então, além do dinheiro do governo, não há nada a perder."
+
+ AUS_sdap_2: "Naturfreunde"
+ AUS_sdap_2_desc: "As tendências socialistas sempre foram algo principalmente abraçado pelos habitantes das cidades - e esses habitantes das cidades têm, desde o início do século, encontrado um novo passatempo: caminhadas. Muitos vienenses, muitos deles membros do partido, passaram a desfrutar de subir as inúmeras montanhas da Áustria em grupos. Trazer clubes de caminhada para o campo pode ajudar a levar simpatias socialistas para áreas tradicionalmente conservadoras."
+
+ AUS_sdap_3: "Transmissões Nacionais"
+ AUS_sdap_3_desc: "Entregar notícias concisas e neutras para as muitas regiões remotas da Áustria sempre foi um pouco problemático, especialmente porque os jornais locais sempre tiveram uma certa visão política inerente a eles, apesar de afirmarem o contrário. No entanto, o rádio pode ser a solução para o problema - investir nas novas máquinas pode aproximar a Áustria."
+
+ AUS_sdap_4: "Trabalho para os Desempregados"
+ AUS_sdap_4_desc: "Aqueles que perderam seus empregos com a crise em curso já receberam pensões para sustentá-los. No entanto, eles ainda querem trabalho - já que já os pagamos de qualquer maneira, podemos muito bem empregá-los. Fábricas que foram anteriormente fechadas por seus proprietários agora estão começando a operar novamente, lideradas por conselhos controlados pelo Estado."
+
+ AUS_sdap_5: "Recuperação Inicial"
+ AUS_sdap_5_desc: "A reabertura de algumas indústrias-chave fez o jogo rodar novamente. Embora ainda não estejamos tendo lucro, estamos produzindo o que as pessoas precisam novamente, e isso é exatamente o que uma economia precisa para funcionar sem problemas. Estamos abrindo lentamente mais indústrias, mas apenas o tempo dirá se continuar a fazê-lo levará a uma recuperação completa."
+
+ AUS_sdap_6: "Passado o Gargalo"
+ AUS_sdap_6_desc: "Após alguma recuperação inicial, o status de nossa economia estagnou por um tempo. No entanto, parece que finalmente está dando uma virada para melhor, as indústrias privadas estão começando a seguir o exemplo público e ampliar a produção para acompanhar seus colegas patrocinados pelo estado."
+
+ AUS_sdap_7: "Uma Indústria em Recuperação"
+ AUS_sdap_7_desc: "A crise está desaparecendo, e em contraste com ela, parece que as políticas da Viena Vermelha levaram a uma era de prosperidade. Que os franceses e britânicos digam o que quiserem, a Social-Democracia funciona para nós."
+
+ AUS_cs_national_austerity_council: "Conselho Nacional de Austeridade"
+ AUS_cs_national_austerity_council_desc: "A coisa mais importante que precisamos lembrar ao lidar com a crise econômica em curso é que não devemos deixar que ela se acumule à já existente dívida nacional. Os cofres da Áustria precisam estar cheios, não vazios, nos próximos anos, e há apenas uma maneira de conseguir isso: cortar drasticamente os gastos."
+
+ AUS_cs_fill_the_coffers: "Encher os Cofres"
+ AUS_cs_fill_the_coffers_desc: "O pouco que temos, devemos gastar com cuidado - tal foi o lema do CSP durante as eleições. Tendo nos últimos seis anos se envolvido em um grande escândalo bancário, não estava certo que as pessoas confiariam em nós com seu dinheiro. Agora, mostramos a eles que podem."
+
+ AUS_cs_2: "Controlar a Inflação"
+ AUS_cs_2_desc: "Um pouco de inflação não é algo ruim, hiperinflação é. Temos que nos livrar de todo esse dinheiro circulando no mercado, e rápido. Os preços dos títulos foram reduzidos e as taxas de juros aumentadas ao máximo; agora esperamos para ver os efeitos dessas medidas."
+
+ AUS_cs_3: "Investimentos Cautelosos"
+ AUS_cs_3_desc: "Com o valor de nossa moeda assegurado, devemos ter cuidado para que o pouco dinheiro que nos atrevemos a gastar vá para lugares que retornarão o investimento. Isso, é claro, significa que temos que analisar cuidadosamente onde nosso dinheiro pode trabalhar mais. Felizmente, contamos com a assistência dos melhores economistas da Áustria."
+
+ AUS_cs_4: "Compromisso com o SDAP"
+ AUS_cs_4_desc: "Os socialistas fizeram um bom trabalho enfiando suas bobagens nas cabeças dos simples habitantes das cidades. Agora que estamos no poder, temos que lidar com isso. Estamos nos encontrando com pessoas do SDAP para discutir a instituição de algumas das reformas pelas quais estavam marchando."
+
+ AUS_cs_5: "Subsídios para Agricultores"
+ AUS_cs_5_desc: "O CSP sempre foi o partido dos camponeses. Os socialistas se preocupam apenas com os trabalhadores, e os agricultores são com frequência esquecidos. Estamos compensando isso oferecendo subsídios para o desenvolvimento."
+
+ AUS_cs_6: "Reparar a Ruptura Social"
+ AUS_cs_6_desc: "Todas as classes sociais estão se culpando pelo desaparecimento da riqueza, seja monetária ou em bens. O Cidadão culpa o Agricultor por não ter comida, e o Agricultor culpa o Cidadão por não ter dinheiro. A sociedade está dividida, e apenas por meio de um discurso cuidadoso ela será reparada. É onde começa essa jornada árdua."
+
+ AUS_cs_7: "O Que Precisamos"
+ AUS_cs_7_desc: "Impérios coloniais e trabalho do Reichspakt são tudo muito bonito, mas são luxos que não precisamos. Não se pode viver consumindo marfim e aço fundido. A Alemanha pode ficar com queimaduras de sol, pois o homem em Viena conhece seu lugar e quer o que realmente precisa - uma economia e sociedade funcionais, livres de influências externas."
+
+### Military Tree
+
+ AUS_military_expansion: "Expandir o Exército Austríaco"
+ AUS_military_expansion_desc: "As dificuldades econômicas da Monarquia desde o Weltkrieg tornaram difícil para os fundos chegarem ao exército. Com a situação econômica melhorando e as tensões crescendo por todo o continente, o financiamento militar aumentou significativamente, permitindo-nos finalmente modernizar nossas forças."
+
+ AUS_military_tech: "k.u.k. Technisches Militärkomitee."
+ AUS_military_tech_desc: "O Comitê Militar Técnico Imperial e Real, ou TMK, com suas origens que remontam a 1717, é uma instituição do Ministério da Guerra k.u.k. encarregada da observação, desenvolvimento e aplicação da tecnologia militar. Seu papel na modernização de nossos exércitos é absolutamente essencial, garantindo que a Monarquia não fique para trás em termos de desenvolvimentos tecnológicos e que nossas tropas permaneçam bem equipadas."
+
+ AUS_rifle_trials: "Testes de Rifles"
+ AUS_rifle_trials_desc: "Embora o TMK tenha conseguido evitar que o Império ficasse muito para trás apesar de recursos limitados, o Ministério da Guerra ainda não adotou um rifle de auto-carregamento para nossas forças. O comitê deseja corrigir isso, e as inúmeras empresas de armas do Império estão ansiosas para competir por contratos governamentais. Para garantir que o melhor rifle seja adotado, o TMK está organizando novos testes de rifles."
+
+ AUS_artillery_modernisation: "Modernização da Artilharia"
+ AUS_artillery_modernisation_desc: "Embora empresas como Škoda e Böhler tenham conseguido acompanhar o desenvolvimento de artilharia em todo o mundo graças a contratos estrangeiros, a maioria de nossa artilharia data da Weltkrieg. Com a artilharia sendo uma das peças mais importantes da tecnologia militar, o TMK está ansioso para substituir as antigas armas do exército por modernas à medida que expandimos nosso arsenal."
+
+ AUS_military_mountaineers: "Expandir a Gebirgstruppe"
+ AUS_military_mountaineers_desc: "A Gebirgstruppe (Tropas de Montanha) inclui algumas das unidades mais condecoradas e respeitadas da Monarquia, que repetidamente repeliram invasões italianas. Como são essenciais para a defesa do Império e há muitos recrutas em potencial nas regiões alpinas e dos Cárpatos, expandir e melhorar essas unidades é uma prioridade."
+
+ AUS_motorisation: "Expansão do Militär-Automobilwesen"
+ AUS_motorisation_desc: "Enquanto o Império Austro-Húngaro foi pioneiro na adoção de automóveis para o militar, eles sempre foram limitados em número. O Militär-Automobilwesen k.u.k. é a seção do TMK responsável pelo desenvolvimento e implantação de veículos militares. A importância dos caminhões já é clara para o Estado-Maior General, e eles tornaram a motorização do exército uma prioridade."
+
+ AUS_tank_trials: "Testes de Tanques"
+ AUS_tank_trials_desc: "Com o trauma da Weltkrieg ainda fresco para muitos, os tanques foram prontamente adotados no exército austro-húngaro, pois sua utilidade foi comprovada durante a guerra, com empresas como Škoda e ČKD desenvolvendo alguns dos projetos de tanques mais avançados do mundo. À medida que o desenvolvimento de tanques avança rapidamente, o TMK quer realizar testes para novos tanques para diferentes finalidades."
+
+ AUS_radar: "Funkgestützte Flugzeugortung"
+ AUS_radar_desc: "O trabalho do matemático húngaro Zoltán Lajos Bay em radares chamou a atenção do TMK e do Fliegerkorps, ansiosos para colocar a invenção em prática a fim de melhorar as defesas do Império contra ameaças vindas dos céus. Experimentos sobre a Funkgestützte Flugzeugortung (Localização de Aeronaves Baseada em Rádio) estão se mostrando frutíferos, e o Império deverá ter um radar funcional em breve."
+
+ AUS_rockets: "Raketenflugtechnik"
+ AUS_rockets_desc: "Há vários cientistas de foguetes em todo o Império, como Eugen Sänger e Theodor von Kármán. Embora haja dúvidas sobre a foguetaria e suas aplicações militares, o Comitê deseja desenvolver ainda mais os foguetes, acreditando que seu potencial é grande demais para ser ignorado."
+
+ AUS_reform_AOK: "Reformar o Armeeoberkommando"
+ AUS_reform_AOK_desc: "O Armeeoberkommando (AOK), ou Alto Comando do Exército, foi formado pela primeira vez em 1914. Sua tarefa era unir os diferentes comandos do Exército Comum, da Marinha, da Landwehr austríaca e do Honvéd húngaro para dirigir o esforço de guerra. Pouco depois da guerra, no entanto, o AOK foi dissolvido e nossas forças foram divididas novamente. Recriar o AOK é considerado necessário para reunir as diferentes forças."
+
+ AUS_doctrine_Jansa: "Planejamento Central de Janša"
+ AUS_doctrine_Jansa_desc: "Feldmarschall-Leutnant Alfred Janša von Tannenau, um dos possíveis candidatos ao próximo Chefe de Estado-Maior, acredita em uma estratégia defensiva para o Império após as perdas traumáticas do Weltkrieg. Ele acredita que um planejamento e preparação minuciosos são a melhor maneira de conduzir uma guerra, querendo melhorar a comunicação entre os comandantes para limitar as baixas o máximo possível."
+
+ AUS_doctrine_Hickmann: "Superioridade de Fogo de Hickmann"
+ AUS_doctrine_Hickmann_desc: "Generalmajor-Ingenieur Emil Hickmann, membro do Estado-Maior Geral, acredita que o exército deve se concentrar em obter uma vantagem técnica contra os inimigos do Império. Como o Weltkrieg permanece uma experiência traumática, limitar as baixas é de suma importância, e Hickmann acredita que um suporte de fogo e equipamento aprimorados são fundamentais na guerra moderna."
+
+ AUS_doctrine_von_Hubicki: "Guerra Móvel de Von Hubicki"
+ AUS_doctrine_von_Hubicki_desc: "General der Kavallerie Alfred von Hubicki, atualmente comandante da Cavalaria Austro-Húngara, acredita que o futuro da guerra são tanques e caminhões. A mobilidade é fundamental, com os tanques sendo os novos Hussardos e Couraceiros do campo de batalha. Esta nova cavalaria deve manobrar e subjugar seus inimigos antes que possam reagir."
+
+ AUS_communications: "Comunicações Aprimoradas"
+ AUS_communications_desc: "Desde o início da Weltkrieg, invenções como o rádio tornaram as comunicações entre comandantes e tropas muito mais fáceis. Com melhores comunicações, o alto comando pode reagir a eventos imprevistos muito mais rapidamente, limitando os danos que podem causar e contra-atacando."
+
+ AUS_better_support_equipment: "Maximizar o Suporte de Fogo"
+ AUS_better_support_equipment_desc: "As unidades devem estar adequadamente equipadas para serem eficazes. Quanto mais suporte tiverem, melhor se sairão com menos baixas. Isso inclui não apenas a artilharia, mas também caminhões para evacuar os feridos, unidades adequadas de reconhecimento e manutenção, e assim por diante."
+
+ AUS_better_support_equipment: "Maximizar Apoio de Fogo"
+ AUS_better_support_equipment_desc: "As unidades devem estar devidamente equipadas para serem eficazes. Quanto mais apoio tiverem, melhor executarão com menos baixas. Isso inclui não apenas artilharia, mas também caminhões para evacuar os feridos, unidades de reconhecimento e manutenção adequadas, e assim por diante."
+
+ AUS_mech_cavalry: "Cavalaria Mecanizada"
+ AUS_mech_cavalry_desc: "Enquanto tanques são fortes, eles necessitam de apoio da infantaria, ou se tornam extremamente vulneráveis. A infantaria deve ser capaz de acompanhar os tanques, e embora caminhões sejam bons em estradas, um veículo de transporte de tropas com esteiras seria ideal. Felizmente, uma unidade húngara reconstruiu tanques obsoletos e tratores de artilharia em transportes improvisados blindados de tropas, preenchendo perfeitamente essa lacuna."
+
+ AUS_kavalleriepanzer: "Projeto Kavalleriepanzer"
+ AUS_kavalleriepanzer_desc: "Conforme o nome indica, os tanques de cavalaria preenchem efetivamente o papel que a cavalaria costumava desempenhar. A Áustria-Hungria desenvolveu e adotou com sucesso vários designs, e há poucos incentivos para mudar isso. Como a mobilidade é uma parte fundamental de nossa nova doutrina, o desenvolvimento de novos tanques de cavalaria deve ser priorizado."
+
+ AUS_infanteriepanzer: "Projeto Infanteriepanzer"
+ AUS_infanteriepanzer_desc: "Embora o exército já tenha numerosos designs bem-sucedidos de tanques de cavalaria, o projeto de tanque de infantaria até agora não conseguiu fornecer resultados. Isso deve ser corrigido, já que o apoio à infantaria é priorizado em nossa nova doutrina, e o projeto deve ser impulsionado ainda mais. Os designs futuros estão se tornando mais pesados e mais caros, mas poderosos e melhor protegidos."
+
+ AUS_auftragstaktik: "Auftragstaktik Moderna"
+ AUS_auftragstaktik_desc: "Auftragstaktik, ou táticas do tipo missão, foram adotadas com sucesso durante a Weltkrieg. Essas táticas envolvem o alto comando dando missões claramente definidas para que os subordinados trabalhem de forma independente para realizá-las, proporcionando grande flexibilidade e incentivando a iniciativa. Auftragstaktik pode ser adaptado para a guerra moderna e aplicado à nova doutrina."
+
+ AUS_aviation_effort: "k.u.k. Fliegerkorps"
+ AUS_aviation_effort_desc: "Anteriormente conhecido como k.u.k. Luftfahrtruppen, o Fliegerkorps é o serviço aéreo da Áustria-Hungria. Ficou sobrecarregado durante a Weltkrieg e teve um número limitado de aeronaves à sua disposição. Desde o fim da guerra, pouco foi feito para corrigir isso, pois o financiamento se tornou escasso. Com o recebimento de fundos substanciais novamente, modernizar e expandir o Fliegerkorps é finalmente possível."
+
+ AUS_uzelac-plan: "Plano de Apoio Terrestre de Uzelac"
+ AUS_uzelac-plan_desc: "Milan Emil Uzelac é o primeiro comandante da Luftfahrtruppen e continua influente no Estado-Maior e no Fliegerkorps. Ele acredita que o Fliegerkorps existe principalmente para apoiar o exército em suas operações. Portanto, a força aérea deve se concentrar em aeronaves de combate para manter a superioridade aérea e bombardeiros leves para atacar posições inimigas na frente."
+
+ AUS_loehr-plan: "Plano Aéreo Ofensivo de Löhr"
+ AUS_loehr-plan_desc: "Generalmajor Alexander Löhr é um defensor do bombardeio estratégico e da concessão de maior independência ao Fliegerkorps em relação ao Exército. Com bombardeiros pesados, o Fliegerkorps poderia levar a luta a qualquer inimigo da Monarquia e destruir suas capacidades militares e moral."
+
+ AUS_flugschule: "Fundar a k.u.k. Flugschule"
+ AUS_flugschule_desc: "Embora haja numerosas escolas de aviação em toda a Áustria-Hungria, nunca houve uma academia centralizada para coordenar o treinamento de pilotos e oficiais para o Fliegerkorps. A criação de tal instituição é essencial para as reformas, pois criará uma nova geração de oficiais e pilotos, ao mesmo tempo em que organiza o Korps de maneira menos improvisada."
+
+ AUS_fighter_trials: "Testes de Caça"
+ AUS_fighter_trials_desc: "O desenvolvimento de aeronaves está avançando a uma velocidade incrível. Para acompanhar, serão realizados testes para adotar uma nova aeronave de caça para o Fliegerkorps. Afinal, os caças são, sem dúvida, a espinha dorsal da força aérea e ajudarão a garantir a segurança de nossos céus."
+
+ AUS_light_bomber_trials: "Testes de Bombardeiro Leve"
+ AUS_light_bomber_trials_desc: "Como apoiar as operações do exército é uma prioridade para o Fliegerkorps, a adoção de uma aeronave bombardeira leve para esse papel é necessária. Os designs potenciais variam de bombardeiros bimotores relativamente 'pesados' a caças convertidos em bombardeiros de mergulho."
+
+ AUS_heavy_bomber_trials: "Testes de Bombardeiro Pesado"
+ AUS_heavy_bomber_trials_desc: "Bombardeiros pesados são um desenvolvimento relativamente recente na tecnologia de aeronaves, e os defensores do bombardeio estratégico veem seu potencial. Sua longa autonomia e grande capacidade de carga de bombas os tornam perfeitos para o papel. Assim, estão sendo realizados testes, e as empresas de aeronaves estão ansiosas para ganhar um contrato tão lucrativo."
+
+ AUS_medium_bomber_trials: "Testes de Bombardeiro Médio"
+ AUS_medium_bomber_trials_desc: "O potencial de versáteis bombardeiros médios bimotores para uma variedade de missões diferentes chamou a atenção do alto comando. Como um bombardeiro tático seria muito útil para o Fliegerkorps, os fabricantes de aeronaves estão, mais uma vez, competindo em testes para a próxima geração de bombardeiros."
+
+ AUS_phoenix: "Phönix"
+ AUS_phoenix_desc: "Durante a Weltkrieg, uma pequena empresa em Viena, chamada Phönix, abasteceu nossa força aérea produzindo aviões alemães licenciados para nosso mercado. Desde então, a empresa tem experimentado com vários designs, alguns dos quais podem ser a chave para modernizar o Fliegerkorps."
+
+ AUS_mil_expanded: "O Novo Exército k.u.k."
+ AUS_mil_expanded_desc: "A reforma de nosso exército foi um processo longo e caro, mas finalmente deu frutos. Novos tanques, armas, navios e aviões estão saindo das linhas de montagem e indo para nossos exércitos reformados e prontos para a batalha contra os inimigos do Império!"
+
+ AUS_naval_effort: "Reforçar a k.u.k. Kriegsmarine"
+ AUS_naval_effort_desc: "A k.u.k. Kriegsmarine sempre foi subfinanciada e subestimada pelo governo austríaco e seu povo. Sem um império colonial, a marinha nunca teve apoio real ou propósito estratégico. No entanto, essa é uma mentalidade perigosa, e com novas ameaças sindicalistas no Mediterrâneo, uma Kriegsmarine totalmente nova é vital para proteger nossas terras centrais."
+
+ AUS_flexible_navy: "Guerra Flexível"
+ AUS_flexible_navy_desc: "Nossa equipe naval decidiu seguir uma doutrina envolvendo U-boats e ataques a comboios, a fim de infligir o máximo de danos possível sem ter que enfrentar o poder avassalador das marinhas francesa e britânica. Nossos Unterseeboots atacarão o inimigo onde mais dói, na economia."
+
+ AUS_large_navy: "Plano de Marinha Grande"
+ AUS_large_navy_desc: "Em linha com a doutrina tradicional, a equipe da Kriegsmarine decidiu apoiar a frota de superfície maior que possuímos atualmente. Centralizado em couraçados cada vez maiores e aumentando nossa capacidade de fogo com canhões navais maiores, essas ideias nos ajudarão a projetar nosso poder e apoiar operações terrestres."
+
+ AUS_capital_ships_effort: "Plano de Navios Capitais Austríacos"
+ AUS_capital_ships_effort_desc: "A equipe começou um esforço concentrado para melhorar nossos designs de couraçados, trazendo mais poder de fogo às nossas batalhas. Aumentar o tamanho dos canhões e o cinturão blindado permite que nossos couraçados resistam muito mais nos ataques liderados e causem muito mais danos neles também."
+
+ AUS_small_ships_effort: "Plano de Navios Pequenos Austríacos"
+ AUS_small_ships_effort_desc: "Foi decidido que precisamos de novos modelos para destroyers e cruzadores leves, para combater submarinos inimigos e estabelecer uma presença de superfície. Enquanto nossos submarinos são bons, navios maiores são necessários para apoiar operações terrestres e realizar tarefas que os submarinos não têm o poder de fogo para completar."
+
+ AUS_cattaro: "A Base Aérea de Cattaro"
+ AUS_cattaro_desc: "Construída pela primeira vez em 1914 como uma base de onde voos de reconhecimento sobre o Adriático foram realizados durante o Weltkrieg, a base aérea k.k. na Baía de Cattaro, ou Kotor, caiu em desuso após o fim da guerra. No entanto, sua posição próxima à entrada do Adriático ainda pode se mostrar estrategicamente importante."
+
+### Ausgleich 1937
+
+ AUS_ausgleich: "Renegociações do Ausgleich de 1937"
+ AUS_ausgleich_desc: "A cada dez anos, 60 delegados de cada metade da Monarquia Austro-Húngara se encontram para ajustar o ônus financeiro de cada metade para os assuntos comuns. Desde 1927, a Hungria se recusa a pagar sua parte em protesto contra a criação da Ilíria. As renegociações deste ano podem alterar completamente o equilíbrio interno da Monarquia."
+### Occupation branch
+
+ AUS_military_occupation: "Fim do Dualismo"
+ AUS_military_occupation_desc: "As terras da coroa rebeldes foram subjugadas, mas não temos a intenção de libertá-las de qualquer forma no futuro próximo. Que todos aqueles que sequer pensam em desafiar o Império Austríaco enfrentem o mesmo destino que eles tiveram."
+ AUS_status_quo: "Status Quo"
+ AUS_status_quo_desc: "Assim como uma década antes, nossas negociações por um Império administrativamente unido fracassaram. Não podemos fazer mais do que esperar enquanto tentamos aproximar a Transleithania por meio de reformas."
+
+ AUS_pintsch: "Pintsch AG"
+ AUS_bayer: "Bayer Österreich"
+
+ AUS_all_austrian_development_scheme: "O Esquema de Desenvolvimento Pan-Austríaco"
+ AUS_all_austrian_development_scheme_desc: "Embora nominalmente o Império tenha sido reunido sob um governo central, a realidade é uma história muito diferente. Os antigos reinos precisam de tempo e esforço para serem integrados à administração imperial, e para que os inúmeros povos do Império aceitem nosso domínio."
+
+ AUS_italy: "Renovar Vínculos Sicilianos"
+ AUS_italy_desc: "Após a Weltkrieg, reorganizamos a Itália em uma Federação de Estados pré-unificação liderada por um Habsburgo, mas depois de nos retirarmos do sul da Itália em 1925, a maioria da Federação abandonou nossa ambição e ela desmoronou. Devemos reacender nossos laços napolitanos?"
+
+ AUS_italy_republic_ultimatum: "Mudança de Regime na República"
+ AUS_italy_republic_ultimatum_desc: "A República Italiana em Milão ao sul sempre será um perigo e uma pedra em nosso sapato. Se desejamos restaurar a dominação austríaca na Itália, devemos exigir que os republicanos devolvam o poder ao Conselho da Federação Italiana, para que não possam nos trair quando tomarem o restante do norte da Itália."
+
+ AUS_ANI_tirol: "Encerrar a ANI"
+ AUS_ANI_tirol_desc: "A Associação Nacionalista Italiana é, quase por definição, nosso inimigo mortal. Seus líderes são loucos, sua retórica nacionalista é perigosa e suas reivindicações sobre nossas terras ao sul são inaceitáveis. Não somos tão vulneráveis quanto eles pensavam, e os esmagaremos como os insetos que são."
+
+ AUS_italy_republic_friendship: "Amizade com Milão"
+ AUS_italy_republic_friendship_desc: "Como os Estados do sul da Itália parecem improváveis em ajudar a restaurar a Federação, devemos depositar todas as nossas esperanças em nosso aliado em Milão. Eles têm mantido a fé conosco por muito tempo, e devemos retribuir essa amizade."
+
+ AUS_unify_italy: "Unificar as Terras Italianas"
+ AUS_unify_italy_desc: "A revolta dos sindicalistas italianos em Turim dividiu o país em dois, com a República Socialista da Itália apoiada pelos franceses a oeste e a República Italiana em nossa fronteira. Com Alemanha e França abertamente hostis entre si, ajudar a República não apenas nos tornará queridos por eles, mas também garantirá nosso flanco para uma guerra com a França."
+
+ AUS_transcarpathian_railway: "A Ferrovia Transcarpática"
+ AUS_transcarpathian_railway_desc: "Alcançar as extremidades do Império tem sido difícil nas últimas duas décadas, com a Hungria se recusando a nos permitir modernizar sua rede ferroviária. Agora que estamos no controle novamente, vamos implementar um antigo plano - uma ferrovia de alta velocidade direto através da Bacia dos Cárpatos."
+
+ AUS_bohemian_lands: "Expandir a Infraestrutura da Boêmia"
+ AUS_bohemian_lands_desc: "Sendo a principal região fronteiriça entre nós e a Alemanha, é vital que as estradas e sistemas ferroviários permaneçam bem mantidos e grandes o suficiente para transportar nosso exército caso um conflito ocorra. Após a curta, mas muito mecanizada guerra, as estradas da Boêmia estão longe de serem bem mantidas, não ajudadas pelos combates na região com rebeldes tchecos."
+
+ AUS_bohemian_resources: "Expandir as Siderúrgicas de Praga"
+ AUS_bohemian_resources_desc: "Com Praga agora sob o controle do novo governo central, ficou evidente que a produção de aço da cidade diminuiu muito do que deveria ser. Um novo plano para subsidiar as Siderúrgicas de Praga foi proposto pelo Kaiserrat, e parece ter chamado a atenção do Kaiser e da administração imperial."
+
+ AUS_hungarian_lands: "Reconstruir a Indústria Húngara"
+ AUS_hungarian_lands_desc: "Embora seja principalmente um país rural, a Hungria tinha grandes indústrias civis a oeste, onde, infelizmente, a maioria dos combates ocorreu. Budapeste, parcialmente destruída pela guerra, se tornará o ponto central de um esforço do governo imperial para devolver a área devastada pela guerra ao seu antigo esplendor."
+
+ AUS_extend_hungarian_airbases: "Reivindicar os Céus Húngaros"
+ AUS_extend_hungarian_airbases_desc: "A Hungria é um país vasto, e é difícil responder rapidamente a qualquer nova ameaça, especialmente da Romênia e dos Bálcãs. A construção de novas bases aéreas em todo o país remediará esse problema, além de apoiar as economias locais e o esforço de reconstrução em todo o país."
+
+ AUS_cro_bosnian_lands: "Expandir a Indústria Bósnia e Croata"
+ AUS_cro_bosnian_lands_desc: "Embora não tão danificadas pela guerra quanto a Hungria, Bósnia e Croácia ainda sofreram danos, que estão sendo exacerbados pelo terrorismo étnico e dissidência. No entanto, como uma região importante para nossa marinha e para o comércio civil, a criação de novas indústrias nesta área faria muito mais pela nossa economia do que pode ser ignorado."
+
+ AUS_adria_sea_ports: "Construir Portos no Adriático"
+ AUS_adria_sea_ports_desc: "Com a nova indústria em vigor, é hora de aumentar nossas capacidades de construção naval e nossa capacidade de facilitar o comércio vital para nossas indústrias. Esses estaleiros novos apoiarão nossa marinha e marinha mercante, garantindo nossa primazia no Adriático sobre possíveis usurpadores italianos."
+
+ AUS_claim_serbia: "Esmagar a Sérvia"
+ AUS_claim_serbia_desc: "A Sérvia tem sido por muito tempo uma pedra em nosso sapato, desde incursões na Hungria durante o período de domínio otomano até a morte de Francisco Ferdinando e os ataques à Bósnia. Uma nação tão beligerante não pode ser permitida sentar-se em nossa fronteira sem desafio, desafiando a autoridade do Imperador apenas por sua existência."
+
+ AUS_claim_romanian_lands: "Reivindicar Terras Romenas"
+ AUS_claim_romanian_lands_desc: "O regime romeno sob Corneliu Codreanu reivindicou grandes partes da Transilvânia e de nossas províncias mais orientais, com base em grandes comunidades étnicas romenas na área. No entanto, a instabilidade política atual torna o exército romeno muito menos eficaz do que poderia ser, então agora é o momento de reivindicar toda a Romênia e os romenos para o Imperador!"
+
+ AUS_claim_silesia: "Recuperar a Silésia"
+ AUS_claim_silesia_desc: "A Silésia foi tomada pelos prussianos em 1742 durante a Guerra de Sucessão Austríaca, e eles mantiveram o antigo coração industrial da Áustria-Hungria por quase duzentos anos. Com a Alemanha particularmente instável nesta época do ano, sentimos que agora seria um bom momento para retomar o que é nosso."
+
+ AUS_the_new_Empire: "O Império Renascido"
+ AUS_the_new_Empire_desc: "A Áustria não é apenas uma região geográfica ou um país. É uma ideia, uma expressão da crença em um Sagrado Império Católico que recebeu o mandato de vigiar a Europa. Embora por séculos nossa autoridade tenha sido desafiada dentro e fora, nosso Império sempre persistiu, pois é o destino da Áustria governar o mundo."
+
+### Status Quo branch
+
+ AUS_cisleithanian_development_scheme: "O Esquema de Desenvolvimento Cisleitânico"
+ AUS_cisleithanian_development_scheme_desc: "Proposto não apenas parcialmente como uma maneira de superar a Hungria, o Esquema de Desenvolvimento Cisleitânico visa aproximar as muitas regiões da Áustria Cisleitânica e trazê-las economicamente ao mesmo nível das áreas mais desenvolvidas do Império."
+
+ AUS_the_illyrian_suedbahn: "A Südbahn Ilíria"
+ AUS_the_illyrian_suedbahn_desc: "A Südbahn, já concluída até Trieste, poderia ser facilmente estendida até a Ilíria, o que poderia ajudar a integrar a bacia de Agram e a costa ilíria nas indústrias do Império. Isso também nos permitiria acelerar a produção de novos navios para nossa marinha."
+
+ AUS_agram_industrial_complex: "O Complexo Industrial de Agram"
+ AUS_agram_industrial_complex_desc: "Agram, ou Zagreb, tornou-se a capital da Ilíria há pouco mais de uma década. Foi principalmente uma escolha conveniente, pois a cidade estava próxima da fronteira austríaca. No entanto, um novo plano proposto prevê a abertura de um complexo industrial em larga escala para torná-lo mais digno de ser a capital de todos os ilírios."
+
+ AUS_adriatic_ports: "Nossos Portos no Adriático"
+ AUS_adriatic_ports_desc: "Um dos sonhos da Áustria sempre foi dominar o Mar Adriático. Com a Itália significativamente enfraquecida e a costa ilíria pronta para mais docas e bases navais serem construídas, esse sonho poderia se tornar realidade."
+
+ AUS_northern_railway_galicia: "A Ferrovia do Norte: Galícia"
+ AUS_northern_railway_galicia_desc: "A construção da Ferrovia do Norte continuaria a partir da Morávia, passando por Cracóvia, e em direção a Lemberg e outros importantes alvos industriais."
+
+ AUS_galician_oil: "Perfurando por Petróleo"
+ AUS_galician_oil_desc: "Descobrimos que a Galícia Oriental abriga petróleo. Extrair isso nos permitiria desenvolver mais indústria nesta parte relativamente remota do Império."
+
+ AUS_northern_railway_bohemia: "A Ferrovia do Norte: Boêmia"
+ AUS_northern_railway_bohemia_desc: "Dado o fato de que o sistema ferroviário húngaro não está à altura do que uma Galícia industrializada precisaria para ser integrada à economia do Império, as k.k. Staatsbahnen apresentaram um plano para contornar a bacia dos Cárpatos. Isso começaria construindo uma conexão sólida através da Morávia, para alcançar as terras da Galícia."
+
+ AUS_morava_industrial_park: "Parque Industrial Morava"
+ AUS_morava_industrial_park_desc: "Concreto e aço, onde quer que você olhe. O Parque Industrial Morava é um complexo revolucionário e produzirá principalmente maquinaria pesada."
+
+ AUS_kk_Ministeria: "Os k.k. Ministeria"
+ AUS_kk_Ministeria_desc: "Os k.k. Ministeria são, semelhantes aos outrora comuns Ministeria com a Hungria, destinados a coordenar esforços administrativos com os novos súditos."
+
+ AUS_kk_Military_Reform: "A Reforma Militar k.k."
+ AUS_kk_Military_Reform_desc: "Tirando proveito da experiência e ideias de teóricos militares de todas as muitas partes do Império, podemos acelerar a modernização de nosso exército."
+
+ AUS_the_kk_Army: "O Exército k.k."
+ AUS_the_kk_Army_desc: "Ao manipular alguns números, instituindo novos regimentos liderados em várias línguas minoritárias, e uma boa dose de propaganda de recrutamento, deveríamos conseguir aumentar significativamente o contingente de nosso exército permanente."
+
+ AUS_kk_Administrative_Reform: "A Reforma Administrativa k.k."
+ AUS_kk_Administrative_Reform_desc: "O que é reformado em Viena, também deve ser reformado em Praga, Cracóvia e Zagreb. Com base nisso, estamos atualmente desenvolvendo um novo sistema administrativo local."
+
+ AUS_direct_rule_from_Vienna: "Centralizar os Governos"
+ AUS_direct_rule_from_Vienna_desc: "Atualmente, estamos formulando um plano sobre como reintegrar o novo súdito, agora que eles estão mais próximos de Viena."
+
+ AUS_kk_Education_Reform: "A Reforma Educacional k.k."
+ AUS_kk_Education_Reform_desc: "Ao trazer as várias reformas do Sistema Educacional que ocorreram na Áustria durante a década de 1920 para os outros estados da Cisleitânia, podemos educar a juventude de nossos súditos de maneira mais eficiente e mais aberta à ideia de uma Áustria Unida."
+
+ AUS_the_kk_Identity: "A Identidade k.k."
+ AUS_the_kk_Identity_desc: "O Império Austro-Húngaro frequentemente foi descrito como um amontoado de países independentes que simplesmente são governados pela mesma família. Que zombem de nosso Império o quanto quiserem, temos confiança em nosso Kaiser."
+
+ AUS_drastic_measures: "Medidas Drásticas em Tempos Difíceis"
+ AUS_drastic_measures_desc: "A guerra em andamento sobrecarregou o governo Cisleitânico e colocou a governança local em desordem. Devemos assumir um controle mais direto sobre nossos súditos federados, se quisermos sobreviver a isso."
+
+ AUS_still_their_king: "Ainda Seu Rei"
+ AUS_still_their_king_desc: "A Hungria pode reivindicar o que quiser, ainda somos seus suseranos, e estamos em guerra contra uma ameaça externa agora. Não importa como isso termine, precisamos deixar nossas diferenças de lado por enquanto."
+
+ AUS_cisleithania_centralised: "Cisleitânia Junta"
+ AUS_cisleithania_centralised_desc: "Nossas reformas em andamento uniram o Império. Claro, a Hungria ainda resistiu, mas até mesmo eles não podem negar que a Áustria está mais unida do que nunca."
+
+ AUS_ausgleich_1947: "Renegociações do Ausgleich de 1947"
+ AUS_ausgleich_1947_desc: "Mais uma vez, o Ausgleich será renegociado, e desta vez, a metade austríaca do Império está em uma posição muito mais forte do que da última vez. Imporemos nossa vontade sobre eles agora."
+
+### Pluraism branch
+
+ AUS_embrace_pluralism: "Abraçar o Pluralismo"
+ AUS_embrace_pluralism_desc: "Chegou a hora de federar o Império para um governo mais democrático. A fundação do estado federado centralizado levará a um futuro mais promissor para todos os povos austríacos."
+
+ AUS_austro-marxism: "Nações dentro de um Estado"
+ AUS_austro-marxism_desc: "As antigas fronteiras do Império e a antiga administração não reconhecem quão absurdamente diverso etnicamente é nosso Império. Não existem boêmios, apenas alemães e tchecos - da mesma forma, não existem galicianos, apenas poloneses e rutênios. A antiga administração nem mesmo acompanha qual nacionalidade as pessoas têm. Isso precisa acabar."
+
+#O princípio Austromarxista de Autonomia Pessoal Nacional descreve uma maneira de reunir os membros geograficamente divididos da mesma nação para "organizar as nações não em corpos territoriais, mas em uma simples associação de pessoas", separando radicalmente a nação do território e transformando-a em uma associação não territorial."
+
+ AUS_united_states: "Uma Federação de Iguais"
+ AUS_united_states_desc: "Os Estados Unidos da Grande Áustria, ou "Vereinigte Staaten von Groß-Österreich", foi uma proposta concebida por um grupo de estudiosos em torno do Arquiduque Francisco Ferdinando da Áustria. Essa proposta específica foi concebida pelo advogado e político Aurel Popovici em 1906 e tinha como objetivo federalizar a Áustria-Hungria para ajudar a resolver as generalizadas tensões étnicas e nacionalistas."
+
+ AUS_decentralised_development_scheme: "Esquema de Desenvolvimento Descentralizado"
+ AUS_decentralised_development_scheme_desc: "Não podemos mais fingir que os benefícios de nosso governo são autoevidentes. Devemos garantir a lealdade de todas as partes constituintes de nosso estado com um novo programa para auxiliar no desenvolvimento. Os frutos de nossa riqueza devem ser compartilhados por todos."
+
+ AUS_decentralised_infrastructure: "Iniciar Renovação Infraestrutural"
+ AUS_decentralised_infrastructure_desc: "Se quisermos promover uma identidade comum entre nossas nações, seria prudente renovar e interligar nossa infraestrutura rangendo para que, não importa onde em nossas terras alguém viaje, nunca esteja longe da civilização."
+
+ AUS_decentralised_military_factories: "Esquema de Desenvolvimento Militar"
+ AUS_decentralised_military_factories_desc: "Por tempo demais concentramos grande parte de nossos esforços de fabricação de armas em uma área pequena para desencorajar rebeliões e abusos. Essa situação deve mudar, e os benefícios naturais que esses grandes criadores de empregos trazem para uma região devem estar disponíveis para todos."
+
+ AUS_decentralised_docks: "Esquema de Desenvolvimento Naval"
+ AUS_decentralised_docks_desc: "Todos sabem que uma marinha forte é o sinal de um poder verdadeiramente significativo. Nossos esforços de federalização só podem funcionar se estiverem ligados à prestigiosa corrida armamentista naval, e expandir nossa capacidade de construção naval irá contribuir muito para apoiá-los."
+
+ AUS_decentralised_factories: "Parques Industriais"
+ AUS_decentralised_factories_desc: "Como parte de nosso Esquema, é imperativo que não ignoremos o setor civil, independentemente do estado atual da geopolítica. Os trabalhadores precisam de bens, e devemos, é claro, estar em posição de exportar e importar produtos de consumo e recursos naturais."
+
+ AUS_decentralised_more_factories: "Regiões Industriais"
+ AUS_decentralised_more_factories_desc: "Precisamos ir além. Indo além de simplesmente incentivar o crescimento de parques e centros industriais, devemos fomentar o desenvolvimento por todos os meios necessários - incluindo a criação de órgãos de manufatura regional quase independentes."
+
+ AUS_transformation_of_nature: "Transformação da Natureza"
+ AUS_transformation_of_nature_desc: "Nossos esforços precisam ir além da mera questão da humanidade, eles precisam se estender até a própria natureza. Se quisermos desenvolver ainda mais nosso estado recém-revigorado, temos que fazer o que for necessário, mesmo que isso signifique despojar algumas de nossas belas áreas selvagens."
+
+ AUS_decentralised_resources: "Escavação de Recursos"
+ AUS_decentralised_resources_desc: "Nossa nação está faminta, e ela deve ser saciada com o sangue da terra. A Galícia pode ser relativamente atrasada, mas é abençoada com um suprimento abundante de petróleo que pode ajudar a impulsionar nossa nação para o futuro. Tudo o que é necessário para alcançá-lo é vontade."
+
+ AUS_am_stabilising_the_country: "Estabilizando o País"
+ AUS_am_stabilising_the_country_desc: "Por tempo demais nossa 'nação' tem sido uma coleção difícil de povos dignos das maiores ménageries de Viena. Com nossas tentativas de federalização ainda cruas, devemos garantir que todos os esforços de nosso governo estejam focados em manter essa união."
+
+ AUS_am_followup_2: "O Pior Já Passou"
+ AUS_am_followup_2_desc: "Embora tenha sido uma luta, nossa nação demonstrou de maneira inegável sua resiliência nos últimos meses. Surpreendeu até mesmo nossos líderes mais otimistas quão rapidamente nossa nação se recuperou do trauma da federalização repentina. Mesmo assim, ainda há um longo caminho a percorrer antes que a instabilidade diminua."
+
+ AUS_am_followup_3: "Encerrar o Ausgleich"
+ AUS_am_followup_3_desc: "Por tempo demais suportamos essa farsa conhecida como Ausgleich. Isso deve acabar se quisermos avançar para o futuro como uma nação forte e unificada. Embora possa ser um salto no escuro, esse processo arcano deve ser interrompido, não importa as consequências."
+
+ AUS_am_followup_4: "A Hungria Cede"
+ AUS_am_followup_4_desc: "A frente unida que se formou contra os teimosos húngaros finalmente teve sucesso. Eles não podem mais resistir ao inevitável, pois a grandeza de nossa nação tornou-se cada vez mais clara para todos. Até mesmo a orgulhosa Hungria se alinhou para colher os benefícios."
+
+ AUS_am_followup_5: "Para o Mundo"
+ AUS_am_followup_5_desc: "Nossa nação finalmente superou suas divisões internas após décadas de caos e disputas internas. O que conseguimos em apenas alguns anos é de tirar o fôlego, e agora é finalmente hora de desfrutar dos frutos da paz e harmonia."
+
+ AUS_us_approaching_the_autonomies: "Abordando as Autonomias"
+ AUS_us_approaching_the_autonomies_desc: "Se quisermos superar as divisões do passado, é essencial que tratemos, não mais como meros súditos, mas como membros de uma verdadeira união de Estados."
+
+ AUS_us_deal_with_Cisleithania: "Integrando a Cisleitânia"
+ AUS_us_deal_with_Cisleithania_desc: "As terras da Cisleitânia estão prontas para a unificação. Devemos derrubar as barreiras internas em nossa seção do Império se quisermos implementar reformas verdadeiramente radicais."
+
+ AUS_us_deal_with_Hungary: "Trato com a Hungria"
+ AUS_us_deal_with_Hungary_desc: "O espinho que é a Hungria precisa ser removido do nosso lado, não importa o quê. Preparamos as reparações que eles vêm pedindo há mais de uma década agora."
+
+ AUS_us_united: "Uma União Não Apenas no Nome"
+ AUS_us_united_desc: "Não há mais pretensão de unidade na Áustria, há verdadeira unidade. Onde antes havia brigas e disputas, agora existe concórdia. Agora somos uma verdadeira União de Estados."
+
+ AUS_us_looking_outwards: "Olhando para Fora"
+ AUS_us_looking_outwards_desc: "Com as divisões do passado deixadas de lado, os Estados Unidos agora podem voltar sua atenção para questões maiores de estado. Não permaneceremos mais sob o fardo das intrigas internas, mas sim enfrentaremos o mundo - juntos."
+
+### Foreign Branch
+
+ AUS_protector_of_the_balkans: "Protetor dos Bálcãs"
+ AUS_protector_of_the_balkans_desc: "A Weltkrieg deixou os Bálcãs, em grande parte, como uma zona de influência austríaca. Infelizmente, tivemos que nos concentrar em outras coisas nos últimos anos. Vamos remediar isso agora e mostrar mais uma vez quem é o mestre da casa."
+
+ AUS_potb_albania: "Aproximando-se da Albânia"
+ AUS_potb_albania_desc: "Não podemos mais ficar parados enquanto a Albânia fica ao sul de nossa influência. É hora de resolver a questão de onde eles se posicionam."
+
+ AUS_potb_greece: "Aproximando-se da Grécia"
+ AUS_potb_greece_desc: "Ainda existe uma questão pendente sobre a posição da Grécia. Devemos procurar trazê-la para a nossa esfera de influência."
+
+ AUS_potb_invite_bulgaria: "Velhos Amigos na Bulgária"
+ AUS_potb_invite_bulgaria_desc: "A Bulgária foi uma aliada essencial durante o Weltkrieg, ajudando-nos a manter as ambições excessivas dos sérvios sob controle - ou assim pensávamos. A dissolução das Potências Centrais após a guerra permitiu que os traiçoeiros sérvios escapassem de nossas garras. Mais uma vez, a Bulgária é fundamental para restaurar a paz e a estabilidade nos Bálcãs de uma vez por todas."
+
+### Parties ###
+ AUS_totalist_party: "TVK"
+ AUS_totalist_party_long: "Totalitäres Volkskonzil"
+ AUS_syndicalist_party: "SAR"
+ AUS_syndicalist_party_long: "Sozialistischer Arbeiterrat"
+ AUS_radical_socialist_party: "ASP"
+ AUS_radical_socialist_party_long: "Arbeitsgemeinschaft Sozialistischer Parteien"
+ AUS_social_democrat_party: "SDAP"
+ AUS_social_democrat_party_long: "Sozialdemokratische Arbeiterpartei"
+ AUS_social_liberal_party: "LB"
+ AUS_social_liberal_party_long: "Liberale Bewegung"
+ AUS_market_liberal_party: "NLP"
+ AUS_market_liberal_party_long: "Nationalliberale Partei"
+ AUS_social_conservative_party: "CS"
+ AUS_social_conservative_party_long: "Christlichsoziale"
+ AUS_authoritarian_democrat_party: "LB"
+ AUS_authoritarian_democrat_party_long: "Landbund"
+ AUS_paternal_autocrat_party: "GDVP"
+ AUS_paternal_autocrat_party_long: "Großdeutsche Volkspartei"
+ AUS_national_populist_party: "HB"
+ AUS_national_populist_party_long: "Heimatblock"
+
+ AUS_Alt_pat_aut_party: "MR"
+ AUS_Alt_pat_aut_party_long: "Militärregierung"
+
+### Traits ###
+ ganz_danubius_submarine: "Instalações Submarinas Ganz Danubius"
+ steyr_arms_facility: "Instalação de Armas Steyr"
+ skoda_tank_factories: "Fábricas de Tanques Škoda"
+ phoenix_fighters: "Fábrica de Caças Phönix"
+
+
+### Events ###
+ AUS_country_intro_header: "A Situação da Áustria em 1936"
+ AUS_country_intro_content: "Apesar de estar entre os vitoriosos da Weltkrieg, a guerra revelou claramente as divisões de cultura, classe e ideologia dentro do Império, e a agitação interna continuou conforme a guerra chegava ao fim.\n\nKaiser Karl, seguindo os passos do assassinado Francisco Ferdinando ao tentar reformar o Império Austro-Húngaro multinacional em algo que pudesse sobreviver no século XX, lançou uma série de reformas em larga escala; no entanto, seus esforços foram em grande parte bloqueados pela nobreza do lado húngaro do Império - levando seus planos de federalização a progredir apenas lentamente, e apenas no lado Cisleitânico do Império.\n\nNo entanto, muitos sentem que há esperança para a Áustria - as últimas décadas foram difíceis para o Império, mas o esforço começou a dar frutos. A Áustria Cisleitânia, agora um estado federado, acalmou - mas o mesmo não pode ser dito para a Transleitânia. No entanto, é improvável que a bacia dos Cárpatos continue nas mãos magiares, já que os povos da Hungria têm olhado para as liberdades do outro lado do Leita, desejando ter tal autonomia para si mesmos. Se a reforma conseguirá encontrar seu caminho para a Hungria, apenas o Kaiser sabe ao certo."
+ austria.1.a: "Austria erit in orbe ultima."
+
+ AUS_guide: "§MStatus Quo§! (§cConservador Social§!/ §SSocial Democrata§!)\n£white_dot Durante o Ausgleich de 1937, favoreça a Hungria o suficiente em relação aos outros territórios para evitar que seus delegados saiam revoltados ou que ocorra um conflito.\n£white_dot Após isso, você poderá escolher o foco Status Quo, mantendo o império descentralizado.\n\n§MFederação Danubiana§! (§SSocial Democrata§!)\n£white_dot Na eleição de 1936, eleja o §SSozialdemokratische Arbeiterpartei§!.\n£white_dot Durante o Ausgleich de 1937, favoreça os territórios em relação à Hungria, o que resultará na saída revoltada dos delegados húngaros.\n£white_dot Emita um ultimato à Hungria após a repressão de protestos pacíficos, isso levará a uma guerra civil com a Hungria se eles recusarem.\n£white_dot Uma vez que os húngaros forem derrotados, libere a Hungria e os outros novos territórios, desbloqueando a árvore do Pluralismo para formar a Federação Danubiana.\n\n§MEstados Unidos da Grande Áustria§! (§cConservador Social§!)\n£white_dot Siga o guia acima para a Federação Danubiana, mas eleja o §cChristlichsoziale§! durante as eleições de 1936, o que permitirá a formação dos Estados Unidos da Grande Áustria.\n\n§MFim do Dualismo§! (§PAutocrata Paternal§!)\n£white_dot Durante o Ausgleich de 1937, favoreça os territórios em relação à Hungria e inicie a guerra civil conforme descrito acima.\n£white_dot Não libere a Hungria e os outros territórios após vencer a guerra civil, o que desencadeará uma segunda guerra civil com os territórios restantes.\n£white_dot Vença a guerra civil contra os territórios, após o qual você poderá escolher o foco Fim do Dualismo."
+ 
+ austria.2.t: "Segunda-Feira Negra Atinge a Áustria"
+ austria.2.d: "A Segunda-Feira Negra atingiu a Alemanha, e não demoraria muito para que suas ondas de choque se espalhassem pela Europa. Dada sua proximidade, a Áustria foi uma das primeiras a ser afetada. A economia está enfrentando dificuldades, e tempos turbulentos estão à frente."
+ austria.2.a: "Ach, Gott!"
+
+ austria.3.t: "A Morte do Kaiser Karl"
+ austria.3.d: "Sofrendo de bronquite crônica, o Kaiser Karl faleceu hoje."
+ austria.3.a: "Viva Kaiser Otto!"
+
+ austria.4.t: "Emil Freiherr von Škoda Falece"
+ austria.4.d: "O neto do ilustre fundador do conglomerado Škoda faleceu hoje de insuficiência cardíaca.\n\nEmil von Škoda, compartilhando o nome do fundador da empresa, sucedeu seu pai, Karl, como chefe em 1929. Enquanto seu avô fundou a empresa e a conduziu ao sucesso, Karl liderou a empresa durante a Weltkrieg, alcançando alturas ainda maiores. Por outro lado, Karl nunca alcançou a mesma popularidade do fundador, muitas vezes tratando mal seus funcionários tchecos. Emil não poderia ter sido mais diferente nesse aspecto; fluente em tcheco, ele frequentemente simpatizava com seus trabalhadores e conseguia se comunicar com eles sem problemas. Além disso, ele liderou a empresa por algumas de suas maiores dificuldades, como a Crise do Creditanstalt e a Segunda-Feira Negra.\n\nInfelizmente, com sua morte e a de seu irmão mais novo no início deste ano, a linhagem masculina da família Škoda morre com ele. Embora a imensa fortuna da família seja dividida entre sua irmã mais nova Hedwig e a matriarca da família, Hermine, a liderança da empresa provavelmente se afastará de sua direção. No entanto, a Škoda certamente não vai a lugar algum e continuará a viver como titãs da indústria de armas.\n\nA liderança de facto da indústria austríaca mudou-se para a Federação das Indústrias Austríacas e seu fundador, Hans Lauda, atualmente liderando a empresa Veitscher."
+ austria.4.a: "Sua linhagem termina, mas seu nome continua."
+
+ aus.elections.1.t: "Eleições Austríacas de 1936"
+ aus.elections.1.d: "Desde o início da federalização, e as 'eleições austríacas' foram principalmente reduzidas à parte de língua alemã do Império, dois grandes partidos dominaram a política austríaca: o CS e o SDAP.\n\nAs eleições deste ano, também, são disputadas com firmeza; o SDAP e o CS têm ideias muito diferentes sobre como lidar com a crise econômica em curso. O programa do SDAP concentra-se em aliviar a situação dos trabalhadores, com foco em benefícios de desemprego e intervenção governamental. O CS, por outro lado, segue um programa de medidas de austeridade severas."
+ aus.elections.1.a: "Cabe ao povo decidir."
+
+ aus.elections.2.t: "Abertura da Escola e Comício do SDAP"
+ aus.elections.2.d: "Mesmo que a situação econômica da Áustria tenha sido precária por um tempo, nos primeiros anos após a Weltkrieg, quando o CS e o SDAP ainda cooperavam em seu governo, [Root.GetNameDef] viu amplas reformas na educação e bem-estar. Academias para trabalhadores especializados começaram a ser construídas, pensões para trabalhadores foram introduzidas e o trabalho infantil foi eliminado de uma vez por todas. Viena tem sido considerada pioneira nos círculos socialistas.\n\nHoje, uma nova academia é inaugurada no nono distrito de Viena, o que o SDAP considera um grande sucesso. Muitos discursos de vários políticos são realizados, com Karl Renner sempre em destaque.\n\nRenner tem sido o chefe efetivo do partido desde que conquistou a boa vontade do Imperador durante a Weltkrieg com uma política de Burgfrieden e cooperação com a Coroa."
+ aus.elections.2.a: "Seus esforços são louváveis."
+ aus.elections.2.b: "Eu preferiria que eles não reivindicassem os sucessos de um governo conjunto como seus próprios."
+
+ aus.elections.3.t: "Adler Denuncia o SDAP"
+ aus.elections.3.d: "Friedrich Adler, filho do ex-chefe do SDAP e um socialista radical conhecido principalmente por atirar em Graf Stürgkh em protesto à Weltkrieg, denunciou o SDAP como “o tipo de socialismo que está apenas servindo à elite”."
+ aus.elections.3.a: "Radicalismo é radicalismo."
+
+ aus.elections.4.t: "O CS Convida o Príncipe Otto para Caçar"
+ aus.elections.4.d: "O CS, o partido da pequena burguesia, da igreja católica e do interior conservador, geralmente se abstém de realizar grandes eventos públicos. Em Viena, eles concentram seus esforços em reuniões menores e privadas. Uma dessas reuniões planejadas será na forma de uma caçada na Wienerwald.\n\nO Príncipe Otto foi formalmente convidado para participar da caçada. Tendo desfrutado de uma educação aristocrática, o herdeiro dos Habsburgos já está acostumado a tais ocasiões sociais."
+ aus.elections.4.a: "Se ele quiser..."
+ aus.elections.4.b: "A Família Imperial está acima de coisas tão triviais."
+
+ aus.elections.5.t: "Caçada Bem-Sucedida para o CS"
+ aus.elections.5.d: "Após a caçada, foi realizada uma festa, durante a qual uma entrevista de rádio com vários figurões proeminentes do CS, mas também o Príncipe Otto, foi gravada. Parece que isso foi intencional, pois o Príncipe Otto agora está sendo associado ao partido, e o apoio entre nossos súditos mais devotos ao partido aumentou."
+ aus.elections.5.a: "Isso é o que eles estavam buscando?"
+
+ aus.elections.6.t: "Acidente de Caça: O Príncipe Otto está ferido?"
+ aus.elections.6.d: "Durante o que foi confirmado como um acidente por todos os espectadores, o rifle de caça do filho de um político proeminente do CS disparou acidentalmente, roçando a perna direita do Príncipe Otto no processo. Embora o herdeiro do trono não tenha sofrido ferimentos graves durante o incidente, a mídia já está tecendo suas teorias conspiratórias."
+ aus.elections.6.a: "Eles estão tentando matar meu herdeiro?"
+
+ aus.elections.10.t: "CS Vence as Eleições"
+ aus.elections.10.d: "As contagens finais das eleições estão concluídas. Embora tenha sido uma disputa acirrada, a esmagadora maioria dos votos do interior fez com que o CS ficasse em primeiro lugar."
+ aus.elections.10.a: "A Áustria é Cristã-Social."
+
+ aus.elections.11.t: "SDAP Vence as Eleições"
+ aus.elections.11.d: "As contagens finais das eleições estão concluídas. Embora tenha sido uma disputa acirrada, os votos da Cidade de Viena fizeram do SDAP o claro vencedor."
+ aus.elections.11.a: "A Áustria é Social-Democrata."
+
+ aus.elections.100.t: "As Eleições"
+ aus.elections.100.d: "A contagem final está concluída. Após esta acirrada campanha eleitoral, agora vamos descobrir o vencedor."
+ aus.elections.100.a: "Isso é emocionante!"
+
+ aus.elections.101.t: "CS Vence as Eleições"
+ aus.elections.101.d: "As contagens finais das eleições estão concluídas. Embora tenha sido uma disputa acirrada, a esmagadora maioria dos votos do interior fez com que o CS ficasse em primeiro lugar."
+ aus.elections.101.a: "A Áustria é Cristã-Social."
+
+ aus.elections.102.t: "SDAP Vence as Eleições"
+ aus.elections.102.d: "As contagens finais das eleições estão concluídas. Embora tenha sido uma disputa acirrada, os votos da Cidade de Viena fizeram do SDAP o claro vencedor."
+ aus.elections.102.a: "A Áustria é Social-Democrata."
+
+### Italian Question ###
+ austria.100.t: "Nossas Relações com Nápoles"
+ austria.100.d: "Embora nossa Federação Italiana e os planos para uma Itália dominada pela Áustria tenham falhado, somos muito mais fortes agora do que estávamos em 1926. Deveríamos enviar um enviado à corte do Rei Ferdinando III, pedindo-lhe para restaurar nossos laços quebrados e ajudar a restabelecer a ordem na Itália?"
+ austria.100.a: "Renovar nossos laços do sul!"
+ austria.100.b: "Milão é uma aposta mais segura."
+
+ austria.101.t: "Uma Mensagem de Amizade da Áustria"
+ austria.101.d: "Hoje, um embaixador distinto da Áustria chegou à capital. Ele falou da grande amizade que nossas duas nações sempre desfrutaram. Ele também disse que o Governo Imperial e Real via com apreensão a ameaça a oeste e que o Kaiser Karl incentivava uma reunificação rápida."
+ austria.101.a: "Isso parece uma ótima ideia."
+ austria.101.b: "Os austríacos são nossos inimigos naturais."
+
+ austria.102.t: "Amizade Austro-Italiana"
+ austria.102.d: "Hoje, nosso embaixador retornou da Itália. Ele nos informou sobre a concordância italiana com nossa proposta de amizade. Um grande futuro se abre diante de nossos países."
+ austria.102.a: "Ótimo."
+
+ austria.103.t: "Rivalidade Austro-Italiana"
+ austria.103.d: "Hoje, nosso embaixador retornou da Itália. Ele nos informou que os italianos recusaram nossa proposta de amizade. Isso é um insulto contra tudo o que nosso país representa. Talvez devêssemos mais uma vez apontar nossos exércitos para eles, como fizemos durante a Weltkrieg."
+ austria.103.a: "Teremos nossa vingança."
+
+### Austria Suggests War ###
+ austria.104.t: "Áustria Sugere uma Guerra"
+ austria.104.d: "O embaixador austríaco hoje sugeriu que preparemos nossas forças para um ataque aos socialistas. Ele disse que chegou a hora de atacá-los e unir a Itália."
+ austria.104.a: "Vamos esmagá-los!"
+ austria.104.b: "Não podemos fazer isso."
+
+ austria.105.t: "Guerra na Itália"
+ austria.105.d: "Em resposta à nossa sugestão, a Itália declarou guerra à RSI. Embora eles tenham sem dúvida se preparado para este dia, poderíamos aumentar seus estoques de armas com parte de nosso próprio equipamento e até mesmo formar alguns regimentos voluntários de nossas terras de língua italiana. Devemos enviar essa ajuda a eles?"
+ austria.105.a: "Envie-lhes ajuda."
+ austria.105.b: "Eles vão ter que se virar."
+
+ austria.106.t: "Ajuda austríaca Chega"
+ austria.106.d: "Hoje, a ajuda austríaca chegou à nossa terra. Eles nos enviaram tropas e armas para derrotar o inimigo."
+ austria.106.a: "Graças a Deus."
+
+ austria.107.t: "Nápoles Aceita"
+ austria.107.d: "O Reino das Duas Sicílias, surpreendentemente, aceitou nossa oferta de amizade, mesmo que os tenhamos abandonado em 1926. No entanto, agora que eles provaram ser receptivos mais uma vez ao seu protetor e aliado legítimo, certamente não falharemos com eles novamente!"
+ austria.107.a: "Não vamos falhar com vocês novamente."
+
+ austria.108.t: "Os Bourbons Recusam"
+ austria.108.d: "Irritado com nossa última traição e duvidando abertamente da utilidade de nossa amizade, o embaixador siciliano informou nosso governo que não haverá acordo entre Nápoles e Viena. Devemos contar com Milão e Veneza como aliados italianos."
+ austria.108.a: "Droga."
+
+### Austria bribes independent BUL with Macedonia ###
+ austria.109.t: "Uma Oferta de Viena"
+ austria.109.d: "Parece que os austríacos conseguiram derrotar os rebeldes sérvios - sem nossa ajuda desta vez. Vendo que ainda estamos nos recuperando de nossa humilhação anterior, o embaixador de Viena fez uma oferta generosa: se assinarmos uma aliança militar completa com eles, receberemos de volta a Macedônia. Considerando que ainda somos importantes para seus planos nos Bálcãs como contrapeso à Sérvia e Romênia, a oferta deles faz sentido, e temos pouco motivo para recusar."
+ austria.109.a: "Uma oferta generosa."
+ austria.109.b: "Nunca mais confiaremos nos austríacos!"
+
+ austria.110.t: "Bulgária Aceita"
+ austria.110.d: "Sem surpresa, os búlgaros concordaram com nossa generosa oferta. Em troca da Macedônia, eles agora fazem parte de nossa aliança."
+ austria.110.a: "Excelente."
+
+ austria.111.t: "Bulgária Recusa"
+ austria.111.d: "Inacreditavelmente, os búlgaros ainda parecem ressentidos com nossos desentendimentos passados e recusaram ousadamente nossa generosa oferta. O ego búlgaro claramente não conhece limites."
+ austria.111.a: "Deixe Zagreb lidar com isso."
+ austria.111.b: "Deixe Belgrado resolver isso."
+
+#############################
+### THE AUSGLEICH OF 1937 ###
+#############################
+
+ ausgleich.new.100.t: "Preparações para o Ausgleich"
+ ausgleich.new.100.d: "A cada dez anos desde 1867, as delegações austríacas e húngaras se reúnem para discutir quanto cada lado do Império contribui para os ministérios comuns: os ministérios de assuntos estrangeiros, militares e financeiros.\n\nNo entanto, devido à sua perda e demanda de reparações pelos territórios croatas, as renegociações de 1927 chegaram a um impasse, resultando em a Hungria não ter pago nada para o tesouro comum na última década.\n\nO estado da Hungria como uma Coroa renegada sob o reinado do Kaiser tem sido uma pedra no sapato da Áustria há algum tempo, e pelo menos alguns esforços devem ser feitos para trazê-los de volta ao rebanho."
+ ausgleich.new.100.a: "Convide-os formalmente."
+
+ ausgleich.new.101.t: "Um Convite para o Ausgleich"
+ ausgleich.new.101.d: "O governo de Viena nos convidou para renegociar o Ausgleich. Embora isso aconteça a cada dez anos desde 1867, quando a Hungria foi colocada no mesmo nível de Viena, as relações estão azedas desde a última vez que nossos países se sentaram à mesa em 1927, quando o homem em Viena tentou nos forçar a aceitar a perda da Croácia."
+ ausgleich.new.101.a: "Veremos o que resulta disso."
+
+ ausgleich.new.102.t: "A Hungria Participa das Renegociações do Ausgleich"
+ ausgleich.new.102.d: "Embora houvesse alguma dúvida se a Hungria estaria disposta a resolver as diferenças diplomáticas entre as duas metades do Império, eles concordaram."
+ ausgleich.new.102.a: "Naturalmente que sim."
+
+ ausgleich.new.200.t: "Convidar Outros para o Ausgleich?"
+ ausgleich.new.200.d: "O Ausgleich sempre foi conduzido como uma reunião da elite austríaca e húngara. No entanto, políticos da Boêmia, Galícia e Ilíria pediram negociações mais abertas e multiétnicas este ano, com delegações de todos os estados constituintes do Império presentes.\n\nAlém disso, reunir delegações de todos os cantos da Áustria-Hungria pode ajudar a mediar algumas das tensões internas que têm ocorrido desde o fim do Weltkrieg."
+ ausgleich.new.200.a: "De jeito nenhum. Isso é entre nós e os magiares."
+ ausgleich.new.200.b: "Você está certo. Convide os boêmios, galicianos e ilírios."
+ ausgleich.new.200.c: "Precisamos pensar em grande. Convide todos os povos da Monarquia Dual."
+
+ ausgleich.new.201.t_kingdoms: "Outras Nações no Ausgleich"
+ ausgleich.new.201.d_kingdoms: "Segundo relatos, a Áustria convocou delegações das outras partes do Império para participar das Renegociações do Ausgleich de 1937. Políticos proeminentes manifestaram sua oposição a tal Ausgleich, chamando-o de manobra política para dar à Áustria a vantagem durante as negociações."
+ ausgleich.new.201.t_peoples: "Eslovacos e Romenos Convidados para o Ausgleich"
+ ausgleich.new.201.d_peoples: "Como se não bastasse o governo vienense ter convocado tchecos, poloneses e todas as outras etnias do outro lado do Império para a mesa de negociações, segundo relatos, eles fizeram o mesmo até para grupos nacionalistas dentro de nossas fronteiras!\n\nOs eslovacos e romenos na Bacia dos Cárpatos foram subjugados com sucesso por séculos, mas o apoio de Viena despertou movimentos nacionalistas subterrâneos de seu sono."
+ ausgleich.new.201.a: "Isso é um ultraje. Proteste formalmente contra essa decisão."
+ ausgleich.new.201.b: "Apenas protestar não é suficiente. Não participaremos de tal Ausgleich."
+ ausgleich.new.201.c: "Precisamos acompanhar os tempos."
+
+ ausgleich.new.202.t: "Um Convite para o Ausgleich"
+ ausgleich.new.202.d: "Os rumores que circulavam entre os membros de nosso governo local se confirmaram. Um mensageiro chegou a [Root.Capital.GetCapitalVictoryPointName] trazendo um convite para as negociações do Ausgleich. Devemos enviar uma delegação [AUS_ausgleich_delegation] para as negociações. O Kaiser parece ter aproveitado a oportunidade de a Hungria estar disposta a resolver suas diferenças com o Império Cisleitano para permitir que nosso lado participe da mesa de discussões."
+ ausgleich.new.202.a: "Que honra."
+ ausgleich.new.202.b: "Que honra. Faremos como ordenado."
+ ausgleich.new.202.c: "[AUS_ausgleich_dominated_delegation]"
+
+ AUS_ausgleich_delegation_kingdom: "[Delegação [Root.GetAdjective]]"
+ AUS_ausgleich_delegation_CZE: "delegação de boêmio-alemães e tchecos"
+ AUS_ausgleich_delegation_GAL: "delegação de poloneses e rutênios"
+ AUS_ausgleich_delegation_CRO: "delegação de todos os povos ilírios"
+
+ AUS_ausgleich_dominated_delegation_CZE: "Podemos ser um pouco mais pesados com os boêmio-alemães, não é verdade?"
+ AUS_ausgleich_dominated_delegation_GAL: "Somos um estado polonês. Enviaremos nossa elite, não camponeses rutênios."
+ AUS_ausgleich_dominated_delegation_CRO: "Há apenas um povo ilírio."
+
+ ausgleich.new.203.t_HUN: "Hungria Protesta Contra as Outras Delegações"
+ ausgleich.new.203.d_HUN: "Chegou a palavra da Hungria de que condenam o fato de termos convidado outras delegações além da deles para as negociações. Se essa condenação é respaldada por algo, teremos que ver."
+ ausgleich.new.203.t_other: "[From.GetNameDefCap] Concorda em Participar"
+ ausgleich.new.203.d_other: "Nosso mensageiro retornou de [From.Capital.GetCapitalVictoryPointName], trazendo uma resposta do governo [From.GetAdjective]. Eles estão muito felizes por poder participar das negociações e enviam seus melhores votos."
+ ausgleich.new.203.a: "É o caminho a seguir."
+ ausgleich.new.203.b: "Excelente."
+
+ ausgleich.new.300.t_hungary: "A Delegação Húngara Chega"
+ ausgleich.new.300.d_hungary: "A delegação húngara chegou a Viena ontem, ansiosa para discutir o futuro da Monarquia Dual. As festividades se estenderam até altas horas da noite."
+ ausgleich.new.300.t_delegations_no_boycott: "As Delegações Chegam"
+ ausgleich.new.300.d_delegations_no_boycott: "Apesar do receio de que a Hungria não reagisse bem ao fato de termos convidado outras delegações além da deles para as negociações, eles chegaram a Viena ontem entre as delegações da Boêmia, Galícia e Ilíria.\n\nEnquanto as Renegociações do Ausgleich deste ano contam com políticos e pensadores de todo o Império, os húngaros permanecem no centro, já que seu problema é o mais importante a ser resolvido. As festividades se estenderam até altas horas da noite."
+ ausgleich.new.300.t_delegations_boycott: "As Delegações Chegam - Com a Hungria Ausente"
+ ausgleich.new.300.d_delegations_boycott: "Temia-se que a Hungria não reagisse bem ao fato de termos convidado outras delegações além da deles para as negociações, e críticos do movimento já suspeitavam que eles boicotariam a ocasião por esse motivo.\n\nNo entanto, as outras delegações chegaram e estão dispostas a discutir como resolver o problema de uma Hungria desafiadora. As festividades se estenderam até altas horas da noite."
+ ausgleich.new.300.a: "Que noite."
+ ausgleich.new.300.b: "O que há para negociar sem a Hungria?"
+
+ ausgleich.new.310.t: "Um Delegado Húngaro Faz um Discurso"
+ ausgleich.new.310.d: "No primeiro dia das negociações, discursos foram proferidos. Um político húngaro fez o seguinte discurso:\n\n'Não devemos nos orgulhar do Império Austro-Húngaro? Por décadas, o homem em Viena se esforçou para reformar o que já era perfeito. Acredito que a Áustria e a Hungria, juntas, têm um papel a desempenhar no futuro do mundo. Juntos, faremos a Áustria-Hungria grandiosa novamente.'\n\nEnquanto seus compatriotas ficaram visivelmente perturbados com a implicação de que a política de federalização do Kaiser Karl foi um erro, ele mesmo parecia bastante satisfeito, apesar da ausência de aplausos."
+ ausgleich.new.310.a: "Que insolência."
+ ausgleich.new.310.b: "Removam-no das negociações."
+ ausgleich.new.310.c: "Ele está certo, não está?"
+
+ ausgleich.new.311.t: "Hungria Exige Indenizações"
+ ausgleich.new.311.d: "Como era esperado, a delegação húngara mais uma vez exige compensações pela perda dos territórios da Croácia-Eslavônia, que estavam em vassalagem sob a Coroa Húngara até 1925, quando esses territórios foram ocupados pela revolução dos Eslavos do Sul, que terminou com a cessão das terras em 1926 para o recém-reformado Reino da Ilíria.\n\nA delegação húngara ainda reivindica as terras como suas, mas reconhece que tê-las sob controle húngaro novamente é impossível. Portanto, assim como em 1927, eles exigem uma quantia considerável de dinheiro a ser transferida para seu tesouro."
+ ausgleich.new.311.a: "Ofereçam pagar com nossos próprios recursos."
+ ausgleich.new.311.b: "Esta dívida deve ser paga pelos ilírios."
+ ausgleich.new.311.c: "Esta dívida deve ser paga pelos ilírios. Vamos tentar negociar aqui."
+ ausgleich.new.311.e: "É exatamente por isso que vocês pagam menos impostos agora."
+ ausgleich.new.311.f: "Se eles sentem tanta falta da Croácia-Eslavônia, podem tê-la de volta."
+
+ ausgleich.new.312.t: "Boêmia Propõe um Estado Eslovaco"
+ ausgleich.new.312.d: "Na esteira das discussões do dia anterior, a delegação boêmia traz à tona a questão dos eslovacos que vivem sob o domínio direto da Coroa Húngara. Sem direitos especiais ou autonomia, o povo eslovaco tem sido vítima de uma política contínua de magiarização.\n\nA delegação boêmia propõe a criação de um estado autônomo para o povo eslovaco como uma solução 'para libertar seus irmãos do jugo magiar'."
+ ausgleich.new.312.a: "Isso é certamente algo que a Hungria deve considerar."
+ ausgleich.new.312.b: "Deveria ser feito. Ainda assim, isso requer um planejamento adicional."
+ ausgleich.new.312.c: "Deveria ser feito, e além disso, deveria incluir todo o território eslovaco."
+
+ ausgleich.new.313.t: "Galícia Exige a Transcarpátia"
+ ausgleich.new.313.d: "Entrando na recente tendência de exigir terras húngaras, a delegação rutena nos lembra que seus irmãos do outro lado dos Cárpatos nem sequer são reconhecidos pelo governo húngaro."
+ ausgleich.new.313.a: "As Negociações do Ausgleich não são o lugar para pedir concessões territoriais."
+ ausgleich.new.313.b: "Deveria ser feito. Vamos trabalhar nisso."
+
+ ausgleich.new.314.t: "Ilíria Exige a Bačka"
+ ausgleich.new.314.d: "Juntando-se à recente tendência de exigir terras húngaras, Ilíria agora também exige a cessão do território da Bačka. Embora seja lar de muitos ilírios, reivindicar esta faixa de terra na região mais ao sul da Hungria é uma jogada bastante audaciosa pela delegação ilíria, especialmente considerando que a Hungria ainda não reconhece formalmente o Estado sul-eslavo."
+ ausgleich.new.314.a: "As Negociações do Ausgleich não são o lugar para pedir concessões territoriais."
+ ausgleich.new.314.b: "Deveria ser feito. Vamos trabalhar nisso."
+ ausgleich.new.314.c: "Ilíria deveria controlar toda a bacia."
+
+ ausgleich.new.315.t: "Os Poloneses Propõem um Protetorado Polonês"
+ ausgleich.new.315.d: "Vários membros proeminentes da delegação polonesa endossaram uma postura mais ativa em nossa relação diplomática com a Polônia. Enquanto a Polônia foi deixada na esfera alemã após a Guerra, os galicianos ainda veem a Polônia como sua pátria, agora oprimida pelo domínio prussiano. Eles desejam que libertemos seus compatriotas.\n\nA Polônia ainda não está perdida."
+ ausgleich.new.315.a: "Vamos considerar isso."
+
+ ausgleich.new.316.t: "Romenos: uma Transilvânia Autônoma?"
+ ausgleich.new.316.d: "Embora a Transilvânia tenha algum reconhecimento pela Hungria, está longe de atingir o nível desfrutado pelos estados cis-leithanianos. A delegação romena faz uma proposta para ser colocada no mesmo nível dos estados da metade austríaca."
+ ausgleich.new.316.a: "A delegação húngara deve considerar isso."
+ ausgleich.new.316.b: "Sim, isso acontecerá..."
+ ausgleich.new.316.c: "... e incluirá Partium e o Banato."
+
+ ausgleich.new.317.t: "Hungria Abandona o Ausgleich"
+ ausgleich.new.317.d: "Cansada da 'zombaria das antigas tradições' que a delegação húngara chama de negociações deste ano, eles deixaram as discussões."
+ ausgleich.new.317.a: "Isso é ruim, não é?"
+
+#WIP
+ ausgleich.new.318.t: "A Delegação Retorna para Casa Antecipadamente"
+ ausgleich.new.318.d: "Chateados com o rumo das negociações, nossos delegados retornaram para casa mais cedo. Não seremos reembolsados por enquanto."
+ ausgleich.new.318.a: "Subótimo."
+
+ ausgleich.new.320.t: "O Fim do Ausgleich"
+ ausgleich.new.320.d_hungary_success: "Hoje ao amanhecer, a delegação húngara partiu para Budapeste, para informar seu governo sobre o que transcorreu nos últimos dias, sobre os braços abertos que os acolheram em Viena e sobre os ganhos prometidos. As renegociações do Ausgleich de 1937 foram um sucesso, e as coisas estão melhorando para a Monarquia Dual."
+ ausgleich.new.320.d_hungary_failure: "O Ausgleich chegou ao fim ontem - quando a Hungria decidiu deixá-lo prematuramente."
+ ausgleich.new.320.d_other_success: "O Ausgleich chegou ao fim ontem. Todas as delegações foram para casa hoje."
+ ausgleich.new.320.d_other_failure: "Apesar da saída anterior da Hungria, o Ausgleich chegou ao fim ontem, e o restante das delegações foi para casa hoje."
+ ausgleich.new.320.a: "Vamos torcer para que isso mantenha a paz dentro do Império."
+ ausgleich.new.320.b: "Poderia ter sido melhor, mas também pior."
+
+#WIP
+ ausgleich.new.321.t: "As Negociações do Ausgleich Concluíram"
+ ausgleich.new.321.d: "Nossa delegação teve sucesso em negociar uma resolução para nossas diferenças com Viena."
+ ausgleich.new.321.a: "Ótimo."
+
+ #WIP
+ ausgleich.new.322.t: "Áustria Concorda em Pagar Reparações"
+ ausgleich.new.322.d: "Negociamos com sucesso o pagamento de reparações pela perda da Ilíria."
+ ausgleich.new.322.a: "Envie a demanda."
+
+#WIP
+ ausgleich.new.323.t: "Hungria Envia Suas Demandas"
+ ausgleich.new.323.d: "A Hungria aceita nossa oferta de reparações."
+ ausgleich.new.323.a: "Se é isso que é preciso."
+
+ #WIP
+ ausgleich.new.324.t: "[From.GetName] Concorda em Pagar"
+ ausgleich.new.324.d: "[From.GetName] Concorda em Pagar"
+ ausgleich.new.324.a: "Bom saber."
+
+ #WIP
+ ausgleich.new.325.t: "Hungria Exige Reparações"
+ ausgleich.new.325.d: "Hungria Exige Reparações"
+ ausgleich.new.325.a: "Espera, o quê?"
+ ausgleich.new.325.b: "Se isso foi decidido..."
+
+ #WIP
+ ausgleich.new.326.t: "Ilíria se Recusa a Pagar"
+ ausgleich.new.326.d: "Ilíria se Recusa a Pagar"
+ ausgleich.new.326.a: "Bem, vamos começar uma guerra nos Bálcãs. O que poderia dar errado?"
+ ausgleich.new.326.b: "Não há muito que possamos fazer então."
+
+ #WIP
+ ausgleich.new.327.t: "Hungria Declara Guerra Contra Nós"
+ ausgleich.new.327.d: "Hungria Declara Guerra Contra Nós"
+ ausgleich.new.327.a: "Isso não é bom."
+
+ ausgleich.new.328.t: "A Crise Ilíria"
+ ausgleich.new.328.d: "Após a recusa do governo ilírio em pagar o que eles descreveram como 'uma demanda ultrajante por terras ilírias legítimas', o governo húngaro declarou guerra à Coroa Ilíria. Já, o Honvédség começou a marchar para a Eslavônia, e parece quase tarde demais para intervir no conflito de maneira significativa."
+ ausgleich.new.328.a: "Isso é ultrajante."
+ ausgleich.new.328.b: "Deixe-os resolver isso."
+ ausgleich.new.328.c: "Está acontecendo."
+
+ #WIP
+ ausgleich.new.329.t: "Áustria Declara Guerra à Ilíria"
+ ausgleich.new.329.d: "O traiçoeiro Kaiser optou por não respeitar os direitos das minorias."
+ ausgleich.new.329.a: "Como eles se atrevem!"
+
+ #WIP
+ ausgleich.new.330.t: "Divisão Austro-Húngara da Antiga Ilíria"
+ ausgleich.new.330.d: "Devemos decidir o que fazer com as terras ilírias ocupadas."
+ ausgleich.new.330.a: "Restaure as fronteiras de 1921."
+ ausgleich.new.330.b: "Dê a Croácia-Eslavônia para a Hungria e restaure a Ilíria no restante da terra."
+ ausgleich.new.330.c: "Ocupe tudo por enquanto."
+
+ #WIP
+ ausgleich.new.331.t: "Áustria Ocupa Toda a Ilíria"
+ ausgleich.new.331.d: "A Áustria escolheu não respeitar sua promessa. Como devemos responder?"
+ ausgleich.new.331.a: "Eles pagarão por isso."
+ ausgleich.new.331.b: "Não há nada que possamos fazer.
+
+#WIP
+ ausgleich.new.332.t: "Delegação Retorna do Ausgleich"
+ ausgleich.new.332.d_no_claims: "Nossa delegação para as Renegociações do Ausgleich chegou em casa hoje em [ROOT.Capital.GetCapitalVictoryPointName]. Embora não tenhamos feito grandes avanços diplomáticos do nosso lado, pelo menos conseguimos estabelecer laços mais estreitos com Viena."
+ ausgleich.new.332.d_claims: "Nossa delegação para as Renegociações do Ausgleich chegou em casa hoje em [ROOT.Capital.GetCapitalVictoryPointName]. Um grande avanço diplomático foi alcançado, pois Viena agora reconhece algumas de nossas reivindicações em relação às terras húngaras."
+ ausgleich.new.332.a: "Certamente uma lição valiosa para eles."
+ ausgleich.new.332.b: "Bom."
+
+ ausgleich.new.333.t: "[FROM.GetNameDefCap] se Rebela!"
+ ausgleich.new.333.d: "Indignado com nossa traição aos membros mais fracos de nosso Império, [FROM.GetName] se revoltou contra nós! No entanto, o K.u.k. Kriegsminister nos assegura que Áustria e Hungria combinadas devem se provar facilmente vitoriosas."
+ ausgleich.new.333.a: "Como eles se atrevem!"
+
+ ausgleich.new.340.t: "[AUS_ausgleich_demonstrations] Nacionalismo"
+ ausgleich.new.340.d: "Sem dúvida inspirados pelo apoio que o Rei e seu governo em Viena deram a eles durante as Renegociações do Ausgleich, os manifestantes [AUS_ausgleich_demonstrations] estão marchando pelas ruas, realizando protestos pró-austríacos, mas anti-húngaros."
+ ausgleich.new.340.a: "Reprima-os."
+
+ AUS_ausgleich_demonstrations_SLO_ROM: "Eslovaco e Romeno"
+ AUS_ausgleich_demonstrations_SLO: "Eslovaco"
+ AUS_ausgleich_demonstrations_ROM: "Romeno"
+
+ AUS_ausgleich_demonstrations_cities_SLO_ROM: "Eslováquia e Transilvânia"
+ AUS_ausgleich_demonstrations_cities_SLO: "Eslováquia"
+ AUS_ausgleich_demonstrations_cities_ROM: "Transilvânia"
+
+ ausgleich.new.341.t: "[AUS_ausgleich_demonstrations] Manifestações Repreendidas na Hungria"
+ ausgleich.new.341.d: "No início da semana, manifestações pacíficas de apoio a Viena em várias cidades de [AUS_ausgleich_demonstrations_cities] terminaram com a polícia húngara dispersando violentamente a multidão. No entanto, isso apenas contribuiu para a narrativa que a resistência está promovendo, e agora os líderes [AUS_ausgleich_demonstrations] estão pedindo ao nosso governo para mediar a disputa."
+ ausgleich.new.341.a: "Concordo. A Hungria deve retirar suas forças dos territórios disputados."
+ ausgleich.new.341.b: "Não podemos interferir nos assuntos húngaros."
+
+#WIP
+ ausgleich.new.342.t: "Áustria Exige Que Nossas Autoridades Evacuem [AUS_ausgleich_demonstrations_cities]"
+ ausgleich.new.342.d: "Áustria exigiu que nossa administração e forças armadas deixem [AUS_ausgleich_demonstrations_cities]."
+ ausgleich.new.342.a: "Devemos fazer o que eles dizem."
+ ausgleich.new.342.b: "Nunca!"
+
+ ausgleich.new.343.t: "Hungria Aceita Nosso Ultimato"
+ ausgleich.new.343.d: "A Hungria deixou os territórios em disputa, deixando nossas forças livres para marchar sobre eles e restaurar a ordem - a ordem que desejamos, é claro."
+ ausgleich.new.343.a: "Ótimo."
+
+ ausgleich.new.344.t: "Hungria Recusa Nosso Ultimato"
+ ausgleich.new.344.d: "A Hungria recusa nosso ultimato e se recusa a deixar os territórios em disputa."
+ ausgleich.new.344.a: "Você sabe o que isso significa, não é?"
+ ausgleich.new.344.b: "Bem, paciência."
+
+ ausgleich.new.350.t: "Tirania Austríaca"
+ ausgleich.new.350.d: "A Áustria provou que pretende impor seu controle sobre o restante do Império militarmente."
+ ausgleich.new.350.a: "Precisamos fazer algo sobre isso!"
+
+ ausgleich.new.351.t: "Tirania Austríaca"
+ ausgleich.new.351.d: "A Áustria provou que pretende impor seu controle sobre o restante do Império militarmente. A Boêmia nos pediu para nos unirmos a uma aliança improvisada para derrubar o miserável homem em Viena."
+ ausgleich.new.351.a: "Precisamos fazer algo sobre isso!"
+
+ ausgleich.new.352.t: "[FROM.GetNameDefCap] Junta-se à Coalizão"
+ ausgleich.new.352.d: "A vil traição da Áustria nos deixou sem escolha a não ser nos unirmos aos companheiros opositores do resultado do Ausgleich. Agora estamos lutando juntos contra a Áustria."
+ ausgleich.new.352.a: "Todos os povos do Império devem ser livres."
+
+ ausgleich.new.353.t: "Guerra Com a Boêmia"
+ ausgleich.new.353.d: "Insatisfeitos com a recente mudança de política de Viena, uma coalizão de separatistas liderada pela Boêmia tornou-se cada vez mais incontrolável. Agora, parece que as tensões que há muito assolam nosso império serão resolvidas através do derramamento de sangue."
+ ausgleich.new.353.a: "Esmagaremos esses traidores!"
+
+ ausgleich.new.700.t: "Áustria Exige Reintegração"
+ ausgleich.new.700.d: "Eles dizem que devemos ser governados diretamente de Viena novamente."
+ ausgleich.new.700.a: "O que podemos fazer contra Viena?"
+ ausgleich.new.700.b: "Que tal não."
+
+ ausgleich.new.701.t: "[From.GetNameDefCap] Aceita Reintegração"
+ ausgleich.new.701.d: "O governo [From.GetAdjective] concordou com nossa proposta de um estado mais centralizado."
+ ausgleich.new.701.a: "Excelente."
+
+ ausgleich.new.702.t: "[From.GetNameDefCap] Invade a Hungria!"
+ ausgleich.new.702.d: "Os abutres em [FROM.GetNameDef] decidiram aproveitar nossos problemas internos invadindo o Reino da Hungria. Apesar de seu estado de revolta, a Hungria como um todo é um dos reinos centrais dos Habsburgos e deve ser defendida contra nossos vizinhos sedentos de sangue. Mesmo que já estejamos ocupados em sufocar a revolta magiar, devemos considerar a invasão deles como um ataque contra a Monarquia como um todo, independentemente de nosso estado de coisas."
+ ausgleich.new.702.a: "Devemos proteger nossa integridade territorial!"
+ ausgleich.new.702.b: "Não podemos fazer nada..."
+
+### New Military Occupation events ###
+
+ ausgleich.new.900.t.CRO: "Traição Austríaca"
+ ausgleich.new.900.d.CRO: "Notícias preocupantes de Viena! A Áustria decidiu revogar nossa autonomia, colocando nosso povo sob ocupação militar novamente. Precisamos nos proteger, custe o que custar, mesmo que isso signifique pedir proteção à Sérvia. Preferimos ter outros eslavos governando sobre nós em vez de alguns austríacos sedentos de sangue."
+ ausgleich.new.900.t.CZE_broken_promise: "Traição Austríaca"
+ ausgleich.new.900.d.CZE_broken_promise: "Notícias preocupantes de Viena! Foi decidido que a Hungria, após ser derrotada, será colocada sob ocupação militar, revogando o compromisso de 1867. É sabido que todo nacionalista de língua alemã considera a Boêmia não como uma nação independente com sua própria cultura, mas como parte do que eles chamam de Grande Alemanha. Eles virão atrás de nós, e não é uma questão de se, mas de quando. Precisamos nos proteger da Áustria, mesmo que isso signifique guerra."
+ ausgleich.new.900.t.CZE_secret_deal: "Traição Austríaca"
+ ausgleich.new.900.d.CZE_secret_deal: "Notícias preocupantes de Viena! Foi decidido que a Hungria recuperará suas terras croatas, retirando as promessas feitas durante a Weltkrieg. Eles irão atrás da Ilíria, e, sabendo como os nacionalistas de língua alemã consideram a Boêmia como parte da Grande Alemanha, em vez de um país com sua própria cultura, eles virão atrás de nós. Não é uma questão de se, mas de quando. Precisamos nos proteger da Áustria e de seus lacaios húngaros, mesmo que isso signifique guerra."
+ ausgleich.new.900.t.GAL_broken_promise: "Traição Austríaca"
+ ausgleich.new.900.d.GAL_broken_promise: "Notícias preocupantes de Viena! Foi decidido que a Hungria, após ser derrotada, será colocada sob ocupação militar, revogando o compromisso de 1867. Preferimos nos reunir com nossos irmãos poloneses do que ter alguns austríacos sedentos de sangue governando sobre nós. Eles virão atrás de nós, e não é uma questão de se, mas de quando. Precisamos nos proteger, mesmo que isso signifique guerra."
+ ausgleich.new.900.t.GAL_secret_deal: "Traição Austríaca"
+ ausgleich.new.900.d.GAL_secret_deal: "Notícias preocupantes de Viena! Foi decidido que a Hungria recuperará suas terras croatas, retirando as promessas feitas durante a Weltkrieg. Eles irão atrás da Ilíria, e, sabendo o que fariam conosco e com a Boêmia, devemos pedir proteção aos nossos irmãos poloneses. Eles virão atrás de nós, e não é uma questão de se, mas de quando. Precisamos nos proteger da Áustria e de seus lacaios húngaros, mesmo que isso signifique guerra."
+ ausgleich.new.900.a: "Não temos outra escolha."
+
+ ausgleich.new.9000.t.occupation: "[FROM.GetNameDefCap] se Revolta Contra a Ocupação"
+ ausgleich.new.9000.t.secret_deal: "[FROM.GetNameDefCap] se Revolta Contra a Guerra Ilíria"
+ ausgleich.new.9000.d.CZE: "A reação de Praga às nossas ações recentes através do Leita foi de raiva descarada. Declarando as ações como tirânicas e uma clara violação da constituição da Monarquia, que eles acreditam que será seguida pela subjugação da Coroa de São Venceslau também, o governo boêmio declarou o governo em Viena como ilegítimo e depôs o governador, avançando para encerrar a união pessoal da Boêmia com a Áustria. Podemos apenas considerar esses movimentos como traição dos checos pérfidos, e as terras coroadas boêmias devem ser consideradas em revolta aberta."
+ ausgleich.new.9000.d.GAL: "Com os tchecos pegando em armas contra nós, a liderança da Galícia concluiu erroneamente que a proteção austríaca não está mais em seus interesses e se aproximou do governo polonês para intervir e ocupar as terras \”legitimamente polonesas\” da Áustria e protegê-los de nossos esforços de centralização. Vendo uma chance de reverter as Partições, Varsóvia de fato começou a mobilizar suas forças contra nós."
+ ausgleich.new.9000.d.CRO: "Com a Hungria sob ocupação e os outros eslavos do Império em revolta, os croatas finalmente tomaram uma atitude, e é uma traição. Para tornar as coisas mais insultantes, eles até se aproximaram dos sérvios em busca de ajuda, potencialmente arrastando os Bálcãs para nossos assuntos internos."
+ ausgleich.new.9000.a: "Eles serão esmagados como a Hungria foi."
+ ausgleich.new.9000.b: "Eles serão esmagados."
+
+ ausgleich.new.901.t: "[FROM.GetNameDefCap] Solicita Apoio"
+ ausgleich.new.901.d: "A rebelião começou novamente no Império Habsburgo. A Áustria tentou previsivelmente tomar o controle das três partes constituintes predominantemente eslavas de seu Império, ignorando a \”autonomia”\ de dar pena que concederam à Boêmia, Ilíria e Galícia e Lodomeria, que agora estão em guerra com seu ex-mestre.\n\nAs ambições do Pacto de Belgrado de recuperar suas terras legítimas às custas da Áustria não são segredo, e nos foi apresentada uma oferta. Em uma carta do Primeiro-Ministro Tcheco [FROM.GetLeader], ele promete que o governo tcheco se unirá ao Pacto se nós os apoiarmos nesta guerra contra nosso inimigo comum. Isso pode desafiar os austríacos mais cedo do que tínhamos planejado, mas se acreditarmos que temos uma chance, agora é o momento de agir.\n\nA ausência de qualquer menção à Ilíria nessas negociações é notável. Nossos colegas eslavos do sul certamente perceberão que a melhor esperança contra os austríacos é a unificação imediata de nossas terras e forças. Se não, logo serão obrigados a perceber."
+ ausgleich.new.901.a: "Esta é a nossa chance! À guerra!"
+ ausgleich.new.901.b: "A Áustria é muito forte..."
+
+ ausgleich.new.902.t: "Sérvia Aceita a Aliança"
+ ausgleich.new.902.d.CZE: "Os sérvios aceitaram nosso chamado às armas e se juntarão a nós em nossa guerra contra Viena! Talvez esta revolta não seja tão fútil."
+ ausgleich.new.902.d.other: "Os sérvios aceitaram nosso chamado às armas e se juntarão a nós em nossa guerra contra Viena! Talvez esta revolta não seja tão fútil."
+ ausgleich.new.902.a: "Devemos resgatar nossos irmãos eslovacos!"
+ ausgleich.new.902.b: "Avante, pela vitória!"
+
+ ausgleich.new.903.t: "Sérvia Rejeita a Aliança"
+ ausgleich.new.903.d: "Embora estivéssemos esperando que os sérvios fossem atraídos pela chance de recuperar suas reivindicações territoriais enquanto lutam ao nosso lado, eles recusaram nosso chamado às armas, alegando que não estão preparados para uma guerra contra a Áustria no momento. Estamos sozinhos no mundo..."
+ ausgleich.new.903.a: "Oh não..."
+
+ ausgleich.new.904.t: "O Dilema da Galícia"
+ ausgleich.new.904.d: "O Império Austríaco mais uma vez sucumbiu à rebelião, e desta vez nossos companheiros poloneses na Galícia estão entre os revoltosos. [GAL.GetLeader] certamente será receptivo ao nosso apoio, e talvez uma reunião para vingar o ano de 1772. Por outro lado, os austríacos ainda são uma grande potência... Qual será a nossa escolha?"
+ ausgleich.new.904.a: "Ajudaremos nossos compatriotas!"
+ ausgleich.new.904.b: "Não devemos irritar os austríacos."
+ ausgleich.new.904.c: "A Alemanha não permitiria isso."
+
+ ausgleich.new.905.t: "A Polônia nos Abandona"
+ ausgleich.new.905.d: "Por algum motivo, os poloneses recusaram a chance única na vida de se reunirem e destruírem a hegemonia austríaca! Sem o apoio deles, certamente não resistiremos por muito tempo contra as forças austríacas - a menos que possamos encontrar outro aliado..."
+ ausgleich.new.905.a: "Chame o Pacto de Belgrado para ajuda!"
+ ausgleich.new.905.b: "Traidores!"
+
+ ausgleich.new.906.t: "[FROM.GetAdjective] Solicita Associação ao Pacto de Belgrado"
+ ausgleich.new.906.d.bucovina: "Ótimas notícias de [FROM.Capital.GetCapitalVictoryPointName]! [FROM.GetNonIdeologyName] se juntará aos nossos esforços de guerra contra a Áustria, mas há um problema: o que fazer com a Bucovina? Nossos aliados romenos reivindicam este território como deles, então devemos decidir se vamos permitir que a Polônia o tome, ou se devemos pressionar Varsóvia a entregá-lo aos nossos aliados em Bucareste."
+ ausgleich.new.906.d.no_bucovina: "Ótimas notícias de [FROM.Capital.GetCapitalVictoryPointName]! [FROM.GetNonIdeologyName] se juntará aos nossos esforços de guerra contra a Áustria, e com a Romênia possuindo a Bucovina, qualquer possível disputa sobre ela já está resolvida. No entanto, devemos permitir que os poloneses se juntem à nossa aliança?"
+ ausgleich.new.906.a: "Damos as boas-vindas a eles, mas eles devem devolver a Bucovina à Romênia."
+ ausgleich.new.906.b: "Aliados são sempre bem-vindos!"
+ ausgleich.new.906.c: "Não precisamos deles."
+
+ ausgleich.new.907.t: "O Pacto Exige Bucovina"
+ ausgleich.new.907.d: "Hoje, recebemos notícias da Romênia, e eles exigiram a Bucovina como condição para nos juntarmos ao Pacto de Belgrado. Poderíamos entregá-la a eles em troca de cooperação militar, ou poderíamos mantê-la, considerando que a Áustria estará ocupada em muitas frentes."
+ ausgleich.new.907.a: "Com prazer."
+ ausgleich.new.907.b: "Bucovina é um território legítimo [ROOT.GetAdjective]!"
+
+ ausgleich.new.908.t: "O Retorno da Bucovina"
+ ausgleich.new.908.d: "[FROM.GetNameDefCap] aceitou nossa oferta, e a Bucovina será transferida para nós. Esta é mais uma vitória para a diplomacia romena."
+ ausgleich.new.908.a: "Maravilhoso."
+
+ ausgleich.new.909.t: "[FROM.GetNameDefCap] Aceita Nossa Oferta"
+ ausgleich.new.909.d: "Recebemos notícias de que [FROM.GetNameDefCap] aceitou nossa oferta, eles se juntarão ao Pacto de Belgrado em troca de entregar a Bucovina para a Romênia. Juntos, vamos derrubar a Áustria de uma vez por todas."
+ ausgleich.new.909.a: "Excelente."
+
+ ausgleich.new.910.t: "[FROM.GetNameDefCap] Recusa Nossa Oferta"
+ ausgleich.new.910.d: "[FROM.GetNameDefCap] recusou nossa generosa oferta de assistência militar em troca da Bucovina. Isso significa que nossos esforços de guerra seguirão caminhos separados."
+ ausgleich.new.910.a: "É perda deles."
+
+ ausgleich.new.911.t: "[FROM.GetNameDefCap] Envia um Ultimato"
+ ausgleich.new.911.d: "[FROM.GetName] nos apunhalou pelas costas! Sentindo fraqueza, eles nos ameaçam com armas para se unificar em um estado sul eslavo. Devemos render nossa breve independência ou defendê-la com o que temos?"
+ ausgleich.new.911.a: "Não temos escolha..."
+ ausgleich.new.911.b: "Não substituiremos um tirano por outro!"
+
+ ausgleich.new.912.t: "Ilíria Aceita o Ultimato"
+ ausgleich.new.912.d: "O estado artificial da Ilíria, a tentativa austríaca de sufocar a unidade sul eslava criando uma monstruosidade liderada pelos croatas, finalmente foi extinto, e seus líderes se renderam ao nosso regime."
+ ausgleich.new.912.a: "Os sul eslavos finalmente estão unidos."
+
+ ausgleich.new.913.t: "Ilíria Recusa o Ultimato"
+ ausgleich.new.913.d: "O regime croata em Zagreb recusou nosso ultimato e prefere defender seu estado artificial na guerra. Assim, guerra é o que eles receberão."
+ ausgleich.new.913.a: "Então vocês escolheram a morte."
+
+ ausgleich.new.914.t: "[FROM.GetNameDefCap] Deixa a [ROOT.GetFactionName]"
+ ausgleich.new.914.d: "Agora que a Áustria foi lidar com, [FROM.GetNameDefCap] decidiu deixar a [ROOT.GetFactionName]. Daqui para frente, nossos caminhos seguirão separados."
+ ausgleich.new.914.a: "Não inesperado."
+
+ ausgleich.new.915.t: "Queda dos Habsburgos"
+ ausgleich.new.915.d: "Com a derrota na Quinta Guerra Balcânica, a Áustria finalmente caiu. Uma vez um grande império, um dos vencedores da Weltkrieg, e agora o caos reina em Viena. A família Habsburgo foi destituída e culpada pela derrota, a maior parte do exército desertou para uma Hungria recém-independente. Agora surge uma pergunta, devemos nos juntar à Alemanha em busca de proteção? Atualmente, mal conseguimos nos defender, e em caso de uma invasão sindicalista, não teríamos chance alguma."
+ ausgleich.new.915.a: "Assim termina."
+
+ ausgleich.new.916.t: "Áustria Busca União Com a Alemanha"
+ ausgleich.new.916.d: "Hoje o governo austríaco oficialmente nos pediu para fazer parte da Alemanha, buscando proteção contra ameaças tanto externas quanto internas. Isso pode ser a ocasião perfeita para alcançar a Grande Alemanha, mas alguns argumentam que não vale a pena o risco."
+ ausgleich.new.916.a: "A Grande Alemanha finalmente foi alcançada..."
+ ausgleich.new.916.b: "Não precisamos deles."
+
+ ausgleich.new.917.t: "Alemanha Recusa a União"
+ ausgleich.new.917.d: "Berlim recusou nossa oferta, alegando que não têm recursos suficientes para nos proteger, nem o interesse em fazê-lo. Estamos sozinhos."
+ ausgleich.new.917.a: "Eles perderam a cabeça?"
+
+ ausgleich.new.918.t: "Áustria Colapsa em Anarquia"
+ ausgleich.new.918.d: "Notícias chocantes de Viena! O Império Austro-Húngaro, antes o mestre dos Bálcãs, agora colapsado em anarquia, seu imperador deposto em ignomínia. Este estado caótico de coisas levou a uma revolta no exército k.u.k.; grande parte do Exército Imperial desertou para a recém-independente Hungria.\n\nO Pacto de Belgrado, vencedor da Quinta Guerra Balcânica, dividiu o Império para seu próprio benefício, com a Tchecoslováquia proclamada após a independência boêmia. Observadores levantam questões sobre o futuro do Pacto.\n\nA Áustria em si está em uma situação precária. Com a influência da Fênix nos Bálcãs agora encerrada, o equilíbrio de poder mudou."
+ ausgleich.new.918.a: "O dobro do orgulho, o dobro da queda."
+ ausgleich.new.918.b: "Um triste fim para um grande império."
+ ausgleich.new.918.c: "No final, o capitalismo se destruirá."
+
+ ausgleich.new.919.t: "Caos no Danúbio"
+ ausgleich.new.919.d: "Mais uma vez, o sangue pintará de vermelho o Danúbio, pois a guerra eclodiu entre a Áustria e suas antigas terras da coroa, após a abolição da prática do governo dual. É certo que o Pacto de Belgrado também estará envolvido no conflito, buscando uma oportunidade de atacar a Áustria e sobrecarregar as forças terrestres austríacas para conquistar suas reivindicações.\n\nO Império Austríaco agora enfrenta uma situação grave, enfrentando uma agressão em todas as frentes - será que serão capazes de superar mais uma crise, ou esse antigo império se desmoronará sob os ataques das novas potências europeias em ascensão?"
+ ausgleich.new.919.a: "Não falharemos!"
+ ausgleich.new.919.b: "Áustria delenda est."
+ ausgleich.new.919.c: "Mais problemas nos Bálcãs!?"
+
+ ausgleich.new.920.t: "[FROM.GetNameDefCap] Anexa [CRO.GetNameDef]"
+ ausgleich.new.920.d: "Aproveitando a guerra entre [AUS.GetNameDef] e [CRO.GetNameDef], [SER.GetNameDef] pressionou o governo [CRO.GetAdjective] para anexação. Qual deve ser nossa resposta?"
+ ausgleich.new.920.a: "Isso significa guerra!"
+ ausgleich.new.920.b: "Não podemos lutar contra eles agora."
+ ausgleich.new.920.c: "Não importa."
+
+ AUS_may_lead_to_war_with_austria: "§RPode levar à guerra com [AUS.GetNameDef]§!"
+
+#########################################################################################################################
+### TREE EVENTS
+#########################################################################################################################
+
+ aus.tree.4011.t: "Intervenção Austríaca"
+ aus.tree.4011.d: "Hoje, o embaixador de Viena afirmou que nossos vizinhos do sul estão ansiosos para 'ajudar' na guerra em curso contra [threat_country.GetNameDef], unindo-se à nossa aliança pelo menos durante a duração deste conflito. Embora o exército austríaco não seja mais o desastre que foi durante a Weltkrieg, e portanto possa ser de mais ajuda, é possível que sua participação abra uma frente sul caso não consigam se manter firmes."
+ aus.tree.4011.a: "Irmãos em armas mais uma vez!"
+ aus.tree.4011.b: "Estamos nos saindo bem o suficiente por conta própria"
+
+ aus.tree.4012.t: "Alemanha Recusa Nossa Oferta"
+ aus.tree.4012.d: "Berlim respondeu à nossa oferta, afirmando que nossa ajuda não era necessária nem desejada, e que deveríamos cuidar de nossos assuntos internos."
+ aus.tree.4012.a: "Que rude!"
+
+ aus.tree.4013.t: "Alemanha Aceita Nosso Apoio"
+ aus.tree.4013.d: "Berlim recebe com agrado a ajuda que oferecemos para combater a ameaça [threat_country.GetAdjective]. O [Root.GetFactionName] se fundirá com o [From.GetFactionName], pelo menos durante a duração deste conflito."
+ aus.tree.4013.a: "Irmãos em armas mais uma vez!"
+ joining_reichspakt_tt: "§YVocê terá a opção de reformar o [Root.GetFactionName] com todos os membros existentes assim que estiver em paz novamente.§!\n"
+
+ aus.tree.4014.t: "A Reforma do Donau-Adriabund"
+ aus.tree.4014.d: "[AUS.GetNameDefCap] decidiu reformar a aliança Donau-Adriabund, agora que a guerra acabou, e convocou [Root.GetNameDef] para retomar seu lugar ao lado deles mais uma vez."
+ aus.tree.4014.d.rp: "[AUS.GetNameDefCap] decidiu reformar a aliança Donau-Adriabund, agora que a guerra acabou, e convocou [Root.GetNameDef] para retomar seu lugar ao lado deles mais uma vez. Se recusarmos, permanecer no Reichspakt não será uma opção - pelo menos não por enquanto. Estaremos por nossa conta."
+ aus.tree.4014.a: "Claro!"
+ aus.tree.4014.b: "Preferimos não..."
+
+ aus.tree.4015.t: "A Reforma do Donau-Adriabund"
+ aus.tree.4015.d: "Com a guerra agora encerrada, [AUS.GetNameDef] optou por voltar à sua antiga posição como líder da aliança Donau-Adriabund."
+ aus.tree.4015.a: "Agradecemos por sua assistência!"
+
+ aus.tree.4016.t: "Estamos Por Conta Própria"
+ aus.tree.4016.d: "A queda da Alemanha significa que [Root.GetNameDef] e os membros do Donau-Adriabund agora estão por conta própria!"
+ aus.tree.4016.a: "Isso não pode ser bom..."
+
+ aus.tree.4020.t: "Um Convite de [From.GetNameDef]"
+ aus.tree.4020.d: "[From.GetNameDefCap] reavivou sua política de atuar como 'Protetora dos Bálcãs' e, para esse fim, nos convidou formalmente para se juntar à sua aliança. Isso significaria comprometer nossas forças em quaisquer guerras [From.GetAdjective], embora também nos beneficiássemos de sua proteção."
+ aus.tree.4020.a: "Concordamos com sua proteção"
+ aus.tree.4020.b: "Queremos nossas terras reivindicadas de volta, primeiro!"
+ aus.tree.4020.c: "Não, estamos nos saindo bem por conta própria"
+
+ aus.tree.4021.t: "[From.GetNameDefCap] Concorda"
+ aus.tree.4021.d: "O [From.GetAdjective] nos informou que [From.GetNameDef] está ansioso por uma cooperação mais próxima com [Root.GetNameDef]. As relações [Root.GetAdjective]-[From.GetAdjective] estão começando bem."
+ aus.tree.4021.a: "Esplêndido"
+
+ aus.tree.4022.t: "A Condição [From.GetAdjective]"
+ aus.tree.4022.d.onlysubjects: "Após algumas conversas entre nossos governos, parece que o principal obstáculo para [From.GetNameDef] se juntar à nossa aliança é que algumas de suas terras - como o estado de [state_example.GetName] - são reivindicadas por eles e atualmente estão sob controle de nossos súditos. Visto que esses súditos teriam pouca escolha em desistir do que quisermos, vale a pena subornar [From.GetNameDef] para tê-los a bordo?"
+ aus.tree.4022.d.onlycoresubjects: "Após algumas conversas entre nossos governos, parece que o principal obstáculo para [From.GetNameDef] se juntar à nossa aliança é que algumas de suas terras - como o estado de [state_example.GetName] - são reivindicadas por eles e atualmente estão sob controle de nossos súditos. No entanto, essa terra é considerada uma parte legítima do império. Abandoná-la para um país que não controlamos, mesmo em troca de uma aliança, não seria bem recebido por ninguém em [Root.GetNameDef]. Vale realmente a pena tanto problema para tê-los a bordo?"
+ aus.tree.4022.d.onlyAUSnotcore: "Após algumas conversas entre nossos governos, parece que o principal obstáculo para [From.GetNameDef] se juntar à nossa aliança é que algumas de suas terras - como o estado de [state_example.GetName] - são reivindicadas por eles e atualmente estão em nossa posse pessoal. No entanto, a terra não é uma parte central do império. Vale a pena abrir mão do controle sobre ela para subornar o governo [From.GetAdjective] a se juntar à nossa aliança?"
+ aus.tree.4022.d.onlyAUScore: "Após algumas conversas entre nossos governos, parece que o principal obstáculo para [From.GetNameDef] se juntar à nossa aliança é que algumas de suas terras - como o estado de [state_example.GetName] - são reivindicadas por eles e atualmente estão em nossa posse pessoal. No entanto, a terra é uma parte central de nosso império, e abrir mão dela para um país que não controlamos, mesmo em troca de uma aliança, parece impensável. Realmente consideraríamos tal coisa?"
+ aus.tree.4022.d.onlyallies: "Após algumas conversas entre nossos governos, parece que o principal obstáculo para [From.GetNameDef] se juntar à nossa aliança é que algumas de suas terras - como o estado de [state_example.GetName] - são reivindicadas por eles e atualmente estão sob controle de nossos aliados. Visto que mal podemos pedir aos nossos aliados para desistirem por causa deles, parece que não temos escolha a não ser recusar o pedido deles."
+ aus.tree.4022.a: "Queremos essa aliança, não importa o custo"
+ aus.tree.4022.b: "Não, eles pedem demais"
+ aus.tree.4022.c: "Foi bom perguntar, pelo menos"
+
+ aus.tree.4023.t: "O Comando [From.GetAdjective]"
+ aus.tree.4023.d: "Para negociar um acordo com [receiver.GetNameDef] para se juntar à sua aliança, o governo [From.GetAdjective] concordou em entregá-los [Root.GetAdjective] sem sequer pedir nossa permissão. Infelizmente, considerando nossa posição subordinada, há pouco que podemos fazer para objetar veementemente. Não que isso importe - o ato está feito."
+ aus.tree.4023.a: "Um ultraje!"
+
+ aus.tree.4024.t: "[From.GetNameDefCap] Concorda com Nossa Exigência"
+ aus.tree.4024.d: "Foi um choque para alguns quando o emissário [From.GetAdjective] voltou com a notícia de que, de fato, teríamos nossos territórios reivindicados devolvidos a nós imediatamente. Um começo afortunado para nossa nova relação com [From.GetNameDef], parece."
+ aus.tree.4024.a: "Esplêndido"
+
+ aus.tree.4025.t: "[From.GetNameDefCap] Recusa Nossa Exigência"
+ aus.tree.4025.d: "Não é surpresa para ninguém dentro do governo [Root.GetAdjective] quando o emissário [From.GetAdjective] voltou e nos informou que [From.GetNameDef] não devolveria nenhum território para nós em troca de nossa aliança, não importa a força de nossas reivindicações sobre ele."
+ aus.tree.4025.a: "Então, adeus à oferta deles"
+
+ aus.tree.4026.t: "[From.GetNameDefCap] Declina"
+ aus.tree.4026.d: "Sem se incomodar em fazer uma contra-oferta, o governo [From.GetAdjective] recusou nosso pedido... e, além disso, zombou de nossa pretensão ao título de 'Protetor dos Bálcãs'. Parece que nossa aliança terá que se virar sem eles."
+ aus.tree.4026.a: "Bem então"
+
+ aus.tree.4030.t: "Expansão do Círculo de Viena"
+ aus.tree.4030.d: "[From.GetNameDefCap], um país com o qual temos muitos laços, nos convidou para o Círculo de Viena — uma prestigiosa reunião de cientistas, matemáticos e outros pensadores que se reúnem para discutir os grandes temas do dia e avançar a pesquisa por meio de meios mais práticos também. O documento oficial diz que eles esperam trabalhar ao lado dos intelectuais de [Root.GetNameDef]. Nossa inclusão levaria a um impulso significativo em nossa capacidade tecnológica, embora alguns notem que isso pode ser mais uma tentativa de consolidar a esfera [From.GetAdjective] em torno de seu membro homônimo.\n\nAinda assim, mesmo esses céticos não podem negar que é um grande passo para o setor científico de nosso país e prestígio internacional ser incluído em uma organização de tão grande reputação."
+ aus.tree.4030.a: "Excelente"
+
+### Country Names ###
+ AUS: "Áustria"
+ AUS_ADJ: "Austríaco"
+ AUS_DEF: "Áustria"
+
+ AUS_totalist: "República da Áustria"
+ AUS_totalist_ADJ: "Austríaco"
+ AUS_totalist_DEF: "a República da Áustria"
+ AUS_syndicalist: "República da Áustria"
+ AUS_syndicalist_ADJ: "Austríaco"
+ AUS_syndicalist_DEF: "a República da Áustria"
+ AUS_radical_socialist: "República da Áustria"
+ AUS_radical_socialist_ADJ: "Austríaco"
+ AUS_radical_socialist_DEF: "a República da Áustria"
+
+ AUS_empire_social_democrat: "Império Austríaco"
+ AUS_empire_social_democrat_ADJ: "Austríaco"
+ AUS_empire_social_democrat_DEF: "o Império Austríaco"
+ AUS_empire_social_liberal: "Império Austríaco"
+ AUS_empire_social_liberal_ADJ: "Austríaco"
+ AUS_empire_social_liberal_DEF: "o Império Austríaco"
+ AUS_empire_market_liberal: "Império Austríaco"
+ AUS_empire_market_liberal_ADJ: "Austríaco"
+ AUS_empire_market_liberal_DEF: "o Império Austríaco"
+ AUS_empire_social_conservative: "Império Austríaco"
+ AUS_empire_social_conservative_ADJ: "Austríaco"
+ AUS_empire_social_conservative_DEF: "o Império Austríaco"
+ AUS_empire_authoritarian_democrat: "Império Austríaco"
+ AUS_empire_authoritarian_democrat_ADJ: "Austríaco"
+ AUS_empire_authoritarian_democrat_DEF: "o Império Austríaco"
+ AUS_empire_paternal_autocrat: "Império Austríaco"
+ AUS_empire_paternal_autocrat_ADJ: "Austríaco"
+ AUS_empire_paternal_autocrat_DEF: "o Império Austríaco"
+ AUS_empire_national_populist: "Império Austríaco"
+ AUS_empire_national_populist_ADJ: "Austríaco"
+ AUS_empire_national_populist_DEF: "o Império Austríaco"
+
+ AUS_germany: "Alemanha"
+ AUS_germany_ADJ: "Alemão"
+ AUS_germany_DEF: "Alemanha"
+
+ AUS_germany_social_democrat: "Império Alemão"
+ AUS_germany_social_democrat_ADJ: "Alemão"
+ AUS_germany_social_democrat_DEF: "o Império Alemão"
+ AUS_germany_social_liberal: "Império Alemão"
+ AUS_germany_social_liberal_ADJ: "Alemão"
+ AUS_germany_social_liberal_DEF: "o Império Alemão"
+ AUS_germany_market_liberal: "Império Alemão"
+ AUS_germany_market_liberal_ADJ: "Alemão"
+ AUS_germany_market_liberal_DEF: "o Império Alemão"
+ AUS_germany_social_conservative: "Império Alemão"
+ AUS_germany_social_conservative_ADJ: "Alemão"
+ AUS_germany_social_conservative_DEF: "o Império Alemão"
+ AUS_germany_authoritarian_democrat: "Império Alemão"
+ AUS_germany_authoritarian_democrat_ADJ: "Alemão"
+ AUS_germany_authoritarian_democrat_DEF: "o Império Alemão"
+ AUS_germany_paternal_autocrat: "Império Alemão"
+ AUS_germany_paternal_autocrat_ADJ: "Alemão"
+ AUS_germany_paternal_autocrat_DEF: "o Império Alemão"
+ AUS_germany_national_populist: "Império Alemão"
+ AUS_germany_national_populist_ADJ: "Alemão"
+ AUS_germany_national_populist_DEF: "o Império Alemão"
+
+ AUS_united_states_social_democrat: "Estados Unidos da Grande Áustria"
+ AUS_united_states_social_democrat_ADJ: "Austríaco"
+ AUS_united_states_social_democrat_DEF: "os Estados Unidos da Grande Áustria"
+ AUS_united_states_social_liberal: "Estados Unidos da Grande Áustria"
+ AUS_united_states_social_liberal_ADJ: "Austríaco"
+ AUS_united_states_social_liberal_DEF: "os Estados Unidos da Grande Áustria"
+ AUS_united_states_market_liberal: "Estados Unidos da Grande Áustria"
+ AUS_united_states_market_liberal_ADJ: "Austríaco"
+ AUS_united_states_market_liberal_DEF: "os Estados Unidos da Grande Áustria"
+ AUS_united_states_social_conservative: "Estados Unidos da Grande Áustria"
+ AUS_united_states_social_conservative_ADJ: "Austríaco"
+ AUS_united_states_social_conservative_DEF: "os Estados Unidos da Grande Áustria"
+ AUS_united_states_authoritarian_democrat: "Estados Unidos da Grande Áustria"
+ AUS_united_states_authoritarian_democrat_ADJ: "Austríaco"
+ AUS_united_states_authoritarian_democrat_DEF: "os Estados Unidos da Grande Áustria"
+ AUS_united_states_paternal_autocrat: "Estados Unidos da Grande Áustria"
+ AUS_united_states_paternal_autocrat_ADJ: "Austríaco"
+ AUS_united_states_paternal_autocrat_DEF: "os Estados Unidos da Grande Áustria"
+ AUS_united_states_national_populist: "Estados Unidos da Grande Áustria"
+ AUS_united_states_national_populist_ADJ: "Austríaco"
+ AUS_united_states_national_populist_DEF: "os Estados Unidos da Grande Áustria"
+
+ AUS_danubia: "Danúbia"
+ AUS_danubia_ADJ: "Danubiano"
+ AUS_danubia_DEF: "a Danúbia"
+
+ AUS_danubia_totalist: "República Federal Danubiana"
+ AUS_danubia_totalist_ADJ: "Danubiano"
+ AUS_danubia_totalist_DEF: "a República Federal Danubiana"
+ AUS_danubia_syndicalist: "República Federal Danubiana"
+ AUS_danubia_syndicalist_ADJ: "Danubiano"
+ AUS_danubia_syndicalist_DEF: "a República República Federal Danubiana"
+ AUS_danubia_radical_socialist: "República Federal Danubiana"
+ AUS_danubia_radical_socialist_ADJ: "Danubiano"
+ AUS_danubia_radical_socialist_DEF: "a República Danubiana dos Conselhos"
+ AUS_danubia_social_democrat: "Federação Danubiana"
+ AUS_danubia_social_democrat_ADJ: "Danubiano"
+ AUS_danubia_social_democrat_DEF: "a Federação Danubiana"
+ AUS_danubia_social_liberal: "Federação Danubiana"
+ AUS_danubia_social_liberal_ADJ: "Danubiano"
+ AUS_danubia_social_liberal_DEF: "a Federação Danubiana"
+ AUS_danubia_market_liberal: "Federação Danubiana"
+ AUS_danubia_market_liberal_ADJ: "Danubiano"
+ AUS_danubia_market_liberal_DEF: "a Federação Danubiana"
+ AUS_danubia_social_conservative: "Federação Danubiana"
+ AUS_danubia_social_conservative_ADJ: "Danubiano"
+ AUS_danubia_social_conservative_DEF: "a Federação Danubiana"
+ AUS_danubia_authoritarian_democrat: "Federação Danubiana"
+ AUS_danubia_authoritarian_democrat_ADJ: "Danubiano"
+ AUS_danubia_authoritarian_democrat_DEF: "a Federação Danubiana"
+ AUS_danubia_paternal_autocrat: "Federação Danubiana"
+ AUS_danubia_paternal_autocrat_ADJ: "Danubiano"
+ AUS_danubia_paternal_autocrat_DEF: "a Federação Danubiana"
+ AUS_danubia_national_populist: "Federação Danubiana"
+ AUS_danubia_national_populist_ADJ: "Danubiano"
+ AUS_danubia_national_populist_DEF: "a Federação Danubiana"
+
+ AUS_SGF: "Alemanha do Sul"
+ AUS_SGF_ADJ: "Sul Alemão"
+ AUS_SGF_DEF: "a Alemanha do Sul"
+
+ AUS_SGF_totalist: "União da Alemanha do Sul"
+ AUS_SGF_totalist_ADJ: "Sul Alemão"
+ AUS_SGF_totalist_DEF: "a União da Alemanha do Sul"
+
+ AUS_SGF_syndicalist: "União da Alemanha do Sul"
+ AUS_SGF_syndicalist_ADJ: "Sul Alemão"
+ AUS_SGF_syndicalist_DEF: "a União da Alemanha do Sul"
+
+ AUS_SGF_radical_socialist: "União da Alemanha do Sul"
+ AUS_SGF_radical_socialist_ADJ: "Sul Alemão"
+ AUS_SGF_radical_socialist_DEF: "a União da Alemanha do Sul"
+
+ AUS_SGF_social_democrat: "Confederação da Alemanha do Sul"
+ AUS_SGF_social_democrat_ADJ: "Sul Alemão"
+ AUS_SGF_social_democrat_DEF: "a Confederação da Alemanha do Sul"
+
+ AUS_SGF_social_liberal: "Confederação da Alemanha do Sul"
+ AUS_SGF_social_liberal_ADJ: "Sul Alemão"
+ AUS_SGF_social_liberal_DEF: "a Confederação da Alemanha do Sul"
+
+ AUS_SGF_market_liberal: "Confederação da Alemanha do Sul"
+ AUS_SGF_market_liberal_ADJ: "Sul Alemão"
+ AUS_SGF_market_liberal_DEF: "a Confederação da Alemanha do Sul"
+
+ AUS_SGF_social_conservative: "Confederação da Alemanha do Sul"
+ AUS_SGF_social_conservative_ADJ: "Sul Alemão"
+ AUS_SGF_social_conservative_DEF: "a Confederação da Alemanha do Sul"
+
+ AUS_SGF_authoritarian_democrat: "Confederação da Alemanha do Sul"
+ AUS_SGF_authoritarian_democrat_ADJ: "Sul Alemão"
+ AUS_SGF_authoritarian_democrat_DEF: "a Confederação da Alemanha do Sul"
+
+ AUS_SGF_paternal_autocrat: "Confederação da Alemanha do Sul"
+ AUS_SGF_paternal_autocrat_ADJ: "Sul Alemão"
+ AUS_SGF_paternal_autocrat_DEF: "a Confederação da Alemanha do Sul"
+
+ AUS_SGF_national_populist: "Confederação da Alemanha do Sul"
+ AUS_SGF_national_populist_ADJ: "Sul Alemão"
+ AUS_SGF_national_populist_DEF: "a Confederação da Alemanha do Sul"
+
+### Characters ###
+
+ AUS_alfred_klahr: "Alfred Klahr"
+ AUS_pierre_ramus: "Pierre Ramus"
+ AUS_friedrich_adler: "Friedrich Adler"
+ AUS_karl_renner: "Karl Renner"
+ AUS_wilhelm_miklas: "Wilhelm Miklas"
+ AUS_franz_dinghofer: "Franz Dinghofer"
+
+ AUS_karl_von_habsburg: "Karl von Habsburgo-Lorena"
+ AUS_karl_von_habsburg_regnal: "Karl I"
+ AUS_karl_von_habsburg_leader_desc: "Após o assassinato de seu tio Francisco Ferdinando em 1914, Karl von Habsburgo-Lorena tornou-se o sucessor designado do Kaiser Franz Josef, e, com a morte deste último, Karl herdou os muitos tronos do Império Habsburgo no final de 1916. Apesar da vitória na Weltkrieg, a Áustria permaneceu sobrecarregada por um sistema político arcaico e por agitação. O Imperador Karl agora tem a árdua tarefa de reformar o debilitado Império, apesar de numerosas ameaças internas e externas."
+
+ AUS_otto_von_habsburg: "Otto von Habsburgo-Lorena"
+ AUS_otto_von_habsburg_regnal: "Otto I"
+ AUS_otto_von_habsburg_leader_desc: "O Imperador Otto von Habsburgo-Lorena sucedeu seu pai, Karl, como monarca da Áustria. Otto, apesar de sua jovem idade, tem grandes ambições de um Império cujos povos diversos compartilham apenas uma identidade nacional. Seu discurso lacônico e charme jovial culminaram em Otto recebendo frequente atenção da mídia."
+
+ AUS_eugen_von_habsburg: "Eugen von Habsburgo-Lorena"
+
+ AUS_karl_albrecht_von_habsburg: "Karol Albrecht von Habsburgo-Lorena"
+ AUS_karl_albrecht_von_habsburg_regnal: "Karol Olbracht"
+ AUS_karl_albrecht_von_habsburg_polish: "Karol Olbracht Habsburgo-Lotaryński"
+ AUS_karl_albrecht_von_habsburg_leader_desc: "Karl Albrecht von Habsburgo-Lorena, nascido na Áustria, é um firme defensor dos poloneses. Dado o comando da, finalmente, descentralizada região da Galícia dentro da Cisleitânia, Karl Albrecht faz o seu melhor para representar os interesses de seu povo adotivo dentro do Império."
+ AUS_karl_albrecht_von_habsburg_POL_leader_desc: "Karol Olbracht von Habsburgo-Lorena, nascido na Áustria, é um firme defensor dos poloneses. Quando o Imperador Karl planejou anexar terras polonesas à Áustria, Karol Olbracht defendeu ferozmente contra isso. Embora amigável à sua Áustria natal, como rei da Polônia, Karol continua a lutar pelo povo polonês."
+
+ AUS_joseph_august_von_habsburg: "Joseph August von Habsburgo-Lorena"
+ AUS_joseph_august_von_habsburg_hungarian: "József Ágost Habsburgo-Lotaringiai"
+
+ AUS_alfred_jansa_von_tannenau: "Alfred Jansa von Tannenau"
+ AUS_erhard_raus: "Erhard Raus"
+ AUS_lothar_rendulic: "Lothar Rendulic"
+ AUS_karl_eglseer: "Karl Eglseer"
+ AUS_julius_ringel: "Julius Ringel"
+ AUS_franz_bohme: "Franz Böhme"
+ AUS_sigismund_schilhawsky_von_bahnbruck: "Sigismund Schilhawsky von Bahnbrück"
+ AUS_eduard_barger: "Eduard Barger"
+ AUS_friedrich_materna: "Friedrich Materna"
+ AUS_wilhelm_zehner: "Wilhelm Zehner"
+ AUS_ludwig_von_eimannsberger: "Ludwig von Eimannsberger"
+
+ AUS_georg_von_trapp: "Georg von Trapp"
+ AUS_heinrich_pergler_von_perglas: "Heinrich Pergler von Perglas"
+ AUS_maximilian_eugen_von_habsburg: "Maximilian Eugen von Habsburgo-Lorena"
+
+ AUS_otto_ender: "Otto Ender"
+ AUS_eduard_heinl: "Eduard Heinl"
+ AUS_adolf_schaerf: "Adolf Schärf"
+ AUS_ernst_ruediger_von_starhemberg: "Ernst Rüdiger von Starhemberg"
+ AUS_ludwig_huelgerth: "Ludwig Hülgerth"
+ AUS_hermann_foppa: "Hermann Foppa"
+ AUS_julius_meinl_jr: "Julius Meinl II"
+ AUS_ludwig_von_mises: "Ludwig von Mises"
+ AUS_karl_von_skoda: "Emil von Škoda"
+ AUS_maximilian_ronge: "Maximilian Ronge"
+ AUS_emil_fey: "Emil Fey"
+ AUS_hugo_breitner: "Hugo Breitner"
+ AUS_walter_breisky: "Walter Breisky"
+ AUS_richard_von_coudenhove: "Richard von Coudenhove-Kalergi"
+ AUS_hans_lauda: "Hans von Lauda"
+ AUS_hermann_pokorny: "Hermann Pokorny"
+ AUS_theodor_koerner: "Theodor Körner von Siegringen"
+ AUS_emil_milan_uzelac: "Emil Milan Uzelac"
+ AUS_otto_schoebel: "Otto Schöbel"
+ AUS_gottfried_von_banfeld: "Gottfried von Banfield"
+ AUS_alfred_von_hubicki: "Alfred von Hubicki"
+ AUS_alexander_loehr: "Alexander Löhr"
+ AUS_emil_hickmann: "Emil Hickmann"
+ AUS_viktor_pohl: "Viktor Pohl"
+ AUS_sigmund_knaus: "Sigmund Knaus"
+ AUS_zdenko_hudecek: "Zdenko Hudecek"
+ AUS_eugen_saenger: "Eugen Sänger"
+ AUS_otto_robert_frisch: "Otto Robert Frisch"

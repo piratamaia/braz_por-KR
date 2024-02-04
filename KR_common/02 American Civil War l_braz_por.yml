@@ -1,0 +1,1068 @@
+﻿l_braz_por:
+
+### Opinion Modifiers ###
+WIFRP: "Canadá nos deu Porto Rico"
+ACW_help_from_entente: "Nos ajudou na guerra civil"
+ACW_entente_helping: "Ajudando-os na guerra civil"
+USA_new_england_units: "Quatro unidades de milícia serão formadas em Nova Inglaterra"
+ACW_units_recalled: "Soldados da guerra civil serão remobilizados em uma medida de emergência"
+
+ACW_federal_front_idea: "Avançar Contra os Federais"
+ACW_syndicalist_front_idea: "Avançar Contra os Sindicalistas"
+ACW_longist_front_idea: "Avançar Contra os Longistas"
+ACW_pacific_front_idea: "Avançar Contra os Estados do Pacífico"
+
+### World Tension ###
+american_civil_war_threat: "Segunda Guerra Civil Americana"
+
+### Tooltips ###
+ACW_liberia_rally: "Vamos reunir nosso povo para defender a Libéria"
+ ACW_panama_garrison_tooltip: "A guarnição do Panamá retorna à América"
+ ACW_chinese_marines_tooltip: "Os Fuzileiros Navais na China retornam à América"
+ PSA_rockies_ceasefire: "Um cessar-fogo foi acordado nas Montanhas Rochosas"
+ ACW_reinforcment_tooltip: "Reforços chegarão"
+ ACW_convert_destroyers_tooltip: "Vamos converter navios em Destróieres"
+ ACW_convert_cruisers_tooltip: "Vamos converter navios em Cruzadores"
+ ACW_entente_support: "Conselheiros da Entente"
+
+ ACW_support_usa: "Apoiando o Governo Federal"
+ ACW_support_usa_tt: "(§Y[USA.GetNameWithFlag]§!) $volunteer_limit_plus_two_tt$"
+
+ ACW_support_psa: "Apoiando o Governo do Pacífico"
+ ACW_support_psa_tt: "(§Y[PSA.GetNameWithFlag]§!) $volunteer_limit_plus_two_tt$"
+
+ ACW_support_aus: "Apoiando o Governo Longista"
+ ACW_support_aus_tt: "(§Y[TEX.GetNameWithFlag]§!) $volunteer_limit_plus_two_tt$"
+
+ ACW_miss_ceasefire: "Cessar-fogo no Mississippi"
+ ACW_plains_ceasefire: "Cessar-fogo nas Grandes Planícies"
+ ACW_rocky_ceasefire: "Cessar-fogo nas Montanhas Rochosas"
+ ACW_is_recruiting: "Está recrutando milicianos em outros lugares"
+ ACW_recruit_units: "[?total_units_to_spawn|G0] unidades de milícia serão formadas."
+ ACW_recruit_5_rebels: "§G5§! unidades rebeldes são formadas no estado."
+ ACW_three_units_capital: "Três unidades de reserva de emergência serão formadas na capital"
+ ACW_six_units_raised: "§G6§! unidades adicionais de milícia e infantaria são formadas"
+ USA_capital_moved: "A capital foi movida"
+ ACW_fired_up: "Empolgados"
+ ACW_fired_up_desc: "Nossas forças estão empolgadas e prontas para enfrentar o inimigo!"
+ ACW_times_up: "Demorando Demais"
+ ACW_times_up_desc: "A guerra civil está demorando demais, com pouca esperança de progresso. Começou a desgastar nossas forças."
+ ACW_once_the_war_begins: "Quando a guerra civil começar:"
+ ACW_gain_core_on_state: "Se algum estado vizinho for um núcleo de §H[Root.GetNameDef]§!:"
+
+ CP_25_PP_25: "£pol_power §Y25§! £command_power §Y25§!"
+ CP_25_PP_25_blocked: "£pol_power §R25§! £command_power §R25§!"
+ CP_25_PP_25_tooltip: "Custa $CP_25_PP_25_blocked$ para tomar a decisão"
+
+ 2000_infantry_equipment_1: "£rifle_texticon §H2000§!"
+ 2000_infantry_equipment_1_blocked: "£rifle_texticon §R2000§!"
+ 2000_infantry_equipment_1_tooltip: "Custa $2000_infantry_equipment_1_blocked$ para tomar a decisão"
+
+### State Modifiers ###
+AFP_state_support_low: "Controle do AFP: §GLow§!"
+ SPA_state_support_low: "Controle do SPA: §GLow§!"
+ AFP_state_support_even: "Controle do AFP: §LMédio§!"
+ SPA_state_support_even: "Controle do SPA: §LMédio§!"
+ AFP_state_support_high: "Controle do AFP: §OAlto§!"
+ SPA_state_support_high: "Controle do SPA: §OAlto§!"
+ AFP_state_support_guaranteed: "Controle do AFP: §RTotal§!"
+ SPA_state_support_guaranteed: "Controle do SPA: §RTotal§!"
+
+ AFP_state_support_tooltip: "Este estado abriga apoio ao §LAmerica First Party§!. Sua lealdade em caso de conflito civil não é certa."
+ AFP_guaranteed_state_tooltip: "Este estado é totalmente controlado pelo §LAmerica First Party§!. Sua lealdade ao governo federal é inexistente."
+ SPA_state_support_tooltip: "Este estado abriga apoio ao §RSocialist Party of America§!. Sua lealdade em caso de conflito civil não é certa."
+ SPA_guaranteed_state_tooltip: "Este estado é totalmente controlado pelo §RSocialist Party of America§!. Sua lealdade ao governo federal é inexistente."
+
+### Decisions ####
+ACW_foreign_volunteer_decisions: "Voluntários Estrangeiros"
+ACW_foreign_volunteer_decisions_desc: "Com a guerra civil nos EUA em pleno andamento, pode ser bom enviar suprimentos e armas para a facção que desejamos ver vitoriosa nesse conflito sangrento."
+
+ACW_support_csa_dec: "Apoiar a CSA"
+ACW_support_csa_dec_desc: "Devemos apoiar nossos irmãos e irmãs na América que lutam para quebrar suas correntes."
+
+ACW_support_usa_dec: "Apoiar os EUA"
+ACW_support_usa_dec_desc: "Devemos apoiar o governo federal da América que luta contra sindicalistas e traidores."
+
+ACW_support_aus_dec: "Apoiar a AUS"
+ACW_support_aus_dec_desc: "Devemos apoiar Huey Long e a American Union State que lutam contra o governo federal corrupto e os sindicalistas."
+
+ACW_support_psa_dec: "Apoiar o PSA"
+ACW_support_psa_dec_desc: "Devemos apoiar a América legítima na Costa Oeste que luta contra a tirania de todos os lados na América."
+
+ACW_civil_war_decisions: "A Guerra Civil"
+ACW_civil_war_decisions_desc: "A Segunda Guerra Civil Americana está aqui e devemos garantir nossa vitória dentro dela pela América."
+
+ACW_federal_deadline_looms: "O Prazo Federal se Aproxima"
+ACW_federal_deadline_looms_desc: "A exigência do presidente foi clara: os rebeldes devem se render e desarmar em um mês, ou as forças federais os forçarão a fazer isso - consequências à parte. A América espera em silêncio, enquanto os dias passam sem que nenhum lado pareça disposto a ceder. Está claro que os dias de diplomacia já passaram..."
+
+ACW_move_quickly: "Devemos Agir Rapidamente"
+ACW_move_quickly_desc: "O governo federal controla muito mais território do que nós, e nossa missão parece - para alguns - condenada desde o início. E ainda assim lutamos. Devemos fazer progressos em breve e avançar no coração do território federal assim que ousarmos, para não nos encontrarmos presos em uma guerra que não podemos esperar vencer."
+
+ACW_rocky_mountain_ceasefire_decisions: "O [ACW_ceasefire_name]"
+ACW_break_ceasefire: "Quebrar o Cessar-Fogo"
+ACW_break_ceasefire_desc: "Esperamos tempo suficiente. A hora chegou de atacar [From.GetNameDef] e encerrar a guerra civil de uma vez por todas."
+ACW_ceasefire_six_months: "O cessar-fogo foi acordado há pelo menos seis meses"
+ACW_ceasefire_one_month: "O cessar-fogo foi acordado há pelo menos um mês"
+
+PSA_deal_with_devil: "Acordo com o Diabo"
+PSA_deal_with_devil_desc: "Estamos perdendo a guerra civil... terrivelmente. Nossa única esperança é estabelecer uma trégua temporária com [From.GetNameDef], para que possamos unir forças contra nosso verdadeiro inimigo. Nossa proposta será que a trégua dure 90 dias, mas esperamos que seja mais longa se ambos os lados estiverem dispostos."
+
+TEX_deal_with_devil: "Acordo com o Diabo"
+TEX_deal_with_devil_desc: "Estamos perdendo a guerra civil... terrivelmente. Nossa única esperança é estabelecer uma trégua temporária com [From.GetNameDef], para que possamos unir forças contra nosso verdadeiro inimigo. Nossa proposta será que a trégua dure 90 dias, mas esperamos que seja mais longa se ambos os lados estiverem dispostos."
+
+ACW_break_deal_with_devil: "Quebrar o Acordo"
+ACW_break_deal_with_devil_desc: "Chegou a hora de nossa trégua temporária com [From.GetNameDef] chegar ao fim."
+
+USA_relocate_capital_civil_war: "Transferir a Capital"
+
+USA_emergency_reserve: "Chamar Reservas de Emergência"
+PSA_emergency_reserve: "Chamar Reservas de Emergência"
+CSA_emergency_reserve: "Chamar Reservas de Emergência"
+TEX_emergency_reserve: "Chamar Reservas de Emergência"
+
+ACW_federal_front: "Avançar na Frente Federal"
+ACW_syndicalist_front: "Avançar na Frente Sindicalista"
+ACW_longist_front: "Avançar na Frente Longista"
+ACW_pacific_front: "Avançar na Frente do Pacífico"
+
+ACW_recruitment_tooltip: "Estados disponíveis para recrutar"
+ACW_recruit_in_state: "Recrutar [From.GetACWDivisionCount] Milícia em [From.GetName]"
+
+ACW_gets_event_uprising: "Recebe o evento '§HRevolta de Resistência em [?revolt_state_var.GetName]§!'"
+
+### ACW Mobilization Decisions ###
+ACW_mobilisation_decisions: "Mobilização da Guerra Civil Americana"
+ACW_mobilisation_decisions_desc: "O dia que muitos temiam agora está sobre nós. Irmão foi virado contra irmão pela segunda vez em 75 anos. Se quisermos ter uma chance, devemos mobilizar a população e nossa força industrial para derrotar aqueles que buscam impor sua visão da América sobre nós!"
+ACW_mobilize_economy: "Mobilizar a Economia"
+ACW_raise_conscription: "Convocar Recrutamento"
+ACW_convert_heartland_factories: "Transferir £GFX_half_factory §Y[FROM.GetName]§! para Produção Militar"
+ACW_convert_outlier_factories: "Transferir £GFX_half_factory §Y[FROM.GetName]§! para Produção Militar"
+
+### Set Up Events ###
+amcivwar.1.t.president: "Presidente Reed Escapa para Chicago"
+amcivwar.1.t.not_president: "Jack Reed Chama para Ação"
+
+amcivwar.1.d.president: "O Presidente Reed escapou para Chicago e declarou que MacArthur é um traidor de todo o povo americano. Suas chamadas ganharam muito apoio no Cinturão de Aço, e vários governadores já anunciaram que não reconhecem a autoridade 'ilegítima' do governo atual. Eles fecharam suas fronteiras para os soldados americanos, levantando o espectro assustador da guerra civil que o país experimentou menos de um século atrás."
+amcivwar.1.d.macarthur: "Jack Reed fez um discurso empolgante de Chicago, instando todos os seus seguidores a se levantarem contra os tiranos gêmeos General MacArthur e Huey Long. Em uma hora, vários governadores pelo Cinturão de Aço anunciaram seu apoio e declararam que tanto Huey Long quanto o General MacArthur não têm verdadeira autoridade. Os governadores foram fortalecidos pelos apoiadores de Reed, que em questão de dias tomaram postos militares e bloquearam estradas por todo o norte."
+
+amcivwar.1.d.nothing_is_done: "A violência em Pittsburgh foi apenas a faísca necessária para que Jack Reed declarasse no rádio que o Presidente Olson é um fantoche das corporações e um vigarista desonesto, com a intenção de vender o trabalhador americano para o maior lance. Ele disse que é hora do trabalhador se posicionar. Vários governadores do norte declararam imediatamente seu apoio a Reed, apoiados por milícias sindicalistas que se espalharam pelos estados para bloquear estradas e tomar bases militares."
+amcivwar.1.d.revolt_against_compromise: "A tentativa de compromisso falhou e, com seu fracasso, a América foi quebrada. Jack Reed anunciou hoje que os trabalhadores da América devem se posicionar contra os governos, e quase imediatamente vários governadores do norte declararam seu apoio a ele. Eles dizem que o Presidente Olson e seu governo não têm autoridade, exigindo que se rendam a um comitê liderado por Reed para supervisionar a reestruturação do governo 'como os pais fundadores pretendiam'."
+amcivwar.1.d.assassination_long: "Com o caos engolindo o país após o fracasso do assassinato de Huey Long, Reed aproveitou o momento e denunciou o governo federal como marionetes de seus mestres capitalistas. Vários governadores do norte declararam imediatamente seu apoio a Reed, declarando o governo 'moralmente falido' como não tendo verdadeira autoridade. Esses governos estaduais são apoiados por milícias sindicalistas que se espalharam pelos estados para bloquear estradas e tomar bases militares."
+amcivwar.1.d.assassination_reed: "A tentativa de assassinato contra Jack Reed foi frustrada e, pior, o envolvimento do governo federal foi tornado público. Esta é toda a justificativa de que o SPA precisava. Jack Reed denunciou hoje o Presidente [USA.GetLeader] e Huey Long ambos como traidores e tiranos, e convocou seus apoiadores para defenderem seu modo de vida contra a tirania. Vários governadores do norte declararam imediatamente seu apoio a Reed, apoiados por milícias sindicalistas que se espalharam pelos estados para bloquear estradas e tomar bases militares."
+
+amcivwar.1.d.long_assassinated: "Com o caos engolindo o país após o assassinato de Huey Long, Jack Reed aproveitou o momento e denunciou o governo federal como tiranos e a democracia americana como verdadeiramente morta. Vários governadores do norte declararam imediatamente seu apoio a Reed, declarando o governo 'moralmente falido' como não tendo verdadeira autoridade. Esses governos estaduais são apoiados por milícias sindicalistas que se espalharam pelos estados para bloquear estradas e tomar bases militares."
+amcivwar.1.d.austerity: "Com seus apoiadores animados pela colaboração do governo federal com Huey Long e o AFP, Jack Reed aproveitou o momento e chamou os trabalhadores americanos para se levantarem contra um sistema tirânico que os traiu. Vários governadores do norte declararam imediatamente seu apoio a Reed, declarando o governo 'moralmente falido' como não tendo verdadeira autoridade. Esses governos estaduais são apoiados por milícias sindicalistas que se espalharam pelos estados para bloquear estradas e tomar bases militares."
+
+amcivwar.1.d.default: "A repressão ao Partido Socialista só poderia ter um resultado: para proteger os direitos dos trabalhadores em todo o país, Jack Reed convocou os trabalhadores da América a se levantarem contra seus senhores capitalistas, dizendo que os americanos decentes têm uma obrigação moral de agir contra o Presidente [USA.GetLeader] e a corrupção que ele representa. Vários governadores do norte declararam imediatamente seu apoio a Reed, apoiados por milícias sindicalistas que se espalharam pelos estados para bloquear estradas e tomar bases militares."
+
+amcivwar.1.a: "O desastre começou. Apoie a República"
+amcivwar.1.b: "A revolução começou. Apoie os Trabalhadores (Jogue como a CSA)"
+
+amcivwar.2.t.president: "Presidente Long Declara o Estado da União Americana"
+amcivwar.2.t.first_revolter: "Huey Long Declara o Estado da União Americana"
+amcivwar.2.t.second_revolter: "Huey Long Condena o Governo Federal"
+
+amcivwar.2.d.president_reed: "Em um discurso inflamado em Baton Rouge, Huey Long falou sobre a necessidade de lutar contra ambos o traidor MacArthur e o pretendente Reed. Ambos são tiranos que precisam ser derrubados, e apenas o AFP, sob sua orientação, pode purificar a América. Ele ganhou ouvintes prontos entre vários governadores do sul, todos os quais reconheceram que não reconhecem a autoridade de MacArthur nem do Presidente Reed."
+amcivwar.2.d.president_long: "O Presidente Huey Long escapou para Baton Rouge e declarou que o General MacArthur é um traidor ao povo da América. Ele ganhou ouvintes prontos entre vários governadores do sul, todos os quais reconheceram que não reconhecem mais a autoridade de MacArthur e exigiram sua renúncia. Long falou no rádio, instando todos os americanos a apoiar o presidente legítimo e lutar contra a tirania que MacArthur representa."
+amcivwar.2.d.macarthur: "Em um discurso inflamado em Baton Rouge, Huey Long falou sobre a necessidade de lutar contra ambos o traidor General MacArthur e o pretendente Jack Reed. Ambos são tiranos que precisam ser derrubados, e apenas o AFP, sob sua orientação, pode purificar a América. Ele ganhou ouvintes prontos entre vários governadores do sul, todos os quais reconheceram que não reconhecem a autoridade de MacArthur nem de Reed."
+
+amcivwar.2.d.nothing_is_done: "A violência em Pittsburgh foi apenas a faísca que faltava para que Huey Long declarasse no rádio que o Presidente Olson é tanto um traidor quanto um vigarista, com a intenção de entregar o povo americano a banqueiros e aos sindicalistas, e que tanto ele quanto Reed devem ser combatidos para preservar o modo de vida americano. Vários governadores do sul colocaram seu apoio nele, anunciando que não veem o governo Olson como legítimo e, portanto, se recusam a reconhecer sua autoridade."
+amcivwar.2.d.revolt_against_compromise: "A tentativa de compromisso falhou, e com seu fracasso a América foi quebrada. Huey Long declarou no rádio hoje que o corrupto Presidente Olson e o tirano Reed ambos devem ser parados pelo bem da América, e convocou todos os americanos decentes a se levantarem contra eles. Vários governadores do sul colocaram seu apoio nele, anunciando que não veem o governo Olson como legítimo, e embora ainda não tenham chegado ao ponto de anunciar a secessão da União, deixaram claro que não reconhecem a autoridade do governo dentro de suas fronteiras."
+amcivwar.2.d.assassination_long: "A tentativa de assassinato contra Huey Long foi frustrada e, pior, o envolvimento do governo federal foi tornado público. Esta é toda a justificativa de que o AFP precisava. Huey Long denunciou hoje o Presidente [USA.GetLeader] e Jack Reed ambos como traidores e tiranos, e convocou seus apoiadores para defenderem seu modo de vida contra a tirania. Vários governadores do sul colocaram seu apoio nele, anunciando que não veem o governo [USA.GetName] como legítimo. Embora ainda não tenham chegado ao ponto de anunciar a secessão da União, deixaram claro que não reconhecem a autoridade do governo dentro de suas fronteiras."
+amcivwar.2.d.assassination_reed: "Com o caos engolindo o país após a tentativa de assassinato fracassada de Jack Reed, Huey Long aproveitou o momento e denunciou o governo federal como corrupto e além de redenção. Vários governadores do sul colocaram seu apoio nele, anunciando que não veem o governo [USA.GetName] como legítimo. Embora ainda não tenham chegado ao ponto de anunciar a secessão da União, deixaram claro que não reconhecem a autoridade do governo dentro de suas fronteiras."
+
+amcivwar.2.d.reed_assassinated: "Com o caos se espalhando pelo país após o assassinato de Jack Reed, Huey Long aproveitou o momento e denunciou o governo federal como tiranos e a democracia americana como verdadeiramente morta. Vários governadores do sul declararam imediatamente seu apoio a Long, declarando o governo 'moralmente falido' como não tendo verdadeira autoridade. Esses governos estaduais são apoiados por milícias Minutemen que se espalharam pelos estados para bloquear estradas e tomar bases militares."
+amcivwar.2.d.compromise: "Com seus apoiadores animados pela aparente adoção do governo federal de uma agenda sindicalista, Huey Long aproveitou o momento e convocou os americanos a se levantarem contra um sistema prestes a traí-los para a tirania. Vários governadores do sul declararam imediatamente seu apoio a Long, declarando o governo 'moralmente falido' como não tendo verdadeira autoridade. Esses governos estaduais são apoiados por milícias Minutemen que se espalharam pelos estados para bloquear estradas e tomar bases militares."
+
+amcivwar.2.d.default: "Huey Long declarou que o Presidente [USA.GetLeader] é um tirano e deve ser combatido. Em um discurso no rádio, ele denunciou o presidente por conluio com os sindicalistas do SPA e o acusou de nada fazer para deter o caos. Long jurou restaurar a ordem e destruir o governo corrupto em Washington, e vários governadores do sul declararam imediatamente seu apoio a ele, exigindo que [USA.GetLeader] renuncie imediatamente e entregue o controle a Long e a um 'comitê de reconciliação' que veria a reestruturação do governo americano."
+
+amcivwar.2.a: "Apoie a República"
+amcivwar.2.b: "Apoie o País (Jogue como a AUS)"
+
+amcivwar.3.t: "Governadores do Pacífico Declaram Emergência"
+amcivwar.3.d: "Os governadores dos estados do Pacífico declararam que MacArthur, Huey Long e Jack Reed são todos traidores, tiranos e inimigos da América. Eles ainda não se separaram da União, mas se recusam a reconhecer a autoridade de qualquer um dos governos concorrentes. O governador Frank Merriam anunciou na legislatura de Sacramento que, se necessário, veriam a 'democracia adequada' restaurada no país pela força."
+amcivwar.3.a: "Apoie o Governo"
+amcivwar.3.b: "Apoie a República (Jogue como a PSA)"
+
+amcivwar.4.t: "Impasse na América"
+amcivwar.4.d: "[ACW_news_event_desc]"
+amcivwar.4.test: "Um impasse tenso eclodiu nos Estados Unidos, já que o General Douglas MacArthur e os militares americanos assumiram o controle do governo do presidente eleito - para, como ele afirmou em uma transmissão nacional, 'evitar que a inação entregue os Estados Unidos às mãos dos radicais'.\nDe Chicago, os apoiadores de Jack Reed declararam o governo de MacArthur ilegítimo - assim como os apoiadores do sul de Huey Long, com base em Baton Rouge, e os Governadores do Pacífico sob a liderança do governador Frank Merriam.\nTodos receberam um prazo de trinta dias do General MacArthur para se renderem ou enfrentarem prisão e execução. Considerando que todos os lados estão levantando forças rapidamente, a ideia de que a América está caminhando para uma segunda guerra civil parece quase certa."
+amcivwar.4.d.reed: "Um impasse tenso eclodiu nos Estados Unidos, já que o presidente eleito Reed fugiu para a cidade de Chicago após ser removido à força de seu cargo pelo General Douglas MacArthur.\n\nDe Chicago, os apoiadores de Reed declararam o governo de MacArthur ilegítimo - assim como os apoiadores do sul de Huey Long, com base em Baton Rouge, e os Governadores do Pacífico sob a liderança do governador Frank Merriam. Todos receberam um prazo de trinta dias do General MacArthur para se renderem ou enfrentarem prisão e execução.\n\nConsiderando que todos os lados estão levantando forças rapidamente, a ideia de que a América está caminhando para uma segunda guerra civil parece quase certa."
+amcivwar.4.d.long: "Um impasse tenso eclodiu nos Estados Unidos, já que o presidente eleito Huey Long fugiu para a cidade de Baton Rouge após ser removido à força de seu cargo pelo General Douglas MacArthur.\n\nDe Baton Rouge, os apoiadores de Long declararam o governo de MacArthur ilegítimo - assim como os apoiadores do norte do sindicalista Jack Reed, com base em Chicago, e os Governadores do Pacífico sob a liderança do governador Frank Merriam. Todos receberam um prazo de trinta dias do General MacArthur para se renderem ou enfrentarem prisão e execução.\n\nConsiderando que todos os lados estão levantando forças rapidamente, a ideia de que a América está caminhando para uma segunda guerra civil parece quase certa."
+amcivwar.4.d.olson: "O Presidente Floyd Olson sofreu um grande golpe hoje, já que vários governadores declararam seu governo ilegítimo, dando seu apoio ao populista Huey Long ou ao líder sindicalista Jack Reed.\n\nEles pararam antes de se separar da União, mas declararam que o governo federal não tem autoridade dentro de suas fronteiras estaduais até que Olson renuncie e um 'conselho de reconciliação' seja instituído para restaurar a ordem.\n\nEm resposta, o Presidente Olson deu aos governadores trinta dias para se renderem - tornando quase certo que os Estados Unidos entrarão em uma guerra civil pela segunda vez em menos de um século."
+amcivwar.4.d.garner: "O Presidente John Nance Garner sofreu um grande golpe hoje, já que vários governadores declararam seu governo ilegítimo, dando seu apoio ao populista Huey Long ou ao líder sindicalista Jack Reed.\n\nEles pararam antes de se separar da União, mas declararam que o governo federal não tem autoridade dentro de suas fronteiras estaduais até que Garner renuncie e um 'conselho de reconciliação' seja instituído para restaurar a ordem.\n\nEm resposta, o Presidente Garner deu aos governadores trinta dias para se renderem - tornando quase certo que os Estados Unidos entrarão em uma guerra civil pela segunda vez em menos de um século."
+amcivwar.4.d.landon: "O Presidente Alf Landon sofreu um grande golpe hoje, já que vários governadores declararam seu governo ilegítimo, dando seu apoio ao populista Huey Long ou ao líder sindicalista Jack Reed.\n\nEles pararam antes de se separar da União, mas declararam que o governo federal não tem autoridade dentro de suas fronteiras estaduais até que Landon renuncie e um 'conselho de reconciliação' seja instituído para restaurar a ordem.\n\nEm resposta, o Presidente Landon deu aos governadores trinta dias para se renderem - tornando quase certo que os Estados Unidos entrarão em uma guerra civil pela segunda vez em menos de um século."
+amcivwar.4.d.long_assassinated: "O Presidente [USA.GetLeader] sofreu um grande golpe hoje, já que vários governadores declararam seu governo ilegítimo, citando uma ligação direta entre o governo federal e o recente assassinato de Huey Long, e deram seu apoio ao líder sindicalista Jack Reed. Eles pararam antes de se separar da União, mas declararam que o governo federal não tem autoridade dentro de suas fronteiras estaduais até que [USA.GetLeader] renuncie.\n\nEm resposta, o Presidente [USA.GetLeader] deu aos governadores trinta dias para se renderem - uma ordem que nenhum deles parece interessado em obedecer, tornando quase certo que os Estados Unidos entrarão em uma guerra civil pela segunda vez em menos de um século."
+amcivwar.4.d.austerity: "Enquanto o Presidente [USA.GetLeader] celebrava uma vitória recente ao aprovar um grande projeto de austeridade para salvar a economia americana, com o apoio do Partido America First, o projeto teve o efeito oposto no Partido Socialista da América.\n\nHoje, vários governadores declararam o governo ilegítimo e deram seu apoio ao líder do SPA, Jack Reed.\n\nEm resposta, o Presidente [USA.GetLeader] deu aos governadores trinta dias para se renderem - uma ordem que nenhum deles parece interessado em obedecer, tornando quase certo que os Estados Unidos entrarão em uma guerra civil pela segunda vez em menos de um século."
+amcivwar.4.d.reed_assassinated: "O Presidente [USA.GetLeader] sofreu um grande golpe hoje, já que vários governadores declararam seu governo ilegítimo, citando uma ligação direta entre o governo federal e o recente assassinato do líder sindicalista Jack Reed, e deram seu apoio a Huey Long. Eles pararam antes de se separar da União, mas declararam que o governo federal não tem autoridade dentro de suas fronteiras estaduais.\n\nEm resposta, o Presidente [USA.GetLeader] deu aos governadores trinta dias para se renderem - uma ordem que nenhum deles parece interessado em obedecer, tornando quase certo que os Estados Unidos entrarão em uma guerra civil pela segunda vez em menos de um século."
+amcivwar.4.d.compromise: "O Presidente [USA.GetLeader] sofreu um grande golpe hoje, já que vários governadores declararam seu governo ilegítimo, citando a recente aprovação de um projeto de compromisso destinado a encerrar uma devastadora greve nacional como evidência de conluio com o líder sindicalista Jack Reed, e deram seu apoio ao líder do Partido America First, Huey Long. Eles pararam antes de se separar da União, mas declararam que o governo federal não tem autoridade dentro de suas fronteiras estaduais.\n\nEm resposta, o Presidente [USA.GetLeader] deu aos governadores trinta dias para se renderem - uma ordem que nenhum deles parece interessado em obedecer, tornando quase certo que os Estados Unidos entrarão em uma guerra civil pela segunda vez em menos de um século."
+amcivwar.4.d.default: "Um impasse tenso eclodiu nos Estados Unidos, já que o General Douglas MacArthur e os militares americanos assumiram o controle do governo do presidente eleito - para, como ele afirmou em uma transmissão nacional, 'evitar que a inação entregue os Estados Unidos às mãos dos radicais'.\nDe Chicago, os apoiadores de Jack Reed declararam o governo de MacArthur ilegítimo - assim como os apoiadores do sul de Huey Long, com base em Baton Rouge, e os Governadores do Pacífico sob a liderança do governador Frank Merriam.\nTodos receberam um prazo de trinta dias do General MacArthur para se renderem ou enfrentarem prisão e execução. Considerando que todos os lados estão levantando forças rapidamente, a ideia de que a América está caminhando para uma segunda guerra civil parece quase certa."
+amcivwar.4.a: "Entendi."
+
+amcivwar.5.t: "A Segunda Guerra Civil"
+amcivwar.5.d.macarthur: "O prazo de MacArthur passou, e com grandes forças de milícia sendo levantadas de todos os lados, fica claro qual é a verdadeira resposta deles. A Segunda Guerra Civil Americana começou."
+amcivwar.5.d.president: "O prazo do presidente passou, e com grandes forças de milícia sendo levantadas de todos os lados, fica claro qual é a verdadeira resposta deles. A Segunda Guerra Civil Americana começou."
+amcivwar.5.a: "Não de novo..."
+
+### End of Civil War ###
+amcivwar.24.t: "O Fim da Segunda Guerra Civil Americana"
+amcivwar.24.d.CSA: "O que poderia ter sido o maior opressor capitalista do século XX agora está firmemente sob o controle da classe trabalhadora. Por todo o país, a classe trabalhadora celebra sua libertação das depredações de seus mestres burgueses. Embora ainda haja muito a fazer, hoje podemos celebrar essa vitória e saborear o ar de uma América onde, pela primeira vez, cada homem é verdadeiramente igual."
+amcivwar.24.d.TEX: "Huey Long e seus aliados triunfaram sobre todos os seus inimigos. Com esta vitória, agora podemos celebrar uma nova era de paz. Embora haja muito a reconstruir, aproveitaremos este tempo para celebrar nossa vitória."
+amcivwar.24.d.USA: "Os inimigos da América foram destruídos. Mais uma vez, o Sul foi pacificado, e a ameaça sindicalista foi suprimida. As ameaças ao modo de vida americano foram destruídas, e o grande sistema projetado tão sabiamente pelos Pais Fundadores sobreviveu a mais uma ameaça. Agora, em todo o país, as pessoas podem se alegrar e celebrar uma nova era de paz."
+amcivwar.24.d.PSA: "Os inimigos da América foram destruídos. Mais uma vez, o Sul foi pacificado, a ameaça sindicalista foi suprimida, e o César americano foi vencido. As ameaças à democracia americana foram destruídas, e o grande sistema projetado tão sabiamente pelos Pais Fundadores sobreviveu a mais uma ameaça. Agora, em todo o país, as pessoas podem se alegrar e celebrar uma nova era de paz."
+amcivwar.24.d.NEE: "Quando a nação mergulhou no caos na primavera de 1937, poucos em Nova Inglaterra esperavam que a ordem antiga retornasse. O colapso da nação americana em mais uma guerra civil e a posição precária de Nova Inglaterra levaram muitos a abandonar qualquer noção de ver suas famílias e amigos novamente. No entanto, isso não parece mais ser o caso! Através da força e determinação, os bravos homens e mulheres das Forças Armadas do Governo Provisório lutaram através de altos e baixos para reunir seu amado país. No prédio da prefeitura de Boston, a bandeira do Governo Provisório finalmente está sendo arriada e substituída pela Bandeira Estrelada ao som dos aplausos das multidões emocionadas. Em toda a Nova Inglaterra, desfiles de confetes e paradas são encontrados em todas as principais cidades, enquanto os soldados retornam para casa para seus entes queridos, amigos separados há muito finalmente se reuniram, e os filhos retornam ao abraço terno de suas mães. Embora haja muito a fazer em termos de reconstrução, a Nova Inglaterra celebra, pois mais uma vez o coração da revolução original da América triunfa contra a tirania!"
+amcivwar.24.d.other: "A poeira finalmente assentou, e parece que a guerra civil americana terminou sem... ninguém mais de pé. A América não existe mais, pelo menos por enquanto."
+ #CSA:
+ amcivwar.24.a: "Solidariedade para Sempre!"
+ #TEX:
+amcivwar.24.b: "A Verdadeira América Ainda Permanece!"
+ #USA:
+amcivwar.24.c: "Abaixo com os traidores, acima com as estrelas!"
+ #PSA:
+amcivwar.24.d: "Esta luz da Liberdade não foi apagada!"
+ #NEE:
+amcivwar.24.f: "A casa da revolução original triunfa!"
+ #other:
+amcivwar.24.e: "Finalmente acabou."
+
+### CSA Flavour Events ###
+ amcivwar.30.t: "Diretiva 10: Redistribuição de Ativos Materiais”
+ amcivwar.30.d: "Agora que a revolução começou, devemos decidir o que deve ser feito à burguesia. A IWW proclama que confiscamos toda a sua riqueza e a redistribuímos imediatamente ao povo. A emergente Vanguarda apelou também à sua prisão e execução imediata, citando o destino de Vladimir Lenin como um exemplo de uma revolução derrotada pela clemência. Os membros do SPA pertencentes à depreciada AFL, juntamente com vários progressistas leais, buscaram a vida em vez da morte. Pedir ao Comité Central que exproprie apenas o que é necessário para a guerra e mantenha os seus constituintes materialistas felizes."
+ amcivwar.30.a: "Sua riqueza e suas vidas são nossas!"
+ amcivwar.30.b: "Podemos precisar desses moderados no futuro"
+
+ amcivwar.31.t: "A burguesia foge para o Canadá"
+ amcivwar.31.d: "Os burgueses decidiram que vão fugir do CSA. Milhares procuraram refúgio em território inimigo, especialmente dentro do governo ilegítimo canadense. A escória de ladrões levou consigo toda a riqueza roubada que pôde carregar enquanto escapava da revolução."
+ amcivwar.31.a: "A revolução virá para eles, com o tempo"
+
+ amcivwar.32.t: "A vida de William Crawley lançada nos cinemas"
+ amcivwar.32.d: "O agitprop revolucionário acaba de divulgar a história da vida de Willaim Crawley, um humilde filho da Flórida. Filmado em um palco sonoro moderno, o ousado resgate é retratado pelo ex-Hollywood Paul Robeson. Embora William Crowley da vida real preferisse o coro da igreja, os números musicais de Paul Robeson eram alegres melodias populares. O filme provou ser um sucesso estrondoso de bilheteria, superando uma adaptação de The Iron Heel, de Jack London, no fim de semana de estreia. A imprensa alcançou William Crawley, que comentou que o filme é 'um grande espetáculo sobre a nossa grande libertação'."
+ amcivwar.32.a: "Esplêndido"
+
+ amcivwar.33.t: "Diretiva 213: Sindicalismo de Guerra"
+ amcivwar.33.d: "À medida que a guerra chega a um impasse e talvez até se volte contra nós, o Comité Central está a debater uma proposta abrangente de reforma económica conhecida como “Sindicalismo de Guerra”. Algumas das suas propostas, como o controlo estatal de todo o comércio externo, a nacionalização de todas as fábricas, a rigorosa disciplina laboral não são especialmente controversas. Inclui também medidas potencialmente problemáticas, como a proibição de greves selvagens, obrigações laborais obrigatórias para aqueles que não trabalham ou estão nas forças armadas, o racionamento estrito de alimentos e o controlo militar sobre os caminhos-de-ferro. Isto é visto como tirânico dentro do SPA, com alguns dizendo que algumas das últimas medidas, especialmente a proibição de greves selvagens, trairiam os valores da revolução e fariam do actual governo não melhor do que os seus inimigos capitalistas. Aqueles que apoiam a proposta na Vanguarda argumentam que ela é necessária para alcançar a vitória na revolução e que as primeiras leis aprovadas após o fim da guerra reverterão o Sindicalismo de Guerra."
+ amcivwar.33.a: "Promulgar o Sindicalismo de Guerra"
+ amcivwar.33.b: "Isso não é Socialismo!"
+
+ amcivwar.34.t: "O Corpo Voador Betsy Ross"
+ amcivwar.34.d: "A igualdade de género tem sido há muito tempo uma componente ideológica importante do pensamento socialista, e temos ainda mais provas de que funciona! Um esquadrão de pilotos mulheres ganhou renome em todo o CSA por seus ataques ousados em território inimigo, suas formações de ataque coordenadas e sincronizadas que lhes permitem derrubar forças aéreas inimigas maiores com facilidade. Nomeado em homenagem ao criador da bandeira americana por sua fundadora Opal Kunz, o esquadrão adotou seu novo apelido com muito orgulho."
+ amcivwar.34.a: "A morte está no ar."
+
+ amcivwar.35.t: "Mulheres Soldadas"
+ amcivwar.35.d: "À medida que a luta revolucionária continua, várias mulheres aderiram à luta armada de acordo com os ideais socialistas de igualdade de género. Embora nem todos sejam aceites pelos seus camaradas masculinos, isso não impediu muitos de lutar e morrer pela revolução. Foram distribuídos manuais aos recrutadores sobre como organizar eficazmente Destacamentos de Mulheres, dos quais as milícias podem ensinar uma ou duas coisas aos militares."
+ amcivwar.35.a: "Garota Rebelde, você é a rainha do meu mundo!"
+
+ amcivwar.36.t: "Conflitos Internos"
+ amcivwar.36.d: "No início da revolução, John Reed colocou o IWW como modelo e futuro sucessor do Congresso. A AFL, que havia visto um declínio no número de membros antes de 1935, foi revitalizada pelo endosso de Reed. Agora a AFL, como parte da coligação que luta contra a revolução socialista, começou a exercer a sua autonomia ideológica. Eles optaram por ocupar todo o lado esquerdo da IWW e começaram a atrair aliados. Os seus debates com a IWW podem por vezes resultar em brigas de rua e, em dois casos, em fogo amigo. As Vanguardas, devendo apenas a sua lealdade à revolução, tentaram promover a cooperação. Agora Reed deve decidir se é mais perigoso continuar a apoiar a IWW, quando o compromisso está à vista."
+ amcivwar.36.a: "Ao lado do IWW"
+ amcivwar.36.b: "Deixe o compromisso da Vanguarda"
+ amcivwar.36.c: "Ao lado da AFL"
+
+ amcivwar.38.t: "Diretiva 764: Lei Revolucionária da Educação"
+ amcivwar.38.d: "Para aqueles que são bem educados, seja formalmente ou através de amarga experiência, o pensamento revolucionário chega tão facilmente quanto respirar. No entanto, muitos dos nossos camaradas, seja no Cinturão do Aço ou em qualquer outro lugar da América, foram enganados durante toda a vida pelos capitalistas e não compreendem como a revolução os liberta. Muitos não entregam o coração e a alma à revolução, e alguns até tentam sabotar os nossos esforços, sem saber que somos a única força que realmente se preocupa com eles. Isto deve ser remediado e os nossos camaradas devem ser desprogramados. Deveríamos concentrar-nos em alcançar aqueles que se encontram no nosso território, mantendo a nossa própria moral elevada, ou deveríamos espalhar a nossa mensagem por todo o território inimigo e minar a sua vontade de lutar contra os seus libertadores?"
+ amcivwar.38.a: "Foco na família socialista"
+ amcivwar.38.b: "Concentre-se no inimigo reacionário"
+
+ amcivwar.39.t: "Diretiva 984: Sentença de Políticos Capitalistas do Pré-Guerra"
+ amcivwar.39.d: "À medida que a revolução se aproxima do sucesso, o povo exige que lidemos com os políticos corruptos e capitalistas no poder antes da revolução, que agora apodrecem nas nossas células. Alguns acreditam que ao fazer com que estes políticos trabalhem arduamente durante alguns anos, eles sentirão empatia pelo trabalhador e serão convertidos à nossa causa. Outros acreditam que nenhuma educação pode reformá-los e que devem permanecer atrás das grades para o resto das suas vidas. Uma pequena, mas veemente minoria, insiste que eles devem ser executados pelos seus crimes, como os Romanov ou as dinastias Bourbon de antigamente."
+ amcivwar.39.a: "eles serão redimidos pelo suor em suas testas e pela dor em suas costas"
+ amcivwar.39.b: "Eles observarão enquanto o mundo os deixa para trás e os torna irrelevantes"
+ amcivwar.39.c: "Agora é a nossa vez e não vamos dar desculpas para o terror!"
+
+ amcivwar.40.t: "Diretiva 1231: Estabelecer a CIA"
+ amcivwar.40.d: "É um facto lamentável que existam espiões e sabotadores no nosso território a trabalhar para impedir a nossa gloriosa libertação das massas proletárias. Das muitas propostas apresentadas ao Comité Central, uma se destaca. A proposta de Earl Browder é criar um comité para fazer cumprir ordem revolucionária e acabar com a sabotagem contra-revolucionária. No entanto, outros dentro do Comitê Central, incluindo o Presidente Reed, se perguntam se este é um passo necessário e se estaríamos traindo nossos ideais. Independentemente disso, uma votação foi realizada. O que foi decidido? "
+ amcivwar.40.a: "A CIA será criada!"
+ amcivwar.40.b: "Não é necessário por enquanto"
+
+ amcivwar.41.t: "Terror Vermelho"
+ amcivwar.41.d: "Guerra é inferno. Guerra civil, ainda mais. A tensão psicológica causada por ter que matar repetidamente, mesmo que o inimigo seja capitalista, fez com que alguns dos nossos soldados e comandantes se tornassem sádicos além do que alguns consideram aceitável. Embora não sejam comuns, relatos de execuções em massa e torturas sistemáticas estão a ser relatados tanto nas linhas da frente como nos territórios centrais para reprimir populações suspeitas de ajudar as facções capitalistas. Reed tomou uma decisão executiva de suprimir estes relatórios da mídia livre. “Se a revolução fracassasse por causa de algumas maçãs podres”, diz Reed, 'então a humanidade sofreria colectivamente durante mais séculos'."
+ amcivwar.41.a: "Afinal, este é o conflito final"
+
+ amcivwar.42.t: "A luta final"
+ amcivwar.42.d: "Para surpresa de ninguém, os arqui-reacionários no Canadá decidiram finalmente intervir para tentar esmagar a revolução na América, numa tentativa desesperada de nos impedir de destruir a sua monarquia decadente. A luta final começou assim e apenas um vencedor poderá emergir na América do Norte: revolução ou reacção?"
+ amcivwar.42.a: "Não devemos vacilar!"
+
+### AUS Flavour Events ###
+ amcivwar.46.t: "Lindbergh apela a Long"
+amcivwar.46.d: "Charles Lindbergh organizou uma reunião entre Huey Long e alguns dos principais industriais, incluindo Henry Ford, Fred Koch, e H.L. Hunt. Esses homens estão inclinados a fechar suas fábricas e refinarias no Sul para cumprir as ordens do Governo Federal. No entanto, são persuadidos por Lindbergh a apoiar Huey Long e mover seus impérios comerciais para o Estado da União Americana com algumas condições. Eles pedem que Huey Long garanta algum tipo de exceção política para eles nestes tempos econômicos difíceis, assim como a promessa de cargo político uma vez que a guerra seja vencida. Se Long concordar com a demanda, isso lhes dará uma influência maior, e muitos de seus apoiadores se perguntarão se ele planeja trair seus ideais. No entanto, recusar em tal momento pode ser custoso."
+amcivwar.46.a: "Concordar com a razão deles"
+amcivwar.46.b: "Não trairei meus ideais!"
+
+amcivwar.47.t: "Comitê de Poderes de Guerra"
+amcivwar.47.d: "Líderes empresariais dentro de nosso território formaram um comitê, ostensivamente em apoio a Huey Long, para coordenar o esforço de guerra em seu nome chamado Comitê de Poderes de Guerra. Assim como Huey Long criou escritórios para lidar com a monumental tarefa de lutar pela América, os industriais decidiram criar uma instituição industrial por conta própria. Embora não tenham todo o poder que lhes foi prometido, declararam-se o arsenal da AUS, liderados pelo general controverso e respeitado, George Van Horn Moseley."
+amcivwar.47.a: "Um aliado formidável... por enquanto"
+
+### USA Flavour Events ###
+amcivwar.61.t: "Conscrição"
+amcivwar.61.d: "Com a guerra em andamento, a questão é se devemos implementar a conscrição ou não. Fazê-lo forneceria os homens necessários para restaurar a ordem no país. No entanto, não é uma medida popular. Alguns sugerem focar na propaganda em vez disso."
+amcivwar.61.a: "Implementar a conscrição"
+amcivwar.61.b: "Focar na propaganda em vez disso"
+
+amcivwar.62.t: "Reconvocar os Fuzileiros da China?"
+amcivwar.62.d: "Com o início da guerra civil, nossa guarnição nas Cidades Legacionais ficou ociosa na China. Embora a retirada da divisão deixasse nossas concessões chinesas relativamente desprotegidas e nossa influência nas cidades menor, muitos nos aconselham a fazê-lo para vencer a guerra. Devemos reconvocar a divisão?"
+amcivwar.62.a: "Tragam nossos soldados para casa!"
+amcivwar.62.b: "Não devemos arriscar."
+
+amcivwar.64.t: "Dificuldades da Guerra Civil"
+amcivwar.64.d: "A guerra civil está trazendo dificuldades para casa. Pessoas em várias cidades leais estão passando fome. Podemos nos concentrar em aliviar o sofrimento delas, mas isso significará desviar suprimentos necessários para o front de guerra. O Congresso e o Exército estão em desacordo a esse respeito. O que devemos fazer?"
+amcivwar.64.a: "Aliviar o Sofrimento Civil."
+amcivwar.64.b: "Apoiar nossas Tropas."
+
+amcivwar.65.t: "Lei Marcial?"
+amcivwar.65.d: "Com a guerra civil em curso, surge a questão de suspender o habeas corpus e impor a lei marcial em territórios ocupados. Até mesmo os membros do nosso Estado-Maior estão divididos, pois isso poderia criar mais rebeldes do que derrotar preventivamente. Pode permitir que mantenhamos as coisas sob controle durante a guerra civil, mas tal medida é naturalmente controversa. O que deve ser feito?"
+amcivwar.65.a: "Impor a Lei Marcial"
+amcivwar.65.b: "A ordem civil é melhor"
+
+amcivwar.66.t: "Terror dos Lealistas"
+amcivwar.66.d: "Durante a guerra civil em andamento, alguns de nossos comandantes começaram a usar métodos bastante duvidosos para suprimir permanentemente populações civis suspeitas de ajudar nossos inimigos mortais. Quando questionado, o presidente defendeu suas ações, afirmando 'Apenas violência discricionária foi usada; qualquer comandante capaz de verdadeira brutalidade já se tornou um rebelde'."
+amcivwar.66.a: "Podemos apenas esperar."
+
+amcivwar.67.t: "Codetalkers Nativo-Americanos"
+amcivwar.67.d: "Várias tribos nativas americanas decidiram nos apoiar e oferecer seus serviços. Notavelmente, isso deve ajudar a ocultar nossas comunicações, já que há poucas pessoas que falam as várias línguas dos nativos americanos."
+amcivwar.67.a: "Isso deve ajudar"
+
+amcivwar.68.t: "Objetores de Consciência"
+amcivwar.68.d: "Vários homens e mulheres, especialmente entre religiosos como os Testemunhas de Jeová e os Mórmons, não desejam participar da guerra e se opuseram a lutar no conflito. Podemos tentar silenciá-los ou podemos oferecer a eles empregos não militares para ajudar no esforço de guerra. A opinião pública parece dividida, já que superpatriotas começaram a agredir os objetores durante suas manifestações."
+amcivwar.68.a: "O público lidará com eles"
+amcivwar.68.b: "Faça-os trabalhar"
+
+amcivwar.69.t: "Campanha Dupla V"
+amcivwar.69.d: "Enquanto lutamos contra vários traidores, líderes da NAACP começaram a pressionar por uma campanha chamada Dupla V, Vitória para a América e Vitória contra o Racismo. Nem todos os afro-americanos desejam lutar pelas facções radicais e, assim, uma campanha começou para lutar pela América, vencer a guerra civil e combater o racismo dentro da América."
+amcivwar.69.a: "Vitória para a América e Vitória contra o Racismo!"
+
+amcivwar.70.t: "Militarizar as WASPs?"
+amcivwar.70.d: "O Congresso está debatendo um projeto de lei para militarizar as Pilotos de Serviço Aéreo Feminino (WASPs) de maneira semelhante aos WACs e WAVES. Isso exigiria que o governo custeasse as despesas das WASPs, assim como as outras duas organizações, em vez de as próprias pilotos femininas pagarem as despesas. Isso não as faria voar em situações de combate, pois essa ainda é a função dos pilotos masculinos. Apesar disso, está enfrentando forte resistência no Congresso, pois muitos consideram as WASPs menos experientes que os pilotos masculinos e inadequadas para o trabalho. A pergunta então é: o que o Congresso votará para fazer?"
+amcivwar.70.a: "O Congresso vota pela Militarização das WASPs"
+amcivwar.70.b: "O Congresso vota por não Militarizar as WASPs"
+
+amcivwar.76.t: "Washington está em Perigo"
+amcivwar.76.d: "Washington está em perigo de cair para traidores e rebeldes, e, como tal, devemos sair da cidade. Líderes militares elaboraram várias cidades possíveis para as quais poderíamos nos realocar - a questão é, para qual delas devemos nos realocar?"
+amcivwar.76.a: "Denver"
+amcivwar.76.b: "São Francisco"
+amcivwar.76.c: "Helena"
+amcivwar.76.e: "Phoenix"
+
+amcivwar.90.t.CSA: "Apoio dos Sindicatos"
+amcivwar.90.t.USA: "Apoio dos Lealistas"
+amcivwar.90.t.TEX: "Apoio dos Longistas"
+amcivwar.90.t.PSA: "Apoio da Resistência"
+amcivwar.90.d: "Rebeldes que lutam pela causa [Root.GetAdjective] em outras partes dos Estados Unidos entraram em contato com nosso governo, oferecendo uma variedade de suprimentos coletados."
+amcivwar.90.a: "Será de grande ajuda"
+
+amcivwar.95.t: "Levante Sindicalista no Oeste"
+amcivwar.95.d: "Os combates ao longo da Costa Oeste entre simpatizantes sindicalistas e as forças de segurança têm sido intensos nas últimas semanas, mas diminuíram nas últimas semanas - levando à esperança de que os sindicatos no oeste finalmente desistiram da esperança de sucesso. Essas esperanças foram frustradas quando um novo levante foi revelado, com várias milícias organizadas por poderosos sindicatos de caminhoneiros e estivadores nos estados de Washington e Oregon e armadas por meio de esforços clandestinos. Isso abre uma nova frente na guerra civil. Devemos apoiar?"
+amcivwar.95.a: "Hurra!"
+amcivwar.95.b: "Mais escória sindicalista?!"
+
+amcivwar.97.t: "Levante Longista no Kentucky"
+amcivwar.97.d: "Huey Long sempre teve um forte apoio no coração do país, com estados como Kentucky e Indiana apenas balançando levemente para o outro lado na eleição de 1936. Agora, os apoiadores de Long se levantaram em Kentucky e na região circundante, pegando em armas obtidas por meio do subterrâneo para se unir e abrir uma nova frente na guerra civil."
+amcivwar.97.a: "Hurra!"
+amcivwar.97.b: "Isso não os ajudará a longo prazo"
+
+amcivwar.99.t: "Levante Lealista na Pensilvânia"
+amcivwar.99.d: "O apoio ao governo federal permanece forte, mesmo no coração sindicalista da Pensilvânia, e isso finalmente foi comprovado à medida que grupos de milícia lealista - supostamente organizados na cidade de Filadélfia - se levantaram nas colinas na parte central do estado, reclamando a região mais uma vez para o controle federal. Se eles alcançarão esse objetivo e abrirão uma nova frente na guerra civil, ainda está para ser visto."
+amcivwar.99.a: "Hurra!"
+amcivwar.99.b: "Um esforço fútil"
+
+amcivwar.101.t: "Levante na Resistência no Meio-Oeste"
+amcivwar.101.d: "O apoio aos defensores democráticos no governo do Pacífico tem sido forte no Meio-Oeste Americano, com vários protestos frequentes nas ruas - muitos dos quais parecem atribuir a culpa da guerra civil diretamente aos ombros do General MacArthur. Esses protestos recentemente se tornaram mais organizados e culminaram em um levante generalizado em todo o Colorado, silenciosamente financiado e equipado por meio de meios clandestinos. Se esses rebeldes terão sucesso em abrir uma nova frente para a guerra civil ainda está para ser visto."
+amcivwar.101.a: "Hurra!"
+amcivwar.101.b: "Um incômodo na melhor das hipóteses"
+
+amcivwar.103.t: "Levante Sindicalista na Geórgia"
+amcivwar.103.d: "Parece que há mais do que alguns apoiadores descontentes de Huey Long que estão irritados o suficiente para terem desertado para o controle do CSA. Ao longo das últimas semanas, eles se organizaram nas colinas do sul da Geórgia, e agora finalmente deram o seu passo. Isso abre uma nova frente na guerra civil."
+amcivwar.103.a: "Hurra!"
+amcivwar.103.b: "Eles deveriam se decidir"
+
+amcivwar.105.t: "Levante Longista na Califórnia"
+amcivwar.105.d: "Parece que há mais do que alguns membros milicianos do SPA descontentes que estão irritados o suficiente para terem desertado para o controle da AUS. Ao longo das últimas semanas, eles se organizaram nas colinas do sul da Califórnia, e agora finalmente deram o seu passo. Isso abre uma nova frente na guerra civil."
+amcivwar.105.a: "Hurra!"
+amcivwar.105.b: "Não faz diferença"
+
+### Foreign Interventions ###
+amcivwar.150.t: "América em Caos"
+amcivwar.150.d: "O caos se instalou em nossos vizinhos do sul e, pior ainda, o Partido Socialista da América proclamou um reduto bem na nossa fronteira sul. Alguns dos governadores do nordeste em Nova Inglaterra, cujos estados estão sendo assolados pela violência de milícias sindicalistas, pediram formalmente ao governo canadense que intervenha. Claramente, eles sentem que o governo federal é incapaz da tarefa, embora alguns de nossos ministros sintam que isso pode ser visto por algumas facções menos como intervenção e mais como agressão. Eles dizem que o assunto deve ser debatido no Parlamento antes de qualquer ação ser tomada. Para Nova Inglaterra, pelo menos, isso pode não ser rápido o suficiente para salvá-los."
+amcivwar.150.d.nocsa: "O caos se instalou em nossos vizinhos do sul, embora pareça que estamos poupados da possibilidade de um levante sindicalista americano. Mesmo assim, a violência tem sido extrema e vários governadores de estados americanos do nordeste em Nova Inglaterra nos pediram para intervir e restaurar a ordem. Claramente, eles sentem que o governo federal é incapaz da tarefa, embora alguns de nossos ministros sintam que isso pode ser visto pelo governo federal menos como intervenção e mais como agressão. Eles dizem que o assunto deve ser debatido no Parlamento antes de qualquer ação ser tomada."
+amcivwar.150.a: "Aguarde antes de intervir"
+amcivwar.150.b: "Avance em direção a Nova Inglaterra, como solicitado"
+
+amcivwar.151.t: "Alasca Solicita Intervenção"
+amcivwar.151.d: "O território americano do Alasca sofreu uma grave escassez de suprimentos necessários após o início da guerra civil. Após um recente bombardeio na cidade de Juneau, o governador do Alasca teme uma quebra da ordem - algo que o distante governo federal estará ocupado demais para responder. Assim como os governadores de Nova Inglaterra, ele solicitou que o governo canadense intervenha temporariamente para manter a paz."
+amcivwar.151.a: "O Alasca está por conta própria"
+amcivwar.151.b: "Devemos intervir"
+
+amcivwar.152.t: "[CAN.GetNameDefCap] Toma o Alasca"
+amcivwar.152.d: "O território do Alasca sofreu uma grave escassez de suprimentos necessários após o início da guerra civil. Após um recente bombardeio na cidade de Juneau, o governador do Alasca temia uma quebra da ordem - algo que o distante governo federal estaria ocupado demais para responder - e, assim, fez um pedido formal ao [CAN.GetNameDef] para que interviesse. Tropas canadenses e caminhões de suprimentos já se deslocaram para a região."
+amcivwar.152.a: "Lidaremos com isso mais tarde"
+
+amcivwar.156.t: "O Destino da América"
+amcivwar.156.d: "Com a guerra civil encerrada, nos vemos obrigados a decidir o que fazer com o território americano agora sob nosso controle."
+amcivwar.156.a: "Devolvê-lo para [USA.GetNameDef]"
+amcivwar.156.b: "Devolvê-lo para [PSA.GetNameDef]"
+amcivwar.156.c: "Devolvê-lo para [TEX.GetNameDef]"
+amcivwar.156.e: "Devolvê-lo para [NEE.GetNameDef]"
+amcivwar.156.f: "Estabelecer um novo governo americano"
+amcivwar.156.g: "Continuar com a ocupação militar"
+
+amcivwar.157.t: "Terras Americanas Devolvidas"
+amcivwar.157.d.supported: "[From.GetNameDefCap], fiel à promessa de nos apoiar durante a guerra civil, devolveu grande parte de seu território americano ocupado para nós."
+amcivwar.157.d.notsupported: "[From.GetNameDefCap] ocupou uma boa parte do território americano durante a guerra civil. Agora, seu governo se aproximou de nós, devolvendo grande parte dele ao 'dono legítimo', sem fazer perguntas."
+amcivwar.157.a: "Agradecemos"
+
+amcivwar.158.t: "Terras Americanas Devolvidas"
+amcivwar.158.d: "Nossos aliados canadenses, fiéis à palavra deles, entregaram quase todo o território americano ocupado para nós."
+amcivwar.158.a: "Agradecemos"
+
+amcivwar.159.t: "Um Novo Governo Americano"
+amcivwar.159.d: "Com os antigos governos em frangalhos, precisaremos estabelecer algo a partir do antigo. Que forma o novo governo deverá tomar?"
+amcivwar.159.a: "Os Estados Unidos da América, como é adequado"
+amcivwar.159.b: "Os Estados do Pacífico da América"
+amcivwar.159.c: "O Estado da União Americana"
+amcivwar.159.e: "Nova Inglaterra"
+
+amcivwar.160.t: "O Destino de Nova Inglaterra"
+amcivwar.160.d: "Atualmente, estamos ocupando Nova Inglaterra. Devemos devolvê-la para [america_country.GetNameDef] ou continuar com a ocupação?"
+amcivwar.160.a: "Devolvê-la para eles"
+amcivwar.160.b: "Merecemos, afinal de tudo que fizemos"
+
+amcivwar.161.t: "O Destino do Alasca"
+amcivwar.161.d: "Atualmente, estamos ocupando o Alasca. Devemos devolvê-lo para [america_country.GetNameDef] ou continuar com a ocupação?"
+
+amcivwar.162.t: "Eleições para [america_country.GetNameDef]?"
+amcivwar.162.d: "Já se passou mais de um ano desde que o novo governo foi estabelecido em [america_country.GetNameDef], e nossos aliados lá dizem que estão prontos para se sustentarem novamente. Devemos permitir que realizem eleições e continuem como aliados livres?"
+amcivwar.162.a: "Claro"
+amcivwar.162.b: "Eles não estão prontos"
+
+amcivwar.163.t: "Paz com o Canadá?"
+amcivwar.163.d: "Ocupamos Ottawa e atualmente temos os canadenses em fuga. Talvez tenha chegado a hora de fazer as pazes, para que não nos vejam arrastados para o vasto território deles."
+amcivwar.163.a: "Intencionamos ensinar-lhes uma lição"
+amcivwar.163.b: "Muito bem, vamos encerrar isso"
+amcivwar.163.c: "Apenas se nos derem concessões territoriais"
+
+amcivwar.164.t: "Pedido de Paz de [From.GetNameDefCap]"
+amcivwar.164.d: "Recebemos um enviado do governo [From.GetAdjective], dizendo que ocuparam o bastante do Canadá e esperam que tenhamos aprendido uma lição contundente. Eles estão dispostos a considerar a paz, embora nos alertem severamente que da próxima vez não serão tão lenientes."
+amcivwar.164.a: "Sim, vamos encerrar isso"
+amcivwar.164.b: "Não, ainda podemos vencer!"
+
+amcivwar.165.t: "Pedido de Paz de [From.GetNameDefCap]"
+amcivwar.165.d: "O governo canadense, tendo sido derrotado severamente por [From.From.GetNameDef], deseja se retirar completamente de seu envolvimento na guerra civil e, portanto, pediu paz com [Root.GetNameDef]."
+amcivwar.165.a: "Sim, vamos encerrar isso"
+amcivwar.165.b: "Intencionamos ensinar-lhes uma lição"
+
+amcivwar.166.t: "Proposta de [From.GetNameDefCap]"
+amcivwar.166.d: "Estamos atualmente em um cessar-fogo com [CSA.GetNameDef], mas nenhum de nós está sob a ilusão de que isso seja algo mais do que um intervalo antes que os combates recomecem. O governo [From.GetAdjective] se aproximou de nós com uma proposta: se nos juntarmos à Entente, eles lutarão ao nosso lado quando a batalha recomeçar. Faz sentido, considerando que os canadenses temem [CSA.GetNameDef] tanto quanto nós, mas alguns em nosso governo se opõem à ideia de nos unir à causa da Entente. Afinal, ficaremos vinculados às guerras deles na Europa, mesmo que vençamos a guerra civil agora."
+amcivwar.166.a: "Precisamos da ajuda deles para vencer a guerra"
+amcivwar.166.b: "Não, faremos isso sem a ajuda deles"
+
+amcivwar.167.t: "Adesão de [From.GetNameDefCap] à Entente"
+amcivwar.167.d: "Gratos por nossa assistência, o governo [From.GetAdjective] escolheu aceitar nossa oferta e se juntou formalmente à Entente."
+amcivwar.167.a: "Três vivas para a América!"
+
+amcivwar.168.t: "Recusa de [From.GetNameDefCap] à Nossa Oferta"
+amcivwar.168.d: "O governo [From.GetAdjective] rejeitou nossa oferta de aliança, talvez acreditando que podem vencer a guerra civil por conta própria."
+amcivwar.168.a: "Que decepção!"
+
+amcivwar.169.t: "[PSA.GetNameDefCap] Junta-se à Entente"
+amcivwar.169.d: "Obviamente temendo nossa vitória final, o governo [PSA.GetAdjective] se aproximou dos canadenses e dos britânicos. Precisaremos lutar contra todos eles, assim que o cessar-fogo terminar."
+amcivwar.169.a: "Assim seja!"
+
+### Rocky Mountain Ceasefire ###
+amcivwar.200.t: "Um Possível Cessar-Fogo"
+amcivwar.200.d: "A guerra civil devastou a América, e há uma crescente discussão dentro do governo sobre abordar [PSA.GetNameDef] para um possível cessar-fogo. Se os rebeldes do Pacífico considerariam tal coisa é desconhecido, mas se ocorresse, daria tempo para consolidarmos nosso domínio sobre o leste e para nossos homens se recuperarem. Eventualmente, um acerto de contas seria necessário, é claro, mas se não tentarmos agora, a guerra pode se arrastar ainda mais."
+amcivwar.200.a: "Vamos encontrá-los em Denver"
+amcivwar.200.b: "Não, não há sentido nisso"
+
+amcivwar.201.t: "Conversas de Cessar-Fogo em Denver"
+amcivwar.201.d: "Com a guerra entre [survivor.GetNameDef] e [PSA.GetNameDef] se arrastando, conversas foram realizadas entre oficiais de alto escalão de ambos os lados sobre um possível cessar-fogo. Isso ocorre a pedido do governo [survivor.GetAdjective], embora seja desconhecido o quanto há de adesão atualmente. Veremos nos próximos dias se algo resultará disso."
+amcivwar.201.a: "Uma ideia interessante?"
+amcivwar.201.b: "Não negociaremos com aqueles que desejam destruir a América!"
+
+amcivwar.202.t: "A Proposta"
+amcivwar.202.d: "Após dois dias de conversas, oficiais do exército elaboraram uma proposta: quaisquer estados a oeste do rio Mississippi atualmente ocupados por forças [PSA.GetAdjective] seriam cedidos à [PSA.GetNameDef], com alguns espaços preenchidos no mapa - embora nada que não possam fornecer adequadamente. O restante seria cedido à [survivor.GetNameDef]. Fora isso, não há garantias e nenhum falar de paz real... eventualmente haverá um ajuste de contas. Ambos os lados simplesmente pedem que as hostilidades parem por enquanto, para avaliar os danos e permitir que os vivos respirem um suspiro muito necessário."
+amcivwar.202.a: "Isso servirá."
+amcivwar.202.b: "Estão pedindo demais!"
+ACW_agree_proposal: "Concordar com a proposta conforme está"
+ACW_we_will_try_again: "Voltaremos à mesa de negociações e tentaremos novamente..."
+
+amcivwar.203.t: "Não Haverá Cessar-Fogo"
+amcivwar.203.d: "Talvez tenha sido esperar demais. As conversas entre ambos os lados em Denver desmoronaram sem qualquer acordo real, e todas as esperanças de um cessar-fogo desapareceram. A guerra recomeça."
+amcivwar.203.a: "Tanto para isso"
+
+amcivwar.204.t: "[ACW_ceasefire_name]"
+amcivwar.204.d: "As conversas com [PSA.GetNameDef] concluíram, e o cessar-fogo está em andamento. Já nossas tropas estão recuando para o lado leste da nova fronteira. Quanto tempo isso durará, ainda está por ser visto."
+amcivwar.204.a: "É paz por enquanto"
+
+amcivwar.205.t: "[ACW_ceasefire_name]"
+amcivwar.205.d: "As conversas com [From.GetNameDef] concluíram, e o cessar-fogo está em andamento. Já nossas tropas estão recuando para o lado oeste da nova fronteira. Quanto tempo isso durará, ainda está por ser visto."
+amcivwar.205.a: "É paz por enquanto"
+
+amcivwar.206.t: "[ACW_ceasefire_name]"
+amcivwar.206.d: "A guerra civil devastou a América por muitos meses, mas hoje foi anunciado um cessar-fogo no conflito após uma reunião em Denver entre oficiais de [PSA.GetNameDef] e [survivor.GetNameDef] que elaboraram termos. As forças do Pacífico se retirarão para novas fronteiras a oeste da fronteira acordada, enquanto as forças [survivor.GetAdjective] se retirarão para o leste. Isso não é uma paz oficial, no entanto, e muitos sentem que um ajuste de contas futuro entre os dois países - um confronto final, por assim dizer, pelo destino futuro da América - é inevitável. Mesmo assim, este é um momento de respiro para cada lado reunir forças, contar seus mortos, e os americanos de ambos os lados celebram um pouco de paz arrancada das garras do caos."
+amcivwar.206.a: "Veremos quanto tempo dura"
+
+### Liberia and Philippines in Chaos ###
+amcivwar.212.t: "América em Caos"
+amcivwar.212.d: "Libéria esteve sob a dominação econômica e política efetiva dos EUA desde sua fundação como uma colônia para escravos libertos em 1822. Essa dominação também ajudou a protegê-la das potências coloniais europeias. No entanto, agora os EUA estão em caos, pois facções políticas rivais disputam a Presidência. O conflito aprofundou-se a ponto de guerra. Não podemos mais depender deles para proteção. Agora precisamos decidir como sobreviveremos."
+amcivwar.212.a: "Não somos mais submissos - podemos nos proteger!"
+amcivwar.212.b: "Não somos traidores - permaneçam leais aos americanos"
+
+amcivwar.226.t: "Independência nas Filipinas"
+amcivwar.226.d: "A guerra civil na América enfraqueceu o domínio americano sobre as Filipinas. O povo filipino está exigindo plena independência, mas alguns no governo estão preocupados que as Filipinas independentes serão absorvidas pelas potências maiores na área."
+amcivwar.226.a: "Liberdade. Horrível, horrível liberdade"
+
+amcivwar.227.t: "Apropriação de Equipamentos Americanos"
+amcivwar.227.d: "Com os americanos saindo da ilha, eles deixaram grandes quantidades de equipamentos nas Filipinas. O exército filipino está advogando pela apreensão dos recursos enquanto estão sem proteção, mas o governo teme o que isso pode fazer para as relações entre os dois países."
+amcivwar.227.a: "Apreender os equipamentos"
+amcivwar.227.b: "Devemos permanecer amigáveis"
+
+amcivwar.228.t: "A Missão Americana nas Filipinas"
+amcivwar.228.d: "A guerra forçou o governo dos EUA a convocar todas as unidades disponíveis. As forças americanas nas Filipinas ainda são leais ao governo dos EUA e a Douglas MacArthur. Alguns estão preocupados que abandonar as Filipinas será custoso, mas as forças são necessárias na América."
+amcivwar.228.a: "Recall das unidades"
+amcivwar.228.b: "Devemos manter nossa posição"
+
+amcivwar.229.t: "A Comunidade Filipina"
+amcivwar.229.d: "Os americanos nunca prometeram independência ao povo filipino, e forças dentro do país queriam usar a Guerra Civil Americana como uma oportunidade para declarar independência e formar um governo legítimo. A Comunidade das Filipinas foi criada para administrar a nação e fazer a transição para um estado plenamente independente."
+amcivwar.229.a: "Nossa nova comunidade gloriosa"
+
+### Pre-War Events ###
+amcivwar.300.t: "Distúrbios em Nova Inglaterra e Nova York"
+amcivwar.300.d: "Nos últimos dias, milícias sindicalistas têm lutado (e falhado) em tomar o controle nos estados do nordeste, de Nova York e Nova Jersey até as costas do Maine. Até agora, os governadores na região têm reprimido com firmeza a violência, embora o resultado tenha sido uma série de tumultos violentos em Boston e Buffalo - sem mencionar uma onda de revoltas ainda em andamento na própria cidade de Nova York. Os cidadãos estão nervosos, e os governadores negaram permissão ao governo federal para mobilizar milícias locais na área, temendo aumentar as tensões ainda mais. Alguns governadores de Nova Inglaterra estão relatados como estando silenciosamente pedindo à intervenção do governo canadense, caso as coisas piorem."
+amcivwar.300.d.assass: "As repercussões do assassinato de Jack Reed foram sentidas por toda parte ao norte, mas a violência é particularmente intensa nos estados do nordeste, de Nova Jersey até as costas do Maine. Vários grupos de milicianos da SPA estão sugerindo que se levantem junto com a AUS, unidos ou não, e estão tentando assumir o controle da área. Até agora, os governadores na região têm reprimido com firmeza a violência, embora o resultado tenha sido uma série de tumultos em Boston e Buffalo - sem mencionar uma onda de revoltas ainda em andamento na própria cidade de Nova York. Os cidadãos estão nervosos, e os governadores negaram permissão ao governo federal para mobilizar milícias locais na área, temendo aumentar as tensões ainda mais. Alguns governadores de Nova Inglaterra estão relatados como estando silenciosamente pedindo à intervenção do governo canadense, caso as coisas piorem."
+amcivwar.300.d.peace: "Enquanto Jack Reed e a SPA tentam conter suas milícias em todo o norte, nem todos concordam que o projeto de compromisso foi longe o suficiente. De fato, vários sindicatos mais radicais ainda estão convocando greves, e os estados do nordeste - de Nova Jersey até a costa do Maine - foram particularmente afetados pela violência da milícia. Até agora, os governadores na região têm reprimido com firmeza, embora o resultado tenha sido uma série de tumultos violentos em Boston e Buffalo - sem mencionar uma onda de revoltas ainda em andamento na própria cidade de Nova York. Os cidadãos estão nervosos, e os governadores negaram permissão ao governo federal para mobilizar milícias locais na área, temendo aumentar as tensões ainda mais. Alguns governadores de Nova Inglaterra estão relatados como estando silenciosamente pedindo à intervenção do governo canadense, caso as coisas piorem."
+amcivwar.300.a: "Que bagunça"
+amcivwar.300.b: "Interessante"
+
+amcivwar.310.t: "Nevada se Aliança com os Estados do Pacífico"
+amcivwar.310.d: "Maurice J. Sullivan declarou hoje a lealdade de Nevada aos Estados do Pacífico, que se recusam a reconhecer a legitimidade do governo do General MacArthur. O governador havia estado em consulta com o governo do Pacífico desde a sua criação, e em um discurso pelo rádio, ele disse que não poderia ficar de braços cruzados e permitir que a democracia falhasse na América sem tomar uma posição. Até agora, as forças federais se retiraram das bases militares na região sem ameaça de violência adicional."
+amcivwar.310.a: "Uma decisão bem-vinda"
+amcivwar.310.b: "Uma decisão tola"
+
+amcivwar.311.t: "O Prazo de 30 Dias"
+amcivwar.311.d: "O prazo de 30 dias dado pelo governo federal aos estados rebeldes passou sem que nenhum dos governadores mudasse de ideia. O governo federal está consolidando sua posição, mas alertou MacArthur para esperar mais violência e deserções estaduais antes do final do prazo. A maioria em Washington parece pessimista quanto à possibilidade de evitar uma guerra total."
+amcivwar.311.a: "Veremos"
+
+amcivwar.312.t: "O Prazo se Aproxima"
+amcivwar.312.d: "O prazo de 30 dias emitido pelo governo federal está quase no fim, sem que nenhum dos lados tenha recuado. De fato, é evidente que os estados rebeldes usaram o tempo decorrido para mobilizar milícias em toda a área controlada por eles, o que significa que uma guerra civil será uma luta difícil, de fato."
+amcivwar.312.a: "O que vier, virá"
+
+amcivwar.313.t: "Contato com a Resistência de Nova York"
+amcivwar.313.d: "Embora tanto Nova York quanto Nova Jersey fossem considerados completamente perdidos para as forças federais, descobriu-se que vários grupos grandes de combatentes conseguiram escapar das áreas urbanas e se reuniram nas colinas do leste da Pensilvânia. Embora desgastados, eles estão ansiosos para continuar a batalha com nosso apoio."
+amcivwar.313.a: "Bom tê-los, rapazes"
+CSA_four_units_newyork: "Quatro unidades de milícia chegam a Filadélfia"
+
+#Naval battle, 1 is USA (PSA doesn't exist), 2 is USA (PSA exists), 3 is PSA, 4 is TEX (CSA doesn't exist), 5 is TEX (CSA exists), 6 is CSA (TEX doesn't exist), 7 is CSA (TEX exists)
+amcivwar.315.t: "Dissolução da Marinha dos EUA"
+amcivwar.315.d1: "A decadência da ordem nos Estados Unidos afetou a Marinha dos EUA da mesma forma que afetou todos os outros aspectos da sociedade americana. Muitos marinheiros e até alguns oficiais são simpáticos ao que o Alto Comando Naval chamou de 'forças contrárias à República e à ordem pública', evitando mencionar termos políticos para permanecer o mais imparcial possível. Ainda assim, as deserções se tornaram a norma.\n\nO ponto crítico da crise na Marinha ocorreu há vários dias, quando uma revolta eclodiu na Costa Oeste e várias embarcações desertaram navegando em direção à Costa Leste, visando apoiar seus camaradas lá. Confrontos e, às vezes, batalhas diretas eclodiram como resultado, todas desordenadas e caóticas, sem distinção entre amigo ou inimigo. Isso levou à efetiva dissolução da Marinha - dezenas de embarcações desertaram ou traíram, inúmeros marinheiros, oficiais navais e até almirantes mudaram de lado. Frotas de reserva e embarcações estacionadas em áreas não mais sob administração federal também foram perdidas."
+amcivwar.315.d2: "A decadência da ordem nos Estados Unidos afetou a Marinha dos EUA da mesma forma que afetou todos os outros aspectos da sociedade americana. Muitos marinheiros e até alguns oficiais são simpáticos ao que o Alto Comando Naval chamou de 'forças contrárias à República e à ordem pública', evitando mencionar termos políticos para permanecer o mais imparcial possível. Ainda assim, as deserções se tornaram a norma. A marcha de MacArthur em Washington foi mais divisiva do que os sindicalistas ou os longistas, no entanto, pois a Frota do Pacífico, seguindo a decisão dos governadores de suas bases, se recusou a reconhecer o governo em Washington.\n\nO ponto crítico da crise na Marinha ocorreu há vários dias, quando os navios e oficiais navais da Frota do Pacífico que eram leais a MacArthur escolheram se amotinar coletivamente e partir para a Costa Leste - o que fez o restante da Frota do Pacífico retaliar e ir atrás deles. Confrontos e, às vezes, batalhas diretas eclodiram como resultado, todas desordenadas e caóticas, sem distinção entre amigo ou inimigo. Isso levou à efetiva dissolução da Marinha - dezenas de embarcações desertaram ou traíram, inúmeros marinheiros, oficiais navais e até almirantes mudaram de lado. Frotas de reserva e embarcações estacionadas em áreas não mais sob administração federal também foram perdidas."
+
+amcivwar.315.d3: "A decadência da ordem nos Estados Unidos afetou a Marinha dos EUA da mesma forma que afetou todos os outros aspectos da sociedade americana. Muitos marinheiros e até alguns oficiais são simpáticos ao que o Alto Comando Naval chamou de 'forças contrárias à República e à ordem pública', evitando mencionar termos políticos para permanecer o mais imparcial possível. Ainda assim, as deserções se tornaram a norma.\n\nQuando Douglas MacArthur marchou sobre Washington e derrubou o governo democraticamente eleito para instalar uma junta militar, a Frota do Pacífico, seguindo os governadores dos estados da Costa Oeste, se declarou leal ao Comando do Pacífico. Nem todos concordaram com a decisão, no entanto. Uma clique de marinheiros e oficiais navais leais a MacArthur escolheu se amotinar coletivamente e levar seus navios para a Costa Leste, iniciando uma batalha entre suas forças e o restante da frota do Pacífico. Os confrontos foram caóticos e desordenados, sem distinção entre amigo e inimigo, mas infelizmente, os traidores escaparam com os navios e equipamentos. Isso causou a desintegração da frota dos EUA, no entanto, e tomamos as precauções necessárias para evitar mais deserções."
+
+amcivwar.315.d4: "A decadência da ordem nos Estados Unidos afetou a Marinha dos EUA da mesma forma que afetou todos os outros aspectos da sociedade americana. Muitos marinheiros e até alguns oficiais são simpáticos ao que o Alto Comando Naval chamou de 'forças contrárias à República e à ordem pública', evitando mencionar termos políticos para permanecer o mais imparcial possível. Ainda assim, as deserções se tornaram a norma.\n\nInicialmente, o Alto Comando Naval conseguiu evitar o colapso da frota, detendo marinheiros e oficiais leais à causa de Long, mas eles não conseguiram sustentar isso por muito tempo. Eventos na Costa Oeste causaram a desintegração da Marinha dos EUA - batalhas entre leais federais e navios amotinados quebraram a Frota do Pacífico e deram aos marinheiros em todo o país a chance de declarar lealdade a Huey Long. Até alguns almirantes escolheram mudar de lado e se alinhar conosco. Também apreendemos frotas de reserva e embarcações estacionadas no Sul - delas e de leais que chegam, conseguimos reunir uma modesta força naval."
+amcivwar.315.d5: "A decadência da ordem nos Estados Unidos afetou a Marinha dos EUA da mesma forma que afetou todos os outros aspectos da sociedade americana. Muitos marinheiros e até alguns oficiais são simpáticos ao que o Alto Comando Naval chamou de 'forças contrárias à República e à ordem pública', evitando mencionar termos políticos para permanecer o mais imparcial possível. Ainda assim, as deserções se tornaram a norma.\n\nInicialmente, o Alto Comando Naval conseguiu evitar o colapso da frota, detendo marinheiros e oficiais leais à causa de Long, mas eles não conseguiram sustentar isso por muito tempo. Eventos na Costa Oeste causaram a desintegração da Marinha dos EUA - batalhas entre leais federais e navios amotinados quebraram a Frota do Pacífico e deram aos marinheiros em todo o país a chance de romper com o regime em Washington. Embora alguns tenham declarado apoio aos sindicalistas, outros anunciaram seu apoio à revolta de Huey Long na Louisiana. Até mesmo alguns almirantes escolheram mudar de lado e se alinhar conosco. Também apreendemos frotas de reserva e embarcações estacionadas no Sul - delas e de leais que chegam, conseguimos reunir uma modesta força naval."
+
+amcivwar.315.d6: "A decadência da ordem nos Estados Unidos afetou a Marinha dos EUA da mesma forma que afetou todos os outros aspectos da sociedade americana. Muitos marinheiros e até alguns oficiais são simpáticos ao que o Alto Comando Naval chamou de 'forças contrárias à República e à ordem pública', evitando mencionar termos políticos para permanecer o mais imparcial possível. Ainda assim, as deserções se tornaram a norma.\n\nInicialmente, o Alto Comando Naval conseguiu evitar o colapso da frota, detendo marinheiros e oficiais leais à causa sindicalista, mas eles não conseguiram sustentar isso por muito tempo. Eventos na Costa Oeste causaram a desintegração da Marinha dos EUA - batalhas entre leais federais e navios amotinados quebraram a Frota do Pacífico e deram aos marinheiros em todo o país a chance de declarar lealdade a Jack Reed. Até mesmo alguns capitães de alta patente escolheram mudar de lado e se alinhar conosco. Também apreendemos frotas de reserva e embarcações estacionadas no Nordeste - delas e de marinheiros revolucionários que chegam, conseguimos reunir uma modesta força naval."
+amcivwar.315.d7: "A decadência da ordem nos Estados Unidos afetou a Marinha dos EUA da mesma forma que afetou todos os outros aspectos da sociedade americana. Muitos marinheiros e até alguns oficiais são simpáticos ao que o Alto Comando Naval chamou de 'forças contrárias à República e à ordem pública', evitando mencionar termos políticos para permanecer o mais imparcial possível. Ainda assim, as deserções se tornaram a norma.\n\nInicialmente, o Alto Comando Naval conseguiu evitar o colapso da frota, detendo marinheiros e oficiais leais à causa sindicalista, mas eles não conseguiram sustentar isso por muito tempo. Eventos na Costa Oeste causaram a desintegração da Marinha dos EUA - batalhas entre leais federais e navios amotinados quebraram a Frota do Pacífico e deram aos marinheiros em todo o país a chance de romper com o regime em Washington. Embora alguns tenham declarado apoio aos longistas, outros anunciaram seu apoio à Revolução em Chicago. Até mesmo alguns capitães de alta patente escolheram mudar de lado e se alinhar conosco. Também apreendemos frotas de reserva e embarcações estacionadas no Nordeste - delas e de marinheiros revolucionários que chegam, conseguimos reunir uma modesta força naval."
+
+amcivwar.315.a1: "Traidores na Marinha!"
+amcivwar.315.a2: "Não esperava que a Frota do Pacífico estivesse cheia de traidores!"
+amcivwar.315.a3: "Damos as boas-vindas à Frota do Pacífico, defensores da democracia!"
+amcivwar.315.a4: "Damos as boas-vindas aos marinheiros leais!"
+amcivwar.315.a5: "A marinha é a espinha dorsal de qualquer revolução!"
+
+USA_naval_desertion: "Deserção massiva na marinha começa\n§YNavios da Costa Oeste chegarão à Base Naval do Canal do Panamá"
+PSA_naval_desertion: "Deserção massiva na marinha começa"
+TEX_naval_desertion: "Marinheiros e almirantes leais ao povo se juntam à nossa marinha\n§YNavios da Costa Oeste chegarão ao Mar do Caribe"
+CSA_naval_desertion: "Marinheiros e capitães revolucionários se juntam à nossa marinha\n§YNavios da Costa Oeste chegarão ao Mar do Caribe"
+
+amcivwar.314.t: "Ordem Restaurada em [restored_core.GetName]"
+amcivwar.314.d: "Nas últimas semanas, as forças do governo [Root.GetAdjective] estiveram ocupadas em [restored_core.GetName], prendendo aqueles que consideramos um obstáculo ao nosso controle e ajudando nossos apoiadores locais a disseminar a boa palavra entre o povo. Queremos tranquilizá-los de que, como cidadãos americanos, eles não têm motivo para temer nossa presença. Nossos esforços começaram lentamente a dar frutos, mesmo em meio a todo esse caos."
+amcivwar.314.a: "Notícias excelentes!"
+
+amcivwar.320.t: "Sindicalistas Tomam Controle em Minnesota"
+amcivwar.320.d: "A violência por grupos milicianos sindicalistas se expandiu para a cidade de Minneapolis e região circundante, com bloqueios erigidos em estradas e o aeroporto de Minneapolis supostamente invadido por vários grupos armados. Antes que a violência pudesse se expandir, o governador de Minnesota declarou a lealdade do estado à causa de Jack Reed e ordenou que as divisões da guarda nacional do estado se retirassem. Tendo assegurado o antigo bastião do Partido dos Agricultores-Trabalhadores de Minnesota, muitos membros e líderes do partido agora juraram lealdade à causa socialista. Os poucos que resistiram, juntamente com outros simpatizantes federalistas, agora estão fugindo para o sul, com milícias da CSA em seus calcanhares, em direção ao Iowa, onde se espera que a próxima batalha no Meio-Oeste comece"
+amcivwar.320.a: "Nós os recebemos"
+amcivwar.320.b: "Traidores!"
+
+amcivwar.321.t: "Controle Federal Mantido em Minnesota"
+amcivwar.321.d: "A violência por grupos milicianos sindicalistas se expandiu para a cidade de Minneapolis e a região circundante, com bloqueios erigidos em estradas e o aeroporto de Minneapolis supostamente invadido por vários grupos armados. Antes que a violência pudesse se espalhar ainda mais, no entanto, o governador de Minnesota declarou a lealdade do estado ao país e rededicou a leal guarda nacional do estado para combater os insurgentes. Enquanto a luta continua, por enquanto o estado permanece nas mãos federais. Uma revolta semelhante no Iowa também falhou - com o antigo reduto do Partido dos Agricultores-Trabalhadores sendo dominado pelos federalistas, é improvável que os socialistas de Iowa façam muito progresso."
+amcivwar.321.a: "Bom"
+amcivwar.321.b: "Entendi"
+
+amcivwar.322.t: "Carolina do Norte Declara Apoio a Huey Long"
+amcivwar.322.d: "Em resposta à crescente pressão de grupos milicianos em Charlotte, o governador da Carolina do Norte declarou hoje que o estado se juntaria àqueles alinhados com Huey Long. Embora haja relatos de tumultos em várias cidades, a maioria do estado parece apoiar a decisão do governador e as forças federais já estão se retirando da região antes de se verem sobrecarregadas."
+amcivwar.322.a: "Nós os recebemos"
+amcivwar.322.b: "Traidores!"
+
+amcivwar.323.t: "Carolina do Norte Confirma Lealdade aos EUA"
+amcivwar.323.d: "Em resposta à crescente pressão de grupos milicianos em Charlotte, o governador da Carolina do Norte declarou hoje que o estado permanecerá leal à América e ao governo federal legítimo. Embora haja relatos de tumultos em várias cidades, a maioria do estado parece apoiar a decisão do governador e as forças dos Minutemen já estão se retirando da região antes de se verem sobrecarregadas."
+amcivwar.323.a: "Excelente"
+amcivwar.323.b: "Traidores!"
+
+amcivwar.324.t: "Milícias Longistas Tomam Controle no Tennessee"
+amcivwar.324.d: "Relatos conflitantes de batalhas entre milícias sindicalistas e longistas em todo o estado do Tennessee foram resolvidos hoje quando as milícias longistas invadiram a legislatura estadual em Nashville. O governador Gordon Browning foi feito prisioneiro, e enquanto as forças federais lutavam pelo controle da cidade, ficou claro rapidamente que as milícias tinham uma clara vantagem. Já as forças federais estão se retirando do estado, concedendo o controle aos apoiadores de Huey Long."
+amcivwar.324.a: "Nós os recebemos"
+amcivwar.324.b: "Traidores!"
+
+amcivwar.325.t: "Milícias Longistas Perdem Batalha no Tennessee"
+amcivwar.325.d: "Relatos conflitantes de batalhas entre milícias sindicalistas e longistas em todo o estado do Tennessee foram resolvidos hoje quando as milícias longistas foram derrotadas por forças federais fora da legislatura estadual em Nashville. Embora as forças federais ainda estejam lutando pelo controle da cidade, está ficando claro rapidamente que elas têm a vantagem, e o governador Gordon Browning fez um discurso televisivo afirmando que o Tennessee não cairia nas mãos das forças radicais. Já os Minutemen estão se retirando do estado, concedendo o controle ao governo."
+amcivwar.325.a: "É um alívio"
+amcivwar.325.b: "Traidores!"
+
+amcivwar.326.t: "Sindicalistas Vitoriosos em Nova Jersey"
+amcivwar.326.d: "A batalha entre milícias sindicalistas em Nova Jersey, desde Newark até o sul, perto da Filadélfia, terminou com as forças sindicalistas declarando vitória. Embora não tenham estendido seu controle para o resto do estado de Nova York, o governador tendo declarado emergência e bloqueado as pontes que levam à cidade em si, as áreas mais povoadas de ambos os estados estão agora firmemente sob controle sindicalista, com barricadas já erguidas ao longo das fronteiras sul do estado de Nova Jersey."
+amcivwar.326.a: "Uma vitória bem-vinda"
+amcivwar.326.b: "Uma perda lamentável"
+
+amcivwar.327.t: "Federalistas Vitoriosos em Nova Jersey"
+amcivwar.327.d: "A batalha entre as forças milicianas sindicalistas em Nova Jersey, desde Newark até o sul, perto da Filadélfia, terminou com as forças federais declarando vitória. Já os líderes das milícias sindicalistas estão sendo detidos e presos, embora muitos tenham desaparecido nas áreas urbanas, com relatos persistentes de violência ainda em curso. De fato, provavelmente levará meses para que o governo federal reestabeleça o controle firme sobre a área urbana. Por enquanto, as forças leais ao governo estão se concentrando em assegurar a costa leste e fortalecer a fronteira com a vizinha Pensilvânia e a sitiada cidade de Nova York."
+amcivwar.327.a: "Uma vitória bem-vinda"
+amcivwar.327.b: "Uma perda lamentável"
+amcivwar.327.c: "Interessante"
+
+amcivwar.328.t: "Federalistas Conquistam o Sul do Texas"
+amcivwar.328.d: "Enquanto o estado do Texas declarou firmemente sua lealdade a Huey Long, as forças leais ao governo federal estão em acirrada contenda pelo controle e até agora conseguiram a vitória em toda a região sul do estado. O governador James Allred foi declarado traidor por prefeitos do sul, que parecem determinados a enfrentar seus irmãos no restante do estado caso a guerra civil comece de fato."
+amcivwar.328.a: "Uma vitória bem-vinda"
+amcivwar.328.b: "Uma perda lamentável"
+amcivwar.328.c: "Interessante"
+
+amcivwar.329.t: "Revolta Federal Fracassa no Texas"
+amcivwar.329.d: "Enquanto o estado do Texas declarou firmemente sua lealdade a Huey Long, as forças leais ao governo federal estão em acirrada contenda pelo controle e batalhas com os Minutemen têm ocorrido em toda a parte sul do estado. O governador James Allred realizou recentemente uma conferência com vários prefeitos do sul e declarou hoje que um acordo com eles havia sido alcançado. Eles se uniriam para apoiar Long e o governo americano adequado."
+amcivwar.329.a: "Uma vitória bem-vinda"
+amcivwar.329.b: "Uma perda lamentável"
+amcivwar.329.c: "Interessante"
+
+amcivwar.330.t: "Iowa Declara Apoio a Reed"
+amcivwar.330.d: "Com Cedar Rapids e Iowa City tendo sido tomadas por forças milicianas sindicalistas, o governador de Iowa declarou hoje apoio a Jack Reed e exigiu que as forças federais se retirassem do estado. Embora a maioria duvide que o governador Kraschel tenha alguma simpatia sindicalista, está claro que ele previu um rápido colapso do estado assim que a guerra começou e optou por trocar de lado antes que as coisas fossem longe demais. Vários relatos de tumultos em Des Moines precederam a retirada das forças leais da região."
+amcivwar.330.a: "Uma vitória bem-vinda"
+amcivwar.330.b: "Uma perda lamentável"
+
+amcivwar.331.t: "Iowa Declara Apoio Federal"
+amcivwar.331.d: "Com Cedar Rapids e Iowa City tendo sido libertadas do controle sindicalista pelas forças federais, o governador de Iowa reafirmou hoje seu apoio ao governo federal e exigiu que Jack Reed retirasse as milícias sindicalistas do estado. Claramente, o governador Kraschel previu para qual lado a batalha estava inclinando em seu estado e decidiu convidar as tropas federais antes que as coisas saíssem do controle. Vários relatos de tumultos em Des Moines precederam a retirada das milícias da SPA da região."
+amcivwar.331.a: "Uma vitória bem-vinda"
+amcivwar.331.b: "Uma perda lamentável"
+
+amcivwar.332.t: "Missouri Tomada por Forças Milicianas"
+amcivwar.332.d: "Após sua vitória no Iowa, milícias da SPA inundaram o Missouri e encontraram pronto apoio entre os grevistas em St. Louis. A cidade foi tomada quase imediatamente, com o governador Lloyd C. Stark feito refém. Embora o governador tenha resistido por vários dias, esperando que as forças federais o libertassem na legislatura, rapidamente ficou evidente que as forças milicianas do Missouri estavam muito bem entrincheiradas. Para evitar mais derramamento de sangue, o governador Stark ordenou que a guarda nacional do estado se rendesse. Dizem que as batalhas ainda estão em curso e que o controle da SPA ainda não está completo."
+amcivwar.332.a: "Um desenvolvimento bem-vindo"
+amcivwar.332.b: "Bastante alarmante"
+
+amcivwar.333.t: "SPA Captura Kentucky"
+amcivwar.333.d: "A agitação nas regiões orientais de Kentucky finalmente atingiu um ponto crítico. Com a queda do Missouri intensificando a pressão sobre o estado, era apenas uma questão de tempo antes que Frankfort e Louisville fossem dominadas pelas forças da SPA atacando de todos os lados. O governador Happy Chandler evacuou o estado pouco antes da queda de Frankfort, deixando os defensores remanescentes sem líder e, portanto, facilmente superados pelas forças de ataque. Embora a SPA agora controle a maior parte do estado, seu domínio ainda está longe de ser seguro, com confrontos regulares ocorrendo entre grupos milicianos e forças federais perto da fronteira com o Tennessee."
+amcivwar.333.a: "Um desenvolvimento bem-vindo"
+amcivwar.333.b: "Bastante alarmante"
+
+amcivwar.334.t: "Kentucky Declara Apoio a Long"
+amcivwar.334.d: "Com a nação à beira da guerra civil, muitos estados fronteiriços foram forçados a escolher um lado. Em Kentucky, a legislatura em Frankfurt mais uma vez se tornou amargamente dividida enquanto o estado lida com o medo do sindicalismo e o apelo da proclamação de Huey Long. Em um apelo emocionado, o governador Happy Chandler decidiu lançar seu destino com a causa federalista, apesar de ser um membro fervoroso da ala conservadora dos Democratas. Embora o discurso tenha chamado considerável atenção em uma região se despedaçando, as forças do governador foram forçadas a fugir da capital em direção às linhas leais - cedendo grande parte do estado ao governo pró-Long. Chandler, no entanto, prometeu reunir forças pró-governamentais e voltar para libertar o estado da traição."
+ amcivwar.334.a: "Um desenvolvimento bem-vindo"
+ amcivwar.334.b: "Bastante alarmante"
+
+ amcivwar.335.t: "Virgínia Tomada pelos Minutemen"
+ amcivwar.335.d: "Seguindo os passos de sua vitória na Carolina do Norte, os Minutemen da AFP inundaram a Virgínia e encontraram pronto apoio entre os manifestantes anti-sindicalistas nas regiões ocidentais do estado. Richmond foi tomada logo depois, com o governador George C. Peery feito refém. Embora o governador tenha resistido por vários dias, esperando que as forças federais o libertassem na legislatura, rapidamente ficou evidente que as forças dos Minutemen da Virgínia estavam muito bem entrincheiradas. Para evitar mais derramamento de sangue, o governador Peery ordenou que a guarda nacional do estado se rendesse e que as forças navais se retirassem da base em Norfolk. Dizem que as batalhas ainda estão em curso e que o controle da AFP sobre o estado está longe de ser completo."
+ amcivwar.335.a: "Um desenvolvimento bem-vindo"
+ amcivwar.335.b: "Isso está muito perto de Washington"
+
+### Deal with the Devil ###
+ACW_deal_with_devil_effect: "Todos os estados ocupados de seus territórios serão transferidos para nós e os nossos para eles. O armistício continuará por 90 dias, após o qual cada um de nós terá a opção de estendê-lo por mais 90 dias.\n"
+
+ amcivwar.520.t: "Acordo com o Diabo?"
+ amcivwar.520.d: "O governo [From.GetAdjective] nos abordou com uma proposta: um armistício de pelo menos 90 dias entre [Root.GetNameDef] e [From.GetNameDef], para que ambos possam direcionar seus esforços contra as forças [enemy_country.GetAdjective] que atualmente nos derrotam. Em 90 dias, podemos reavaliar... e, se [enemy_country.GetNameDef] for derrotado, o armistício será encerrado."
+ amcivwar.520.a: "Concordamos com este acordo... por enquanto"
+ amcivwar.520.b: "Não, recusamos comprometer nossos princípios"
+
+ amcivwar.521.t: "O Acordo foi Recusado"
+ amcivwar.521.d: "Infelizmente, parece que o governo [From.GetAdjective] é mais teimoso do que esperavam. Eles não cooperarão conosco, mesmo que isso signifique a derrota deles."
+ amcivwar.521.a: "Pena"
+
+ amcivwar.522.t: "O Acordo foi Aceito"
+ amcivwar.522.d: "Como esperado, as forças [From.GetAdjective] aceitaram nosso acordo. Vamos parar de lutar, por enquanto, e direcionar nossas atenções contra [enemy_country.GetNameDef]. Em 90 dias, podemos reavaliar e, se as forças [enemy_country.GetAdjective] tiverem sido derrotadas, o armistício será encerrado."
+ amcivwar.522.a: "Excelente"
+
+ amcivwar.523.t: "Continuar o Armistício?"
+ amcivwar.523.d: "Os 90 dias se passaram, e agora cabe a nós considerar se retomamos nossa luta contra [truce_country.GetNameDef]."
+ amcivwar.523.a: "Vamos aguardar mais 90 dias..."
+ amcivwar.523.b: "Este armistício acabou"
+
+ amcivwar.524.t: "Acordo com o Diabo"
+ amcivwar.524.d: "Com suas forças pressionadas por [enemy_country.GetNameDef], representantes de [From.GetNameDef] e [From.From.GetNameDef] concordaram com um armistício temporário, para que [enemy_country.GetAdjective] não os derrote e vença a Guerra Civil Americana.\n\nSe o acordo deles veio tarde demais, ou se pode durar mais do que alguns meses antes que ambos os lados se virem um contra o outro, ainda resta ser visto. A maioria dos observadores parece concordar que este acordo sem precedentes indica que, por enquanto, [enemy_country.GetNameDef] tem vantagem definitiva."
+ amcivwar.524.a: "Interessante"
+ amcivwar.524.b: "Não faz diferença - ambos perderão"
+
+ amcivwar.525.t: "Acordo com o Diabo"
+ amcivwar.525.d: "Com suas forças pressionadas por [enemy_country.GetNameDef], tanto [truce_support.GetNameDef] quanto [truce_enemy.GetNameDef] concordaram com um armistício temporário. Visto que declaramos nosso apoio à facção [truce_support.GetAdjective], cabe a nós seguir com o acordo deles... pelo menos por enquanto."
+ amcivwar.525.a: "Seja assim"
+
+ amcivwar.526.t: "O Armistício Chegou ao Fim"
+ amcivwar.526.d: "O armistício temporário entre [can_ally.GetNameDef] e [can_enemy.GetNameDef] evidentemente chegou ao fim, e agora [can_ally.GetAdjective] está chamando a Entente para se juntar à guerra como antes."
+ amcivwar.526.a: "Estamos a caminho!"
+ amcivwar.526.b: "Receio que eles estejam por conta própria"
+ amcivwar526_tt: "§Y[Root.GetNameDefCap]§! se juntará à §Y[can_ally.GetNameDef]§! em sua guerra contra §Y[can_enemy.GetNameDef]§!\n"
+
+ amcivwar.527.t: "A América está Reunida"
+ amcivwar.527.d.USA: "Finalmente, a América foi reunida. Estendemo-nos novamente de costa a costa. Os traidores da pátria foram destruídos e as estrelas e listras agora tremulam orgulhosamente de costa a costa, sabendo que a liberdade está garantida para todos."
+ amcivwar.527.d.CSA: "Finalmente, toda a América agora faz parte de [Root.GetNameDef]. A revolução alcançou uma grande vitória e o povo foi libertado das correntes do capitalismo. Da Califórnia à Ilha de Nova York, todos estão acenando a bandeira vermelha do socialismo. Embora as cicatrizes da revolução estejam por toda parte, podemos esperar levar a revolução a todos."
+ amcivwar.527.d.TEX: "Finalmente, a América foi unida sob a bandeira de [Root.GetNameDef]. Traidores e aspirantes a tiranos tentaram destruir e corromper esta grande nação, mas permanecemos firmes e assumimos o controle. No entanto, surgiu uma pergunta nas regiões que não se levantaram inicialmente com Huey Long na guerra civil: este país é os Estados Unidos da América, ou é verdadeiramente [Root.GetNameDef]? Há um anseio entre muitos para voltar à estabilidade das Estrelas e Listras, mesmo que as coisas tenham mudado irreversivelmente. Deveríamos apaziguá-los e mostrar que a América que Huey originalmente imaginou ainda existe?"
+ amcivwar.527.d.PSA: "Finalmente, os Estados Unidos da América foram reunidos. O tirano MacArthur foi derrubado, todos os outros traidores à pátria que buscam transformar a América em algo que ela não é foram derrotados. As estrelas e listras agora tremulam orgulhosamente de costa a costa, sabendo que a liberdade está garantida para todos os americanos."
+ #USA/PSA:
+amcivwar.527.a: "Uma união mais perfeita."
+ #CSA:
+amcivwar.527.b: "Esta terra é sua terra."
+ #TEX:
+amcivwar.527.c: "Sim! Somos os Estados Unidos, agora e para sempre.  §L(Manter cor no mapa)§!"
+ #TEX:
+amcivwar.527.d: "Sim! Somos os Estados Unidos, agora e para sempre.  §L(Trocar cor no mapa)§!"
+ #TEX:
+amcivwar.527.e: "[Root.GetNameDefCap] É a América!"
+ #NEE:
+amcivwar.527.f: "Juntos, agora e para sempre.\n§L(Manter cor no mapa)§!"
+ #NEE:
+amcivwar.527.g: "Juntos, agora e para sempre.\n§L(Trocar cor no mapa)§!"
+
+### Sanity Checks ###
+
+amcivwar.607.t: "O Colapso Federal"
+amcivwar.607.d: "Parece que o governo federal está nas últimas pernas na Guerra Civil Americana.\n\nJá a maior parte de suas terras foi engolida pelas outras facções americanas, e o que resta são apenas os últimos resquícios de seu exército - agora desmoralizado e sofrendo com deserções em massa, mas resistindo contra toda esperança de que um milagre possa salvá-los.\n\nAlguns líderes federais já se encontraram com generais das facções inimigas para negociar os termos de sua inevitável rendição completa."
+amcivwar.607.a: "Um passo necessário para a revolução."
+amcivwar.607.b: "Sic Semper Tyrannis!"
+amcivwar.607.c: "Eles conseguiram o que mereciam."
+amcivwar.607.e: "Chocante!"
+
+amcivwar.608.t: "Colapso dos Sindicatos Americanos"
+amcivwar.608.d: "Parece que o governo dos Sindicatos está nas últimas pernas na Guerra Civil Americana.\n\nJá a maior parte de suas terras foi engolida pelas outras facções americanas, e o que resta são apenas os últimos resquícios de seu exército - agora desmoralizado e sofrendo com deserções em massa, mas resistindo contra toda esperança de que um milagre possa salvá-los.\n\nAlguns líderes sindicais já se encontraram com generais das facções inimigas para negociar os termos de sua inevitável rendição completa."
+amcivwar.608.a: "Já era hora."
+amcivwar.608.b: "Bem, pelo menos é uma boa notícia."
+amcivwar.608.c: "Que a revolução deles queime no inferno."
+amcivwar.608.e: "Interessante."
+
+amcivwar.609.t: "Colapso da União"
+amcivwar.609.d: "Parece que o governo do Estado da União está nas últimas pernas na Guerra Civil Americana.\n\nJá a maior parte de suas terras foi engolida pelas outras facções americanas, e o que resta são apenas os últimos resquícios de seu exército - agora desmoralizado e sofrendo com deserções em massa, mas resistindo contra toda esperança de que um milagre possa salvá-los.\n\nAlguns líderes da União já se encontraram com generais das facções inimigas para negociar os termos de sua inevitável rendição completa."
+amcivwar.609.a: "Como deveria ser."
+amcivwar.609.b: "Bem, pelo menos é uma boa notícia."
+amcivwar.609.c: "Eles merecem tudo o que recebem."
+amcivwar.609.e: "Interessante."
+
+amcivwar.610.t: "Colapso dos Estados do Pacífico"
+amcivwar.610.d: "Parece que o governo dos Estados do Pacífico está nas últimas pernas na Guerra Civil Americana.\n\nJá a maior parte de suas terras foi engolida pelas outras facções americanas, e o que resta são apenas os últimos resquícios de seu exército - agora desmoralizado e sofrendo com deserções em massa, mas resistindo contra toda esperança de que um milagre possa salvá-los.\n\nAlguns líderes já se encontraram com generais das facções inimigas para negociar os termos de sua inevitável rendição completa."
+amcivwar.610.a: "Como deveria ser."
+amcivwar.610.b: "Bem, pelo menos é uma boa notícia."
+amcivwar.610.c: "Eles merecem tudo o que recebem."
+amcivwar.610.e: "Interessante."
+
+amcivwar.611.t: "[From.GetAdjective] Equipamento Chega"
+amcivwar.611.d: "Nossos amigos em [From.GetNameDef] nos enviaram um carregamento de equipamento de infantaria para ajudar em nossa luta."
+amcivwar.611.a: "Muito necessário!"
+
+amcivwar.615.t: "Reservas de Emergência Convocadas"
+amcivwar.615.d: "Com a declaração de guerra de [Root.GetNameDef] por [From.GetNameDef], veteranos da guerra civil se apressaram para se alistar nas reservas nacionais - compelidos pela sensação de que o governo [From.GetAdjective] estava nos atacando em nosso momento mais fraco. Embora os novos corpos estejam espalhados por todo o país, eles estão prontos e ansiosos para lutar contra o inimigo!"
+amcivwar.615.a: "Eles pagarão por isso!"
+
+amcivwar.616.t: "Reservas Desmobilizadas"
+amcivwar.616.d: "Enquanto as reservas de emergência foram convocadas para a guerra, agora que ela acabou, elas foram desmobilizadas e enviadas de volta para suas casas - exaustas depois de tanta luta."
+amcivwar.616.a: "Hora de descansar, queridos veteranos"
+
+### MacArthur's War ###
+amcivwar.700.t: "Plano de Guerra de MacArthur"
+amcivwar.700.d: "O General MacArthur tem se preparado há muito tempo para combater a agitação civil. O Plano de Guerra Branca original do início dos anos 20 insistia em respeitar as disposições da Constituição sobre os direitos dos estados. Dizia que apenas o governador poderia solicitar tropas federais para reprimir uma revolta. Infelizmente, a situação na nação agora requer uma ação mais forte. Com o prazo de anistia de 30 dias do Presidente MacArthur rendendo poucos resultados, parece que os Estados Unidos precisam se preparar para a guerra.\n\nExistem três planos que foram propostos ao gabinete e aos chefes militares:\n\n1. Plano de Guerra Branca: Yorktown recomenda abandonar muitas bases militares na Costa Oeste, nas Montanhas Rochosas, nas Grandes Planícies e no Meio-Oeste. Com a retirada das tropas federais a leste do Mississippi, o plano espera que a concentração das tropas federais na costa leste seja capaz de esmagar as rebeliões na Pensilvânia, nas Carolinas, em Nova Inglaterra e na Geórgia.\n\n2. Plano de Guerra Branca: San Jacinto pede a transferência do governo para as Grandes Planícies, juntamente com grande parte do exército, para esmagar a resistência nos estados do Pacífico. Se executado corretamente, isso nos permitiria recuperar a frota do Pacífico que está se amotinando.\n\n3. Por último, o Plano de Guerra Branca original de MacArthur, elaborado no ano passado, pede a manutenção de um corredor da Virgínia para os estados que permanecerem leais no Meio-Oeste. Esperamos que nossa organização e mobilidade superiores possam esmagar rapidamente as rebeliões antes que possam se unir ou começar a produção de guerra. O que devemos escolher?"
+amcivwar.700.a: "Abandonar as Planícies."
+amcivwar.700.b: "Washington é muito vulnerável, recuar para Denver."
+amcivwar.700.c: "Não cederemos nem um centímetro a esses traidores!"
+
+amcivwar.701.t: "Evacuação das Montanhas Rochosas"
+amcivwar.701.d: "Os estados do Arizona, Novo México, Idaho e Utah sempre foram considerados o verdadeiro coração da América, um lugar onde invasores raramente chegariam. Como tal, havia poucas bases militares ou comandos na área, e poucos depósitos ou bases para evacuar. Em Nevada, infelizmente, o Depósito do Exército de Hawthorne recusou ordens para mover materiais para o leste. No entanto, os estados do Novo México e Arizona eram diferentes. Aqui, os Forts Yuma e Huachaca, construídos no último século para proteger contra ataques indígenas e bandidos mexicanos, permaneceram fortes. Felizmente, eles também permaneceram leais, e os soldados e homens lá estão se dirigindo para o norte e leste o mais rápido que podem. Os cidadãos desses estados estão obedecendo cautelosamente às instruções dos governadores para permanecerem onde estão até que uma decisão regional seja tomada."
+amcivwar.701.a: "Talvez os Navajos saiam novamente, agora que os federais se foram."
+
+amcivwar.702.t: "Evacuação das Grandes Planícies do Norte"
+amcivwar.702.d: "Assim como o restante do Velho Oeste, as únicas bases militares no norte das Grandes Planícies foram estabelecidas durante as últimas Guerras Indígenas para finalmente pacificar a região. Fort Russel em Wyoming, Fort Missoula em Montana e Camp Grafton em Dakota do Norte são agora bases bastante mal equipadas, não tendo lutado em uma batalha ou escaramuça desde a década de 1880. A falta de atividade civil hostil facilitou a evacuação, e as tropas se retiraram para o sul, em direção ao Colorado e ao Missouri."
+amcivwar.702.a: "Deixe os canadenses vigiarem a fronteira, estamos indo para o leste."
+
+amcivwar.703.t: "A Retirada de Denver"
+amcivwar.703.d: "As Planícies centrais, Denver em particular, tornaram-se um ponto de encontro para tropas e milicianos nas Planícies e oeste, reunindo-se para se organizar, treinar e lutar contra as rebeliões. Como o Presidente decidiu abandonar as Planícies até que possa tomar Chicago e Baton Rouge, essas tropas foram enviadas de Denver para o leste, para o Missouri, para se encontrar com as milícias leais que já convergiam para St. Louis. O governador do Colorado implorou para que nossas tropas permanecessem e protegessem seu estado dos rebeldes radicais, mas eles tinham suas ordens. O oeste foi deixado para morrer."
+amcivwar.703.a: "Sopre a retirada."
+
+amcivwar.704.t: "Atravessando o Mississippi"
+amcivwar.704.d: "À medida que nossas tropas chegaram ao Missouri, os problemas finalmente começaram a atingir nossos soldados. O governador Stark do Missouri, um político ligado à máquina de Pendergast, é um admirador do governador Long e aliado da AFP. Ele se recusou a permitir que nossos homens cruzassem o Mississippi sem verificar os papéis de cada unidade por Washington por telegrama. Parece que nossos homens ficaram um pouco cansados disso e avançaram pela ponte em Cairo até o Kentucky. Infelizmente, a ponte só suportava tantas pessoas, e logo desmoronou, deixando milhares de homens presos do outro lado. Balsas foram organizadas para trazê-los de volta, mas os primeiros tiros de oposição ao exército foram vistos quando os últimos de nossos homens deixaram St. Louis, enquanto milicianos da AFP atiravam em nossas tropas em retirada."
+amcivwar.704.a: "Fuja, fuja por suas vidas!"
+
+amcivwar.705.t: "Governadores Ocidentais Desertam para o PSA"
+amcivwar.705.d: "Quando as tropas federais se retiraram da área das Montanhas Rochosas, houve inicialmente respostas divididas. O Governador de Nevada, Richard Kirman, Sr., se recusou a permitir que as tropas federais evacuassem ou abandonassem seu equipamento, mas os governadores do Arizona, Idaho e Utah estavam mais dispostos a acomodar o Presidente. No entanto, uma recente conferência regional dos quatro governadores em Salt Lake City os levou a decidir depender coletivamente do governo provisório na Califórnia para proteção e apoio. Aparentemente, a maioria deles foi levada a isso pelo claro abandono pelo governo de Washington. Eles denunciaram a tomada de poder por MacArthur pro forma, e o governo de Sacramento já enviou seus próprios soldados e aviadores para ocupar as bases abandonadas no oeste."
+amcivwar.705.a: "A verdadeira América se fortalece!"
+amcivwar.705.b: "Traidores pragmáticos ainda são traidores."
+
+amcivwar.706.t: "Novo México Cai para o Governo de Huey Long"
+amcivwar.706.d: "À medida que os soldados federais deixaram o Arizona e o Novo México, levaram a maioria dos milicianos e membros da Guarda Nacional com eles, prometendo devolvê-los às suas casas até o final do ano por meio de Baton Rouge. Infelizmente para o governo de MacArthur, despojar o Novo México de defensores o deixou aberto para tomadas de poder de estados vizinhos. Subindo o rio Pecos e correndo ao longo das estradas até Albuquerque e Santa Fé, os leais Minutemen e a Guarda Nacional de Huey Long capturaram a maior parte do Novo México antes que a polícia soubesse o que estava acontecendo. Logo, o governador progressista Tingley se rendeu via rádio antes de fugir para o oeste para o PSA, levando consigo a maior parte da administração do estado."
+amcivwar.706.a: "Obrigado, texanos!"
+amcivwar.706.b: "A nação mergulha ainda mais no caos."
+
+amcivwar.707.t: "Forças Socialistas Capturam Minnesota"
+amcivwar.707.d: "À medida que as forças federais deixaram Minnesota, o amigo de longa data do governador Peterson, Floyd Olson, percebeu que seu estado seria dilacerado a menos que se rendesse ao regime de Chicago de Jack Reed. Embora houvesse algum protesto, o fato de que o estado tinha estado perto de votar em Reed na eleição de '36 ajudou a convencer o povo de Minnesota a seguir seu governador para os braços dos socialistas."
+amcivwar.707.a: "Era inevitável."
+amcivwar.707.b: "Malditos sejam!"
+
+amcivwar.708.t: "Iowa se Rende"
+amcivwar.708.d: "Trabalhadores em greve em Des Moines e Ceder Rapids hoje foram acompanhados pela milícia recém-chegada da CSA de Reed, agora declaradamente aberta. Os policiais que tentavam defender o Capitólio do Estado de Iowa foram massacrados pela multidão enquanto o local da legislatura foi invadido pelos trabalhadores. O governador Kraschel, provavelmente vendo para onde a maré estava fluindo, decidiu entregar seu estado ao governo de Chicago como um novo estado da CSA."
+amcivwar.708.a: "A revolução às vezes precisa ser trazida pela força."
+amcivwar.708.b: "Terrível!"
+
+amcivwar.709.t: "A Ocupação das Montanhas Rochosas do Norte"
+amcivwar.709.d: "Soldados e milicianos do Governo Provisório do Oeste finalmente chegaram às Montanhas Rochosas através de alguma pequena oposição, e hoje Cheyenne e Helena caíram para o governo de Sacramento. As opiniões sobre a ocupação são mistas em Wyoming e Montana, e muitas pessoas das cidades fugiram para seus amigos ou parentes no campo. Ainda assim, há recrutas suficientes das Montanhas Rochosas do norte para reabastecer as divisões californianas, que agora correm em direção a Dakota na tentativa de capturar Bismarck antes que a CSA possa."
+amcivwar.709.a: "Estaremos em Bismarck em breve o suficiente!"
+amcivwar.709.b: "Deixe-os ter as rochas, se as quiserem."
+
+amcivwar.710.t.CSA: "A Captura de Dakota do Norte e do Sul"
+amcivwar.710.t.PSA: "A Batalha de Bismarck"
+amcivwar.710.d.CSA: "Enquanto as milícias do oeste esperavam continuar sua corrida em direção ao Meio-Oeste e aos Grandes Lagos, parece que as milícias e soldados dos Sindicatos Combinados finalmente se organizaram o suficiente para cercar metodicamente tanto Pierre quanto Bismarck e forçar a rendição de ambas as cidades. As forças californianas foram repelidas da Rodovia 5 na fronteira entre Dakota do Sul e Wyoming, e parece que a corrida para capturar o oeste acabou. Agora haverá lutas mais difíceis entre os socialistas e o governo provisório."
+amcivwar.710.d.PSA: "Embora o General Butler tenha agora assumido controle suficiente dentro da CSA para organizar uma verdadeira campanha em Dakota do Norte e do Sul, as tropas ocidentais chegaram rapidamente a Bismarck o suficiente para evitar o cerco completo. O governador independente da Dakota do Norte, William Langer, anteriormente alinhado ao governador Long, apoiou as tropas ocidentais em sua luta para expulsar os soldados socialistas do estado. Essa coalizão foi poderosa o suficiente para deter a ofensiva oeste do General Butler por enquanto."
+amcivwar.710.a: "Bem feito, rapazes!"
+amcivwar.710.b: "Voltaremos em breve!"
+amcivwar.710.c: "Uma batalha que vale a pena."
+amcivwar.710.d: "Voltaremos!"
+amcivwar.710.e: "Notícias perturbadoras."
+
+amcivwar.711.t.PSA: "A Resolução de Denver pela Democracia"
+amcivwar.711.t.TEX: "A Conferência de Denver Resolve por Long"
+amcivwar.711.d.PSA: "Após a retirada das tropas federais das Planícies inferiores, o Governador Republicano Carr do Colorado convocou uma reunião dos Governadores do Kansas, Colorado e Nebraska em Denver. Enquanto os governadores do Colorado e Nebraska eram de partidos estabelecidos, o Governador Ketchum do Kansas era membro da AFP. Isso permitiu maior flexibilidade na escolha de seu lado no conflito nacional que está rapidamente se transformando em guerra. No final, após alguns dias tensos, os governadores decidiram que o único lado verdadeiramente interessado em preservar a Constituição era o governo provisório do Pacífico, e seus três estados convidaram tropas do Pacífico para manter a paz."
+amcivwar.711.d.TEX: "Após a retirada das tropas federais das Planícies inferiores, o Governador Republicano Carr do Colorado convocou uma reunião dos Governadores do Kansas, Colorado e Nebraska em Denver. Enquanto os governadores do Colorado e Nebraska eram de partidos estabelecidos, o Governador Ketchum do Kansas era membro da AFP. Isso permitiu maior flexibilidade na escolha de seu lado no conflito nacional que está rapidamente se transformando em guerra. No final, no entanto, parece que as forças de Long expulsaram as milícias sindicalistas e os soldados de Denver, após alguns confrontos breves em Louisville que terminaram com a destruição das pontes sobre o Ohio e a fuga da milícia de Reed."
+amcivwar.711.a: "Patriotas americanos de verdade, todos vocês!"
+amcivwar.711.b: "Eles escolheram... mal."
+amcivwar.711.c: "Avante até o Atlântico!"
+amcivwar.711.d: "Precisamos estabilizar a frente, de qualquer maneira."
+amcivwar.711.e: "Uma decisão infeliz."
+
+amcivwar.712.t: "A Batalha da Ponte Eads"
+amcivwar.712.d.CSA: "Embora as tropas federais tenham deixado o Missouri alguns dias atrás, o Governador Stark ainda não havia declarado apoio a nenhum governo rival. Em uma tentativa de ganhar a posição mais favorável no Meio-Oeste possível, o General Butler despachou milícias para tomar St. Louis do outro lado do Missouri, em Illinois. Eles encontraram a Guarda Nacional do Governador Stark na Ponte Eads na fronteira, e escaramuças se seguiram, enquanto milícias de ambos os lados tentavam atravessar o rio ao redor das pontes sem sucesso. Finalmente, a milícia socialista conseguiu romper as defesas ao redor das pontes e invadir St. Louis, onde um 'governo popular' foi estabelecido. O Governador Stark fugiu para o sul para Baton Rouge, mas o Missouri está nas mãos da SPA."
+amcivwar.712.d.TEX: "Embora as tropas federais tenham deixado o Missouri alguns dias atrás, o Governador Stark ainda não havia declarado apoio a nenhum governo rival. Em uma tentativa de ganhar a posição mais favorável no Meio-Oeste possível, o General Butler despachou milícias para tomar St. Louis do outro lado do Missouri, em Illinois. Eles encontraram a Guarda Nacional do Governador Stark na Ponte Eads na fronteira, e escaramuças se seguiram, enquanto milícias de ambos os lados tentavam atravessar o rio ao redor das pontes sem sucesso. Finalmente, um grupo independente de Minutemen de Illinois subiu do norte e começou a atacar as forças da CSA por trás, o que permitiu à Guarda Nacional do Governador Stark avançar e forçar a milícia da CSA a se render. O Governador Stark declarou Huey Long como legítimo presidente, e as forças da União entraram no estado para guardar as fronteiras."
+amcivwar.712.a: "A revolução se fortalece!"
+amcivwar.712.b: "Malditos traidores!"
+amcivwar.712.c: "O rio os conteve."
+amcivwar.712.d: "Bandidos, criminosos, traidores!"
+amcivwar.712.e: "Malditos!"
+
+amcivwar.713.t: "Reforços Chegam no Leste"
+amcivwar.713.d: "Embora o oeste possa ter sido conquistado por rebeldes ainda mais rapidamente do que MacArthur pensava, o leste agora é mais seguro, com dezenas de milhares de tropas federais tendo chegado à Virgínia, juntamente com mais voluntários do Oeste correndo para se alistar no exército do Leste. Nosso exército está se fortalecendo."
+amcivwar.713.a: "Patriotas, às armas!"
+
+amcivwar.714.t.USA: "Vitória Federalista no Tennessee"
+amcivwar.714.t.TEX: "Vitória Longista no Tennessee"
+amcivwar.714.d.USA: "Hoje, às 8:45 da manhã, milícias longistas atacaram as defesas federais em Nashville, mas não foram páreo para um exército profissional e organizado. As forças federais foram capazes de repeli-las com facilidade e começar a caçar partidários locais no estado. Com esta vitória, o controle de MacArthur sobre o Tennessee é indiscutível por enquanto."
+amcivwar.714.d.TEX: "Hoje, às 8:45 da manhã, milícias longistas atacaram as defesas federais em Nashville enquanto ainda estavam se reorganizando de sua retirada para o leste. Os guardas nacionais desorganizados e as poucas unidades do exército presentes foram rapidamente cercados e forçados a se render, e logo a cidade de Nashville se rendeu às forças do Presidente Long. Em todo o estado, milicianos locais e simpatizantes longistas garantiram o interior e a maioria das cidades, e a maioria concorda que o controle de Huey Long sobre o Tennessee é indiscutível."
+amcivwar.714.a: "Mais fácil do que o esperado."
+amcivwar.714.b: "Como isso aconteceu?"
+amcivwar.714.c: "Isso mostra a incompetência desses federais corruptos."
+amcivwar.714.d: "Não importa, vamos conquistá-lo, mais cedo ou mais tarde."
+amcivwar.714.e: "Não é da nossa conta."
+
+amcivwar.715.t.CSA: "Federalistas Derrotados no Kentucky"
+amcivwar.715.t.TEX: "Federalistas Derrotados no Kentucky"
+amcivwar.715.d.CSA: "Após perder o Tennessee, o Kentucky tornou-se indefensável para as forças federais. Assim, o General MacArthur decidiu recuar para o leste e abandonar o estado, esperando retomá-lo o mais rápido possível. Por enquanto, o Congresso só pode assistir enquanto milícias longistas e sindicalistas cobriam as ruas de Louisville e Frankfort de sangue, um banho de sangue que logo se voltou contra os sindicalistas. Sua milícia conseguiu cercar Frankfort após a queda de Louisville e logo capturou o restante do estado."
+amcivwar.715.d.TEX: "Após perder o Tennessee, o Kentucky tornou-se indefensável para as forças federais. Assim, o General MacArthur decidiu recuar para o leste e abandonar o estado, esperando retomá-lo o mais rápido possível. Por enquanto, parece que as forças de Long expulsaram as milícias e soldados sindicalistas do Kentucky, após alguns confrontos breves em Louisville que terminaram com a destruição das pontes sobre o Ohio e a fuga da milícia de Reed."
+amcivwar.715.a: "Expulsamos o homem da Louisiana de Louisville!"
+amcivwar.715.b: "Voltaremos sobre esse rio em breve."
+amcivwar.715.c: "Uma grande vitória!"
+amcivwar.715.d: "Como poderíamos ter estragado isso?"
+amcivwar.715.e: "Tudo o que podemos fazer agora é esperar..."
+amcivwar.715.f: "Perturbador."
+
+amcivwar.716.t.USA: "Forças Longistas Repelidas da Carolina do Norte"
+amcivwar.716.d.USA: "Com a maioria das forças longistas avançando para o oeste, manter a Carolina do Norte não foi difícil. As forças federalistas repeliram facilmente as poucas milícias longistas que atacaram Charlotte, e é possível que haja poucas defesas longistas também na Carolina do Sul."
+amcivwar.716.t.TEX: "Carolina do Norte Cai para o Governo de Baton Rouge"
+amcivwar.716.d.TEX: "Embora muitos recursos longistas tenham sido desviados para o oeste, o governo de Baton Rouge ainda tinha claramente milícia suficiente para cercar a cidade de Charlotte, na Carolina do Norte, e, após breve combate nas ruas, capturá-la. Em todo o estado, a milícia da Carolina do Norte obedeceu à ordem de seu novo governador fantoche para se render às forças de Huey Long."
+amcivwar.716.a: "Não era inesperado."
+amcivwar.716.b: "Maldição!"
+amcivwar.716.c: "Caímos em uma armadilha!"
+amcivwar.716.d: "Prontos na fronteira da Virgínia!"
+amcivwar.716.e: "Os longistas foram detidos."
+amcivwar.716.f: "O governo federal parece instável."
+
+amcivwar.717.t.USA: "A Captura de Charleston"
+amcivwar.717.t.TEX: "Infiltrados Federalistas Repelidos na Carolina do Sul"
+amcivwar.717.d.USA: "Assumindo corretamente que as tropas Longistas ainda estavam desorganizadas e incapazes de repelir um assalto determinado, as tropas do Corpo de Fuzileiros Navais dos EUA, realocadas do Arizona, executaram com sucesso um ataque naval em Charleston em parceria com a milícia local. A Guarda Nacional do Presidente Long na cidade ficou confusa com relatos contraditórios e logo foi dominada, rendendo-se após uma breve luta. A ação do Presidente MacArthur está sendo aplaudida em Washington como um movimento de genialidade militar, enquanto relatos de Sacramento e Baton Rouge declaram o movimento como um ataque aberto ao povo dos Estados Unidos."
+amcivwar.717.d.TEX: "Assumindo incorretamente que as tropas Longistas ainda estavam muito desorganizadas para defender Charleston, o General MacArthur lançou um assalto naval combinado em Charleston. Infelizmente, as embarcações de desembarque dos Fuzileiros Navais dos EUA foram desviadas de curso em seus barcos improvisados antes de serem bombardeadas por cruzadores Longistas no porto de Charleston, enquanto os partidários ao redor da cidade foram suprimidos e forçados a se esconder sem suprimentos frescos. A Carolina do Sul está agora ainda mais firmemente nas mãos do governo de Huey Long."
+amcivwar.717.a: "O General MacArthur conseguiu!"
+amcivwar.717.b: "De qualquer forma, era uma aposta."
+amcivwar.717.c: "Uma vitória natural."
+amcivwar.717.d: "Nós voltaremos!"
+amcivwar.717.e: "A luta é ruim para todos."
+
+amcivwar.718.t: "O Cerco da Cidade de Nova York"
+amcivwar.718.d: "Parece que agitadores estrangeiros já estavam ativos na América, pois provocadores e agentes franceses e britânicos incitaram os bairros mais pobres da cidade de Nova York à revolução. Muitos empresários que não conseguiram escapar foram linchados, mas a violência de multidões foi acalmada pela chegada de organizadores treinados, tanto civis quanto militares, da Grã-Bretanha e da França. A Guarda Nacional cercou a cidade em um cerco frouxo que se estende de Newark a Yonkers, impedindo a milícia socialista de entrar ou sair da cidade, mas ainda não tentou um assalto a Manhattan."
+amcivwar.718.a: "Mantenham o porto aberto!"
+amcivwar.718.b: "Podemos esperar."
+amcivwar.718.c: "Um destino triste para uma grande cidade."
+
+amcivwar.719.t.USA: "O Ataque a Filadélfia"
+amcivwar.719.t.CSA: "A Batalha de Filadélfia"
+amcivwar.719.d.USA: "O General MacArthur sabia, como Lee e Howe antes dele, que Filadélfia era a chave para o Meio-Atlântico. Componentes da 3ª Infantaria entraram na Pensilvânia no início desta semana via West Chester e, em coordenação com outros regimentos reunidos em Camden e a Guarda Nacional reunida em Havertown, iniciaram um assalto ao centro de Filadélfia. Eles conseguiram atravessar com sucesso os rios Schuylkill e Delaware em uma tentativa de capturar o Tribunal Federal e o Arsenal de Frankford antes que a resistência socialista local pudesse se organizar para detê-los. A operação foi notavelmente bem-sucedida, mas um contra-ataque socialista foi sentido assim que as tropas federais conseguiram capturar a cidade e avançar ao longo da rodovia Ship-to-Shore para o noroeste. Uma batalha acirrada começou entre as forças do General Butler, baseado em Allentown, e o General Bowley em Filadélfia, perto de Lansdale. Foram feitas tentativas para limpar a área de civis, mas logo milhares estavam mortos após os ataques de artilharia, e ficou evidente que a reconquista da Pensilvânia não seria fácil.\n\nPor toda a nação dividida e fragmentada, as facções divididas viram sua chance de iniciar operações ofensivas contra todos os governos concorrentes, e de Minnesota à Carolina do Norte, de Nova York a Novo México, escaramuças e distúrbios civis finalmente se transformaram em batalhas. Está claro para todos que a Segunda Guerra Civil Americana começou."
+amcivwar.719.d.CSA: "O General MacArthur sabia, como Lee e Howe antes dele, que Filadélfia era a chave para o Meio-Atlântico. Componentes da 3ª Infantaria entraram na Pensilvânia no início desta semana via West Chester e, em coordenação com outros regimentos reunidos em Camden e a Guarda Nacional reunida em Havertown, iniciaram um assalto ao centro de Filadélfia. Membros da União prepararam grandes ruas leste-oeste, com linhas de retirada chegando até a Broad Street, cortaram as pontes sobre o Delaware e o Schuylkill, e telefonaram para as forças do General Butler em Allentown para coordenar contra-ataques. Embora o assalto inicial dos Federais tenha avançado pelo Main Line com pouca fricção, as tentativas federais de atravessar o rio perto da ponte da Market Street foram grandemente perturbadas pela atividade local sindicalista, e logo as armas de longo alcance do General Butler, evacuadas do Arsenal de Frankford na semana anterior, estavam causando estragos nas linhas de abastecimento federais. Um Presidente MacArthur exasperado eliminou todas as restrições a suas tropas na região, e a luta se tornou cada vez mais confusa. No entanto, as forças federais foram em grande parte empurradas de volta para a fronteira de Maryland.\n\nPor toda a nação dividida e fragmentada, as facções divididas viram sua chance de iniciar operações ofensivas contra todos os governos concorrentes, e de Minnesota à Carolina do Norte, de Nova York a Novo México, escaramuças e distúrbios civis finalmente se transformaram em batalhas. Está claro para todos que a Segunda Guerra Civil Americana começou."
+#USA wins:
+amcivwar.719.a: "É agora ou nunca! À guerra, pela América!"
+#USA loses:
+amcivwar.719.b: "Voltaremos! Sem mais restrições, estamos em guerra!"
+#CSA wins:
+amcivwar.719.c: "Precisamos aproveitar nossa vantagem! À guerra!"
+#CSA loses:
+amcivwar.719.d: "Precisamos alcançar Nova York, e logo! À batalha!"
+amcivwar.719.e: "É nosso momento de atacar! Às armas!"
+
+amcivwar.720.t: "General MacArthur Mobiliza Contra Nova Inglaterra"
+amcivwar.720.d: "Embora a Coroa Britânica tenha se recusado anteriormente a intervir na América, os governadores do Maine, Vermont, New Hampshire, Massachusetts, Rhode Island, Nova York e Connecticut renovaram seu pedido de proteção após um ultimato do Presidente MacArthur aos governadores de Nova Inglaterra para permitir que as tropas Federalistas entrassem em seus estados para combater os rebeldes sindicalistas no norte. Embora ajudar o governo Federal fosse nosso plano original, é possível que o governo de MacArthur não seja tão estável quanto pensávamos. Deveríamos emitir um contra-ultimato?"
+amcivwar.720.a: "MacArthur pode fazer o que quiser."
+amcivwar.720.b: "Devemos proteger Nova Inglaterra!"
+
+amcivwar.721.t: "Canadá Ocupa Nova Inglaterra"
+amcivwar.721.d: "Notícias preocupantes do front norte! O Canadá ocupou e controlou Nova Inglaterra enquanto as forças Federalistas ainda estavam se reorganizando após sua retirada para o leste. Isso não é um movimento surpreendente, considerando que os governadores de Nova Inglaterra pediram ao Canadá que o fizesse, mas sem Nova Inglaterra, a posição Federalista está consideravelmente enfraquecida."
+amcivwar.721.a: "Precisamos nos concentrar nos traidores, por enquanto."
+amcivwar.721.b: "Depois que a guerra terminar, vamos recuperá-la!"
+
+amcivwar.722.t: "A Rota de Newark"
+amcivwar.722.d: "Após a perda de Nova Inglaterra, as forças Federalistas foram repelidas de Nova Jersey também. Os rebeldes sindicalistas de Nova York quebraram o cerco e derrotaram as forças do General MacArthur em Newark, recebendo reforços do General Smedley Butler da Pensilvânia, que então avançou para ocupar a metade oriental desse estado. No entanto, o General MacArthur enviou reforços para Nova Jersey também, e ao tentar atravessar o Delaware, encontraram uma pesada resistência socialista em Camden. Rapidamente assumindo posições sob o comando do Tenente Daniel Daly, os dois lados começaram um tiroteio em grande escala, e à medida que mais reforços entraram na área, um pequeno conflito de fronteira finalmente se transformou em uma batalha completa.\n\nPor toda a nação dividida e fragmentada, as facções divididas viram sua chance de iniciar operações ofensivas contra todos os governos concorrentes, e de Minnesota à Carolina do Norte, de Nova York a Novo México, escaramuças e distúrbios civis finalmente se transformaram em batalhas. Está claro para todos que a Segunda Guerra Civil Americana começou."
+amcivwar.722.a: "Não podemos perder nossa vantagem! À guerra!"
+amcivwar.722.b: "'Vamos lá, seus filhos da mãe, vocês querem viver para sempre?!'"
+amcivwar.722.c: "É nosso momento de atacar! Às armas!"
+
+amcivwar.723.t: "Nova Inglaterra se Rende a MacArthur"
+amcivwar.723.d: "Recebemos a notícia de que os governadores de Nova Inglaterra pediram proteção ao Canadá, mas o governo de Ottawa recusou. Sem a proteção canadense, os governadores pediram a proteção do General MacArthur contra as forças sindicalistas. Embora os estados possam não estar totalmente a favor de MacArthur, pelo menos estão resolvidos a vê-lo como sua melhor chance de evitar a guerra."
+amcivwar.723.a: "Com Nova Inglaterra assegurada, agora podemos concentrar nossos esforços em sitiar Nova York."
+amcivwar.723.b: "Isso não é bom..."
+amcivwar.723.c: "Droga."
+
+amcivwar.724.t: "Partidários da CSA em Buffalo"
+amcivwar.724.d.macarthur: "Embora as tropas do Presidente MacArthur tenham compelido a obediência e lealdade do Governador Lehman de Nova York em Albany, parece que até mais do estado do que apenas a cidade de Nova York escapou de seu controle. Grevistas remanescentes de distúrbios recentes em Rochester e Buffalo uniram forças com partidários do governo de Reed em Chicago, que se uniram para derrubar o governo da cidade e convidar soldados da CSA para proteger o estado. Sentindo uma oportunidade de se aproximar da cidade de Nova York, o General Butler ordenou um avanço até a fonte do Susquehanna e Niagara Falls."
+amcivwar.724.d.canada: "Embora o governo britânico-canadense tenha aceitado o pedido do governador de Nova York para garantir a neutralidade de seu estado, na parte oeste do estado as tropas britânico-canadenses chegaram muito lentamente para evitar que as tropas do General Butler avançassem para as cidades de Buffalo e Rochester, encontrando-se lá com partidários do Presidente Reed, e movendo-se para uma linha defensável da foz do Susquehanna às Cataratas do Niágara. A CSA estabeleceu seu próprio governo estadual em Buffalo, e parece que o estado permanecerá dividido até que a CSA ou o Canadá o conquistem totalmente na guerra."
+amcivwar.724.a: "Excelente!"
+amcivwar.724.b: "Pelo menos ainda cercamos a cidade de Nova York."
+amcivwar.724.c: "Terrível."
+
+amcivwar.725.t: "Rebelião Longista Suprimida em Nova Jersey"
+amcivwar.725.d: "Mesmo com o voo de Charles Lindbergh para Baton Rouge, uma tentativa Longista de tomar Newark e a costa norte de Nova Jersey como base para resistir até a chegada de reforços do sul ainda era forte o suficiente para desviar as tropas federais do cerco a Nova York para reprimi-la. No entanto, reprimida foi, e embora a resistência tenha sido intensa nas ruas de Newark, os homens de MacArthur reafirmaram o controle. Essas tropas agora retornaram a Yonkers e Filadélfia, e ofensivas organizadas nos estados rebeldes estão sendo planejadas."
+amcivwar.725.a: "Fizemos o que precisávamos fazer."
+amcivwar.725.b: "Vingaremos eles em breve!"
+amcivwar.725.c: "Esmagaremos o tirano nós mesmos!"
+
+amcivwar.750.t: "Congresso se Muda para Denver"
+amcivwar.750.d: "A evacuação da costa leste começou ontem, à medida que o General MacArthur, o gabinete, o Presidente interino da Câmara e muitos congressistas embarcaram em aviões para Denver, a capital temporária dos Estados Unidos. Muitos membros juniores do governo, deixados para trás por enquanto, não sabem como reagir à situação, com alguns queimando documentos confidenciais de ministérios governamentais e até da Biblioteca do Congresso, de onde a Constituição original foi levada para Denver. Manifestantes nas ruas ainda estão sendo reprimidos pela polícia local, mas a maioria da Guarda Nacional e do Exército embarcou em trens rumo ao oeste. Esta manhã, o General MacArthur dirigiu-se ao Congresso reduzido em uma sessão secreta, delineando seu plano para suprimir a agitação civil no oeste antes de derrotar Reed e Long no leste."
+amcivwar.750.a: "Eu voltarei!"
+
+amcivwar.751.t: "O Longo Caminho para o Oeste"
+amcivwar.751.d: "O General MacArthur tomou a decisão de abandonar o antigo centro de poder na costa leste, o que significa mover tudo para Denver - todas as forças armadas, todas as munições, tudo o que pode ser transportado por terra. Só podemos esperar que tudo ocorra de acordo com o plano secreto do General MacArthur e que os traidores ao norte e ao sul não ataquem nossas tropas quando estivermos recuando para o oeste."
+amcivwar.751.a: "Não há mais volta agora."
+
+amcivwar.752.t: "Aumento dos Confrontos com a Guarda Nacional"
+amcivwar.752.d.USA: "A unidade da América está rapidamente se desfazendo à medida que o Presidente MacArthur se reconsolida no oeste. Por um lado, os distúrbios nas regiões do Meio-Atlântico e dos Apalaches estão se espalhando sem oposição federal, e parece que o leste pode cair para os rebeldes antes que possamos reprimir a dissidência no oeste. Por outro lado, parece que o aumento da agitação na Costa Leste está obscurecendo nossa redistribuição para o oeste, e os jornais hostis ao governo não perceberam isso. Melhor ainda, as facções rebeldes no oeste e nas Planícies estão enfrentando seus próprios distúrbios internos, enquanto grevistas em Oregon e Washington colidem com membros da Guarda Nacional, alguns dos quais permanecem leais a Denver, enquanto outros seguem seus governadores reconhecendo a rebelião de Sacramento, e milicianos leais ao Texas se reúnem em San Antonio."
+amcivwar.752.d.TEX: "A unidade da América está rapidamente se desfazendo à medida que a ditadura do General MacArthur aliena mais e mais cidadãos. Temos uma ótima oportunidade no leste de tomar Tennessee, Kentucky e Virginia do decadente governo federal, e o General Patton está recomendando um avanço agressivo lá. Infelizmente, parece que a resistência federalista no Texas e em Oklahoma está se intensificando, então um avanço para o leste pode nos expor a um ataque no oeste lá."
+amcivwar.752.d.PSA: "A unidade da América está rapidamente se desfazendo à medida que a ditadura do General MacArthur aliena mais e mais cidadãos. Parece que somos o primeiro alvo dos exércitos de General MacArthur agora se reunindo nas Grandes Planícies, e já há resistência popular à decisão de nossos governadores de se alinharem a Sacramento em Oregon e Washington. Alguns representantes estaduais dos estados do Pacífico estão arrependidos de nossa decisão de declarar um governo rival também. Nossa união está sob grande ameaça."
+amcivwar.752.d.CSA: "A unidade da América está se desfazendo rapidamente à medida que movimentos populares buscam derrubar seus opressores em Washington, Denver, Sacramento e Baton Rouge. O exército federal parece não estar realizando movimentos ofensivos no leste contra os grevistas lá, mas é difícil determinar sua localização exata. O recém-desertor General Smedley Butler está recomendando um ataque para garantir a antiga capital e Virginia, antes de conquistar Nova Inglaterra e Kentucky. Esses são vistos como prêmios mais valiosos do que o Meio-Oeste, além de serem os mais ameaçadores se o ditador Long os tomar."
+amcivwar.752.a: "Boas notícias, talvez?"
+amcivwar.752.b: "Precisamos avançar para o nordeste primeiro."
+amcivwar.752.c: "Traidores à democracia bem no nosso meio!"
+amcivwar.752.d: "Precisamos tomar Washington, D.C.!"
+
+amcivwar.753.t: "Passando por Chattanooga"
+amcivwar.753.d: "Divisões federais tiveram que passar pela cidade de Chattanooga, Tennessee, de trem para chegar a Denver. Apesar de a cidade estar na fronteira com o Mississippi, atualmente controlado pelos traidores do sul, nossas tropas chegaram ao Missouri sem disparar um único tiro. Isso foi possível graças ao Estado-Maior Longista preparando um ataque à Carolina do Norte, vendo-a como uma área mais fraca que seria mais valiosa para garantir. Dessa forma, nossas forças viajaram para o oeste sem sofrer uma única perda."
+amcivwar.753.a: "Tudo conforme o planejado."
+
+amcivwar.754.t: "Milícias Federalistas Tomam o Sul do Texas"
+amcivwar.754.d: "Enquanto o estado do Texas declarou firmemente sua lealdade a Huey Long, as forças leais ao governo federal estiveram em acirrada disputa pelo controle e até agora conseguiram obter a vitória nas regiões sul do estado. O governador James Allred foi declarado um traidor pelos prefeitos do sul, que parecem determinados a enfrentar seus irmãos no resto do estado caso a guerra civil comece a sério."
+amcivwar.754.a: "Uma surpresa, com certeza, mas bem-vinda."
+amcivwar.754.b: "Traidores por toda parte!"
+amcivwar.754.c: "A causa de Long parece estar perdendo apoio."
+
+amcivwar.755.t: "Campanha do Rio Arkansas"
+amcivwar.755.d: "Após o sul do Texas, Arkansas e Oklahoma também foram conquistados pelas milícias federais, apesar de seus governadores declararem apoio a Huey Long. Com esses estados e San Antonio firmemente nas mãos federais, Houston e Austin provavelmente cairão em breve, e MacArthur terá acesso aos campos de petróleo do Texas para seu exército."
+amcivwar.755.a: "Precisamos agir rapidamente, antes que Patton reforce suas posições."
+amcivwar.755.b: "O que eles esperam alcançar com isso?"
+
+amcivwar.756.t: "Tropas Federais Cruzam o Mississippi"
+amcivwar.756.d: "Embora o governador Stark do Missouri tenha se alinhado a Huey Long nas últimas duas eleições, diante do exército de milícias federais e soldados que invadem seu estado em direção ao oeste, ele condenou o governo de Baton Rouge por tentativa de ditadura e afirmou sua lealdade ao Presidente MacArthur. Com quase toda a terra a oeste do Mississippi ao norte do Texas segura, as tropas federais estão agora se preparando para envolver o Texas e atacar através das Montanhas Rochosas contra Sacramento. Nossa posição no oeste parece segura."
+amcivwar.756.a: "Aqui começa o avanço!"
+
+amcivwar.757.t: "A Queda de Houston"
+amcivwar.757.d: "Como esperado, milícias leais de San Antonio e Oklahoma superaram as milícias desorganizadas de Long em Houston e Austin antes que o General Danford pudesse reforçar suas posições. Dallas caiu rapidamente depois, e com a queda dessas três cidades-chave, todo o Texas está firmemente sob controle federal, e o governador James Allred foi capturado antes que pudesse escapar."
+amcivwar.757.a: "Baton Rouge está próxima, agora."
+amcivwar.757.b: "Não importa, eles não controlarão esses campos de petróleo por muito tempo."
+
+amcivwar.758.t: "Caos no Leste"
+amcivwar.758.d: "À medida que nossas tropas se retiravam, tudo a leste de Saint Louis colapsou em total anarquia, e esperamos que milícias Longistas e Sindicais dividam os despojos no leste. No entanto, isso significa que eles estarão ocupados lutando entre si lá, e podemos nos concentrar totalmente em lidar com os rebeldes do Pacífico agora."
+amcivwar.758.a: "Tomaremos a Califórnia em breve."
+
+amcivwar.759.t: "Carolina do Norte Declara Apoio a Huey Long"
+amcivwar.759.d: "O recém-eleito governador da Carolina do Norte, Clyde Hoey, desde que viu as tropas federais deixando a costa leste, prometeu seu apoio ao governo de Huey Long, buscando proteção tanto das forças Sindicais no norte quanto dos tumultos que assolaram seu estado desde a saída das forças de General MacArthur. Dessa forma, no entanto, as forças de General Patton estão incrivelmente perto da cidade estratégica de Norfolk, e agora uma corrida para ver quem conquista a Virgínia primeiro começou."
+amcivwar.759.a: "Próxima parada, Virgínia!"
+amcivwar.759.b: "A corrida pela Virgínia começou."
+
+amcivwar.760.t: "A Corrida pela Virgínia"
+amcivwar.760.d.CSA: "Após atravessar a Carolina do Norte, as forças do General Patton encontraram algo que não esperavam - as forças do General Butler em Richmond. Aparentemente, convergiram da Virgínia Ocidental e tomaram a Virgínia sem resistência antes que o General Patton pudesse agir. Patton recuou pela fronteira, deixando uma pequena guarda em Norfolk."
+amcivwar.760.d.TEX: "Na manhã de hoje, as forças do General Butler foram repelidas de Richmond pelas forças do General Patton, depois de surpreendentemente percorrerem uma grande distância em pouco tempo, em comparação com as forças sindicalistas. Com essa vitória, a Virgínia está firmemente sob o controle de Huey Long, por enquanto."
+amcivwar.760.a: "Bom trabalho, General Butler."
+amcivwar.760.b: "Precisamos ser mais rápidos da próxima vez."
+amcivwar.760.c: "Bem feito, General Patton."
+amcivwar.760.d: "De qualquer forma, isso apenas significa que voltaremos para isso mais tarde."
+amcivwar.760.e: "Não é da nossa conta."
+
+amcivwar.761.t: "Corrida pelo Corredor"
+amcivwar.761.d.CSA: "Após intensos combates, as forças Sindicais tomaram controle do Tennessee e de Kentucky, fazendo ganhos importantes contra as forças de Huey Long. Com esse novo desenvolvimento, forças hostis ao General MacArthur controlam tudo a leste do rio Mississippi."
+amcivwar.761.d.TEX: "Após intensos combates, as forças de Huey Long tomaram controle do Tennessee e de Kentucky, fazendo ganhos importantes contra as forças Sindicais. Com esse novo desenvolvimento, forças hostis ao General MacArthur controlam tudo a leste do rio Mississippi."
+amcivwar.761.a: "Mais um passo para libertar todos os trabalhadores da América!"
+amcivwar.761.b: "Precisamos repelir esse ditador corrupto, e logo!"
+amcivwar.761.c: "Mais um passo para destruir o velho regime corrupto!"
+amcivwar.761.d: "Precisamos repelir esses sindicalistas ímpios, e logo!"
+amcivwar.761.e: "O Rio Mississippi será coberto de sangue novamente."
+
+amcivwar.762.t: "A Bandeira Vermelha sobre Washington"
+amcivwar.762.d: "Enquanto as forças dos autoproclamados presidentes, Reed e Long, batalhavam nas fronteiras da Virgínia, milícias alinhadas com a SPA finalmente alcançaram a abandonada Washington. A cidade, completamente desprovida de qualquer presença militar, foi facilmente tomada, com os marcos históricos e os rios sobre o Patomac até Alexandria sendo assegurados primeiro pela milícia. Como não havia sinal de um contra-ataque, a milícia logo começou a transformar o National Mall e outros locais, com mais atenção sendo dada ao Capitólio. Retirando a antiga bandeira sobre a casa do fugitivo Congresso, os soldados pausaram para fotografias e entrevistas com jornais socialistas e locais, antes de se reunirem para aplaudir a bandeira da CSA sendo içada sobre D.C. finalmente."
+amcivwar.762.a: "Não mais o Congresso oprimirá os trabalhadores!"
+amcivwar.762.b: "A capital deve ser libertada logo!"
+
+amcivwar.763.t: "MacArthur Repeliu o Ataque da CSA em Minnesota"
+amcivwar.763.d: "Embora a SPA tenha conquistado a legislatura do estado de Minnesota nas eleições de 1936, eles não conseguiram cumprir a promessa de um Minnesota socialista, já que o Governador Peterson do Farmer-Labor Party usou a Guarda Nacional do estado para resistir em Minneapolis tempo suficiente para que os soldados de MacArthur chegassem ao estado e repelissem a milícia de Wisconsin e esmagassem os grevistas em Minnesota. O Presidente Reed foi impedido em seu avanço para o oeste, e sua recém-formada equipe de comando está considerando ataques ao sul e ao leste, para aproveitar a vantagem contra Huey Long."
+amcivwar.763.a: "Próxima parada, Chicago!"
+amcivwar.763.b: "Más notícias."
+
+amcivwar.764.t: "Nova Inglaterra em Situação Desesperadora"
+amcivwar.764.d: "Embora a Coroa tenha recusado anteriormente o pedido dos governadores da Nova Inglaterra para garantir sua neutralidade, já que o gabinete considerava imprudente colocar em perigo ainda mais a posição militar do governo federal, a repetição do pedido na noite passada trouxe uma reação diferente. Com a única alternativa à intervenção britânico-canadense na região sendo a ocupação pelas forças dos Combined Syndicates, até mesmo os Americófilos do gabinete e do Privy Council se aqueceram à ideia de intervir. Deveria o governo britânico-canadense agir?"
+amcivwar.764.a: "Devemos permanecer neutros."
+amcivwar.764.b: "O povo da Nova Inglaterra precisa de nós, devemos ajudá-los!"
+
+amcivwar.765.t: "Canadá Toma Controle da Nova Inglaterra"
+amcivwar.765.d.CSA: "O avanço em direção a D.C. parece ter dado à Britânica ao nosso norte a ideia de que éramos uma ameaça real. Eles aceitaram o pedido de proteção pelos governadores traidores da Nova Inglaterra. Nossas forças não conseguiram avançar no Nordeste antes de encontrar tropas canadenses. No entanto, Nova Jersey caiu para nossa milícia e aliados da Internationale na cidade de Nova York antes que as forças da Entente pudessem reforçá-la."
+amcivwar.765.d.others: "O avanço socialista em direção a D.C. parece ter dado à Britânica ao nosso norte a ideia de que eles eram uma ameaça real. Eles aceitaram o pedido de proteção pelos governadores da Nova Inglaterra, e agora estão de olho nos socialistas além da fronteira. As forças da CSA não conseguiram avançar antes de encontrar tropas canadenses. O estado de Nova Jersey, no entanto, caiu para sua milícia e aliados da Internationale na cidade de Nova York antes que pudéssemos reforçá-lo."
+amcivwar.765.a: "Os britânicos estão de volta a Boston!"
+amcivwar.765.b: "Pelo menos os socialistas não tomaram Boston."
+
+amcivwar.766.t: "Avanço Socialista para a Nova Inglaterra"
+amcivwar.766.d: "Milícias e soldados socialistas ocuparam rapidamente a Nova Inglaterra após seu ataque a Washington D.C. Embora houvesse pouca resistência, fica claro que há poucos amigos para o Presidente Reed na antiga casa do Republicanismo, e muitos ainda esperam que o Canadá os salve. Por enquanto, no entanto, a CSA está totalmente no controle da Nova Inglaterra."
+amcivwar.766.a: "Ótimo!"
+amcivwar.766.b: "Voltaremos para eles em breve!"
+amcivwar.766.c: "Os socialistas estão ficando fortes."
+
+amcivwar.767.t: "Guerra Começa em Oregon"
+amcivwar.767.d.USA: "Com a retirada do governo federal para o oeste, ficou claro que o General MacArthur pretendia atacar os estados do Pacífico primeiro, vendo-os como a ameaça mais isolada. Vindo sobre as Montanhas Rochosas com as últimas neves do inverno, as 2ª e 14ª Divisões do Exército iniciaram um ataque organizado a Oregon e à parte sul de Washington. Os membros da Guarda Nacional nesses estados escolheram ficar ao lado do Presidente MacArthur ou foram forçados a se render. As forças do governo de Denver logo tomaram Portland e Yakima, e os governadores de Washington e Oregon se renderam para se salvar da agitação sindicalista e da guerra. As 3ª, 2ª e 14ª Divisões estão agora se preparando para tomar a Califórnia, mas os californianos já começaram um contra-ataque, assim como a União avança em direção ao Arkansas mais uma vez, e a CSA se move em direção à Carolina do Norte.\n\nPor toda a nação dividida e fraturada, as facções fragmentadas viram sua chance de iniciar operações ofensivas contra todos os governos concorrentes, e de Minnesota à Carolina do Norte, de Nova York à Novo México, escaramuças e agitação civil finalmente escalaram para batalhas. Fica claro para todos que a Segunda Guerra Civil Americana começou."
+amcivwar.767.d.PSA: "Com a retirada do governo federal para o oeste, ficou claro que o General MacArthur pretendia atacar os estados do Pacífico primeiro, vendo-os como a ameaça mais isolada. Vindo sobre as Montanhas Rochosas com as últimas neves do inverno, a 2ª Divisão do Exército iniciou um ataque organizado a Oregon e à parte sul de Washington. Felizmente para os defensores, um sistema de alerta antecipado da milícia em Oregon conseguiu trazer a guarda da Califórnia para defender La Grande, conseguindo expulsar o Exército do estado. As 3ª, 2ª e 14ª Divisões estão agora se preparando para uma defesa em Idaho e Nevada, mas os californianos já começaram um contra-ataque, assim como a União avança em direção ao Arkansas mais uma vez, e a CSA se move em direção à Carolina do Norte.\n\nPor toda a nação dividida e fraturada, as facções fragmentadas viram sua chance de iniciar operações ofensivas contra todos os governos concorrentes, e de Minnesota à Carolina do Norte, de Nova York à Novo México, escaramuças e agitação civil finalmente escalaram para batalhas. Fica claro para todos que a Segunda Guerra Civil Americana começou."
+amcivwar.767.a: "A Califórnia não pode resistir sozinha."
+amcivwar.767.b: "Devemos atacar Portland!"
+amcivwar.767.c: "Mostramos a eles!"
+amcivwar.767.d: "Traidores por toda parte!"
+amcivwar.767.e: "À guerra!"
+
+amcivwar.768.t: "Julgamento do Estado-Maior da Nova Inglaterra"
+amcivwar.768.d: "Com a rebelião da Nova Inglaterra contra nosso domínio esmagada, garantimos a região separatista que buscou refúgio sob o braço canadense em 1937. Dois generais proeminentes da oposição foram Leslie Groves e Mark Clark da Nova Inglaterra. Enquanto aguardam seu destino, muitos começaram a se perguntar se esses homens foram simplesmente forçados a lutar contra nós pelos canadenses que não desejavam ver seu pedaço da América devolvido para casa. Nenhuma evidência aponta para atos flagrantes cometidos por qualquer um dos dois na defesa da Nova Inglaterra. Além disso, ambos prometem servir fielmente à bandeira de [ROOT.GetNameDef] se puderem receber um perdão formal de nosso governo."
+amcivwar.768.a: "Conceda-lhes um perdão."
+amcivwar.768.b: "Eles não podem ser confiáveis."
+
+# ACW Desertions
+ACW_unit_desertion_tt: "Uma pequena porção do exército desertará para [FROM.GetNameDef]!\n\n§gIsso resultará em uma redução de 25% na organização e uma penalidade de 5% na força em toda a frente. Precisamos avançar em território inimigo para evitar deserções repetidas no futuro!§!"
+ACW_state_desertion_tooltip: "Uma pequena porção do exército desertará para [FROM.GetNameDef]!\n\n§gIsso resultirá em uma redução de 25% na organização e uma penalidade de 10% na força para unidades em [acw_state_control_changed.GetName]. Precisamos evitar que o inimigo tome as capitais estaduais para evitar deserções repetidas no futuro!§!"
+
+amcivwar.801.t: "Deserções na Frente"
+amcivwar.801.d: "Com a recente queda de [acw_state_control_changed.GetName] para [acw_new_controller.GetNameDef], a moral entre as tropas [acw_old_controller.GetAdjective] chegou a um novo ponto baixo. Há até relatos de que pequenas quantidades de tropas começaram a desertar do exército [acw_old_controller.GetAdjective] e a atravessar as linhas [acw_new_controller.GetAdjective] para lutar por [acw_new_controller.GetNameDef]."
+amcivwar.801.a: "Precisamos fortalecer a moral!"
+
+amcivwar.802.t: "Deserções na Frente"
+amcivwar.802.d: "Com a recente queda de [acw_state_control_changed.GetName] para [acw_new_controller.GetNameDef], a moral entre as tropas [acw_old_controller.GetAdjective] chegou a um novo ponto baixo. Há até relatos de que pequenas quantidades de tropas começaram a desertar do exército [acw_old_controller.GetAdjective] e a atravessar as linhas [acw_new_controller.GetAdjective] para lutar por [acw_new_controller.GetNameDef]."
+amcivwar.802.a: "Bem-vindos à libertação!"
+
+amcivwar.805.t: "Deserções Crescentes nas Linhas de Frente"
+amcivwar.805.d: "Embora inicialmente tenham nutrido a esperança de vitória, os exércitos de [acw_losing_side.GetNameDef] têm enfrentado problemas logísticos e morais devido à perda recente do controle de seus territórios. Como resultado, nossa inteligência relatou que, apesar de sua propaganda alegar uma vitória total eventual, sua retaguarda e linhas de frente foram prejudicadas por moral baixa e derrotismo.\n\nÀ medida que a guerra civil se arrasta, e americanos lutam contra americanos - pequenos contingentes de suas forças armadas começaram a se infiltrar pelo campo de batalha em nossas linhas para desertar para nosso exército. Vendo nossa causa como justa e talvez desejando terminar do lado certo da história, eles ofereceram seus serviços às forças armadas de [acw_winning_side.GetNameDef] - jurando lealdade ao governo legítimo da América!"
+amcivwar.805.a: "Nossa causa é justa!"
+
+amcivwar.806.t: "Nossas Tropas Desertam!"
+amcivwar.806.d: "Quando entramos na luta, compreendemos a dificuldade e o julgamento que viriam como a facção menos significativa da Guerra Civil Americana. Apesar dos melhores esforços de nosso alto comando militar e indústrias civis, nossas forças sofreram derrotas sucessivas ao longo das linhas de frente, e nossos civis estão começando a enfrentar as dificuldades da guerra. Como resultado, oficiais de linha de frente relatam um aumento nos problemas logísticos e morais ao alto comando militar.\n\nInfelizmente, isso também envolveu os numerosos destacamentos de nossas forças armadas que viram nossa causa como perdida e começaram a desertar para [acw_winning side.GetNameDef]. Enquanto americanos lutam contra americanos na guerra civil, eles viram nossa posição como aparentemente sem esperança e decidiram se juntar ao que acreditavam ser o lado certo da história. Embora emitiremos ordens rigorosas para incentivar a disciplina, nossa situação se torna cada vez mais desesperadora diariamente."
+amcivwar.806.a: "Não toleraremos traição nas linhas de frente!"

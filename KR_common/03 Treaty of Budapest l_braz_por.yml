@@ -1,0 +1,90 @@
+﻿l_braz_por:
+
+treaty_of_budapest_events.0.t: "A Queda da Áustria"
+treaty_of_budapest_events.0.d: "Tornou-se cada vez mais claro, com tanto o Armee-Oberkommando (Comando Supremo do Exército) quanto o Ministério das Relações Exteriores em pânico, que a guerra com nossos vizinhos insurgentes tomou um rumo para pior. Com o núcleo da monarquia ameaçado, até mesmo o antes confiante AOK teme pelo pior e que não apenas a integridade territorial do Império não é mais recuperável, mas que pode já estar à beira do colapso completo. Para salvar a face e evitar esse colapso potencial, sugeriu-se ao Imperador-Rei que devemos buscar a paz ou enfrentar o desmantelamento completo da Monarquia Habsburgo."
+treaty_of_budapest_events.0.d.germany: "Tornou-se cada vez mais claro, com tanto o Armee-Oberkommando (Comando Supremo do Exército) quanto o Ministério das Relações Exteriores em pânico, que a guerra com nossos vizinhos insurgentes tomou um rumo para pior. Com o núcleo da monarquia ameaçado, até mesmo o antes confiante AOK teme que estamos à beira do colapso completo. Sugeriu-se ao Imperador-Rei que devemos buscar a paz... embora possamos possivelmente pedir a intervenção alemã para garantir que o núcleo da Áustria permaneça intacto. Se o fizermos, os alemães sem dúvida pedirão que aceitemos sua aliança e proteção permanentes. Nossa única alternativa é nos colocarmos à mercê de [AUS_belgrade_pact_leader.GetAdjective]."
+treaty_of_budapest_events.0.a: "Estamos derrotados. Buscar a paz."
+treaty_of_budapest_events.0.b: "Não nos renderemos!"
+treaty_of_budapest_events.0.c: "Devemos recorrer à ajuda de [GER.GetNameDef]."
+treaty_of_budapest_events.0.e: "Sem alemães - apenas conceda aos nossos inimigos o que eles querem."
+treaty_of_budapest_events.0.f: "Não precisamos da Alemanha - continuaremos a lutar!"
+
+treaty_of_budapest_events.1.t: "Áustria Busca a Paz"
+treaty_of_budapest_events.1.t.germany: "Áustria e Alemanha Buscam a Paz"
+treaty_of_budapest_events.1.d.main: "As tropas tirânicas da Monarquia Habsburgo foram derrotadas no campo por nossos gloriosos exércitos libertadores. Até mesmo a cabeça decrepita do império podre vê sua inevitável queda e buscou a paz. Eles estão dispostos a ceder todas as nossas reivindicações, pois estão desesperados para salvar o que resta. Com nossos objetivos alcançados, há pouca razão para recusar esta generosa oferta, mesmo que a perspectiva de marchar pela Heldenplatz de Viena e acabar com o cadáver moribundo de um Império seja realmente tentadora."
+treaty_of_budapest_events.1.d.main.faction1: "As tropas tirânicas da Monarquia Habsburgo foram derrotadas no campo por nossos gloriosos exércitos libertadores. Até mesmo a cabeça decrepita do império podre vê sua inevitável queda e buscou a paz. Eles estão dispostos a ceder todas as nossas reivindicações, pois estão desesperados para salvar o que resta. Com nossos objetivos alcançados, e [From.GetNameDef] já concordou com a oferta, há pouca razão para recusar, mesmo que a perspectiva de marchar pela Heldenplatz de Viena e acabar com o cadáver moribundo de um Império seja realmente tentadora."
+treaty_of_budapest_events.1.d.main.faction2: "As tropas tirânicas da Monarquia Habsburgo foram derrotadas no campo por nossos gloriosos exércitos libertadores. Até mesmo a cabeça decrepita do império podre vê sua inevitável queda e buscou a paz. Eles estão dispostos a ceder todas as nossas reivindicações, pois estão desesperados para salvar o que resta. Com nossos objetivos alcançados, há pouca razão para recusar - embora [From.GetNameDef] nos tenha informado que continuará a guerra. Aparentemente, a ideia de suas tropas marchando pela Heldenplatz de Viena e acabando com o cadáver moribundo de um Império é muito tentadora."
+treaty_of_budapest_events.1.d.germany.main1: "As tropas tirânicas da Monarquia Habsburgo foram derrotadas no campo por nossos gloriosos exércitos libertadores, a ponto de não apenas desejarem buscar a paz, mas também correrem para os alemães em busca de proteção. [GER.GetNameDefCap] concordou em nos permitir qualquer reivindicação que não interfira no que consideram terras 'core' austríacas, desde que façamos a paz. O não cumprimento significará guerra com todo o Reichspakt."
+treaty_of_budapest_events.1.d.germany.main2: "As tropas tirânicas da Monarquia Habsburgo foram derrotadas no campo por nossos gloriosos exércitos libertadores, a ponto de não apenas desejarem buscar a paz, mas também correrem para os alemães em busca de proteção. [GER.GetNameDefCap] ditou que nenhuma terra austríaca 'core' será anexada... o que significa que não obteríamos *nada* do tratado. Isso por si só é um ultraje, mas se recusarmos significa guerra com todo o Reichspakt."
+treaty_of_budapest_events.1.d.germany.main.faction1: "As tropas tirânicas da Monarquia Habsburgo foram derrotadas no campo por nossos gloriosos exércitos libertadores, a ponto de não apenas desejarem buscar a paz, mas também correrem para os alemães em busca de proteção. [GER.GetNameDefCap] concordou em nos permitir qualquer reivindicação que não interfira no que consideram terras 'core' austríacas, desde que nos unamos a [From.GetNameDef], que já concordou com o acordo. O não cumprimento significará guerra com todo o Reichspakt."
+treaty_of_budapest_events.1.d.germany.main.faction2: "As tropas tirânicas da Monarquia Habsburgo foram derrotadas no campo por nossos gloriosos exércitos libertadores, a ponto de não apenas desejarem buscar a paz, mas também correrem para os alemães em busca de proteção. [GER.GetNameDefCap] concordou em nos permitir qualquer reivindicação que não interfira no que consideram terras 'core' austríacas - uma oferta que [From.GetNameDef] já recusou veementemente. Devemos nos unir a [From.GetNameDef] e ir à guerra com o Reichspakt, ou devemos romper com eles e aceitar a paz ditada pelos alemães?"
+treaty_of_budapest_events.1.a: "Concordamos com os termos deles."
+treaty_of_budapest_events.1.b: "Não, acabaremos com os Habsburgos de uma vez por todas!"
+
+ #AUS POV:
+treaty_of_budapest_events.2.t: "O Tratado de [AUS_treaty_name]"
+treaty_of_budapest_events.2.d.germany: "Delegados da Monarquia de Habsburgo e [GER.GetNameDef] se encontraram com seus homólogos de nações inimigas em Budapeste para definir os termos de paz. A Áustria concordou em ceder todas as reivindicações que seus inimigos têm sobre terras Imperiais e Reais em troca de paz. Essa derrota humilhante marca um novo capítulo na história dos Habsburgos, pois a Áustria não pode mais se considerar uma Grande Potência. No entanto, pode ser capaz de salvar o que resta e evitar o completo desmantelamento de sua monarquia agora que está sob a proteção alemã."
+treaty_of_budapest_events.2.d: "Delegados da Monarquia de Habsburgo se encontraram com seus homólogos inimigos em Budapeste para definir os termos de paz. Concordamos em ceder todas as reivindicações que eles têm sobre terras Imperiais e Reais em troca de paz. Essa derrota humilhante marca um novo capítulo na história dos Habsburgos, pois não podemos mais nos considerar uma Grande Potência. No entanto, podemos ser capazes de salvar o que resta e evitar o completo desmantelamento da Monarquia."
+treaty_of_budapest_events.2.a: "Paz, afinal."
+treaty_of_budapest_events.2.b: "Ótimo, então está feito"
+
+AUS_treaty_name_budapest: "[43.GetCapitalVictoryPointName]"
+AUS_treaty_name_vienna: "[4.GetCapitalVictoryPointName]"
+
+ #SER/ROM/POL/ITA POV:
+treaty_of_budapest_events.3.t: "O Tratado de [AUS_treaty_name]"
+treaty_of_budapest_events.3.d.balkan: "Delegados de [Root.GetNameDef] se encontraram com seus homólogos Habsburgos em Budapeste para definir os termos de paz. No tratado resultante, os austríacos cederam todas as nossas reivindicações em troca de paz. Este é realmente um dia glorioso, pois os Bálcãs finalmente estão livres de interferência estrangeira e nossos irmãos étnicos finalmente se reuniram com a pátria."
+treaty_of_budapest_events.3.d.germany.balkan: "Delegados de [Root.GetNameDef] se encontraram com seus homólogos alemães e Habsburgos em Budapeste para definir os termos de paz. No tratado resultante, os austríacos cederam todas as nossas reivindicações - exceto aquelas em terras essenciais austríacas - em troca de paz. Este é realmente um dia glorioso, pois os Bálcãs finalmente estão livres de interferência estrangeira e nossos irmãos étnicos finalmente se reuniram com a pátria."
+treaty_of_budapest_events.3.d.italy: "Delegados de [Root.GetNameDef] se encontraram com seus homólogos Habsburgos em Budapeste para definir os termos de paz. No tratado resultante, os austríacos cederam todas as nossas reivindicações em troca de paz. Este é realmente um dia glorioso, pois a Itália finalmente está livre do estigma de nossa derrota na Weltkrieg e nossos irmãos italianos finalmente se reuniram com a pátria."
+treaty_of_budapest_events.3.d.germany.italy: "Delegados de [Root.GetNameDef] se encontraram com seus homólogos alemães e Habsburgos em Budapeste para definir os termos de paz. Nossos ganhos no tratado resultante serão limitados, já que a Alemanha está determinada a proteger as terras 'essenciais' austríacas no Litoral e Alto Adige, que também são predominantemente italianas. Ainda assim, significa paz por enquanto e nenhum conflito com o Reichspakt."
+treaty_of_budapest_events.3.a: "Uma vitória magnífica!"
+treaty_of_budapest_events.3.b: "Um último passo em direção à vitória."
+
+treaty_of_budapest_events.4.t: "[FROM.GetNameDefCap] Recusa a Paz"
+treaty_of_budapest_events.4.d: "Nossa oferta de paz para [FROM.GetNameDef] foi rejeitada sem cerimônia. A guerra continuará até que um lado concorde com a rendição incondicional. Mais sangue terá que ser derramado para encerrar esta guerra impiedosa."
+treaty_of_budapest_events.4.a: "Uma luta até o amargo fim, então."
+
+treaty_of_budapest_events.5.t: "[FROM.GetNameDefCap] Recusa a Paz"
+treaty_of_budapest_events.5.d: "Nossa escolha de aceitar a oferta de paz dos austríacos parece ter enfurecido grandemente nossos outrora aliados em [FROM.GetNameDef]. Seu embaixador declarou nossa aceitação uma 'traição' à razão de ser do Pacto, e juraram continuar a guerra até o amargo fim. Parece que nossa aliança com [FROM.GetNameDef] chegou ao fim."
+treaty_of_budapest_events.5.a: "Eles se arrependerão quando os austríacos se voltarem contra eles."
+
+ #global news event:
+ treaty_of_budapest_events.6.t: "O Tratado de [AUS_treaty_name]"
+treaty_of_budapest_events.6.d: "Um novo capítulo se inicia para a Monarquia Habsburgo, pois suas forças foram derrotadas por [AUS_belgrade_pact_leader.GetNameDef] e seus aliados. Uma vez uma das forças dominantes nos Bálcãs, a Áustria viu contínuo declínio por décadas e, enquanto sua vitória vazia na Weltkrieg trouxe um breve alívio, esta guerra pode ter finalmente derrubado o outrora orgulhoso Império.\n\nO mapa dos Bálcãs e da Europa Central foi redesenhado mais uma vez; a Áustria não pode mais se considerar uma Grande Potência enquanto seus vizinhos se reuniram com seus irmãos nacionais antes firmemente sob controle Habsburgo."
+treaty_of_budapest_events.6.d.germany: "Um novo capítulo se inicia para a Monarquia Habsburgo, pois suas forças foram derrotadas por [AUS_belgrade_pact_leader.GetNameDef] e seus aliados. Uma vez uma das forças dominantes nos Bálcãs, a Áustria viu contínuo declínio por décadas e, enquanto sua vitória vazia na Weltkrieg trouxe um breve alívio, esta guerra pode ter finalmente derrubado o outrora orgulhoso Império.\n\nO mapa dos Bálcãs e da Europa Central foi redesenhado mais uma vez, e a Áustria se voltou para [GER.GetNameDef] em busca de proteção. Não pode mais ser considerada uma Grande Potência e será afortunada se sua monarquia permanecer intacta diante dessa humilhação."
+treaty_of_budapest_events.6.a: "A Áustria caiu muito..."
+
+treaty_of_budapest_events.7.t: "Os Termos do Tratado de [AUS_treaty_name]"
+treaty_of_budapest_events.7.d: "De acordo com os termos do Tratado de [AUS_treaty_name], do qual fomos signatários, agora devemos devolver o controle de todas as terras austríacas não renunciadas pelo tratado."
+treaty_of_budapest_events.7.a: "Muito bem."
+
+treaty_of_budapest_events.8.t: "Os Termos do Tratado de [AUS_treaty_name]"
+treaty_of_budapest_events.8.d: "De acordo com os termos do Tratado de [AUS_treaty_name], do qual fomos signatários, devemos evacuar todas as terras que foram cedidas aos nossos inimigos no Pacto de Belgrado."
+treaty_of_budapest_events.8.a: "Muito bem."
+
+treaty_of_budapest_events.20.t: "Os Austríacos à Beira do Colapso"
+treaty_of_budapest_events.20.d: "A guerra austríaca contra [AUS_belgrade_pact_leader.GetNameDef] tomou um rumo para pior, e agora estão à beira do colapso. Engolindo seu orgulho, eles vieram até [Root.GetNameDef] pedir nossa intervenção e proteção. Com nós nas negociações de paz, podemos garantir que os austríacos não sejam completamente desmantelados, e em troca eles e seus súditos remanescentes se unirão à aliança Reichspakt. Isso poderia significar envolvimento em uma guerra nos Bálcãs, mas se ignorarmos a situação, as nações balcânicas podem continuar sua expansão agressiva... e quem sabe de que lado escolherão no futuro?"
+treaty_of_budapest_events.20.a: "Interviremos."
+treaty_of_budapest_events.20.b: "Os austríacos estão por conta própria."
+
+treaty_of_budapest_events.21.t: "Os Alemães Intervirão"
+treaty_of_budapest_events.21.d: "O governo [From.GetAdjective] concordou em intervir em nossas negociações de paz. Caso [AUS_belgrade_pact_leader.GetNameDef] recuse a paz, eles se juntarão à guerra, mas caso contrário, sua presença será para garantir que nosso território essencial não seja retirado de nós. Em troca, desmantelaremos a [Root.GetFactionName] e nos juntaremos à [GER.GetFactionName] assim que as negociações forem concluídas."
+treaty_of_budapest_events.21.a: "Que alívio! Que as negociações de paz comecem!"
+
+treaty_of_budapest_events.22.t: "Os Alemães Não Intervirão"
+treaty_of_budapest_events.22.d: "Relutante em se envolver em um potencial conflito nos Bálcãs, o governo [From.GetAdjective] recusou-se a se envolver em nossas negociações de paz com [AUS_belgrade_pact_leader.GetNameDef]. Estamos por conta própria."
+treaty_of_budapest_events.22.a: "Então não temos escolha - daremos a eles o que querem."
+treaty_of_budapest_events.22.b: "Então continuaremos a luta até o amargo fim!"
+
+treaty_of_budapest_events.23.t: "[FROM.GetNameDefCap] Aceita a Paz"
+treaty_of_budapest_events.23.d: "Nossa escolha de recusar a oferta de paz dos austríacos parece ter enfurecido grandemente nossos outrora aliados em [FROM.GetNameDef]. Seu embaixador declarou nossa recusa uma 'traição' à razão de ser do Pacto, dizendo que não há mais sentido em continuar a guerra agora que nossos objetivos foram alcançados. Parece que nossa aliança com [FROM.GetNameDef] chegou ao fim."
+treaty_of_budapest_events.23.a: "Eles se arrependerão disso."
+
+treaty_of_budapest_events.24.t: "A Áustria Se Junta ao Reichspakt"
+treaty_of_budapest_events.24.d: "Como resultado da guerra falida, os austríacos se voltaram para [GER.GetNameDef] em busca de proteção. Eles se juntarão à aliança Reichspakt por completo e nos pediram para nos juntarmos a eles. Se recusarmos, ficaremos por nossa conta."
+treaty_of_budapest_events.24.a: "Claro que nos juntaremos a eles!"
+treaty_of_budapest_events.24.b: "Preferimos ficar por nossa conta."
+
+treaty_of_budapest_events.25.t: "Unindo-se ao Reichspakt"
+treaty_of_budapest_events.25.d: "Agora que nosso império foi em grande parte desmantelado, devemos nos voltar para os alemães em busca de sua aliança e proteção, como prometido."
+treaty_of_budapest_events.25.a: "Assim seja!"

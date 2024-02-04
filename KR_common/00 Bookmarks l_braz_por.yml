@@ -1,0 +1,272 @@
+﻿l_braz_por:
+
+#################
+### Bookmarks ###
+#################
+
+### Name and Description ###
+ KR_history_title: "Breve História"
+KR_scenario_name: "Legado da Weltkrieg"
+KR_scenario_desc: "Ao amanhecer de 1936, o legado da Weltkrieg pesa sobre os ombros de uma nova geração. A Alemanha fica no centro do mundo, uma potência sem igual, mas aos seus pés encontram-se inimigos antigos e novos; desde a ascensão da Internationale sindicalista da França até a antiga Entente, passando por uma Rússia intacta e um sol nascente impenitente. Enquanto isso, a vasta influência da Alemanha a deixou perigosamente sobrecarregada, seus aliados em Constantinopla e Viena se distanciaram, e do outro lado do Atlântico, o colosso americano vacila. Dezessete anos se passaram desde o fim da guerra, e poucos esperam que o novo ano traga uma virada, mas em breve uma única faísca pode ser tudo o que é preciso para acender novamente o barril de pólvora..."
+
+
+#######################
+### Current Nations ###
+#######################
+
+##### Large Frame #####
+
+#### Americas ####
+
+### USA - United States ###
+USA_KR_gathering_storm_desc: "Os Estados Unidos da América quase abandonaram o isolamento para intervir na Guerra Europeia, mas acabaram se mantendo fora do conflito. O resultado foi a vitória das Potências Centrais, e o país enfrentou dificuldades econômicas a partir de então. O comércio europeu declinou, e o pagamento dos empréstimos à Entente foi impedido pela vitória alemã. Ainda internacionalmente considerado um \"ninguém\", a nação agora enfrenta uma crescente dissidência interna, já que a hegemonia Republicano-Democrata é desafiada pelos Sindicatos e pelo Partido America First. Com uma crise crescente em casa e apenas uma reputação modesta no exterior, as coisas não estão boas para os Estados Unidos..."
+
+#### Entente ####
+
+### CAN - Canadá ###
+CAN_KR_gathering_storm_desc: "Após a Revolução de 1925, a Família Real e outros exilados britânicos encontraram refúgio no Canadá. Com o apoio dos Conservadores, eles estabeleceram um governo semi-oficial no exílio, na esperança de um dia recuperar as Ilhas Britânicas. No entanto, nem tudo está bem. Os canadenses estão ficando cansados da presença britânica, e em 1931 o governo Conservador caiu para os Liberais de Mackenzie King - que agora têm uma pequena maioria e buscam afirmar uma maior soberania canadense diante da crescente pressão para se preparar para o confronto inevitável entre a Entente e a Terceira Internacional."
+
+#### Western Europe ####
+
+### FRA - Commune of France ###
+ FRA_KR_gathering_storm_desc: "A Terceira República caiu da mesma forma que surgiu: derrotada pelas armas alemãs e enfrentando a Revolução em casa. Em 1919, uma Greve Geral foi convocada pela CGT, causando a queda do governo burguês. Por 15 anos, a nova "Comuna da França" se uniu por trás de uma plataforma comum de consenso Síndico-Socialista, liderada pelo Comitê de Salvação Pública. No entanto, em 1936, muitos críticos acreditam que a necessidade de reconstruir o país e defender a revolução está desatualizada, e há um crescente apelo por políticas mais radicais. A França está confiante em sua missão, mas não está claro quais correntes revolucionárias se tornarão dominantes nos anos que virão..."
+
+### ENG - Union of Britain ###
+ ENG_KR_gathering_storm_desc: "O Reino Unido perdeu o apoio do povo das Ilhas Britânicas completamente após o tratado de Versalhes em 1919 encerrar a Grande Guerra. Em 1925, o desastre aconteceu: uma disputa trabalhista menor escalou para uma Greve Geral convocada pelo TUC, seguida de deserções militares para os grevistas. Após seis semanas de tumultos generalizados, a Família Real e a maioria das elites do país evacuaram para o Canadá, e um novo Congresso de Sindicatos assumiu a autoridade política. O povo britânico subsequentemente construiu o socialismo internamente e ficou ao lado de seus corajosos aliados europeus, mas tempestades agora se formam no horizonte. Em breve, a União nascente será submetida ao teste definitivo..."
+
+#### Reichspakt ####
+
+### GER - Germany ###
+ GER_KR_gathering_storm_desc: "Em 1919, após anos de guerra e com a Entente à beira do colapso, o Império Alemão viu sua vitória se manifestar no Tratado de Versalhes. A Weltkrieg tornou a Alemanha uma Potência Mundial incontestável, no entanto, as coisas vêm piorando para ela desde a década de 1920. Uma recessão na economia mundial prejudicou as indústrias da nação, enquanto o poder de manufatura de outras nações se recupera, e agora o nacionalismo cresce nos estados clientes do leste, que estão começando a se afastar do Reich. Em 1936, a Alemanha está em uma encruzilhada, e já podemos ver rachaduras em seu poderoso império, à medida que seus inimigos ancestrais recuperam sua antiga força..."
+
+#### Balkans ####
+
+### AUS - Austria ###
+ AUS_KR_gathering_storm_desc: "O reinado do Kaiser Karl continua em Viena, e desde sua vitória na Weltkrieg, o Império Austro-Húngaro permanece unido sob seu domínio. No entanto, seus reinos diversos estão dilacerados por divisões; entre a esquerda e a direita, entre aqueles que desejam modernizar o Império e aqueles que desejam manter o que têm exatamente como está. A renegociação do Ausgleich, o acordo que uniu as metades austríaca e húngara do Império, está se aproximando. Equilibrar a reforma com a tradição e o estado com a nacionalidade não será uma tarefa fácil para o Kaiser e será mais um desafio para os povos do Danúbio."
+
+### OTT - Ottoman Empire ###
+ OTT_KR_gathering_storm_desc: "Embora o Império Otomano tenha terminado a Weltkrieg como vitorioso, o outrora imparável império perdeu grande parte de sua antiga glória. A taxa cada vez maior com que perdeu suas possessões distantes foi decisivamente interrompida, mas a que custo? Mesmo depois de sua derrota, o Império Otomano ainda permanece, e o espírito reformista, iniciado no século XIX, só aumentou em vigor. Ainda assim, fortes desacordos dominam a Câmara dos Deputados, enquanto a OHF centralista, liderada pelo poderoso orador e herói de guerra Mustafa Kemal Pasha, enfrenta a coalizão liberal numa batalha para decidir o futuro de todo o Oriente Médio..."
+
+#### Eurásia ####
+
+### RUS - Rússia ###
+RUS_KR_gathering_storm_desc: "Durante a Guerra Civil da Rússia, as forças Brancas lutaram com tudo o que tinham, mas o Exército Vermelho ainda dominava o coração industrial do país. O Império Alemão, no entanto, temendo uma Rússia vermelha, decidiu intervir em favor dos Brancos. Dois anos depois, Moscou e Petrogrado caíram para as forças Brancas, e uma nova República Russa foi estabelecida. Após a guerra, a coalizão liberal-SR de Kerensky governou ineficazmente por uma década, mas em 1934, o nacional-populista Boris Savinkov foi eleito presidente. Embora seu poder ainda não esteja seguro, ele é um homem que promete não poupar esforços para restaurar a Rússia à sua antiga glória..."
+
+#### Ásia Oriental ####
+
+### JAP - Japão ###
+JAP_KR_gathering_storm_desc: "Após as humilhações sucessivas do Tratado de Versalhes e do Acordo de Tsingtao, nem tudo estava bem no Império do Sol Nascente. Um período de agitação econômica culminou numa tentativa sindicalista de assassinar o Príncipe-Regente Hirohito em 1926, e um ano de crise viu uma sucessão de governos instáveis - primeiro o do General Tanaka, depois o da Coalizão Democrática - e uma intervenção no nordeste da China. Ao amanhecer de 1936, no entanto, o Japão parece pronto para expandir seu império - com a dominância da Alemanha parecendo estar em declínio, os japoneses olham com avidez para a China dominada pela Alemanha e as possessões alemãs no Pacífico..."
+
+##### Pequeno Quadro #####
+
+#### Américas ####
+
+### ARG - Argentina ###
+ARG_KR_gathering_storm_desc: "O caos reina supremo na Argentina, enquanto o Partido Liberal, sob Manuel Carles, está no meio de um golpe militar para assumir o controle total do país. Enquanto isso, os apoiadores sindicalistas ainda se agarram ao seu estado remanescente na Patagônia, frustrando todas as ofensivas até agora. Pressionada pelo fato de que a guerra é inevitável, a industrialização foi iniciada na nação por necessidade. Embora relatos iniciais indiquem algum sucesso, há um longo caminho a percorrer..."
+
+### FOP - Frente Operária Patagônica ###
+FOP_KR_gathering_storm_desc: "Apesar da crença de que uma revolução nos desertos áridos da Patagônia seria impossível, o Frente Obrero Patagónico conseguiu resistir contra todas as probabilidades. Graças a uma oportuna intervenção chilena que forçou a Argentina a aceitar o novo status quo ou enfrentar uma guerra despreparada em um momento de grande dificuldade econômica, o FOP conseguiu crescer em números, atraindo pessoas desiludidas com o antigo regime na Argentina. No entanto, os laços que unem as diferentes facções no FOP são mais frágeis do que parecem de longe, e talvez a vitória na guerra civil seja apenas o fósforo que acenderá o barril de pólvora..."
+
+### BRA - Brasil ###
+BRA_KR_gathering_storm_desc: "As terríveis feridas da guerra civil de 1927 podem nunca sarar, mas o Brasil marcha em direção ao progresso, mesmo que em seu próprio ritmo. O Voto Secreto e a maior autonomia estadual foram as principais conquistas do conflito que garantiram que a verdadeira democracia finalmente chegasse ao povo do Brasil, e sua economia finalmente começa a se recuperar de uma década de declínio. Com o jogo político radicalmente alterado, surgiram novos jogadores; a agitação civil trouxe o Sindicalismo e o Integralismo para a política mainstream, enquanto a coalizão liderada por Otávio Mangabeira luta para manter a ordem nas ruas, continuar o desenvolvimento da nação e manter-se na cara da corrida cara de dreadnought com Argentina e Chile."
+
+### PAR - Paraguai ###
+PAR_KR_gathering_storm_desc: "Apesar de sair vitorioso da Guerra do Chaco, o Paraguai não se encontra em uma situação invejável: despesas militares extremamente altas, uma economia muito subdesenvolvida e o país ainda não se recuperou da guerra de 1870, que matou mais da metade de sua população, significa que a economia do Paraguai é basicamente inexistente; também, uma situação instável na fronteira sul e a Bolívia em busca de vingança pela derrota humilhante há 3 anos significam que a república guarani pode em breve se ver lutando por sua própria existência mais uma vez."
+
+#### Entente ####
+
+### República Francesa ###
+NFA_KR_gathering_storm_desc: "Derrotado e enfrentando uma revolução, o governo francês escolheu o exílio, esperando que a recém-estabelecida 'Federação das Comunas da França' entrasse em colapso. À medida que os meses se transformaram em anos, no entanto, a República mergulhou em um caos parlamentar. As forças armadas intervieram, formando uma junta mal disfarçada sob Philippe Pétain. Uma década depois, o regime estagnou, mantido unido pelo envelhecido Marechal cuja reputação é manchada por acusações de despotismo e nepotismo. Com agitação se formando, a República Francesa está em uma encruzilhada, mas uma coisa é clara: seu dever sagrado de libertar a Métropole. Os exilados se preparam para qualquer oportunidade de agir..."
+
+### AST - Australásia ###
+AST_KR_gathering_storm_desc: "Quase duas décadas após a Grande Guerra, a Australásia ainda não se curou. Perdas de mão de obra incríveis e sacrifícios catastróficos na Grande Guerra, tudo em vão, levaram a um clima de cinismo e desesperança à medida que o outrora grande Império Britânico se desmoronava. A economia é um completo desastre, uma consequência natural da queda do Reino Unido e da subsequente perda de exportações que se seguiram. A sombra da Comuna de Melbourne ainda assombra o continente, mas ainda há muitos que não esqueceram o Império e estão prontos para recuperar seu legado..."
+
+### SAF - África do Sul ###
+SAF_KR_gathering_storm_desc: "Alguns diriam que a África do Sul é o lugar onde o declínio do Império Britânico se tornou visível para o mundo: os problemas que tiveram para pacificar os insurgentes Boers revelando a podridão que mais tarde custaria a eles a Grande Guerra. A Grã-Bretanha eventualmente prevaleceu contra eles, e das cinzas surgiu a União da África do Sul em 1910, um Domínio Britânico. Desde então, o Império desmoronou, e agora a África do Sul, em seu novo papel como a última vanguarda da influência britânica no continente africano, está em uma encruzilhada: o status de domínio é benéfico, como afirma o primeiro-ministro Jan Smuts? Ou chegou a hora de a África do Sul assumir seu destino por si mesma?"
+
+### SRD - Sardenha ###
+SRD_KR_gathering_storm_desc: "A Casa de Saboia foi despedaçada pela derrota da Itália na Weltkrieg, e o Rei Vítor Emanuel III foi responsabilizado. No entanto, nem tudo está completamente perdido para a monarquia. Os Savoy-Aostas são poderosos apoiadores, os legítimos detentores de Sardenha-Piemonte até que suas terras nas margens foram engolidas pelos sindicalistas. Agora, eles e os apoiadores monárquicos que podem reunir resistem na Sardenha, protegidos pela República Francesa e prontos para observar a oportunidade em que também poderão um dia retornar para reivindicar seu assento de poder."
+
+#### Europa Ocidental ####
+
+### SPA - Reino de Espanha ###
+SPA_KR_gathering_storm_desc: "Sob o reinado de Alfonso, o país tem estado em constante declínio. Apesar da neutralidade da Espanha na Weltkrieg, o dano causado pela queda do Reino Unido e da França ao sindicalismo foi irreparável, colocando a Espanha firmemente na esfera econômica da Alemanha. Com a influência de Alfonso em declínio, as eleições de 1931 viram a proclamação da Segunda República Espanhola, exilando Alfonso. No entanto, o golpe do General Sanjurjo restaurou o Reino. O clamor público diante dessa ação ajudou a alimentar o Movimento Carlista e a ascensão do CNT-FAI. Com uma sociedade dividida, a Espanha entra em 1936 em uma posição bastante precária, onde qualquer coisa poderia acontecer."
+
+### POR - Portugal ###
+POR_KR_gathering_storm_desc: "A Weltkrieg foi uma farsa que a jovem República de Portugal não sobreviveu. Após uma curta guerra civil, o Reino foi restaurado, e apesar dos melhores esforços dos exilados republicanos amargurados, ele se consolidou. Com a morte súbita de Manuel II em 1932, um jovem rei com legitimidade questionável ascendeu ao trono. O Rei Duarte é um homem de grande ambição, mas falta tanto em tato político quanto em aliados, e se encontra cada vez mais em desacordo com os integralistas radicalmente reacionários que buscam transformar completamente a nação em sua imagem. Um confronto entre Rei e País está chegando, mas o jovem Duarte será humilhado ou terá sucesso em seu jogo?"
+
+### ITA - República Italiana ###
+ITA_KR_gathering_storm_desc: "Após a derrota da Itália na Weltkrieg, o país foi deixado à mercê dos austríacos - e teria sido reorganizado em uma Federação Italiana se não fosse pelo surto da guerra civil. Os socialistas teriam dominado a península se os austríacos não tivessem engolido um comprimido amargo e cooperado com os republicanos... e, após o fim dos combates, foram forçados a manter o relacionamento até os dias atuais. No entanto, a Itália permanece instável, e seu acerto de contas eventual com os socialistas do outro lado do Rio Pó parece inevitável."
+
+### SRI - República Socialista da Itália ###
+SRI_KR_gathering_storm_desc: "Desde a guerra civil italiana, a República Socialista da Itália controla a maior parte do país. Seus governantes sabem muito bem que teriam dominado os republicanos e os brancos, não fosse a infernal interferência da Áustria e a pressão exercida pela Alemanha. Mesmo hoje, é o espectro da interferência da Alemanha e da Áustria que impede que o sindicalismo acabe com os últimos vestígios da Velha Itália. A nação aguarda o momento, construindo sua força, e está plenamente ciente de que - uma vez que a balança se incline - ela se inclinará a favor da revolução."
+
+#### Reichspakt ####
+
+### BAT - Ducado Báltico Unido ###
+BAT_KR_gathering_storm_desc: "A nobreza germânica do Báltico obteve o que queria da Weltkrieg - uma restauração dos direitos e privilégios que as políticas de russificação pisotearam e um estado que pudessem chamar de seu, o Ducado Báltico Unido. Aqui, sob o reinado do Duque Adolf Friedrich, as Quatro Ordens de Cavalaria governam uma monarquia descentralizada, a sentinela da tradição aristocrática. Mas a pressão para reformar esse sistema bizantino aumenta, e o Duque conseguiu aprovar um governo liberal e reformista para implementar as mudanças. Quando tudo está contra eles, no entanto, o sonho báltico alemão pode sobreviver?"
+
+### POL - Polônia ###
+POL_KR_gathering_storm_desc: "O Ato de 5 de novembro pode ter colocado um estado polonês no mapa pela primeira vez em mais de cem anos, mas nem tudo está bem. Embora tenha se beneficiado de uma economia estável e em crescimento em seus primeiros anos, a morte de Piłsudski em 1935 colocou a impopularidade de Augusto IV em plena exibição, com forças republicanas, nacionalistas e socialistas agitando-se contra seu governo.\n\nÀ medida que as nuvens se acumulam na Europa e a hegemonia alemã parece começar a desaparecer, poucos sabem o que o destino reserva para o reino de Augusto IV..."
+
+### WHR - Rutênia Branca ###
+WHR_KR_gathering_storm_desc: "A Rutênia Branca, formalmente a República Popular Bielorrussa, esteve sob influência alemã desde seu nascimento em 25 de março de 1918. Graças à distância de Berlim, foi deixada em grande parte à sua própria sorte, e o Partido Social-Democrata Bielorrusso tornou-se o partido político dominante, mantendo a orientação pró-alemã da jovem república. No entanto, o PSDB permanece dividido entre moderados e radicais, e o exército desconfia profundamente da influência deste último. O tempo dirá se um ou outro perturbará o frágil status quo."
+
+### Ucrânia ###
+UKR_KR_gathering_storm_desc: "O sonho de uma Ucrânia independente se concretizou em março de 1917, com o nascimento da República Popular Ucraniana, mas um golpe pró-alemão colocou Pavlo Skoropadskyi no comando no ano seguinte. A falta de representação política, bem como esforços fracassados de reforma agrária na década de 1920, têm assolado o regime - e a resistência ao regime do Hetman tem se acumulado, com as rachaduras começando a aparecer. A imagem de estabilidade e ordem defendida pelo regime pode se mostrar muito mais frágil do que muitos são levados a acreditar..."
+
+#### Bálcãs ####
+
+### SER - Sérvia ###
+SER_KR_gathering_storm_desc: "Na outra famosa revolução de 1925, o povo sérvio finalmente derrubou sua monarquia e estabeleceu a República Sérvia, uma luz brilhante de liberdade e democracia nos Bálcãs. Nos últimos dez anos, a República tem languidecido sob as restrições do Tratado de Wartholz, mas o primeiro sinal de fraqueza austríaca certamente verá essas correntes lançadas ao vento. Os sérvios podem recuperar o que perderam na Weltkrieg e acender a tocha do iugoslavismo novamente - tudo isso enquanto mantêm a liberdade que finalmente conquistaram?"
+
+### GRE - Grécia ###
+GRE_KR_gathering_storm_desc: "Os anos desde a derrota da Grécia na Weltkrieg têm sido de pouca coisa além de convulsões e dificuldades. As dívidas de guerra esmagadoras para a Áustria e Alemanha fizeram o rei Alexandre fugir para o exílio quando a Terceira República foi declarada... apenas para resultar em anos de governos fracassados e golpes até que Georgios Kondylis assumisse o controle em 1926. Kondylis foi finalmente derrubado e executado em 1931, levando à atual Quarta República e ao governo de coalizão de Geórgios Papandreou, que venceu sua primeira eleição e enfrentará muitos desafios nos próximos anos, não menos dos quais são os renovados pedidos por um referendo sobre o retorno da monarquia. O resultado é muito incerto..."
+
+### ROM - Romênia ###
+ROM_KR_gathering_storm_desc: "O Tratado de Bucareste encerrou a guerra da Romênia com as Potências Centrais. Embora tenha sido considerado indulgente, suas restrições foram suficientes para alimentar um mito da punhalada nas costas que, após várias crises na década de 1920, derrubou o establishment político da nação. A morte do rei Fernando e do principal político liberal do país abriria caminho para dois homens altamente ambiciosos: o rei Carol II e Corneliu Zelea Codreanu. Os dois se uniram para derrubar a democracia romena e lançar uma cruzada para reunir a Romênia, mas quanto tempo essas duas personalidades fortes podem trabalhar juntas antes que seus objetivos entrem em conflito aberto?"
+
+### BUL - Bulgária ###
+BUL_KR_gathering_storm_desc: "A "Prússia dos Bálcãs" venceu sua última batalha em 1919 - o estratagema do Czar Fernando provou ser bem-sucedido e a Grande Bulgária foi unida para sempre. No entanto, os últimos vinte anos não foram gentis com a Bulgária - abalada por crises e conflitos étnicos, ela está despreparada para a próxima guerra inevitável, e a esperança pela democracia está rapidamente desaparecendo. Uma nova Concentração Liberal foi formada, presidida pelo Primeiro-Ministro Petko Stainov, e eles têm a última chance de defender a Constituição de Tarnovo - ou deixá-la murchar na escuridão."
+
+#### Eurasia ####
+
+### FIN - Finlândia ###
+FIN_KR_gathering_storm_desc: "Na periferia norte da Europa, a Finlândia, bastião da influência alemã na Escandinávia, fica orgulhosamente. Surgido do cadáver do Império Russo e com o socialismo ameaçando a nação desde o início, o reino se desenvolveu como um aliado robusto da Alemanha contra os princípios do socialismo e as mãos imperialistas da Rússia. Mas, após quase duas décadas de independência sob a orientação de seu monarca e da coalizão nacional, a inquietação está fermentando: a Finlândia é verdadeiramente livre ou é a dominação alemã apenas um pouco mais sutil do que a dos antigos czares?"
+
+### PER - Pérsia ###
+PER_KR_gathering_storm_desc: "A Pérsia ganhou independência total dos russos e britânicos após a Weltkrieg, mas os anos desde então foram passados em tumulto.\n\nO Xá, com saúde precária desde seu atentado vários anos atrás, não tem muito tempo neste mundo, e seu irmão e herdeiro Hassan Mirza está pronto para o trono. Os realistas acreditam que ele deveria liderar uma monarquia fortalecida, mas ele pode nem mesmo assumir o trono, pois os pedidos por uma república ou até mesmo um estado socialista são incessantes. E é claro, há a questão das terras persas legítimas nas garras otomanas..."
+
+### TRM - Transamur ###
+TRM_KR_gathering_storm_desc: "Após sua tentativa de golpe fracassada em 1925, o autoproclamado 'Líder Supremo' da Rússia, Alexander Kolchak, e sua facção encontraram refúgio em Transamur ocupada pela IJA. Com o apoio japonês, essa 'clique Kolchak' estabeleceu um governo rival dependente da Rússia na área.\n\nEnquanto Transamur permanece subordinada, Tóquio perdeu muito controle sobre os assuntos em Vladivostok. Kolchak discorda de suas diretrizes, e rumores de um golpe interno e de uma mudança de regime imposta de fora são abundantes. Os anos que se seguem verão Transamur controlar toda a Rússia ou se tornar um posto avançado do império ultramarino do Japão?"
+
+### SIA - Sião ###
+SIA_KR_gathering_storm_desc: "Inicialmente neutra durante a Grande Guerra, Sião juntou-se às Potências Centrais no último minuto em 1919 para recuperar Champassak e as terras internas do Camboja ao longo da Linha Mekong. No entanto, Sião se envolveu na 36ª Guerra Siamesa-Birmanesa com o recém-criado estado independente da Birmânia em 1928. A grande nação siamesa conseguiu derrotar com sucesso os birmaneses, e somente com a intervenção diplomática alemã e japonesa um cessar-fogo agradável foi alcançado. Agora, ao amanhecer de 1936, a nação siamesa continua a desfrutar de paz, prosperidade e estabilidade, com o Rei Prajadhipok esperando apresentar a primeira constituição de Sião."
+
+#### East Asia ####
+
+### QIE - Império Qing ###
+QIE_KR_gathering_storm_desc: "O Império Qing entra em 1936 à beira do abismo. Restaurado em troca do apoio alemão durante a quarta guerra Zhili-Fengtian em 1927, o Imperador Xuantong continua profundamente impopular e é visto por muitos como ilegítimo.\n\nA clique Zhili, que derrotou tanto a clique Fengtian quanto o KMT, permanece como vencedora do caos que envolveu a China por quase duas décadas, mas seu domínio sobre o país está longe de ser seguro. Inimigos de fora e de dentro ameaçam sua hegemonia, e resta saber por quanto tempo conseguirão manter o poder..."
+
+### GXC - Liangguang ###
+GXC_KR_gathering_storm_desc: "Liangguang é um bastião do republicanismo na China: uma região segura dentro da Liga, mas independente o suficiente para ser funcionalmente autônoma, tradições de governança democrática correm profundas aqui. Chen Jiongming e Lu Rongting, controlando as províncias de Guangdong e Guangxi, respectivamente, construíram a militarização ao lado da prosperidade. No entanto, nem tudo está bem - em Guangdong rico, nem todos apreciam a visão de Chen para uma Província Modelo, enquanto a forte contrastante entre os ideais republicanos e o domínio militar de Guangxi não passou despercebida. Nos anos seguintes, o povo de Liangguang escolherá o que preferem..."
+
+### FNG - Governo de Fengtian ###
+
+FNG_KR_gathering_storm_desc: "A Conferência de Xangai de 1928 deixou Fengtian como o único herdeiro do legado da antiga República de Beiyang. Como antes, a democracia é mantida apenas como uma fina camada, e o verdadeiro poder é dividido entre uma ampla variedade de autocratas sem escrúpulos.\n\nZhang Zuolin, com suas ambições "
+
+
+##FNG - Governo de Fengtian ##
+
+FNG_KR_gathering_storm_desc: "A Conferência de Xangai de 1928 deixou Fengtian como o único herdeiro do legado da antiga República de Beiyang. Como antes, a democracia é mantida apenas como uma fina camada, e o verdadeiro poder é dividido entre uma ampla variedade de autocratas sem escrúpulos.\n\nZhang Zuolin, com suas ambições limitadas pelas duras realidades da força Qing e do poder japonês, foi forçado a caminhar numa corda bamba política acima das maquinações de seu próprio governo dividido. A perspectiva é sombria, mas alguns ainda mantêm a esperança. A Bandeira das Cinco Cores pode novamente tremular alto sobre Pequim e por toda a China..."
+
+## CHI - Kuomintang de Esquerda ##
+CHI_KR_gathering_storm_desc: "Uma década se passou desde a desastrosa Expedição do Norte, mas o Kuomintang ainda está na luta. O Presidente Wang Jingwei, exilado em Paris, se posicionou como o herdeiro legítimo do Dr. Sun Yat-sen, enquanto Song Qingling lidera uma insurgência sangrenta na região de MinGan. Com aliados sindicalistas no oeste, forças insurgentes no leste e o Presidente Wang no comando, o Kuomintang está pronto para reacender as chamas da revolução e ver a visão do Dr. Sun de uma China livre até o fim. Será que o partido nacionalista terá sucesso em sua missão, ou a Revolução Nacional será esmagada de vez sob a bota do imperialismo?"
+
+####################
+### Past Nations ###
+####################
+
+### BEL - Bélgica ###
+ #BEL_KR_gathering_storm_desc: "Com o fim da Weltkrieg, a nação da Bélgica se transformou no Reino da Flandres-Wallonia. O país, sofrendo uma grande recessão econômica e com uma população relutante em aceitar o pretendente Adalberto, lutou nos anos após Versalhes. No entanto, a nação pode mudar drasticamente seu curso. Os sindicalistas, apoiados da fronteira, e os monarquistas, desejando trazer de volta o Rei Soldado, aguardam por uma oportunidade. Flandres-Wallonia pode ver uma tempestade se aproximando. A questão é: quem estará de pé depois que ela passar?"
+
+### BHU - Reino do Butão ###
+ #BHU_KR_gathering_storm_desc: "Passaram-se quase trinta anos desde que os senhores feudais do Butão foram subjugados sob o governo benevolente do primeiro rei butanês, Ugyen Wangchuck. Desde sua morte em 1926, o reino quase foi despedaçado por pretendentes rivais e pela perda de seus patronos britânicos, eliminando qualquer oportunidade real de reforma e deixando o Butão como um remanescente remoto e atrasado do passado feudal. Nos últimos anos, no entanto, o jovem Rei Jigme e seus aliados reformistas na corte real começaram o processo de arrastar a nação para o século XX. Será que esses reformistas terão sucesso, ou uma nova força se formará nos Himalaias?"
+
+### COS - Costa Rica ###
+ #COS_KR_gathering_storm_desc: "Guerra de classes, militarização rápida e a Pegada de Ferro do Kaiser seguram o mundo em seu domínio, o que torna ainda mais peculiar encontrar a pequena república da Costa Rica em meio a toda essa violência e dor. Orgulhosa de suas impressionantes estatísticas de alfabetização e de sua dedicação inquebrável à Constituição, a nação se destaca como uma rocha acima de seus vizinhos que há muito tempo cobiçam suas terras. Enquanto seu maior aliado começa a mergulhar no caos, abutres por toda a América esperam a águia orgulhosa cair. A diplomacia terá que prevalecer se quisermos sobreviver à maré que se aproxima..."
+
+### CUB - Cuba ###
+ #CUB_KR_gathering_storm_desc: "Apenas sete anos após a derrubada do ditador apoiado pelos americanos, Gerardo Machado, Cuba mais uma vez titubeia à beira da convulsão política. O regime do jovem Presidente Rafael Trejo perdeu constantemente o controle sobre o Exército e a autoridade política do governo civil praticamente se erodiu por completo. Com radicais de direita e esquerda ameaçando o país, os militares podem muito bem assumir o controle total assim que surgir uma oportunidade."
+
+### DEH - Índia ###
+ #RAJ_KR_gathering_storm_desc: "Muito pouco e tarde demais, o Tratado Anglo-Indiano de 1925 não conseguiu manter a Joia no Império. Após a Revolução nas terras natais, a liderança do Congresso Nacional Indiano convocou um governo provisório em Calcutá. Na confusão da subsequente guerra civil, os príncipes do sul se rebelaram contra o governo de Delhi, prolongando a guerra civil até 1928. A trégua instável entre as três Índias - a Comuna Bharatiya Sindicalista, a federação principesca no sul e o governo de Delhi leal à Entente - tem se mantido desde então, mas todas as três parecem estar se preparando para uma nova rodada de conflitos pela herança do falecido Raj Britânico..."
+
+### DEN - Dinamarca ###
+ #DEN_KR_gathering_storm_desc: "A Dinamarca existe sob a sombra de Berlim. Sua relação com o novo hegemon do mundo é antiga e muitas vezes foi hostil, mesmo recentemente em 1864, o que resultou na perda de Slesvig para os alemães. No entanto, em 1936, os laços são calorosos e a Dinamarca, por ter permanecido neutra na Weltkrieg, mantém sua soberania plena. Sob a orientação do popular primeiro-ministro social democrata Thorvald Stauning, a Dinamarca tem se beneficiado da prosperidade econômica alemã. Domesticamente, o futuro parece promissor, mas internacionalmente, nuvens estão se formando. Alguns temem que a Dinamarca esteja no lugar errado na hora errada..."
+
+### DOM - República Dominicana ###
+ #DOM_KR_gathering_storm_desc: "A Ocupação Americana da República Dominicana terminou em 1924 e o controle político total foi devolvido logo depois, mas em poucos anos, a nova constituição democrática da nação enfrentaria desafios tanto internos quanto externos. Embora a democracia tenha sobrevivido até agora na nação, a cisão do longo domínio do Partido Vermelho colocou novamente a sobrevivência da constituição em perigo."
+
+### EGY - Egito ###
+ #EGY_KR_gathering_storm_desc: "Como uma colônia do Império Britânico, o Egito foi forçado a se alinhar com eles na Grande Guerra. No entanto, com a assinatura do Tratado de Versalhes, a raiva dos egípcios fervilharia até o dia em que a Revolução Britânica em 1925 explodiu. No caos, o povo egípcio lançou sua própria revolução para expulsar os britânicos, liderados pelo Sultão do Egito. À medida que 1936 chega, os olhos do Sultanato se voltam cada vez mais para o Jovem Farouk, que está sendo preparado para o trono. E com o declínio do Império Otomano, membros de todos os partidos políticos começam a fazer planos para restaurar a grandeza do Egito e sonham com um Oriente Médio livre do domínio otomano..."
+
+### GEA - Ásia Oriental Alemã ###
+ #GEA_KR_gathering_storm_desc: "Desde o colapso britânico em 1926, a Kaiserliche Marine tem sido uma mestra indiscutível dos Mares Orientais e a guardiã da ordem ocidental no Oriente. A retirada do 'China Station' britânico para a Australásia deixou suas colônias e concessões asiáticas vulneráveis à insurreição e necessitadas de proteção que apenas a Alemanha poderia oferecer, completando uma série de colônias e concessões desde Suez até Tsingtau. No entanto, Deutsche Ostasien não existe como uma colônia, mas sim como uma jurisdição; uma extensão de território na qual a almirantado deve equilibrar interesses locais, lidar com sistemas coloniais variados e garantir a proteção de tudo isso..."
+
+### GEO - Geórgia ###
+ #GEO_KR_gathering_storm_desc: "Com a Guerra Civil Russa em pleno andamento, o bastião menchevique na Geórgia conseguiu escapar, primeiro como parte da Federação Transcaucasiana, depois como a República Democrática da Geórgia. Seguindo uma série de acordos com a Alemanha e o Império Otomano, a Geórgia estava segura e, sob a liderança carismática de Noe Zhordania, décadas de paz e estabilidade relativa foram alcançadas. No entanto, Zhordania envelhece e planeja se aposentar. Com as tensões aumentando em todo o Oriente Médio, a paz que ele trouxe pode ir embora com ele..."
+
+### GUA - Guatemala ###
+ #GUA_KR_gathering_storm_desc: "A derrubada do presidente Manuel Estrada Cabrera, que governou por duas décadas, em 1920, e a derrubada do Partido da União depois disso, levaram a uma ditadura de uma década sob José María Orellana. Através de vários compromissos, ele conseguiu manter o poder por um fio através dos americanos e várias influências externas. No entanto, o surgimento de Sandino na Nicarágua causou sérios problemas para sua presidência, à medida que movimentos socialistas começam a crescer e os funcionários do Partido da União começam a se aliar a elementos militares. A ditadura de Orellana pode ter seu fio cortado em breve."
+
+### HAI - Haiti ###
+ #HAI_KR_gathering_storm_desc: "Quatro anos após o fim oficial da ocupação americana, o Haiti repousa à beira do precipício. O General D.P. Calixte assumiu a presidência em um golpe sem derramamento de sangue do fantoche americano corrupto Louis Borno há apenas dois anos. Alegando governar em nome da população negra trabalhadora, a elite mestiça se uniu a Elie Lescot, que lidera uma ampla coalizão contra Calixte. O Presidente Calixte conduzirá o Haiti a uma nova era de igualdade e prosperidade? Ou o Haiti estará em trevas perpétuas..."
+
+### HOL - Países Baixos ###
+ #HOL_KR_gathering_storm_desc: "Preservando a neutralidade na Europa, os Países Baixos enfrentaram desafios ainda mais intensos em suas colônias. O movimento de Independência Insulíndia cresce ousadamente a cada dia, e os grandiosos dias da Marinha Holandesa já se foram. E mesmo na Europa, as coisas poderiam ser melhores; os Países Baixos sempre tiveram uma relação especial com a Alemanha, especialmente economicamente - o que significa que os crescentes problemas econômicos na Alemanha podem se estender até os Países Baixos. E tudo isso acontece em um momento em que um número crescente de holandeses vacila entre o sindicalismo francês ou os sonhos de uma Grande Holanda..."
+
+### HON - Honduras ###
+ #HON_KR_gathering_storm_desc: "O suicídio do Presidente Andino em 1933, após a carga camponesa da capital, criou uma onda de choque em toda Honduras, e logo depois uma república camponesa foi estabelecida para gradualmente erradicar a influência dos EUA e purgar elementos pró-EUA. Em 1936, o Conselho está à beira do colapso e há rumores de uma conspiração dentro do governo..."
+
+### ICE - Islândia ###
+ #ICE_KR_gathering_storm_desc: "A partir de 1874, a Islândia teve seu primeiro gosto de independência quando a Dinamarca concedeu autonomia à colônia. Quando as armas se silenciaram após a Weltkrieg, a Islândia se juntou ao Bloco Econômico da Mitteleuropa, o que trouxe um período de prosperidade para a ilha. No entanto, essa prosperidade econômica não duraria para sempre. A Revolução Britânica de 1925 destruiu o milagre que a Islândia pós-Weltkrieg estava vivendo. A última década viu a Islândia flutuando, já que sua economia nunca se recuperou completamente da perda da Grã-Bretanha. Muitos políticos estão apresentando novos planos para revitalizar a ilha."
+
+### JBS- - Jabal Shammar ###
+ #JBS_KR_gathering_storm_desc: "Antigos governantes da Arábia, a dinastia Rashidi percorreu um longo caminho desde seu auge no final do século XIX. Um Ibn Saud ressurgente e lealdades questionáveis entre seus aliados colocaram o Emirado de Ha'il na defensiva, forçado a aumentar cada vez mais sua dependência dos Turcos Otomanos. Para piorar, a dinastia é assolada por conspirações e intrigas, com vários príncipes ambiciosos de olho no trono de Saud..."
+
+### LBA - Cirenaica ###
+ #LBA_KR_gathering_storm_desc: "Quando Muhammad ibn Ali al-Sanusi fundou a Ordem em 1837, os exércitos do cristianismo avançavam sobre os últimos estados muçulmanos da África, Ásia Central e Oriente Médio. Em uma tentativa desesperada de reverter a maré, nossa Ordem embarcou em campanhas trans-saarianas no Sudão Francês e no Chade, lutando para preservar a independência desses estados e espalhar a mensagem de nosso Grão-Mestre. Recuamos, vendo nosso território encolher até que, em 1911, a pátria veio sob ataque direto. Embora a Itália, após quase uma década de guerra de guerrilha, tenha sido empurrada de volta para o mar, o império colonial francês ainda permanece, ainda observa, ainda faminto..."
+
+### LEP - Liga das Oito Províncias ###
+ #LEP_KR_gathering_storm_desc: "A Liga de Sun Chuanfang forma a metade sul de um eixo que domina a China há quase uma década. Anos de paz provaram ser terreno fértil para a ambição, e com ela, ciúmes. Embora Nanquim e Pequim permaneçam unidos contra inimigos externos, tornaram-se concorrentes tanto quanto aliados. Alguns dizem que os custos desse concurso já começaram a cobrar seu preço. Como grande parte da China, a Liga é produto de um equilíbrio cuidadoso, e a grande pirâmide burocrática de Sun pode já ter começado a rachar e desmoronar..."
+
+### LIT - Lituânia ###
+ #LIT_KR_gathering_storm_desc: "O Reino da Lituânia foi fundado após a Weltkrieg como uma monarquia intimamente ligada ao Império Alemão - sua vasta população não lituana e o ressentimento nacionalista incessante marcam sua história até hoje. O velho rei, Mindaugas II, faleceu há muito tempo, e seu herdeiro é amplamente visto como um retrocesso, sem o caráter e a habilidade para governar. Enquanto forças nefastas tramam abertamente e nas sombras, o Reino conseguirá sobreviver aos desafios à frente, por mais impossíveis que pareçam?"
+
+### MAF - Mittelafrika ###
+ #MAF_KR_gathering_storm_desc: "Nascida após a absorção das colônias francesas e belgas, a Federação Colonial de Mittelafrika abrange uma enorme extensão de terra, composta por Cidades, Chefaturas, Reinos, Terras Agrícolas, Selvas, Savanas, Desertos e mais; pois cobre metade do Continente Negro. Uma teia complexa de tratados, acordos e entendimentos tácitos, a Colônia, embora estável, é notavelmente não lucrativa; algo que o novo homem no comando, Hermann von Göring, e seus homens, desejam mudar, não importa o custo. Mas poderia ser que o custo seja muito grande para Mittelafrika pagar? E o Kaiser permitirá que von Göring corra tal risco?"
+
+### MEX - México ###
+ #MEX_KR_gathering_storm_desc: "O México emergiu da Revolução Mexicana mudado. Durante a década de 1920, as presidências de Álvaro Obregón e Adolfo de la Huerta melhoraram as relações com os Estados Unidos da América enquanto estabilizavam o país após a revolução. A Grande Depressão na América permitiu que o México abraçasse as ideias da Revolução, iniciada quando elegeram Emiliano Zapata como presidente em 1932. Agora, com dois anos restantes em seu mandato, e a revolução aparentemente concluída, Zapata busca traçar o curso futuro para o México."
+
+### NIC - Nicarágua ###
+ #NIC_KR_gathering_storm_desc: "A ocupação da Nicarágua pelos Fuzileiros Navais dos Estados Unidos em 1926 terminou em desastre, já que o general revolucionário liberal os expulsou e estabeleceu sua nova 'República Revolucionária' dentro da Nicarágua. Logo ela se voltou para uma atitude socialista e passou por um desenvolvimento significativo, mas não é sem seus problemas. A expulsão de grandes quantidades de empresas americanas deixou um buraco na economia e toda a parte leste do país está não oficialmente desmilitarizada após um aviso severo dos americanos sobre entrar na região. Com as eleições em breve, o destino da Nicarágua finalmente será mudado?"
+
+### NOR - Noruega ###
+ #NOR_KR_gathering_storm_desc: "Para a Noruega, as últimas duas décadas poderiam ter sido melhores. Como um país neutro apoiador do esforço de guerra britânico, o poder hegemônico da Alemanha não favoreceu a terra do sol da meia-noite, e a nação foi excluída do projeto Mitteleuropa que incluía Suécia e Dinamarca. Quando a Grã-Bretanha caiu sob o martelo e a tocha, o último parceiro comercial da Noruega que não estava sujeito a tarifas pesadas estava a um oceano de distância. Desde então, a Noruega se viu em isolamento diplomático e econômico, e no sofrimento que isso acarreta, o Partido Trabalhista inclinado ao sindicalismo sobe nas pesquisas a um ritmo cada vez maior."
+
+### PAP - Estado Papal ###
+ #PAP_KR_gathering_storm_desc: "Com a formação de uma Itália unida, parecia que o tempo para o Estado Papal ter poder secular era coisa do passado. Então veio o colapso do reino, e a guerra civil que se seguiu, e os italianos centrais mais uma vez se voltaram para o Papado e seus aliados sicilianos para ajudar a manter a estabilidade. Agora o Papa Pio XI está doente, e em seu leito de morte, lamenta uma Itália que permanece dividida, com os sindicalistas crescendo cada vez mais no norte. Seja quem for seu sucessor, ele precisará de Deus ao seu lado para prevalecer."
+
+### SIC - Duas Sicílias ###
+ #SIC_KR_gathering_storm_desc: "O Reino das Duas Sicílias inicialmente se aliou à Áustria durante a guerra civil, um mal necessário para deter o avanço da República Socialista. Mais tarde, no entanto, quando a guerra com os sindicalistas parecia inevitável, os austríacos mostraram suas verdadeiras cores e abandonaram o sul. A guerra nunca aconteceu, mas os sicilianos entraram na era moderna mais sábios. Eles terão dificuldade em enfrentar de frente o norte mais industrializado, mas essa guerra virá algum dia e eles precisam estar prontos para ela."
+
+### SHX - Shanxi ##
+ #SHX_KR_gathering_storm_desc: "A clique Jin de Yan Xishan manteve uma política de neutralidade cautelosa, enquanto a Guominjun de Feng Yuxiang é infame por seu oportunismo zeloso. O fim das lutas de poder no norte da China resultou em uma amarga derrota para ambos, forçando-os a uma aliança desconfortável.\n\nEssa \"Clique Shanxi\" consiste em dois ambiciosos líderes e uma província empobrecida, mal capaz de sustentar sequer uma visão grandiosa. Embora eles ainda não saibam, novas oportunidades estão surgindo. Quem terá uma segunda chance de glória e quem será relegado a uma nota de rodapé histórica logo será determinado..."
+
+### SQI - Shandong ###
+ #SQI_KR_gathering_storm_desc: "O governante de Shandong, Zhang Zongchang, é precedido apenas por seu trem blindado e uma reputação monstruosa. O 'General Carne de Cachorro' é conhecido por violência, vício e corrupção, e sob sua liderança, a capital de Jinan gradualmente passou a espelhar seu mestre.\n\nNo entanto, do pico do Monte Tai, o patriarca elusivo Zhang Tianran rejeita a depravação abaixo. Em vez disso, ele espera retroceder o relógio da China por mais de um século e guiar o país para os braços de sua fé cativante Yiguandao. Um choque entre essas forças contraditórias pode mudar a China para sempre..."
+
+### SWE - Suécia ###
+ #SWE_KR_gathering_storm_desc: "Na última década, a Suécia se desenvolveu como um bastião do conservadorismo sob a regra próspera do primeiro-ministro Arvid Lindman, lucrando com os frutos do crescimento econômico na Mitteleuropa durante o final dos anos 1920 e início dos anos 1930. No entanto, nuvens se acumulam sobre Estocolmo: em 1934, Arvid Lindman se aposentou como primeiro-ministro e foi sucedido pelo menos carismático Gösta Bagge, enquanto a oposição social democrata se reúne em torno de seu popular líder do partido, Per Albin Hansson. Este ano, serão realizadas as primeiras eleições de Bagge como primeiro-ministro. Ele conseguirá se manter firme? E se não, a democracia da Suécia conseguirá sobreviver a essa reversão repentina?"
+
+### SZC - Clique de Sichuan ###
+ #SZC_KR_gathering_storm_desc: "Sichuan tem sido por muito tempo um microcosmo das muitas desgraças da China, dividida e trocando constantemente de controladores desde 1911. Yang Sen conseguiu emergir do caos como governante com a ajuda da Clique de Zhili de Wu Peifu, mas mesmo assim, seu controle está longe de ser absoluto.\n\nApós uma invasão destrutiva do Tibete, Yang passou a depender de facções internas para apoio, principalmente o Corpo Industrial de Liu Xiang e o Departamento de Baoding de Deng Xihou. Enquanto isso, o Departamento de Oficiais exilado retornou ao sul com o apoio de Yunnan. O barril de pólvora sichuanês pode explodir novamente..."
+
+### URG - Uruguai ###
+ #URG_KR_gathering_storm_desc: "Depois de décadas de instabilidade, a República Oriental do Uruguai se encontra em um estado próspero e estável: a neutralidade na Weltkrieg e a instituição do Conselho de Administração Nacional em 1919 significaram que a economia uruguaia foi capaz de prosperar durante esses anos, apesar da perda de um de seus maiores parceiros comerciais. No entanto, se sua economia agrícola entrar em colapso, a situação pode se deteriorar muito rapidamente e abrir possibilidades para extremistas destruírem a estabilidade e a neutralidade desta nação frágil..."
+
+### XSM - Clique de Ma ###
+ #XSM_KR_gathering_storm_desc: "As três famílias Ma consolidaram seu domínio no noroeste por trinta anos estáveis. Apoiando praticamente todos na China em algum momento, com alguns Mas até lutando entre si para permanecerem do lado bom de todos, os Mas agora são vistos como um dos maiores aliados da nova dinastia Qing liderada pela Clique de Zhili.\n\nClaro, nem tudo está bem. O ataque cardíaco de Ma Fuxiang há três anos abalou a clique, e um sentimento de ansiedade e agitação se espalhou lentamente desde então. Por enquanto, o noroeste está pacífico, mas seu futuro é menos certo do que muitos gostariam de acreditar..."
+
+### WIF - Federação das Índias Ocidentais ###
+ #WIF_KR_gathering_storm_desc: "A Federação das Índias Ocidentais foi criada como resultado do colapso do Império Britânico em 1925, por não conseguir exercer a influência para controlar diretamente a região. Após a incorporação das colônias francesas em 1927, o país tem sido lar não apenas de uma divisão de classe perceptível, mas também de uma divisão cultural e ideológica. O povo e a nova geração viram uma deriva perceptível em direção às atitudes socialistas e preferência pelos Comunista no continente. Tudo pode levar a um passo em falso antes que o caos ecloda nas Índias..."
+
+### YUN - Clique de Yunnan ###
+ #YUN_KR_gathering_storm_desc: "Com o restabelecimento da dinastia Qing pela Alemanha, a província montanhosa de Yunnan foi forçada a mudar sua estratégia. O governador Tang decidiu se curvar ao novo Império Qing, ao mesmo tempo em que abria as portas de Yunnan para remanescentes republicanos, a fim de cimentar sua autonomia e dissuadir ação contra sua notoriamente insubordinada província.\n\nEmbora a situação na China esteja começando lentamente a favorecer os esquemas de Tang, também está começando a despedaçar qualquer ilusão de unidade provincial, já que muitas facções internas não veem mais Tang como apto ou mesmo são o suficiente para governar..."
+
+### Outros ###
+ Debug_KR_gathering_storm_desc: "Se você vê isso, por favor, crie um relatório de bug"
+
+ OUTROS_KR_gathering_storm_desc: "As nações do mundo, grandes e pequenas, estão esperando sua vez de se destacar como um grande jogador deste mundo. Desde grandes potências tentando manter seus impérios até muitas nações tentando recuperar o que perderam na Weltkrieg, todos terão que tomar decisões difíceis e equilibrar ideais com pragmatismo para ter um impacto no futuro do mundo..."

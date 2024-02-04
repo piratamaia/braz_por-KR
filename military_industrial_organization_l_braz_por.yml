@@ -1,0 +1,882 @@
+﻿l_braz_por:
+
+ ###################################################################################################
+ #### Code and UX localisation
+ ###################################################################################################
+
+ INDUSTRIAL_ORG_PP_COST: "£GFX_pol_power_icon $VALUE|H$/day"
+ INDUSTRIAL_ORG_PP_COST_KEEP_COLOR: "£GFX_pol_power_icon $VALUE|H$/day"
+ INDUSTRIAL_ORG_ARMY_XP_COST: "£GFX_army_experience $VALUE$"
+ INDUSTRIAL_ORG_AIR_XP_COST: "£GFX_air_experience $VALUE$"
+ INDUSTRIAL_ORG_NAVY_XP_COST: "£GFX_navy_experience $VALUE$"
+ INDUSTRIAL_ORG_ANY_XP_COST: "£GFX_neutral_experience $VALUE$"
+ INDUSTRIAL_ORG_POLICY_PP_COST: "£GFX_pol_power_icon $VALUE|H$"
+
+ #SORTING
+ mio_sorting_name: "Nome"
+ mio_sorting_task_capacity: "Capacidade"
+ mio_sorting_task_cost: "Custo"
+
+INDUSTRIAL_ORG_LIST_WINDOW_TITLE: "Organização Industrial Militar"
+INDUSTRIAL_ORG_DETAIL_WINDOW_TITLE: "Detalhes da Organização"
+INDUSTRIAL_ORG_OPEN_DETAILS_WINDOW: "Detalhes"
+INDUSTRIAL_ORG_OPEN_DETAILS_WINDOW_TOOLTIP: "Abrir detalhes da Organização Industrial Militar."
+INDUSTRIAL_ORG_OPEN_DETAILS_WINDOW_TOOLTIP_DELAYED: "$NAME|Y$ tem $NUMBER|Y0$ pontos de traço para gastar."
+INDUSTRIAL_ORG_LIST_INITIAL_TRAIT_NAME: "$NAME|Y$"
+INDUSTRIAL_ORG_DETAIL_WINDOW_OPEN_QUEUE_BUTTON: "Fila de Traços"
+INDUSTRIAL_ORG_DETAIL_WINDOW_OPEN_QUEUE_BUTTON_WITH_ITEMS: "$INDUSTRIAL_ORG_DETAIL_WINDOW_OPEN_QUEUE_BUTTON$ ($NUMBER_ITEMS$)"
+INDUSTRIAL_ORG_QUEUE_WINDOW_INSTRUCTION: "Quando esta organização tiver pontos de traço, o primeiro traço disponível nesta fila será concluído.\n§GShift + Clique§! em um traço para §Yadicioná-lo a esta fila§!.\n§GArraste e Solte§! para §Yalterar a ordem da fila§!."
+INDUSTRIAL_ORG_QUEUE_WINDOW_ITEM_DRAGDROP: "§GArraste e Solte§! para alterar a ordem na fila"
+INDUSTRIAL_ORG_QUEUE_WINDOW_REMOVE_TOOLTIP: "Remover da Fila"
+INDUSTRIAL_ORG_DETAIL_WINDOW_TRAITS_TAB: "Traços"
+INDUSTRIAL_ORG_DETAIL_WINDOW_HISTORY_TAB: "Histórico"
+INDUSTRIAL_ORG_DETAIL_WINDOW_HISTORY_VARIANTS_HEADER: "Histórico de pesquisa e design"
+INDUSTRIAL_ORG_DETAIL_WINDOW_HISTORY_PRODUCTION_HEADER: "Histórico da linha de produção"
+INDUSTRIAL_ORG_DETAIL_WINDOW_HISTORY_OUTDATED_TOOLTIP: "§gO equipamento está obsoleto.§!"
+INDUSTRIAL_ORG_DETAIL_WINDOW_HISTORY_NO_UPGRADE_TOOLTIP: "§gO equipamento já possui os bônus dos traços mais recentes. Não há necessidade de atualizar a variante.§!"
+INDUSTRIAL_ORG_DETAIL_WINDOW_HISTORY_UPGRADE_VARIANTS_TOOLTIP_CANT_AFFORD: "§RVocê não tem experiência suficiente para atualizar a variante.§!"
+INDUSTRIAL_ORG_DETAIL_WINDOW_HISTORY_ENTRY_EQUIMENT_NAME: "$NAME|H$"
+INDUSTRIAL_ORG_DETAIL_WINDOW_HISTORY_ENTRY_ARCHETYPE_NAME: "$NAME$"
+INDUSTRIAL_ORG_DETAIL_WINDOW_HISTORY_ENTRY_FLAVOR_RESEARCH_DATE: "Pesquisado: $DATE$"
+INDUSTRIAL_ORG_DETAIL_WINDOW_HISTORY_ENTRY_FLAVOR_DESIGN_DATE: "Projetado: $DATE$"
+INDUSTRIAL_ORG_DETAIL_WINDOW_HISTORY_ENTRY_FLAVOR_UNITS_PRODUCED: "Unidades Produzidas: $NUMBER|0H$"
+INDUSTRIAL_ORG_DETAIL_WINDOW_HISTORY_UPGRADE_VARIANTS_CONFIRM_POPUP_HEADER: "Atualizar com os traços mais recentes"
+INDUSTRIAL_ORG_DETAIL_WINDOW_HISTORY_UPGRADE_VARIANTS_CONFIRM_POPUP_DESC: "Você tem certeza de que deseja atualizar $EQUIPMENT_NAME|Y$ com os traços mais recentes?\n\nIsso custará $XPCOST|Y$ para atualizar."
+
+INDUSTRIAL_ORG_LIST_WINDOW_ASSIGN_TO_PROD_LINE_TOOLTIP: "§GClick§! para §Yatribuir§! a esta linha de produção."
+INDUSTRIAL_ORG_LIST_WINDOW_ASSIGN_TO_SHIP_REFIT_TOOLTIP: "§GClick§! para §Yatribuir§! a reforma naval."
+INDUSTRIAL_ORG_LIST_WINDOW_ASSIGN_TO_VARIANT_TOOLTIP: "§GClick§! para §Yatribuir§! a esta variante de equipamento."
+INDUSTRIAL_ORG_LIST_WINDOW_ASSIGN_TO_RESEARCH_TOOLTIP: "§GClick§! para §Yatribuir§! a esta tecnologia."
+INDUSTRIAL_ORG_LIST_WINDOW_UNASSIGN_DESIGN_TEAM_TOOLTIP: "§GClick§! para §Rdesatribuir§! deste design."
+INDUSTRIAL_ORG_LIST_WINDOW_UNASSIGN_MANUFACTURER_TOOLTIP: "§GClick§! para §Rdesatribuir§! desta linha de produção."
+
+INDUSTRIAL_ORG_LIST_WINDOW_FILTER_CATEGORY_TANK: "Tanques"
+INDUSTRIAL_ORG_LIST_WINDOW_FILTER_CATEGORY_SHIP: "Navios"
+INDUSTRIAL_ORG_LIST_WINDOW_FILTER_CATEGORY_PLANE: "Aviões"
+INDUSTRIAL_ORG_LIST_WINDOW_FILTER_CATEGORY_MATERIEL: "Equipamento de Material"
+INDUSTRIAL_ORG_LIST_WINDOW_FILTER_CATEGORY_TOOLTIP: "Mostrar apenas Organizações Industriais Militares para $CATEGORY|Y$"
+INDUSTRIAL_ORG_POLITICAL_SCREEN_OPEN_ROSTER_WITH_FILTER: "§GClick para mostrar Organizações Industriais Militares para§! $CATEGORY|Y$"
+INDUSTRIAL_ORG_LIST_WINDOW_FILTER_CAN_UNLOCK_TOOLTIP: "Mostrar apenas Organizações Industriais Militares com pontos de traço para gastar"
+
+INDUSTRIAL_ORG_DETAIL_MIO_MODIFIERS: "Atributos"
+INDUSTRIAL_ORG_DETAIL_MIO_MODIFIERS_TOTAL: "Total: $VALUE$"
+INDUSTRIAL_ORG_DETAIL_MIO_MODIFIERS_BASE: "  Base: $VALUE$"
+INDUSTRIAL_ORG_DETAIL_MIO_MODIFIERS_FROM_TRAITS: "  De Traços e Política: $VALUE$"
+INDUSTRIAL_ORG_DETAIL_MIO_MODIFIERS_FROM_COUNTRY: "  Do País: $VALUE$"
+INDUSTRIAL_ORG_DETAIL_MIO_MODIFIERS_VALUE: "$VALUE$"
+INDUSTRIAL_ORG_DETAIL_MIO_FUND_GAIN_MODIFIER_VALUE: "$VALUE|+=0%$"
+INDUSTRIAL_ORG_DETAIL_EQUIPMENT_BONUSES: "Bônus de Equipamento"
+INDUSTRIAL_ORG_DETAIL_INITIAL_TRAIT_BONUSES: "Traço Inicial"
+INDUSTRIAL_ORG_DETAIL_TRAIT_POINTS: "Pontos de Traço: $VALUE|H$"
+INDUSTRIAL_ORG_DETAIL_TRAIT_POINTS_DELAYED: "Pontos de traço são usados para desbloquear traços para sua §YOganização Industrial Militar§!. Você obtém esses pontos coletando §YFundos§! ao concluir §YPesquisas§! ou sendo atribuído a uma §YLinha de Produção§!"
+INDUSTRIAL_ORG_DETAIL_RESEARCH_BONUS: "Bônus de Pesquisa: $VALUE|0%$"
+INDUSTRIAL_ORG_DETAIL_TASK_CAPACITY: "Capacidade de Tarefas: $VALUE|0%$"
+INDUSTRIAL_ORG_DETAIL_MIO_MODIFIER_ITEM: "$NAME$: $VALUE$"
+INDUSTRIAL_ORG_DETAIL_MIO_INITIAL_TRAIT_ITEM: "$NAME|Y$"
+INDUSTRIAL_ORG_DETAIL_TOOLTIP_FUNDS_HEADER: "§YFundos§!"
+INDUSTRIAL_ORG_DETAIL_TOOLTIP_FUNDS_VALUES: "$VALUE|H0$ / $LIMIT|H0$ ($PERCENT|0%$)"
+INDUSTRIAL_ORG_DETAIL_TOOLTIP_FUNDS_VALUES_DELAYED: "§YFundos§! representam o progresso da §YOganização Industrial Militar§! em aumentar de §YTamanho§!. Uma vez que isso acontece, você ganha um ponto de traço com o qual pode desbloquear um traço."
+INDUSTRIAL_ORG_DETAIL_TOOLTIP_FUNDS_FROM_PRODUCING: "Produzindo:"
+INDUSTRIAL_ORG_DETAIL_TOOLTIP_FUNDS_PER_PROD_LINE: "$EQUIPMENT_NAME|Y$ ($FUNDS|+2$ fundos/dia)"
+INDUSTRIAL_ORG_DETAIL_TOOLTIP_FUNDS_FROM_RESEARCHING: "Pesquisando:"
+INDUSTRIAL_ORG_DETAIL_TOOLTIP_FUNDS_PER_RESEARCH_SLOT: "$TECH_NAME|Y$ ($FUNDS|+0$ fundos em $DAYS|Y$ dia(s))"
+INDUSTRIAL_ORG_DETAIL_TOOLTIP_DESIGN_TEAM_CHANGE_COST_DELAYED: "Ao adicionar §YOganizações Industriais Militares§! em variantes de equipamento, isso custará §YExperiência§!. Dependendo do tipo de equipamento, será £GFX_army_experience Experiência do Exército, £GFX_navy_experience Experiência Naval ou £GFX_air_experience Experiência Aérea."
+
+INDUSTRIAL_ORGANIZATION_TOOLTIP_NAME: "$NAME|H$"
+INDUSTRIAL_ORGANIZATION_TOOLTIP_EQUIPMENT_WILL_GET: "$EQUIPMENT|H$ receberá:"
+INDUSTRIAL_ORGANIZATION_TOOLTIP_TASK_CAPACITY: "Capacidade de tarefas: $USED|Y0$/$TOTAL|Y0$"
+INDUSTRIAL_ORGANIZATION_TOOLTIP_REFIT_CAPACITY: "§REste Fabricante Industrial só pode ser atribuído a $NUM$ de $TOTAL$ linhas de refit.§!"
+INDUSTRIAL_ORGANIZATION_TOOLTIP_CANT_ASSIGN_TASK_CAPACITY: "Eles §Ratingiram§! sua §YCapacidade de Tarefas§! e não podem ser atribuídos a mais tarefas por enquanto."
+INDUSTRIAL_ORGANIZATION_TOOLTIP_SIZE: "Tamanho: $SIZE|Y0$ ($PERCENT|Y%0$)"
+INDUSTRIAL_ORGANIZATION_TOOLTIP_SIZE_DELAYED: "Cada vez que sua §YOganização Industrial Militar§! aumenta de §YTamanho§!, você ganha um ponto de traço com o qual pode desbloquear um traço."
+INDUSTRIAL_ORGANIZATION_TOOLTIP_COST: "Custo: "
+INDUSTRIAL_ORGANIZATION_TOOLTIP_RESEARCH_BONUS: "Bônus de Pesquisa: $VALUE|0%+=$"
+INDUSTRIAL_ORGANIZATION_TOOLTIP_GAINED_FUNDS_PROD_LINE: "Fundos: $VALUE|+2$/§HCpacidade Industrial§! produzida"
+INDUSTRIAL_ORGANIZATION_TOOLTIP_MAX_FUNDS_PROD_LINE: "(máx. $MAX|Y0$/dia)."
+INDUSTRIAL_ORGANIZATION_TOOLTIP_GAINED_FUNDS_DESIGNER: "Fundos: $VALUE|+0$"
+INDUSTRIAL_ORGANIZATION_TOOLTIP_GAINED_FUNDS_RESEARCH: "Fundos: $VALUE|+0$ (na conclusão)"
+
+ INDUSTRIAL_ORG_TOOLTIP_HEADER: "§YOganização Industrial Militar§!"
+INDUSTRIAL_ORG_MANUFACTURER: "Fabricante Industrial"
+INDUSTRIAL_ORG_DESIGN_TEAM: "Equipe de Design"
+INDUSTRIAL_ORG_MANUFACTURER_TOOLTIP_NAME: "$NAME|H$"
+INDUSTRIAL_ORG_TOOLTIP_CLICK_TO_ASSIGN: "§GClick§! para atribuir."
+INDUSTRIAL_ORG_TOOLTIP_CLICK_TO_CHANGE: "§GClick§! para alterar."
+INDUSTRIAL_ORG_TOOLTIP_RIGHT_CLICK_TO_UNASSIGN: "§GRight-Click§! para §Rremover§!."
+INDUSTRIAL_ORG_TOOLTIP_UPGRADE_ALREADY_ASSIGNED_MIO_HEADER: "§YAtualizar com os traços mais recentes§!"
+INDUSTRIAL_ORG_TOOLTIP_UPGRADE_ALREADY_ASSIGNED_MIO: "Atualize seu equipamento para ter os últimos traços da §YEquipe de Design§! aplicados."
+INDUSTRIAL_ORG_TOOLTIP_UPGRADE_ALREADY_ASSIGNED_MIO_CREATE_VARIANT: "Isso criará uma nova variante."
+INDUSTRIAL_ORG_TOOLTIP_UPGRADE_BONUS_DIFF: "A atualização adicionará à nova variante:"
+INDUSTRIAL_ORG_TOOLTIP_NO_UPGRADE_ALREADY_ASSIGNED_MIO: "Não houve novos traços aplicáveis a este equipamento. Não há necessidade de atualizar."
+INDUSTRIAL_ORG_TOOLTIP_UPGRADE_ALREADY_ASSIGNED_MIO_DELAYED: "O equipamento feito com uma versão mais antiga de uma §YOganização Industrial Militar§! precisa ser atualizado para ter os últimos traços da §YEquipe de Design§! aplicados."
+INDUSTRIAL_ORG_TOOLTIP_NO_RELEVANT_ORGANISATION: "Você §Rnão tem§! nenhum para atribuir a este tipo de equipamento."
+INDUSTRIAL_ORG_TRAIT_TOOLTIP_NAME: "$NAME|H$"
+INDUSTRIAL_ORG_TRAIT_TOOLTIP_LIMIT_TYPE: "Apenas para $TYPE|H$:"
+INDUSTRIAL_ORG_TRAIT_TOOLTIP_ALL_TYPES: "$TYPES|H$:"
+INDUSTRIAL_ORG_TRAIT_TOOLTIP_ON_ASSIGN_TO_TECH: "Ao atribuir a uma tecnologia:"
+INDUSTRIAL_ORG_TRAIT_TOOLTIP_ON_ASSIGN_TO_VARIANT: "Ao atribuir a uma variante de equipamento:"
+INDUSTRIAL_ORG_TRAIT_TOOLTIP_ON_ASSIGN_TO_PRODUCTION_LINE: "Ao atribuir a uma linha de produção:"
+INDUSTRIAL_ORG_TRAIT_TOOLTIP_ON_TECH_CANCELLED: "Quando a tecnologia atribuída é cancelada:"
+INDUSTRIAL_ORG_TRAIT_TOOLTIP_ON_TECH_COMPLETED: "Quando a tecnologia atribuída é concluída:"
+INDUSTRIAL_ORG_TRAIT_TOOLTIP_ON_UNASSIGN_FROM_PRODUCTION_LINE: "Ao desatribuir de uma linha de produção:"
+INDUSTRIAL_ORG_TRAIT_TOOLTIP_COST: "Custo §Y1§! Ponto de Traço"
+
+DESIGN_TEAM_RESEARCH_BONUS_GOOD: "$NAME$: $VALUE|G=0%$"
+DESIGN_TEAM_RESEARCH_BONUS_BAD: "$NAME$: $VALUE|R=0%$"
+
+INDUSTRIAL_ORG_AUTOGENERATED_TRAIT_DEFAULT_NAME: "Atualização"
+
+INDUSTRIAL_ORG_TASK_COUNT: "$NUM_ASSIGNED$ / $CAPACITY$"
+INDUSTRIAL_ORG_TASK_CAPACITY_TITLE: "§HCapacidade de Tarefas§!"
+INDUSTRIAL_ORG_TASK_CAPACITY_DESC: "Capacidade: $NUM_ASSIGNED|H$/$CAPACITY|H$"
+INDUSTRIAL_ORG_TASK_PRODUCTION_LINE_DESC: "Produzindo: $EQUIPMENT|H$"
+INDUSTRIAL_ORG_TASK_RESEARCH_DESC: "Pesquisando: $RESEARCH|H$"
+INDUSTRIAL_ORG_TASK_REFIT_DESC: "Reformando: $NAME|H$"
+INDUSTRIAL_ORG_TASK_NOT_ASSIGNED: "Atualmente não atribuído a nenhuma tarefa."
+INDUSTRIAL_ORG_TASK_HELP: "Capacidade de tarefas é quantas §HSlots de Pesquisa§! ou §HLinhas de Produção§! uma Oganização Industrial Militar pode ser atribuída."
+
+INDUSTRIAL_ORG_EMPTY_PRODUCE: "Produza sem uma §HOganização Industrial Militar§!"
+INDUSTRIAL_ORG_EMPTY_REFIT: "Reforme sem uma §HOganização Industrial Militar§!"
+INDUSTRIAL_ORG_EMPTY_RESEARCH: "Pesquise sem uma §HOganização Industrial Militar§!"
+INDUSTRIAL_ORG_EMPTY_GENERIC: "Não use uma §HOganização Industrial Militar§!"
+
+INDUSTRIAL_ORG_RESEARCH_TOOLTIP: "§GClick§! para pesquisar"
+INDUSTRIAL_ORG_RESEARCH_TOOLTIP_MIO: "§GClick§! para pesquisar\n§GShift + Click§! para pesquisar sem uma Oganização Industrial Militar"
+INDUSTRIAL_ORG_RESEARCH_TOOLTIP_MIO_ALREADY_ASSIGNED: "§GClick§! para pesquisar\n§GShift + Click§! para pesquisar com $ORG|H$"
+INDUSTRIAL_ORG_DELAYED_TOOLTIP_PRODUCE: "§GClick§! para começar a produzir\n§GShift + Click§! para produzir sem uma Oganização Industrial Militar"
+
+INDUSTRIAL_ORG_PP_GENERATION_COST: "$ORGANIZATION_NAME$: $VALUE|2+=$"
+
+INDUSTRIAL_ORG_UNLOCK_TRAIT_POPUP_TITLE: "Completar Traço"
+INDUSTRIAL_ORG_UNLOCK_TRAIT_POPUP_DESC: "Você tem certeza de que deseja completar o Traço $TRAIT|Y$ em $INDUSTRIAL_ORG|Y$\n\nIsso custará §R1 Ponto de Traço§! para completar este traço."
+INDUSTRIAL_ORG_UNLOCK_TRAIT_POPUP_UPGRADE_VARIANTS: "Atualizar $VALUE|H0$ variantes de equipamento com os últimos §Ytraços da Equipe de Design§! por $XPCOST$"
+INDUSTRIAL_ORG_UNLOCK_TRAIT_POPUP_UPGRADE_VARIANTS_NO_COST: "Atualizar $VALUE|H0$ variantes de equipamento com os últimos §Ytraços da Equipe de Design§!"
+INDUSTRIAL_ORG_UNLOCK_TRAIT_POPUP_NO_UPGRADE_VARIANTS: "§gAtualizar variantes de equipamento com os últimos §!§Ytraços da Equipe de Design§!"
+INDUSTRIAL_ORG_UNLOCK_TRAIT_POPUP_UPGRADE_VARIANTS_TOOLTIP_HEADER: "§YAtualizar com os últimos traços§!\nAtualize seu equipamento para ter os últimos §Ytraços da Equipe de Design§!. Isso criará uma nova variante."
+INDUSTRIAL_ORG_UNLOCK_TRAIT_POPUP_UPGRADE_VARIANTS_TOOLTIP_NO_VARIANTS: "§gAtualmente não há variantes de equipamento impactadas por este traço. Não há necessidade de atualizar.§!"
+INDUSTRIAL_ORG_UNLOCK_TRAIT_POPUP_UPGRADE_VARIANTS_TOOLTIP_CANT_AFFORD: "§RVocê não tem experiência suficiente para atualizar as variantes impactadas.§!"
+INDUSTRIAL_ORG_UNLOCK_TRAIT_POPUP_UPGRADE_VARIANTS_TOOLTIP_COST: "Custo: $XPCOST$"
+INDUSTRIAL_ORG_UNLOCK_TRAIT_POPUP_UPGRADE_VARIANTS_TOOLTIP_COST_ENTRY: "- $VARIANT|H$: $XPCOST$"
+INDUSTRIAL_ORG_UNLOCK_TRAIT_POPUP_UPGRADE_VARIANTS_TOOLTIP_DELAYED: "O equipamento feito com uma versão mais antiga de uma §YOganização Industrial Militar§! precisa ser atualizado para ter os últimos §Ytraços da Equipe de Design§! aplicados."
+INDUSTRIAL_ORG_UNLOCK_TRAIT_POPUP_NOT_VALID_ANYMORE_TOOLTIP: "§RA desbloqueio deste Traço não é mais válido§!"
+
+INDUSTRIAL_ORG_TRAIT_TOOLTIP_UNLOCK_: "§GClick§! para §Ycompletar o traço§!"
+INDUSTRIAL_ORG_TRAIT_TOOLTIP_ADD_TO_QUEUE_UNLOCK: "§GShift + Click§! para §Yadicionar o traço à fila de conclusão§!"
+INDUSTRIAL_ORG_TRAIT_TOOLTIP_REMOVE_FROM_QUEUE_UNLOCK: "§GShift + Click§! para §Yremover o traço da fila de conclusão§!"
+INDUSTRIAL_ORG_TRAIT_TOOLTIP_NOT_ENOUGH_FUNDS: "§ROs traços só podem ser concluídos ao obter fundos ao atribuir a Linhas de Pesquisa ou Produção.§!"
+INDUSTRIAL_ORG_TRAIT_TOOLTIP_ORGANIZATION_AVAILABLE: "§GA Oganização Industrial Militar está disponível§!"
+INDUSTRIAL_ORG_TRAIT_TOOLTIP_ORGANIZATION_NOT_AVAILABLE: "§RA Oganização Industrial Militar não está disponível§!"
+INDUSTRIAL_ORG_TRAIT_TOOLTIP_TRAIT_AVAILABLE: "§GO Traço está disponível§!"
+INDUSTRIAL_ORG_TRAIT_TOOLTIP_TRAIT_NOT_AVAILABLE: "§RO Traço não está disponível§!"
+INDUSTRIAL_ORG_TRAIT_TOOLTIP_PARENT_NOT_UNLOCKED: "§REste Traço tem um pai que ainda não foi completado§!"
+INDUSTRIAL_ORG_TRAIT_TOOLTIP_MUTUALLY_EXCLUSIVE_ALREADY_UNLOCKED: "§REste Traço é mutuamente exclusivo com um Traço já completado§!"
+INDUSTRIAL_ORG_TRAIT_TOOLTIP_PICK_CENTRAL_TREE: "Selecione ou visualize uma §YEspecialização§! para ver os traços"
+INDUSTRIAL_ORG_TRAIT_TOOLTIP_ON_COMPLETE: "Quando completado:"
+
+ INDUSTRIAL_ORG_POLICY_BUTTON: "Políticas"
+INDUSTRIAL_ORG_POLICY_WINDOW_INSTRUCTION: "Selecione uma §YPolítica§!"
+INDUSTRIAL_ORG_POLICY_ATTACH_POLICY_POPUP_TITLE: "Anexar Política"
+INDUSTRIAL_ORG_POLICY_ATTACH_POLICY_POPUP_DESC: "Você tem certeza de que deseja anexar a Política $POLICY|Y$ a $INDUSTRIAL_ORG|Y$?"
+INDUSTRIAL_ORG_POLICY_UNATTACH_POLICY_POPUP_TITLE: "Remover Política"
+INDUSTRIAL_ORG_POLICY_UNATTACH_POLICY_POPUP_DESC: "Você tem certeza de que deseja remover a Política $POLICY|Y$ de $INDUSTRIAL_ORG|Y$?"
+INDUSTRIAL_ORG_POLICY_SWAP_POLICY_POPUP_TITLE: "Trocar Política"
+INDUSTRIAL_ORG_POLICY_SWAP_POLICY_POPUP_DESC: "Você tem certeza de que deseja substituir a Política $OLDPOLICY|Y$ pela Política $NEWPOLICY|Y$ em $INDUSTRIAL_ORG|Y$?"
+INDUSTRIAL_ORG_POLICY_POPUP_COST_DESC: "Isso custará £GFX_pol_power_icon $VALUE|H$"
+INDUSTRIAL_ORG_POLICY_COOLDOWN: "Você não poderá mudar de Política por $VALUE|H$ dias."
+INDUSTRIAL_ORG_POLICY_AVAILABLE: "§GA Política está disponível§!"
+INDUSTRIAL_ORG_POLICY_NOT_AVAILABLE: "§RA Política não está disponível§!"
+INDUSTRIAL_ORG_POLICY_IN_COOLDOWN: "§RNão é possível alterar a Política até $NBDAYS$ dias§!"
+INDUSTRIAL_ORG_POLICY_NOT_ENOUGH_PP: "§RPrecisa de $NBPOWER$ para anexar a Política§!"
+INDUSTRIAL_ORG_POLICY_ON_ATTACH: "Ao anexar:"
+INDUSTRIAL_ORG_POLICY_ON_REMOVE: "Ao remover:"
+same_as_mio: "Todos os Equipamentos da Oganização Industrial Militar"
+INDUSTRIAL_ORG_POLICY_COST: "§YPreço§!: £GFX_pol_power_icon $VALUE|H$"
+INDUSTRIAL_ORG_POLICY_CLICK_TO_ATTACH: "§GClick§! para §Yanexar à Oganização Industrial Militar!§!"
+INDUSTRIAL_ORG_POLICY_CLICK_TO_UNATTACH: "§GClick§! para §Ydesanexar da Oganização Industrial Militar!§!"
+INDUSTRIAL_ORG_POLICY_WINDOW_INSTRUCTION_TT: "§GClick§! para selecionar uma §YPolítica§!"
+INDUSTRIAL_ORG_POLICY_TOOLTIP_HEADER: "§YPolíticas§!"
+INDUSTRIAL_ORG_POLICY_TOOLTIP_POLICY_NAME: "$NAME|Y$"
+INDUSTRIAL_ORG_POLICY_TOOLTIP_NO_POLICY_AVAILABLE: "Nenhuma §YPolítica§! está disponível"
+INDUSTRIAL_ORG_POLICY_TOOLTIP_NO_POLICY_SELECTED: "Nenhuma §YPolítica§! está selecionada"
+INDUSTRIAL_ORG_POLICY_TOOLTIP_CANT_CHANGE: "Você §Rnão pode§! mudar sua §YPolítica§! por $NUMBER|Y$ dias"
+INDUSTRIAL_ORG_POLICY_DESCRIPTION_TT: "As políticas ajudam sua §YOganização Industrial Militar§! a se especializar em aspectos específicos de pesquisa ou produção."
+INDUSTRIAL_ORG_POLICY_DESCRIPTION_COOLDOWN_TT: "Uma vez que você seleciona uma §YPolítica§!, não pode ser alterada por $NUMBER|Y$ dias"
+
+INDUSTRIAL_ORG_EQUIPMENT_HEADER_NOT_MATCHING_CONTEXT: "$TYPE|Y$ §Rnão corresponde a este tipo de equipamento. Os traços concluídos não serão aplicados.§!"
+INDUSTRIAL_ORG_EQUIPMENT_HEADER_NO_EQUIPMENT_IN_CONTEXT: "§REsta tecnologia não desbloqueia novos equipamentos, portanto, os traços concluídos não serão aplicados.§!"
+INDUSTRIAL_ORG_EQUIPMENT_HEADER_DESIGN_TEAM_BONUSES: "§YBônus para variantes de equipamento:§!"
+INDUSTRIAL_ORG_EQUIPMENT_HEADER_MANUFACTURER_BONUSES: "§YBônus para linhas de produção:§!"
+INDUSTRIAL_ORG_EQUIPMENT_HEADER_AFFECTED_EQUIPMENT: "§YEquipamento afetado:§!"
+INDUSTRIAL_ORG_EQUIPMENT_HEADER_LIMIT_TYPE: "Apenas para $TYPE|H$:"
+INDUSTRIAL_ORG_EQUIPMENT_HEADER_LIMIT_TYPE_ALSO: "Também apenas para $TYPE|H$:"
+
+INDUSTRIAL_ORG_AVAILABLE_TOOLTIP_TITLE: "§YOganizações Industriais Militares§! Correspondentes:"
+INDUSTRIAL_ORG_AVAILABLE_TOOLTIP_ITEM: " - $NAME|H$"
+INDUSTRIAL_ORG_AVAILABLE_TOOLTIP_ITEM_WITH_CAPACITY: "$INDUSTRIAL_ORG_AVAILABLE_TOOLTIP_ITEM$: (Capacidade de tarefa: $TASKS|Y$/$CAPACITY|Y$)"
+INDUSTRIAL_ORG_AVAILABLE_TOOLTIP_ITEM_WITH_CAPACITY_FULL: "$INDUSTRIAL_ORG_AVAILABLE_TOOLTIP_ITEM$: (Capacidade de tarefa: $TASKS|R$/$CAPACITY|R$)"
+INDUSTRIAL_ORG_AVAILABLE_MIOS: "$AVAILABLE|H$ / $TOTAL|H$"
+
+INDUSTRIAL_ORG_TOOLTIP_PRODUCTION_TASK_INFO: "Dar uma tarefa de linha de produção a uma §YOganização Industrial Militar§! aplicará bônus de produção a essa linha."
+INDUSTRIAL_ORG_TOOLTIP_RESEARCH_TASK_INFO: "Dar uma tarefa de pesquisa a uma §YOganização Industrial Militar§! aumentará a velocidade de pesquisa e poderá aplicar bônus específicos de equipamento."
+
+ ###################################################################################################
+ #### Content localisation
+ ###################################################################################################
+
+ ########  #######  ##     ## #### ########  ##     ## ######## ##    ## ########     ######   ########   #######  ##     ## ########   ######
+ ##       ##     ## ##     ##  ##  ##     ## ###   ### ##       ###   ##    ##       ##    ##  ##     ## ##     ## ##     ## ##     ## ##    ##
+ ##       ##     ## ##     ##  ##  ##     ## #### #### ##       ####  ##    ##       ##        ##     ## ##     ## ##     ## ##     ## ##
+ ######   ##     ## ##     ##  ##  ########  ## ### ## ######   ## ## ##    ##       ##   #### ########  ##     ## ##     ## ########   ######
+ ##       ##  ## ## ##     ##  ##  ##        ##     ## ##       ##  ####    ##       ##    ##  ##   ##   ##     ## ##     ## ##              ##
+ ##       ##    ##  ##     ##  ##  ##        ##     ## ##       ##   ###    ##       ##    ##  ##    ##  ##     ## ##     ## ##        ##    ##
+ ########  ##### ##  #######  #### ##        ##     ## ######## ##    ##    ##        ######   ##     ##  #######   #######  ##         ######
+
+ mio_cat_eq_all_light_tank: "Todos os Equipamentos de Tanques Leves"
+mio_cat_eq_all_medium_tank: "Todos os Equipamentos de Tanques Médios"
+mio_cat_eq_all_heavy_tank: "Todos os Equipamentos de Tanques Pesados"
+mio_cat_eq_all_tank_destroyers: "Todos os Equipamentos de Destruidores de Tanques"
+mio_cat_eq_all_carrier: "Todos os Navios Porta-Aviões"
+mio_cat_eq_all_cruiser: "Todos os Navios Cruzadores"
+mio_cat_eq_all_destroyer: "Todos os Navios Destróieres"
+mio_cat_eq_all_battleship: "Todos os Encouraçados"
+mio_cat_eq_all_small_plane: "Todos os Aviões Pequenos e de Convés"
+mio_cat_eq_all_medium_plane: "Todos os Aviões Médios"
+mio_cat_eq_all_large_plane: "Todos os Aviões Grandes"
+mio_cat_eq_only_light_fighter: "Caças e Caças de Convés"
+mio_cat_eq_only_light_fighter_no_cv: "Caças"
+mio_cat_eq_only_tactical_bomber: "Bombardeiros Táticos"
+mio_cat_eq_only_strategic_bomber: "Bombardeiros Estratégicos"
+mio_cat_eq_all_cv_aircraft: "Todos os Aviões de Convés"
+
+# Adicionado pelo KR
+mio_cat_eq_only_cv_fighter: "Caças de Convés"
+mio_cat_eq_all_aircraft: "Aeronaves"
+
+##     ## ########    ###    ########  ######## ########   ######
+##     ## ##         ## ##   ##     ## ##       ##     ## ##    ##
+##     ## ##        ##   ##  ##     ## ##       ##     ## ##
+######### ######   ##     ## ##     ## ######   ########   ######
+##     ## ##       ######### ##     ## ##       ##   ##         ##
+##     ## ##       ##     ## ##     ## ##       ##    ##  ##    ##
+##     ## ######## ##     ## ########  ######## ##     ##  ######
+
+mio_header_light_tank_department: "Departamento de Tanques Leves"
+mio_header_medium_tank_department: "Departamento de Tanques Médios"
+mio_header_heavy_tank_department: "Departamento de Tanques Pesados"
+mio_header_production_department: "Departamento de Produção"
+mio_header_design_department: "Departamento de Design"
+mio_header_operational_department: "Departamento Operacional"
+mio_header_engines_department: "Departamento de Motores"
+mio_header_armor: "Blindagem"
+mio_header_systems: "Sistemas"
+mio_header_support: "Suporte"
+mio_header_weapons: "Armas"
+mio_header_chassis: "Chassi"
+mio_header_design_and_production: "Design e Produção"
+mio_header_production: "Produção"
+mio_header_design: "Design"
+mio_header_mechanical_design: "Design Mecânico"
+mio_header_armament_and_ammunition: "Armamento e Munição"
+mio_header_engines: "Motores"
+mio_header_wings: "Asas"
+mio_header_engine_and_suspension: "Motor e Suspensão"
+mio_header_armor_and_armaments: "Blindagem e Armamentos"
+mio_header_engine_and_drive_system: "Motor e Sistema de Propulsão"
+mio_header_guns_and_turret: "Canhões e Torre"
+mio_header_tank_construction: "Construção de Tanques"
+mio_header_equipment_and_specialization: "Equipamento e Especialização"
+mio_header_long_range_focus: "Foco em Longo Alcance"
+mio_header_stealth_focus: "Foco em Furtividade"
+mio_header_supremacy_focus: "Foco em Supremacia"
+mio_header_high_speed_focus: "Foco em Alta Velocidade"
+mio_header_trains: "Trens"
+mio_header_fighter_aircraft: "Aeronaves de Caça"
+mio_header_bomber_aircraft: "Aeronaves de Bombardeio"
+mio_header_naval_aircraft: "Aeronaves Navais"
+mio_header_light_aircraft: "Aeronaves Leves"
+mio_header_medium_aircraft: "Aeronaves Médias"
+mio_header_motorized: "Motorizadas"
+mio_header_mechanized: "Mecanizadas"
+mio_header_anti_tank: "Anti-Tanque"
+mio_header_protection: "Proteção"
+mio_header_specialization: "Especialização"
+
+########   #######  ##       ####  ######  #### ########  ######
+##     ## ##     ## ##        ##  ##    ##  ##  ##       ##    ##
+##     ## ##     ## ##        ##  ##        ##  ##       ##
+########  ##     ## ##        ##  ##        ##  ######    ######
+##        ##     ## ##        ##  ##        ##  ##             ##
+##        ##     ## ##        ##  ##    ##  ##  ##       ##    ##
+##         #######  ######## ####  ######  #### ########  ######
+
+mio_policy_general_ruthless_contracts: "Contratos Implacáveis"
+mio_policy_general_assembly_line_optimisers: "Otimizadores de Linha de Montagem"
+mio_policy_general_vertical_integration: "Integração Vertical"
+mio_policy_general_mechanical_genius: "Gênio Mecânico"
+mio_policy_general_experimental_development_teams: "Equipes de Desenvolvimento Experimental"
+
+mio_policy_land_armor_welding_specialists: "Especialistas em Soldagem de Blindagem"
+mio_policy_land_casting_specialists: "Especialistas em Fundição"
+mio_policy_land_heavy_gantry_cranes: "Guindastes Pesados de Grua"
+mio_policy_land_factory_applied_camouflage: "Camuflagem Aplicada na Fábrica"
+mio_policy_land_cutting_corners: "Cortando Caminhos"
+
+mio_policy_air_perfect_finish: "Acabamento Perfeito"
+mio_policy_air_heavy_gantry_cranes: "Guindastes Pesados de Grua"
+mio_policy_air_propulsion_experimenters: "Experimentadores de Propulsão"
+mio_policy_air_wind_tunnel_pioneers: "Pioneiros em Túneis de Vento"
+mio_policy_air_modular_assembly: "Montagem Modular"
+
+mio_policy_navy_welding_specialists: "Especialistas em Soldagem"
+mio_policy_navy_space_efficient_design: "Design Eficiente em Espaço"
+mio_policy_navy_stable_platforms: "Plataformas Estáveis de Artilharia"
+mio_policy_navy_great_sea_keeping: "Manutenção Excepcional no Mar"
+mio_policy_navy_coastal_battlefleet: "Frota de Batalha Costeira"
+
+###  ##  #  # # #     #   # ###  ##       ##  ###   ##  #  # ### ### #   # ###  ###  ##
+#  #  # ## # # #     ## ##  #  #  #     #  # #  # #  # #  # #    #   # #  #  # #   #
+#  #### # ## ##      # # #  #  #  #     #### ###  #    #### ##   #    #   ###  ##   #
+#  #  # #  # # #     #   #  #  #  #     #  # #  # #  # #  # #    #    #   #    #     #
+#  #  # #  # # #     #   # ###  ##      #  # #  #  ##  #  # ###  #    #   #    ### ##
+
+################################
+#### PROJETISTA DE TANQUES GERAIS ####
+################################
+generic_tank_organization: "Fabricante Geral de Tanques"
+generic_mio_initial_trait_general_tank_designer: "Projetista de Tanques Gerais"
+generic_mio_initial_trait_standardized_production: "Produção Padronizada"
+generic_mio_trait_simplified_suspension: "Suspensão Simplificada"
+generic_mio_trait_crew_ergonomics: "Ergonomia da Tripulação"
+generic_mio_trait_improved_tracks: "Esteiras Melhoradas"
+generic_mio_trait_command_upgrades: "Atualizações de Comando"
+generic_mio_trait_standardized_components: "Componentes Padronizados"
+generic_mio_trait_improved_tooling: "Ferramentas Melhoradas"
+generic_mio_trait_quality_improvements: "Melhorias na Qualidade"
+generic_mio_trait_defensive_equipment: "Equipamento Defensivo"
+generic_mio_trait_long_barreled_guns: "Canhões de Cano Longo"
+generic_mio_trait_anti_tank_specialization: "Especialização Anti-Tanque"
+generic_mio_trait_infantry_support_tanks: "Tanques de Apoio à Infantaria"
+
+################################
+#### PROJETISTA DE TANQUES DE INFANTARIA ####
+################################
+generic_infantry_tank_organization: "Fabricante de Tanques de Infantaria"
+generic_mio_initial_trait_infantry_tanks_designer: "Projetista de Tanques de Infantaria"
+generic_mio_trait_light_tank_improvements: "Melhorias em Tanques Leves"
+generic_mio_trait_medium_tank_improvements: "Melhorias em Tanques Médios"
+generic_mio_trait_heavy_tank_improvements: "Melhorias em Tanques Pesados"
+generic_mio_trait_production_division: "Divisão de Produção"
+generic_mio_trait_standardized_turrets: "Torres Padronizadas"
+generic_mio_trait_improved_protection: "Proteção Melhorada"
+generic_mio_trait_improved_wheel_protection: "Proteção Melhorada para Rodas"
+generic_mio_trait_gun_improvements: "Melhorias em Armas"
+generic_mio_trait_speed_improvements: "Melhorias de Velocidade"
+generic_mio_trait_modular_construction: "Construção Modular"
+generic_mio_trait_light_tank_specialization: "Especialização em Tanques Leves"
+generic_mio_trait_medium_tank_specialization: "Especialização em Tanques Médios"
+generic_mio_trait_heavy_tank_specialization: "Especialização em Tanques Pesados"
+
+ ###################################
+#### FABRICANTE DE TANQUES MÓVEIS ####
+###################################
+generic_mobile_tank_organization: "Fabricante de Tanques Móveis"
+generic_mio_initial_trait_fast_tanks_designer: "Projetista de Tanques Rápidos"
+generic_mio_trait_improved_boogies: "Bogies Melhorados"
+generic_mio_engine_optimization: "Otimização de Motor"
+generic_mio_reduced_fuel_usage: "Uso Reduzido de Combustível"
+generic_mio_improved_ventilation: "Ventilação Melhorada"
+generic_mio_improved_tracks_and_suspension: "Esteiras e Suspensão Melhoradas"
+generic_mio_sloping_armor: "Blindagem Inclinada"
+generic_mio_lighter_materials: "Materiais Mais Leves"
+generic_mio_armor_hardening_process: "Processo de Endurecimento da Blindagem"
+generic_mio_enlarged_breech: "Calha Ampliada"
+generic_mio_gunner_sight_improvements: "Melhorias na Visão do Atirador"
+generic_mio_quality_assurance_routines: "Rotinas de Garantia de Qualidade"
+generic_mio_streamlined_production: "Produção Simplificada"
+
+################################
+#### PROJETISTA DE TANQUES MÉDIOS ####
+################################
+generic_medium_tank_organization: "Fabricante de Tanques Médios"
+generic_mio_initial_trait_medium_tank_designer: "Projetista de Tanques Médios"
+generic_mio_trait_power_traverse: "Travessia de Potência"
+generic_mio_trait_all_round_cupola: "Cúpula Giratória"
+generic_mio_trait_simplified_turret_design: "Design Simplificado de Torreta"
+generic_mio_trait_specialist_shells: "Projéteis Especializados"
+generic_mio_trait_improved_gun_metallurgy: "Metalurgia Aprimorada da Arma"
+generic_mio_trait_advanced_shells: "Projéteis Avançados"
+generic_mio_trait_armor_steel_working: "Trabalho de Aço da Blindagem"
+generic_mio_trait_spaced_armor: "Blindagem Espaçada"
+generic_mio_trait_crew_survival_layout: "Layout para Sobrevivência da Tripulação"
+generic_mio_trait_sloped_side_armor: "Blindagem Lateral Inclinada"
+generic_mio_trait_truck_engines: "Motores de Caminhão"
+generic_mio_trait_aircraft_engines: "Motores de Aeronave"
+generic_mio_trait_improved_suspension: "Suspensão Melhorada"
+
+ ################################
+ ##### HEAVY TANK DESIGNER ######
+ ################################
+generic_heavy_tank_organization: "Fabricante de Tanques Pesados"
+generic_mio_initial_trait_heavy_tank_designer: "Fabricante de Tanques Pesados"
+generic_mio_trait_wide_tracks: "Esteiras Largas"
+generic_mio_trait_fire_extinguishers: "Extintores de Incêndio"
+generic_mio_trait_one_piece_hull_side_coverings: "Coberturas Laterais de Casco em Uma Peça"
+generic_mio_trait_simplified_transmission_system: "Sistema de Transmissão Simplificado"
+generic_mio_trait_improved_engine_output: "Saída de Motor Aprimorada"
+generic_mio_trait_sloping_armor: "Blindagem Inclinada"
+generic_mio_trait_improved_crew_ergonomics: "Ergonomia Aprimorada da Tripulação"
+generic_mio_trait_reinforced_construction: "Construção Reforçada"
+generic_mio_trait_fully_cast_turret: "Torreta Totalmente Fundida"
+generic_mio_trait_commander_cupola: "Cúpula do Comandante"
+generic_mio_trait_simplified_layout: "Layout Simplificado"
+generic_mio_trait_high_explosive_shells: "Projéteis de Alto Explosivo"
+generic_mio_trait_apcr_hvap_shells: "Projéteis APCR/HVAP"
+
+#####################################
+#### FÁBRICA DE REFORMA DE TANQUES ####
+#####################################
+generic_tank_refurbishment_plant_organization: "Fábrica de Reforma de Tanques"
+generic_mio_initial_trait_tank_refurbishment_plant: "$generic_tank_refurbishment_plant_organization$"
+generic_mio_trait_enemy_tank_refitting: "Reforma de Tanques Inimigos"
+generic_mio_trait_efficient_scrap_recycling: "Reciclagem Eficiente de Sucata"
+generic_mio_trait_high_volume_smelter: "Fundição de Alto Volume"
+generic_mio_trait_high_powered_engine_production: "Produção de Motores de Alta Potência"
+generic_mio_trait_heavy_duty_machine_tools: "Ferramentas de Máquinas Pesadas"
+generic_mio_trait_multi_plant_cooperation: "Cooperação de Múltiplas Fábricas"
+generic_mio_trait_standardized_secondary_armament: "Armamento Secundário Padronizado"
+generic_mio_trait_mass_small_arms_ammunition_production: "Produção em Massa de Munições de Pequenas Armas"
+generic_mio_trait_plant_tech_exchange: "Troca de Tecnologia de Fábrica"
+generic_mio_trait_dual_plant_main_armament_production: "Produção de Armamento Principal em Duas Fábricas"
+generic_mio_trait_24h_rotation_shifts: "Turnos de Rotação de 24 Horas"
+generic_mio_trait_long_distance_escort: "Escolta de Trem a Longa Distância"
+generic_mio_trait_barrels_of_hell: "Barris do Inferno"
+
+  ## #  # ### ###      #   # ###  ##       ##  ###   ##  #  # ### ### #   # ###  ###  ##
+ #   #  #  #  #  #     ## ##  #  #  #     #  # #  # #  # #  # #    #   # #  #  # #   #
+  #  ####  #  ###      # # #  #  #  #     #### ###  #    #### ##   #    #   ###  ##   #
+   # #  #  #  #        #   #  #  #  #     #  # #  # #  # #  # #    #    #   #    #     #
+ ##  #  # ### #        #   # ###  ##      #  # #  #  ##  #  # ###  #    #   #    ### ##
+
+##############################################
+#### FABRICANTE DE NAVIOS DE FORÇA-TAREFA ####
+##############################################
+generic_task_force_ship_organization: "Fabricante de Navios de Força-Tarefa"
+generic_mio_initial_trait_task_force_ship_builders: "Projetista de Navios de Força-Tarefa"
+generic_mio_trait_long_range_cruising: "Cruzeiro de Longo Alcance"
+generic_mio_trait_high_speed_cruising: "Cruzeiro de Alta Velocidade"
+generic_mio_trait_splinter_protection: "Proteção Contra Estilhaços"
+generic_mio_trait_transom_stern: "Popa com Transom"
+generic_mio_trait_underway_replenishment_equipment: "Equipamento de Reabastecimento em Andamento"
+generic_mio_trait_secondary_fire_director_control: "Controle do Diretor de Fogo Secundário"
+generic_mio_trait_flight_deck_edge_aa_mounts: "Montagens AA na Borda do Convés de Voo"
+generic_mio_trait_gyro_stabilized_mounts: "Montagens Giroestabilizadas"
+generic_mio_trait_rapid_fire_guns: "Canhões de Tiro Rápido"
+generic_mio_trait_advanced_fitting_works: "Obras de Montagem Avançada"
+generic_mio_trait_carrier_flight_operations_center: "Centro de Operações de Voo de Porta-Aviões"
+generic_mio_trait_primary_fire_director_control: "Controle do Diretor de Fogo Primário"
+generic_mio_trait_high_velocity_guns: "Canhões de Alta Velocidade"
+
+############################################
+#### FABRICANTE DE NAVIOS DE LINHA DE BATALHA ####
+############################################
+generic_battle_line_ship_organization: "Fabricante de Navios de Linha de Batalha"
+generic_mio_initial_trait_battle_line_ship_builders: "Projetista de Navios de Linha de Batalha"
+generic_mio_trait_external_armor_belt: "Cinto de Blindagem Externa"
+generic_mio_trait_internal_armor_belt: "Cinto de Blindagem Interna"
+generic_mio_trait_hardened_critical_components: "Componentes Críticos Endurecidos"
+generic_mio_trait_advanced_hydrodynamic_design: "Design Hidrodinâmico Avançado"
+generic_mio_trait_advanced_armor_design: "Design de Blindagem Avançado"
+generic_mio_trait_anti_air_layout: "Layout Antiaéreo"
+generic_mio_trait_secondary_battery_layout: "Layout de Bateria Secundária"
+generic_mio_trait_combat_information_center: "Centro de Informações de Combate"
+generic_mio_trait_primary_battery_layout: "Layout de Bateria Primária"
+generic_mio_trait_super_heavy_shells: "Projéteis Super Pesados"
+generic_mio_trait_semi_armor_piercing_shells: "Projéteis de Semi-Perfuração de Blindagem"
+
+##################################
+#### FABRICANTE DE NAVIOS DE ESCOLTA ####
+##################################
+generic_escort_ship_organization: "Fabricante de Navios de Escolta"
+generic_mio_initial_trait_escort_fleet: "Projetista de Navios de Escolta"
+generic_mio_trait_submarine_hunters: "Caçadores de Submarinos"
+generic_mio_trait_high_speed_mine_hunting_equipment: "Equipamento de Caça a Minas de Alta Velocidade"
+generic_mio_trait_fleet_escorts: "Escoltas de Frota"
+generic_mio_trait_anti_air_ships: "Navios Antiaéreos"
+generic_mio_trait_escort_in_force: "Escolta em Força"
+generic_mio_trait_improved_anti_air_gun_mounting: "Montagem Aprimorada de Artilharia Antiaérea"
+generic_mio_trait_mass_production: "Produção em Massa"
+generic_mio_trait_improved_light_gun_mounting: "Montagem Aprimorada de Artilharia Leve"
+
+##################################
+#### FABRICANTE DE NAVIOS RAIDER ####
+##################################
+generic_raider_ship_organization: "Fabricante de Navios Raider"
+generic_mio_initial_trait_raiding_fleet: "Projetista de Navios Raider"
+generic_mio_trait_long_range_raiding: "Raiding de Longo Alcance"
+generic_mio_trait_high_speed_raiding: "Raiding de Alta Velocidade"
+generic_mio_trait_diesel_powerplants: "Usinas de Energia a Diesel"
+generic_mio_trait_high_speed_operation_stores: "Lojas de Operação de Alta Velocidade"
+generic_mio_trait_raiding_capital_ships: "Navios Capitais para Raiding"
+generic_mio_trait_long_range_engagement_ethos: "Ética de Engajamento de Longo Alcance"
+generic_mio_trait_high_quality_optics: "Óptica de Alta Qualidade"
+generic_mio_trait_raider_escort_requirements: "Requisitos de Escolta para Raiding"
+generic_mio_trait_unescorted_raider_requirements: "Requisitos para Raiding sem Escolta"
+generic_mio_trait_raiding_cruisers: "Cruzadores de Raiding"
+generic_mio_trait_raiding_submarines: "Submarinos de Raiding"
+generic_mio_trait_spotting_tops: "Plataformas de Observação"
+generic_mio_trait_large_torpedo_banks: "Grandes Bancos de Torpedos"
+generic_mio_trait_mass_produced_raiders: "Raiders Produzidos em Massa"
+
+ ####################################
+#### FABRICANTE DE SUBMARINOS ####
+####################################
+generic_submarine_organization: "Fabricante de Submarinos"
+generic_mio_initial_trait_submarine_designer: "Projetista de Submarinos"
+generic_mio_trait_decalin_fueled_torpedo: "Torpedo Abastecido com Decalina"
+generic_mio_trait_efficient_fuel_engines: "Motores de Combustível Eficientes"
+generic_mio_trait_highly_efficient_diesel_electric_propulsion_systems: "Sistemas de Propulsão Diesel-Elétricos Altamente Eficientes"
+generic_mio_trait_high_powered_engines: "Motores de Alta Potência"
+generic_mio_trait_open_cycle_propulsion: "Propulsão de Ciclo Aberto"
+generic_mio_trait_experimental_anechoic_tiles: "Telhas Anechoic Experimentais"
+generic_mio_trait_improved_torpedo_detonators: "Detonadores de Torpedo Aprimorados"
+generic_mio_trait_simplified_pressure_hull_design: "Design Simplificado de Casco Pressurizado"
+generic_mio_trait_advanced_periscope: "Periscópio Avançado"
+generic_mio_trait_emergency_main_ballast_tank_blow: "Despressurização Emergencial do Tanque de Lastro Principal"
+generic_mio_trait_radar_warning_receiver: "Receptor de Aviso de Radar"
+generic_mio_trait_crash_dive_flood_tanks: "Tanques de Imersão Rápida"
+generic_mio_trait_submarine_mass_production: "Produção em Massa de Submarinos"
+generic_mio_trait_advanced_sonar: "Sonar Avançado"
+generic_mio_trait_deck_guns: "Canhões de Convés"
+generic_mio_trait_high_capacity_mine_storage: "Armazenamento de Minas de Alta Capacidade"
+
+############################################
+#### FABRICANTE DE NAVIOS PARA ÁGUAS VERDES ####
+############################################
+generic_small_fleet_organization: "Fabricante de Navios para Águas Verdes"
+generic_mio_initial_trait_small_fleet_designer: "Projetista de Navios para Águas Verdes"
+generic_mio_trait_submarine_hunters_black_sea: "Caçadores de Submarinos"
+generic_mio_trait_efficient_patrolling_scheme: "Esquema Eficiente de Patrulhamento"
+generic_mio_trait_advanced_sub_scanners: "Scanners Submarinos Avançados"
+ generic_mio_trait_high_altitute_catapult: "Catapulta de Alta Altitude"
+generic_mio_trait_light_armor_piercing_guns: "Canhões Perfurantes Leves"
+generic_mio_trait_brass_case_reloader: "Recarregador de Estojo de Latão"
+generic_mio_trait_anti_air_defense: "Defesa Antiaérea"
+generic_mio_trait_heavy_guns: "Canhões Pesados"
+generic_mio_advanced_periscope: "Periscópio Avançado"
+generic_mio_trait_piercing_rounds: "Projéteis Perfurantes"
+generic_mio_trait_base_defense: "Defesa da Base"
+generic_mio_trait_state_sponsored_growth: "Crescimento Patrocinado pelo Estado"
+generic_mio_trait_state_sponsored_research: "Pesquisa Patrocinada pelo Estado"
+generic_mio_trait_24h_shifts: "Turnos de 24 Horas"
+generic_mio_trait_state_subsidizing: "Subsídio Estatal"
+generic_mio_trait_deck_guns_black_sea: "Canhões de Convés"
+
+########################################
+#### ESTALEIRO DE REFORMA E REPARO ####
+########################################
+generic_refurbishment_repair_organization: "Estaleiro de Reforma e Reparo"
+generic_mio_refurbishment_repair_organization: "$generic_refurbishment_repair_organization$"
+generic_mio_trait_heavy_armored_hull: "Casco Pesadamente Blindado"
+generic_mio_trait_isolated_firemains: "Tubulações de Incêndio Isoladas"
+generic_mio_trait_counter_flooding_system: "Sistemas de Contra-Inundação"
+generic_mio_trait_anti_torpedo_bulge: "Protuberância Antitorpedo"
+generic_mio_trait_foam_fire_extinguishers: "Extintores de Incêndio de Espuma"
+generic_mio_trait_bulkhead_shoring_procedure: "Procedimento de Reforço de Anteparos"
+generic_mio_trait_high_powered_steering: "Direção de Alta Potência"
+generic_mio_trait_flooding_boundries: "Limites de Inundação"
+generic_mio_trait_protected_pumps: "Bombeiros Protegidos"
+generic_mio_trait_advanced_scanners: "Scanners Avançados"
+generic_mio_trait_capital_destroyer_shells: "Projéteis Destruidores de Capitais"
+generic_mio_trait_naval_all_purpose_defense_systems: "Sistemas de Defesa Naval Multifuncionais"
+
+  ##  ### ###   ##  ###   ##  ### ###     #   # ###  ##       ##  ###   ##  #  # ### ### #   # ###  ###  ##
+ #  #  #  #  # #  # #  # #  # #    #      ## ##  #  #  #     #  # #  # #  # #  # #    #   # #  #  # #   #
+ ####  #  ###  #    ###  #### ##   #      # # #  #  #  #     #### ###  #    #### ##   #    #   ###  ##   #
+ #  #  #  #  # #  # #  # #  # #    #      #   #  #  #  #     #  # #  # #  # #  # #    #    #   #    #     #
+ #  # ### #  #  ##  #  # #  # #    #      #   # ###  ##      #  # #  #  ##  #  # ###  #    #   #    ### ##
+
+###########################################
+#### FABRICANTE GERAL DE AERONAVES ####
+###########################################
+generic_general_aircraft_organization: "Fabricante Geral de Aeronaves"
+generic_mio_initial_trait_general_aircraft_designer: "Projetista Geral de Aeronaves"
+generic_mio_trait_conservative_designs: "Designs Conservadores"
+generic_mio_trait_fighter_aircraft_specialists: "Especialistas em Aeronaves de Caça"
+generic_mio_trait_high_speed_design: "Design de Alta Velocidade"
+generic_mio_trait_agility_wing_design: "Design de Asa Ágil"
+generic_mio_trait_fighter_aircraft_production: "Produção de Aeronaves de Caça"
+generic_mio_trait_bomber_aircraft_specialists: "Especialistas em Aeronaves Bombardeiras"
+generic_mio_trait_bomb_trucks: "Caminhões Bombardeiros"
+generic_mio_trait_fast_bombers: "Bombardeiros Rápidos"
+generic_mio_trait_bomber_aircraft_production: "Produção de Aeronaves Bombardeiras"
+generic_mio_trait_naval_aircraft_specialists: "Especialistas em Aeronaves Navais"
+generic_mio_trait_naval_strike: "Ataque Naval"
+generic_mio_trait_naval_air_patrol: "Patrulha Aérea Naval"
+generic_mio_trait_naval_aircraft_production: "Produção de Aeronaves Navais"
+
+######################################
+#### FABRICANTE DE AERONAVES LEVES ####
+######################################
+generic_light_aircraft_organization: "Fabricante de Aeronaves Leves"
+generic_mio_initial_trait_light_aircraft_designer: "Projetista de Aeronaves Leves"
+generic_mio_trait_expanded_production_facilities: "Instalações de Produção Expandidas"
+generic_mio_trait_fixed_tailwheels: "Rodas Traseiras Fixas"
+generic_mio_trait_removable_wings: "Asas Removíveis"
+generic_mio_trait_liquid_cooled_engines: "Motores Refrigerados a Líquido"
+generic_mio_trait_maritime_duties: "Funções Marítimas"
+generic_mio_trait_advanced_aerodynamics: "Aerodinâmica Avançada"
+generic_mio_trait_fuselage_ordinance_rack: "Rack de Armamentos no Fuselagem"
+generic_mio_trait_ongoing_developmental_upgrades: "Atualizações de Desenvolvimento Contínuo"
+generic_mio_trait_heavier_airframe: "Estrutura mais Pesada"
+generic_mio_trait_maximum_wing_loads: "Cargas Máximas nas Asas"
+generic_mio_trait_gun_pods: "Pods de Artilharia"
+generic_mio_trait_multi_purpose_aircraft: "Aeronave Multiuso"
+generic_mio_trait_fighter_specialization: "Especialização em Aeronaves de Caça"
+generic_mio_trait_close_air_support_specialization: "Especialização em Apoio Aéreo Próximo"
+generic_mio_trait_flexible_design: "Design Flexível"
+generic_mio_trait_fighter_expertise: "Expertise em Aeronaves de Caça"
+generic_mio_trait_close_air_support_expertise: "Expertise em Apoio Aéreo Próximo"
+
+#######################################
+#### FABRICANTE DE AERONAVES MÉDIAS ####
+#######################################
+generic_medium_aircraft_organization: "Fabricante de Aeronaves Médias"
+generic_mio_initial_trait_medium_aircraft_designer: "Fabricante de Aeronaves Médias"
+generic_mio_trait_narrow_build: "Construção Estreita"
+generic_mio_trait_mixed_material_construction: "Construção de Materiais Diversos"
+generic_mio_trait_multi_role_transport: "Transporte Multiuso"
+generic_mio_trait_refined_engines: "Motores Aprimorados"
+generic_mio_trait_twin_tail: "Cauda Dupla"
+generic_mio_trait_reinforced_wing_braces: "Reforço de Braçadeiras de Asa"
+generic_mio_trait_expanded_cockpit: "Cockpit Expandido"
+generic_mio_trait_metal_nose_replacement: "Substituição do Nariz de Metal"
+generic_mio_trait_streamlined_fuselage: "Fuselagem Aerodinâmica"
+generic_mio_trait_extra_machine_guns: "Metralhadoras Extras"
+generic_mio_trait_adaptable_build: "Construção Adaptável"
+generic_mio_trait_heavy_fighter_specialization: "Especialização em Aeronaves de Caça Pesadas"
+generic_mio_trait_tactical_bomber_specialization: "Especialização em Bombardeiros Táticos"
+generic_mio_trait_skip_bombing: "Bombardeio com Salto"
+generic_mio_trait_high_frequency_direction_finding: "Localização de Alta Frequência"
+
+######################################
+#### FABRICANTE DE AERONAVES PESADAS ####	
+######################################
+generic_heavy_aircraft_organization: "Fabricante de Aeronaves Pesadas"
+generic_mio_initial_trait_heavy_aircraft_designer: "Projetista de Aeronaves Pesadas"
+generic_mio_trait_reinforced_frames: "Estruturas Reforçadas"
+generic_mio_trait_transport_conversions: "Conversões de Transporte"
+generic_mio_trait_standardized_alloys: "Ligas Padronizadas"
+generic_mio_trait_drop_hammer_alloy_straining: "Estiramento de Liga com Martelo de Queda"
+generic_mio_trait_refined_secondary_aluminium: "Alumínio Secundário Aprimorado"
+generic_mio_trait_high_quality_aluminium_alloys: "Ligas de Alumínio de Alta Qualidade"
+generic_mio_trait_pressurized_cockpit: "Cockpit Pressurizado"
+generic_mio_trait_advanced_turbochargers: "Turboalimentadores Avançados"
+generic_mio_trait_extended_rear_fuselage: "Fuselagem Traseira Estendida"
+generic_mio_trait_auto_levelled_bombsights: "Mirantes de Bombas Autonivelantes"
+generic_mio_trait_air_deployed_sonobuoys: "Sonobóias Lançadas pelo Ar"
+generic_mio_trait_cockpit_controlled_remote_gun_turrets: "Torres de Artilharia Controladas pelo Cockpit"
+generic_mio_trait_flying_fortress: "Fortaleza Voadora"
+generic_mio_trait_advanced_instruments: "Instrumentos Avançados"
+
+ ########################################
+ #### CLOSE AIR SUPPORT MANUFACTURER ####
+ ########################################
+ generic_cas_aircraft_organization: "Fabricante de Apoio Aéreo Próximo"
+generic_mio_initial_trait_cas_aircraft_designer: "Designer de Aeronaves de Apoio Aéreo Próximo"
+generic_mio_trait_selectional_construction: "Construção Seccional"
+generic_mio_trait_low_altitude_attacks: "Ataques a Baixa Altitude"
+generic_mio_trait_canopies_and_firewalls: "Capotas e Pára-brisas"
+generic_mio_trait_automatic_pull_out: "Recuo Automático"
+generic_mio_trait_integrated_armor_designs: "Designs de Blindagem Integrada"
+generic_mio_trait_gull_wings: "Asas de Gaivota"
+generic_mio_trait_reinforced_wings: "Asas Reforçadas"
+generic_mio_trait_heavily_armed_aircraft: "Aeronave Altamente Armada"
+generic_mio_trait_air_brakes: "Freios de Ar"
+generic_mio_trait_wingborne_fuel_tanks: "Tanques de Combustível Alar"
+generic_mio_trait_bombs: "Bombas"
+generic_mio_trait_rockets: "Foguetes"
+generic_mio_heat_bombs: "Bombas de Perfuração de Alto Explosivo"
+generic_mio_cluster_bombs: "Bombas de Fragmentação"
+
+#####################################
+#### FABRICANTE DE AERONAVES NAVAIS ####
+#####################################
+generic_naval_aircraft_organization: "Fabricante de Aeronaves Navais"
+generic_mio_initial_trait_naval_aircraft_designer: "Projetista de Aeronaves Navais"
+generic_mio_trait_navigation_equipment: "Equipamento de Navegação"
+generic_mio_trait_patrol_fuel_tanks: "Tanques de Combustível para Patrulha"
+generic_mio_trait_internal_torpedo_mountings: "Montagens Internas de Torpedos"
+generic_mio_trait_high_speed_torpedo_release: "Liberação de Torpedos em Alta Velocidade"
+generic_mio_trait_reinforced_fuselage: "Fuselagem Reforçada"
+generic_mio_agility_wing_design: "Design de Asa Ágil"
+generic_mio_strength_wing_design: "Design de Asa Resistente"
+generic_mio_high_capacity_ammunition_stores: "Depósitos de Munição de Alta Capacidade"
+generic_mio_larger_bomb_loads: "Cargas de Bomba Maiores"
+generic_mio_air_cooled_engines: "Motores Refrigerados a Ar"
+generic_mio_multi_stage_super_charger: "Supercompressor de Múltiplos Estágios"
+generic_mio_water_injection: "Injeção de Água"
+generic_mio_advanced_materials: "Materiais Avançados"
+
+###########################################
+#### FABRICANTE DE AERONAVES MULTIUSO ####
+###########################################
+generic_multi_role_aircraft_organization: "Fabricante de Aeronaves Multiuso"
+generic_mio_initial_trait_multi_role_aircraft_designer: "Projetista de Aeronaves Multiuso"
+generic_mio_trait_armored_cockpit: "Cockpit Blindado"
+generic_mio_trait_escort_designs: "Designs de Escolta"
+generic_mio_trait_light_airframe: "Estrutura Leve"
+generic_mio_trait_medium_airframe: "Estrutura Média"
+generic_mio_trait_hardened_frames: "Estruturas Reforçadas"
+generic_mio_trait_belly_shackles: "Cintos de Barriga"
+generic_mio_trait_oversized_propeller: "Hélice Sobredimensionada"
+generic_mio_trait_variable_pitch_propellers: "Hélices de Passo Variável"
+generic_mio_trait_upgraded_air_air_weapons: "Armas Aéreas Aprimoradas"
+generic_mio_trait_reinforced_wing_hardpoints: "Pontos Duros de Asa Reforçados"
+generic_mio_trait_transport_duties: "Deveres de Transporte"
+generic_mio_trait_upgraded_engines: "Motores Aprimorados"
+generic_mio_trait_not_enough_guns_never_enough_guns: "Nunca Suficientes Armas"
+generic_mio_trait_lengthened_wings: "Asas Alongadas"
+generic_mio_trait_bubble_canopy: "Domo da Cabine"
+generic_mio_trait_bomber_specialization: "Especialização em Bombardeiros"
+
+###########################################
+#### FABRICANTE DE CAÇA DE ALTA AGILIDADE ####
+###########################################
+generic_high_agility_fighter_aircraft_organization: "Fabricante de Caças de Alta Agilidade"
+generic_mio_initial_trait_high_agility_fighters_designer: "Projetista de Caças de Alta Agilidade"
+generic_mio_trait_bigger_engines: "Motores Maiores"
+generic_mio_trait_cantilever_wing_structure: "Estrutura de Asa em Balanço"
+generic_mio_trait_minimum_weapon_requirements: "Requisitos Mínimos de Armas"
+generic_mio_trait_fabric_skin: "Revestimento de Tecido"
+generic_mio_trait_metal_skin: "Revestimento de Metal"
+generic_mio_trait_shortened_wings: "Asas Curtas"
+generic_mio_trait_high_octane_fuels: "Combustíveis de Alta Octanagem"
+generic_mio_trait_interceptor: "Interceptor"
+generic_mio_trait_gunboat: "Navio de Guerra"
+generic_mio_trait_fuel_injection_engines: "Motores com Injeção de Combustível"
+generic_mio_trait_stiffened_wings: "Asas Rígidas"
+generic_mio_trait_subsidiary_suppliers: "Fornecedores Subsidiários"
+generic_mio_trait_fighter_interceptors: "Caças Interceptores"
+
+#################################################
+#### FABRICANTE DE AERONAVES FOCADO EM ALCANCE ####
+#################################################
+generic_range_focused_aircraft_organization: "Fabricante de Aeronaves com Foco em Alcance"
+generic_mio_initial_trait_range_focused_aircraft_designer: "Projetista de Aeronaves com Foco em Alcance"
+generic_mio_trait_large_rudders_and_flaps: "Lemes e Flaps Grandes"
+generic_mio_trait_variable_dihedral: "Diedro Variável"
+generic_mio_trait_high_capacity_ammunition: "Munição de Alta Capacidade"
+generic_mio_trait_extra_cargo_doors: "Portas Extras para Carga"
+generic_mio_trait_improved_air_frame_strength: "Força Aprimorada da Estrutura Aérea"
+generic_mio_trait_glider_hook_modifications: "Modificações do Gancho de Planadores"
+generic_mio_trait_advanced_production_techniques: "Técnicas Avançadas de Produção"
+generic_mio_trait_low_drag_wings: "Asas de Baixo Arrasto"
+generic_mio_trait_strafing_techniques: "Técnicas de Ataque ao Solo"
+generic_mio_trait_long_range_modifications: "Modificações de Longo Alcance"
+generic_mio_trait_anti_interception_tactics: "Táticas Antissequestro"
+generic_mio_trait_high_explosive_payload: "Carga Explosiva de Alta Potência"
+generic_mio_trait_long_range_fighters: "Caças de Longo Alcance"
+generic_mio_trait_heavy_fighters: "Caças Pesados"
+generic_mio_trait_tactical_bombers: "Bombardeiros Táticos"
+
+ #   #  ##  ### ### ###  ### ### #       #   # ###  ##       ##  ###   ##  #  # ### ### #   # ###  ###  ##
+ ## ## #  #  #  #   #  #  #  #   #       ## ##  #  #  #     #  # #  # #  # #  # #    #   # #  #  # #   #
+ # # # ####  #  ##  ###   #  ##  #       # # #  #  #  #     #### ###  #    #### ##   #    #   ###  ##   #
+ #   # #  #  #  #   #  #  #  #   #       #   #  #  #  #     #  # #  # #  # #  # #    #    #   #    #     #
+ #   # #  #  #  ### #  # ### ### ###     #   # ###  ##      #  # #  #  ##  #  # ###  #    #   #    ### ##
+
+###########################################
+#### FABRICANTE DE ARTILHARIA ####
+###########################################
+generic_artillery_organization: "Fabricante de Artilharia"
+generic_mio_initial_trait_artillery_manufacturer: "Projetista de Artilharia"
+generic_mio_trait_mobile_limbers: "Cavalos Móveis"
+generic_mio_trait_stable_platforms: "Plataformas Estáveis"
+generic_mio_trait_improved_hydraulic_recoil_system: "Sistema de Recuo Hidráulico Aprimorado"
+generic_mio_trait_improved_direct_fire_targeting: "Mirante Aprimorado para Tiro Direto"
+generic_mio_trait_advanced_anti_air_targeting: "Mirante Avançado para Alvos Aéreos"
+generic_mio_trait_advanced_trajectory_calculations: "Cálculos de Trajetória Avançados"
+generic_mio_trait_sliding_breech_block: "Bloco de Culatra Deslizante"
+generic_mio_trait_rapid_fire: "Fogo Rápido"
+generic_mio_trait_advanced_barrel_forging: "Forjamento Avançado de Canos" #TAMBÉM PARA ARMAS DE INFANTARIA
+generic_mio_trait_big_guns: "Canhões Grandes"
+generic_mio_trait_gun_mass_production: "Produção em Massa de Armas"
+generic_mio_trait_super_charges: "Super Cargas"
+generic_mio_trait_light_weight_barrels: "Canos Leves"
+
+################################################
+#### FABRICANTE DE EQUIPAMENTOS DE INFANTARIA ####
+################################################
+generic_infantry_equipment_organization: "Fabricante de Equipamentos de Infantaria"
+generic_mio_initial_trait_infantry_manufacturer: "Projetista de Armas de Infantaria"
+generic_mio_trait_drum_pattern_sights: "Miras em Tambor"
+generic_mio_trait_reinforced_stocks: "Culatra Reforçada"
+generic_mio_trait_bolt_action: "Fuzis de Ferrolho"
+generic_mio_trait_semi_auto: "Fuzis Semi-Automáticos"
+generic_mio_trait_medium_machineguns: "Produção de Metralhadoras Médias"
+generic_mio_trait_mass_rifle_production: "Produção Massiva de Rifles"
+generic_mio_trait_quality_materials: "Materiais de Qualidade"
+generic_mio_trait_improved_small_arms_bullet_design: "Design Aprimorado de Balas de Armas Leves"
+generic_mio_trait_armor_piercing_rounds: "Munição Perfurante de Blindagem"
+generic_mio_trait_heavy_anti_armor_ammunition: "Munição Pesada Antitanque"
+generic_mio_trait_vehicle_mounted_capabilities: "Capacidades Montadas em Veículos"
+generic_mio_trait_rubber_cushioned_buttpad: "Almofada de Cabo Almofadada"
+generic_mio_trait_anti_vehicle_land_mines: "Minas Terrestres Antiveículo"
+
+######################################
+#### FABRICANTE AUTOMOTIVO ####
+######################################
+generic_motorized_mechanized_organization: "Fabricante Automotivo"
+generic_mio_initial_trait_motorized_mechanized_manufacturer: "Projetista Automotivo"
+generic_mio_trait_composite_cargo_bed: "Caçamba de Carga Composta"
+generic_mio_trait_steel_cargo_bed: "Caçamba de Carga de Aço"
+generic_mio_trait_all_wheel_drive: "Tração nas Quatro Rodas"
+generic_mio_trait_attached_wood_gas_generator: "Gerador de Gás de Madeira Acoplado"
+generic_mio_trait_high_powered_engine: "Motor de Alta Potência"
+generic_mio_trait_medium_machinegun_mounts: "Metralhadoras Médias Montadas Lateralmente"
+generic_mio_trait_armored_pulpit_mount: "Montagem de Púlpito Blindada"
+generic_mio_trait_heavy_machinegun_mount: "Metralhadora Pesada Montada"
+generic_mio_trait_advanced_artillery_racks: "Racks de Artilharia Avançados"
+generic_mio_trait_mounted_light_anti_tank_gun: "Canhão Antitanque Leve Montado"
+generic_mio_trait_open_chassi: "Chassi Aberto"
+generic_mio_trait_closed_chassi: "Chassi Fechado"
+generic_mio_trait_bulletproof_panels: "Painéis Antibalas"
+generic_mio_trait_light_flame_projectors: "Lançadores de Chamas Leves"
+generic_mio_trait_land_mine_racks: "Racks de Minas Terrestres"
+
+############################################
+#### FABRICANTE DE EQUIPAMENTOS DE SUPORTE ####
+############################################
+generic_support_equipment_organization: "Fabricante de Equipamentos de Suporte"
+generic_mio_initial_trait_support_equipment_manufacturer: "Projetista de Equipamentos de Suporte"
+generic_mio_trait_material_recycling: "Reciclagem de Materiais"
+generic_mio_trait_scrap_melting: "Fusão de Sucata"
+generic_mio_trait_high_quality_material_blend: "Mistura de Materiais de Alta Qualidade"
+generic_mio_trait_research_program: "Programa de Pesquisa"
+generic_mio_trait_efficient_scale_up: "Aumento de Escala Eficiente"
+generic_mio_trait_private_scientists_program: "Programa de Cientistas Privados"
+generic_mio_trait_private_tenders: "Ofertas Privadas"
+generic_mio_trait_anti_tank_rifle: "Fuzil Antitanque"
+generic_mio_trait_single_shot_man_portable_anti_tank_system: "Sistema Antitanque Portátil de Um Tiro"
+generic_mio_trait_small_sidearms: "Pequenas Armas Secundárias"
+generic_mio_trait_light_mortar: "Morteiro Leve"
+generic_mio_trait_pontoons: "Ponões"
+
+##################################
+#### FABRICANTE DE CARROS BLINDADOS ####
+##################################
+generic_armored_car_organization: "Fabricante de Carros Blindados"
+generic_mio_initial_trait_armored_car_manufacturer: "Projetista de Carros Blindados"
+generic_mio_trait_flash_suppressor: "Supressor de Flash"
+generic_mio_trait_glacis_armor: "Blindagem de Glacis"
+generic_mio_trait_heavy_anti_tank_rifle: "Fuzil Antitanque Pesado"
+generic_mio_trait_light_anti_personnel_machinegun: "Metralhadora Leve Antipessoal"
+generic_mio_trait_combat_group: "Grupo de Combate"
+generic_mio_trait_machine_gun_group: "Grupo de Metralhadoras"
+generic_mio_trait_transceiver_station: "Estação Transmissora"
+generic_mio_trait_water_tank: "Tanque de Água"
+generic_mio_trait_reinforced_suspension: "Suspensão Reforçada"
+generic_mio_trait_reverser: "Marcha à Ré"
+generic_mio_trait_officer_support_car: "Carro de Apoio ao Oficial"
+generic_mio_trait_heavy_anti_tank_gun: "Canhão Antitanque Pesado"
+generic_mio_trait_reinforced_wheels: "Rodas Reforçadas"

@@ -1,0 +1,33 @@
+﻿l_braz_por:
+
+###Events###
+asiapeace.1.t: "Derrota no Oriente"
+asiapeace.1.d: "Após uma luta prolongada em nossas possessões no Extremo Oriente, parece que perdemos nossa última base importante na região.\n\nCom o Extremo Oriente em lockdown e a incapacidade de nossos adversários nos atingirem realisticamente na Europa, a melhor opção parece ser assinar a paz com eles e nos retirarmos do Extremo Oriente."
+asiapeace.1.a: "Vamos nos unir pela paz!"
+asiapeace.1.b: "Liberaremos nossas colônias com o tempo!"
+
+asiapeace.2.t: "[From.GetNameDefCap] se rende!"
+asiapeace.2.d: "Com a eliminação bem-sucedida das bases de [From.GetNameDef] na região, eles querem negociar, buscando se retirar completamente do Extremo Oriente, deixando-nos colher os despojos junto com os outros que têm lutado contra o Reichspakt nesta área."
+asiapeace.2.a: "Boa riddance!"
+asiapeace.2.b: "Não, não descansaremos até marcharmos em Berlim!"
+
+asiapeace.3.t: "[From.GetNameDefCap] não aceita!"
+asiapeace.3.d: "Apesar de mostrarmos boa vontade evacuando a área, que parece ter sido o objetivo deles, [From.GetNameDef] nos informou que não vão parar até marcharem pela nossa capital.\n\nParece que a guerra no leste ainda não acabou afinal."
+asiapeace.3.a: "Regra Direta de [From.Capital.GetCapitalVictoryPointName] não parece atraente!"
+
+asiapeace.4.t: "Derrota no Oriente"
+asiapeace.4.d: "Após uma luta prolongada em nossas possessões no Extremo Oriente, parece que perdemos nossa última base importante na região.\n\nCom o Extremo Oriente em lockdown e a incapacidade de nossos adversários nos atingirem realisticamente na Europa, a melhor opção parece ser assinar a paz com eles e nos retirarmos do Extremo Oriente."
+asiapeace.4.a: "Vamos nos unir pela paz!"
+asiapeace.4.b: "Liberaremos nossas colônias com o tempo!"
+
+asiapeace.5.t: "[From.GetNameDefCap] se rende!"
+asiapeace.5.d: "Com a eliminação bem-sucedida das bases de [From.GetNameDef] na região, eles querem negociar, buscando se retirar completamente do Extremo Oriente, deixando-nos colher os despojos junto com os outros que têm lutado contra os Países Baixos nesta área."
+asiapeace.5.a: "Boa riddance!"
+asiapeace.5.b: "Não, não descansaremos até marcharmos em Amsterdã!"
+
+asiapeace.6.t: "[From.GetNameDefCap] não aceita!"
+asiapeace.6.d: "Apesar de mostrarmos boa vontade evacuando a área, que parece ter sido o objetivo deles, [From.GetNameDef] nos informou que não vão parar até marcharem pela nossa capital.\n\nParece que a guerra no leste ainda não acabou afinal."
+asiapeace.6.a: "Regra Direta de [From.Capital.GetCapitalVictoryPointName] não parece atraente!"
+
+asian_hol_will_proceed_to_peacedeal_we_white_peace: "As possessões do Leste Asiático Holandês e aliados seguirão para um acordo de paz, e o restante dos Países Baixos buscará a paz.\n"
+asian_reichspakt_will_proceed_to_peacedeal_we_white_peace: "As possessões do Leste Asiático Alemão e aliados seguirão para um acordo de paz, e o restante do Reichspakt buscará a paz.\n"

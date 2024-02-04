@@ -1,0 +1,706 @@
+﻿l_braz_por:
+
+SRD_focus: "Árvore de Foco da Sardenha"
+
+### Country Names ###
+ SRD: "Sardenha"
+SRD_ADJ: "Sardo"
+SRD_DEF: "Sardenha"
+
+SRD_ITA: "Itália"
+SRD_ITA_ADJ: "Italiano"
+SRD_ITA_DEF: "Itália"
+
+SRD_ITA_social_democrat: "Reino da Itália"
+SRD_ITA_social_democrat_ADJ: "Italiano"
+SRD_ITA_social_democrat_DEF: "o Reino da Itália"
+SRD_ITA_social_liberal: "Reino da Itália"
+SRD_ITA_social_liberal_ADJ: "Italiano"
+SRD_ITA_social_liberal_DEF: "o Reino da Itália"
+SRD_ITA_market_liberal: "Reino da Itália"
+SRD_ITA_market_liberal_ADJ: "Italiano"
+SRD_ITA_market_liberal_DEF: "o Reino da Itália"
+SRD_ITA_social_conservative: "Reino da Itália"
+SRD_ITA_social_conservative_ADJ: "Italiano"
+SRD_ITA_social_conservative_DEF: "o Reino da Itália"
+SRD_ITA_authoritarian_democrat: "Reino da Itália"
+SRD_ITA_authoritarian_democrat_ADJ: "Italiano"
+SRD_ITA_authoritarian_democrat_DEF: "o Reino da Itália"
+SRD_ITA_paternal_autocrat: "Reino da Itália"
+SRD_ITA_paternal_autocrat_ADJ: "Italiano"
+SRD_ITA_paternal_autocrat_DEF: "o Reino da Itália"
+SRD_ITA_national_populist: "Reino da Itália"
+SRD_ITA_national_populist_ADJ: "Italiano"
+SRD_ITA_national_populist_DEF: "o Reino da Itália"
+
+SRD_piedmont: "Sardenha-Piemonte"
+SRD_piedmont_ADJ: "Sardo"
+SRD_piedmont_DEF: "Sardenha-Piemonte"
+
+### Parties ###
+ SRD_totalist_party: "USNI"
+ SRD_totalist_party_long: "Unione Sindacale Nazionale Italiana"
+ SRD_syndicalist_party: "USS"
+ SRD_syndicalist_party_long: "Unione Sindacale Sarda"
+ SRD_radical_socialist_party: "PSS"
+ SRD_radical_socialist_party_long: "Partito Socialista di Sardegna"
+ SRD_social_democrat_party: "PSd'Az"
+ SRD_social_democrat_party_long: "Partito Sardo d'Azione"
+ SRD_social_liberal_party: "PSd'Az"
+ SRD_social_liberal_party_long: "Partito Sardo d'Azione"
+ SRD_market_liberal_party: "UL"
+ SRD_market_liberal_party_long: "Unione Liberale"
+ SRD_social_conservative_party: "UDS"
+ SRD_social_conservative_party_long: "Unione Democratica Sarda"
+ SRD_authoritarian_democrat_party: "PdC"
+ SRD_authoritarian_democrat_party_long: "Partito dei Combattenti"
+ SRD_paternal_autocrat_party: "Governo Bardanzellu"
+ SRD_paternal_autocrat_party_long: "Governo Bardanzellu"
+ SRD_paternal_autocrat_2_party: "Governo Badoglio"
+ SRD_paternal_autocrat_2_party_long: "Governo Badoglio"
+ SRD_paternal_autocrat_3_party: "BN"
+ SRD_paternal_autocrat_3_party_long: "Blocco Nazionale"
+ SRD_paternal_autocrat_4_party: "Governo Marras"
+ SRD_paternal_autocrat_4_party_long: "Governo Marras"
+ SRD_paternal_autocrat_5_party: "PNM"
+ SRD_paternal_autocrat_5_party_long: "Partito Nazionale Monarchico"
+ SRD_paternal_autocrat_6_party: "Governo Thaon di Revel"
+ SRD_paternal_autocrat_6_party_long: "Governo Thaon di Revel"
+ SRD_national_populist_party: "PS"
+ SRD_national_populist_party_long: "Populu Sardu"
+
+ SRD_sardinian_corsican_action_party: "PSd'Az/PCd'Az"
+ SRD_sardinian_corsican_action_party_long: "Partito Sardo d'Azione / Partito Corso d'Azione"
+ SRD_social_dem_party_long: "Partito d'Azione"
+ SRD_social_dem_party: "PdA"
+ SRD_social_dem_unified_party_long: "Partito Socialista dei Lavoratori Italiani"
+ SRD_social_dem_unified_party: "PSLI"
+ SRD_social_lib_party_long: "Partito Democratico Sociale Italiano"
+ SRD_social_lib_party: "PDSI"
+ SRD_social_lib_farmer_party_long: "Partito dei Contadini del Piemonte"
+ SRD_social_lib_farmer_party: "PCdP"
+ SRD_market_lib_party_long: "Partito Liberale Italiano"
+ SRD_market_lib_party: "PLI"
+ SRD_social_cons_party_long: "Democrazia Cristiana"
+ SRD_social_cons_party: "DC"
+ SRD_natpop_party: "ANI"
+ SRD_natpop_party_long: "Associazione Nazionalista Italiana"
+ SRD_syndic_party: "USI"
+ SRD_syndic_party_long: "Unione Sindacale Italiana"
+ SRD_rad_socialist_party: "PSI"
+ SRD_rad_socialist_party_long: "Partito Socialista Italiano"
+
+### Tooltips ###
+SRD_strengthen_democracy_tt: "§YSardenha§! espera que sua autonomia seja concedida no caso de o Governo deixar formalmente §YCagliari§!, dando os seguintes efeitos:"
+SRD_enforce_centralism_tt: "Isso §Rlevará a protestos§! no caso de o Governo deixar formalmente §YCagliari§!"
+SRD_build_after_liberation: "Será construído após a Libertação do Piemonte\n\n"
+SRD_proclaim_kingdom_of_italy: "Proclamar o Reino da Itália\n\n§YSardenha§! será conhecida como o §YReino da Itália§!"
+SRD_proclaim_sardinia_piedmont: "§RIsso significará renunciar a quaisquer ambições para o Reino da Itália§!\n"
+SRD_industralize_the_south_flag: "Uma vez que controlemos o sul da Itália, industrializaremos.\n\n"
+SRD_loyal_ministers: "Encheremos o conselho privado com ministros competentes e leais ao rei"
+SRD_italian_free_trade_tooltip: "Promoveremos o comércio entre os países da Itália"
+SRD_joint_military_tooltip: "Promoveremos o treinamento militar entre os membros da Confederação Italiana"
+SRD_sicgarunit_tt: "Uma nova divisão Papal sob nosso comando surgirá em Roma sob controle sardo."
+SRD_control_any_two: "Dois dos seguintes §Y[159.GetName]§!, §Y[160.GetName]§!, §Y[1004.GetName]§! ou §Y[162.GetName]§! são controlados por §Y[Root.GetNameDef]§! ou um súdito"
+SRD_upgrade_effect_political_tooltip: "§CAs ideias anteriores serão fundidas em uma ideia nova e mais poderosa com base na sua escolha anterior de governo.§!"
+SRD_legacy_sassari_brigade_tt: "Combina e melhora §Ytodos os espíritos políticos§! em §YAvante Sardegna§!\nAlteração efetiva:\n$MODIFIER_NAVAL_INVASION_PENALTY$: §G-10%§!\n$MODIFIER_CONSCRIPTION_FACTOR$: §Y1.00%§!\n$MODIFIER_CONSCRIPTION_TOTAL_FACTOR$: §G10%§!\n$MODIFIERS_ARMY_CORE_ATTACK_FACTOR$: §G+10.0%§!\n$MODIFIERS_ARMY_CORE_DEFENCE_FACTOR$: §G+10.0%§!\n$MODIFIER_TRAINING_TIME_ARMY_FACTOR$: §G-5.00%§!"
+SRD_militarist_badoglio_opposition_ded: "Não possui o espírito nacional §YOposição Militarista§!"
+SRD_reformist_opposition_ded: "Não possui o espírito nacional §YOposição Reformista§!"
+SRD_will_halve_political_tree_boni: "§RCom a unificação completa do país, os bônus da árvore política serão reduzidos pela metade.§!"
+
+SRD_add_naval_bomber_tech: "Adicionar tecnologia: §Y$SRD_nav_bomber_equipment_1$§!."
+SRD_aircraft_production_effort_production_cost: "§YAeronaves§!: £production_cost Custo de Produção: §G-30.00%§!"
+SRD_modern_air_force_production_cost: "§YAeronaves§!: £production_cost Custo de Produção: §G-10.00%§!"
+SRD_global_navy_production_cost: "§YNavios§!: £production_cost Custo de Produção: §G-10.00%§!"
+
+SRD_gain_cavalry_template_military_police: "Ganhe um modelo de §Y$cavalry$§! com seis batalhões e suporte de §Y$military_police$§!."
+SRD_gain_cavalry_template: "Ganhe um modelo de §Y$cavalry$§! com seis batalhões.\n§Y$military_police$§! também será adicionado se a tecnologia tiver sido pesquisada."
+
+SRD_old_hulls_new_strategies_tt: "Modifique §Y$SRD_underwater_threat$§! ou §Y$SRD_safe_seas$§! por\n$MODIFIER_NAVAL_ACCIDENTS_CHANCE$: [?-0.15|-=%]\n$MODIFIER_INDUSTRIAL_REFIT_SPEED_FACTOR$: [?0.1|+=%0]\n$MODIFIER_INDUSTRIAL_REFIT_IC_COST_FACTOR$: [?-0.1|-=%0]\n$MODIFIER_REPAIR_SPEED_FACTOR$: [?0.1|+=%0]"
+SRD_adopt_experimental_technologies_tt: "Modifique §Y$SRD_underwater_threat$§! ou §Y$SRD_safe_seas$§! por\n$MODIFIER_NAVAL_STRIKE_ATTACK_FACTOR$: [?0.05|+=%0]\n$MODIFIER_NAVAL_DETECTION$: [?0.1|+=%0]"
+SRD_naval_hit_and_run_tactics_tt: "Modifique §Y$SRD_underwater_threat$§! ou §Y$SRD_safe_seas$§! por\n$MODIFIER_NAVAL_RETREAT_CHANCE$: [?0.1|+=%0]\n$MODIFIER_NAVAL_RETREAT_SPEED$: [?0.1|+=%0]\n$MODIFIER_NAVAL_VISIBILITY_FACTOR$: [?-0.05|-=%0]"
+
+SRD_fate_of_fiat_tt_1: "Se escolhermos §YPermitir a fusão§!:"
+SRD_fate_of_fiat_tt_2: "§YAutomobili Agnelli§! e §YAgnelli Carri Armati§! §Rnão estarão mais disponíveis como empresas de design§!"
+SRD_fate_of_fiat_tt_2_aat: "§YAutomobili Agnelli§! e §YAgnelli Carri Armati§! §Rnão estarão mais disponíveis como organizações militares-industriais§!"
+SRD_fate_of_fiat_tt_3: "Se escolhermos §YMantê-los separados§!:"
+
+SRD_the_constituent_assembly_tt: "Este foco será desbloqueado com as §Yprimeiras eleições§! realizadas após a §Yreunificação da Itália§!.\n\nOs trabalhos da Assembleia Constituinte durarão cerca de um ano, após os quais §YRatificar a Constituição§! será desbloqueado."
+
+SRD_balance_call_allies_warning: "§RChamar quaisquer aliados da [ROOT.GetFactionName] para a guerra quebrará o equilíbrio na Itália e permitirá que [SRI.GetNameDef] se junte à [INT.GetFactionName]!§!"
+
+### Flags ###
+SRD_italian_customs_union_opinion: "União Aduaneira Italiana"
+SRD_badoglio_government: "§PMarechal Badoglio§! foi chamado para liderar um governo"
+SRD_marras_government: "§gGeneral Marras§! foi chamado para liderar um governo"
+SRD_action_soclib_split: "O §YPartido Trabalhista Socialista§! se formou"
+SRD_national_centre_exists: "O §YCentro Nacional§! se formou"
+SRD_constituent_assembly_concluded: "A §YAssembleia Constituinte§! concluiu seu trabalho"
+sardinia_coal_mines_developed: "Qualquer país italiano:\n$has_completed_decision$ $SRD_develop_cagliari_coal_mines$§!"
+
+### Decisions ###
+ SRD_political_decisions: "Decisões Políticas"
+SRD_political_decisions_desc: "Existem muitas decisões políticas diferentes que podemos tomar para moldar a natureza do Reino."
+SRD_unite_italy: "Unificar a Itália"
+SRD_unite_italy_desc: "A Itália estava dividida durante a guerra civil italiana. No entanto, finalmente, a Casa de Saboia triunfou e agora unificamos o país novamente."
+SRD_reclaim_piedmont: "Restaurar a Ordem no Piemonte"
+SRD_reclaim_piedmont_desc: "Devemos retomar o Piemonte e destruir os sindicalistas ímpios dentro da República Socialista da Itália. Levará tempo para desmantelar o sindicalismo, mas estar de volta ao continente italiano será mais do que suficiente para nós. Viva o rei!"
+SRD_attack_italy: "Atacar [From.GetNameDef]"
+SRD_attack_italy_desc: "Agora que a República Socialista finalmente foi destruída, é hora de reunir o país sob uma única bandeira - a nossa."
+SRD_invite_into_kingdom: "Convidar [From.GetNameDef] para o Reino"
+SRD_invite_into_kingdom_desc: "Está bastante claro agora que detemos a posição mais forte na península italiana. Com a república socialista agora lidada, talvez uma rota pacífica para reunir [Root.GetNameDef] e [From.GetNameDef] seja possível."
+SRD_develop_cagliari_coal_mines: "Desenvolver Minas de Carvão em [114.GetName]"
+SRD_pack_the_courts: "Lotear os Tribunais"
+SRD_request_french_help: "Solicitar Ajuda Francesa"
+SRD_enable_internal_exiles: "Expandir Procedimentos de Exílio Interno"
+SRD_terminate_rival_cliques: "Terminar Círculos Rivais"
+
+### Companies ###
+ societa_mineraria_sarda: "Società Mineraria Sarda"
+ industrie_ansaldo: "Industrie Ansaldo"
+ universita_di_cagliari: "Università di Cagliari"
+ ferrovie_meridionali_sarde: "Ferrovie Meridionali Sarde"
+ Accademia_Militare_di_Sassari: "Accademia Militare di Sassari"
+ regio_arsenale_di_cagliari: "Regio Arsenale di Cagliari"
+ automobili_agnelli: "Automobili Agnelli"
+ agnelli_carri_armati: "Agnelli Carri Armati"
+ fabbrica_aerei_piaggio: "Fabbrica Aerei Piaggio"
+ cantieri_navali_odero: "Cantieri Navali Odero"
+ accademia_aeronautica_di_cagliari: "Accademia Aeronautica di Cagliari"
+ accademia_navale_della_maddalena: "Accademia Navale della Maddalena"
+
+### Ideas ###
+SRD_militarist_badoglio_opposition: "Oposição Militarista"
+SRD_militarist_badoglio_opposition_desc: "Informalmente liderada pelo Marechal Badoglio, a esfera conservadora dentro do Exército Real iniciou uma campanha não oficial de oposição contra o executivo reformista de Marras. Embora poderosos, eles não tentarão ações subversivas diretas enquanto o Rei nos apoiar; no entanto, eles permanecerão como um espinho em nosso lado."
+SRD_reformist_opposition: "Oposição Reformista"
+SRD_reformist_opposition_desc: "Protestando contra o retorno ao poder do Marechal Badoglio, os reformistas foram às ruas buscando evitar um retorno à ditadura; claramente guiados por infiltradores socialistas, esses revolucionários perigosos devem ser esmagados."
+SRD_supremacy_of_parliament: "Supremacia do Parlamento"
+SRD_supremacy_of_parliament_desc: "O governo na Sardenha, embora nunca tenha rejeitado abertamente os princípios constitucionais que ajudaram a fundar a Itália, tem sido há muito tempo assolado por ditaduras nominalmente monarquistas impostas por militares. Agora que os reformadores democráticos foram fortalecidos, o parlamento foi restaurado à proeminência e é improvável que permitam que o poder lhes escape novamente."
+SRD_women_suffrage_idea: "Sufrágio Feminino"
+SRD_women_suffrage_idea_desc: "Como parte de um maior esforço de democratização na Sardenha, as mulheres finalmente ganharam o direito de votar. Embora nem sempre aplicado de forma equitativa, esta iniciativa tem recebido apoio genuíno. Elevou a esperança de que nosso governo retorne ao continente muito melhor do que aquele que partiu, e elevou o ânimo de nossos leais."
+SRD_sardinian_autonomy_promise: "Promessa de Autonomia Sarda"
+SRD_sardinian_autonomy_promise_desc: "Desde a União Perfeita, a Sardenha tem sido uma região isolada dentro da Itália; agora que estamos em Cagliari, no entanto, não podemos mais ignorar o apelo da ilha pelo autogoverno. Isso tem sido um problema, já que os sardos estavam convencidos de que, caso recuperássemos o Continente, a Sardenha voltaria a ser uma terra rural e sem importância. Agora, com a simples promessa de que a Sardenha manterá alguma autonomia após o Continente ser recuperado, finalmente convencemos o bravo povo da Sardenha a apoiar nossa guerra de Reclamação Nacional."
+SRD_centralism_enforced: "Centralismo Piemontês"
+SRD_centralism_enforced_desc: "Toda essa conversa sobre autonomismo e autogoverno não passa de oportunismo político estimulado pela situação atual, e ameaça a própria unidade de nossa nação. A Sardenha é uma parte integral do Reino; e muitos sardos patrióticos estão prontos para morrer por seu Rei, independentemente das inclinações políticas."
+SRD_cisl_idea: "Confederação Nacional dos Sindicatos dos Trabalhadores"
+SRD_cisl_idea_desc: "Uma repressão completa aos sindicatos só prejudicaria nossa nação, mas ao mesmo tempo devemos permanecer vigilantes contra os infiltradores socialistas; ao federar todos os sindicatos verdadeiramente independentes em um grande sindicato nacional semiautônomo, garantiremos um direito básico de nosso povo e manteremos afastados radicais perigosos."
+SRD_legal_unions_idea: "Sindicatos Legalizados"
+SRD_legal_unions_idea_desc: "Não podemos negar ao nosso povo o direito básico de se sindicalizar. Embora uma verificação de antecedentes sobre sua liderança seja necessária para evitar infiltrações, todos os sindicatos devem ser permitidos a operar e defender os direitos de nossos trabalhadores."
+SRD_avanti_sardegna: "Avanti Sardegna"
+SRD_avanti_sardegna_desc: "Mais uma vez, o povo da Sardenha se encontrará em um campo de batalha longe de casa, mais uma vez eles pegarão em armas para defender sua ilha amada, mais uma vez muitos perderão tragicamente suas vidas por um objetivo maior do que eles próprios. No entanto, assim como no planalto de Asiago nos anos trágicos da Weltkrieg, esses sardos deixarão de lado suas diferenças para lutar pelo Rei, pela Itália e pela Sardenha até o amargo fim. É nosso dever garantir que seus sacrifícios não sejam em vão, não novamente. Enquanto o grito de "Avanti Savoia" une todo verdadeiro italiano, outro grito une todo sardo, e junto com esses heróis faremos com que ele alcance o Continente, Paris, Viena, Berlim:\nAvanti Sardegna, Avanti Fortza Paris!"
+SRD_miners_unrest: "Instabilidade nas Minas"
+SRD_miners_unrest_desc: "O fracasso do Governo Bardanzellu em lidar com várias questões nas minas de propriedade estrangeira do sul da Sardenha, culminando em um esquema de nacionalização completamente fracassado, permitiu que a instabilidade e ideias radicais florescessem nas comunidades mineradoras de Carbonia e Iglesias. Com os locais começando a se organizar sob sindicatos menores, tecnicamente ilegais para funcionários públicos e muito ilegais sob o Estado de Sítio, o novo governo terá que avançar em direção a uma resolução, caso contrário a República Socialista intervirá em seu nome."
+SRD_royalist_fervor_idea: "Fervor Realista"
+SRD_royal_guards_idea: "Guardas Reais"
+SRD_sardinia_autonomous_region: "A Região Autônoma da Sardenha"
+SRD_corporate_support_idea: "Fundo de Corporações Patrióticas"
+SRD_badoglio_personality_cult_idea: "O Culto à Personalidade do Marechal"
+
+SRD_new_constitution_idea: "A Nova Constituição"
+SRD_return_to_normality_idea: "Um Retorno à Normalidade"
+SRD_progress_of_italy_idea: "Pelo Progresso da Itália"
+SRD_move_to_federalism_idea: "Mudança em Direção ao Federalismo"
+SRD_six_points_manifesto_idea: "O Manifesto dos Seis Pontos"
+
+SRD_entente_support: "Apoio da Entente"
+SRD_entente_support_desc: "A Sardenha depende extensivamente de seus colegas governos no exílio para sustentar seu governo. Nossos amigos em Ottawa e Argel generosamente nos forneceram subsídios para nosso exército, e em troca precisaremos desempenhar nosso papel na libertação de nossas pátrias do domínio socialista."
+
+SRD_sofindit: "SOFINDIT"
+SRD_economic_miracle_idea: "O Milagre Econômico"
+
+SRD_underwater_threat: "Ameaça Subaquática"
+SRD_safe_seas: "Mares Seguros"
+SRD_mines_and_torpedoes: "Minas e Torpedos"
+SRD_global_navy: "Marinha Global"
+
+SRD_fuel_management: "Gestão de Combustível"
+
+SRD_airborne_supply: "Suprimento Aéreo"
+SRD_pilot_training: "Treinamento de Pilotos"
+SRD_aircraft_production_effort: "Esforço de Produção de Aeronaves"
+SRD_aircraft_production_effort_effect: "$SRD_aircraft_production_effort$"
+SRD_modern_air_force: "Força Aérea Moderna"
+SRD_modern_air_force_effect: "$SRD_modern_air_force$"
+
+SRD_savoyard_army: "Exército Saboiano"
+
+### Focus - Politics ###
+ SRD_tackle_institutional_crisis: "Enfrentar a Crise Institucional"
+SRD_tackle_institutional_crisis_desc: "A crise dos mineiros provou ser fatal para a estabilidade do já fraco governo de Bardanzellu. Com o equilíbrio entre exilados e Parlamento quebrado, uma solução para a governabilidade parece impossível; apesar dos desejos do rei Amedeo, uma intervenção real e um gabinete extraparlamentar podem estar no horizonte."
+SRD_protect_the_kingdom: "Proteger o Reino"
+SRD_protect_the_kingdom_desc: "Os agitadores do chamado campo "reformista" são claramente infiltrados e espiões Vermelhos - sua oposição ao gabinete apolítico de Badoglio sendo a prova final disso. Não devemos permitir que esses quintacolunas enfraqueçam a Sardenha, pois o único efeito disso será a invasão."
+SRD_the_special_laws: "As Leis Especiais"
+SRD_the_special_laws_desc: "Nossa atual governança se baseia em um sistema de acordos não ditos, contratos verbais e negociações parlamentares, um tipo de governança que limita severamente o poder do governo de Sua Majestade e, portanto, prejudica sua capacidade de conter a Hidra Vermelha. Com nossas recentes grandes vitórias contra a oposição, nos livrar de toda essa tralha burocrática e solidificar nossa - a estabilidade do Reino será tão simples quanto um traço de caneta."
+SRD_stack_the_senate: "Manipular o Senado"
+SRD_stack_the_senate_desc: "A rápida centralização de poder que nosso governo empreendeu resultou em vários Senadores se juntando às fileiras da oposição. Embora não possamos purgá-los, podemos simplesmente pedir ao Rei que nomeie mais Senadores de mentalidade semelhante para superar esse obstáculo. Como sempre, o Senado não causa crises."
+SRD_crush_the_miner_unions: "Esmagar os Sindicatos de Mineiros"
+SRD_crush_the_miner_unions_desc: "Os sindicatos dos mineiros não passam de uma maneira para os Sindicalistas e outros traidores de mentalidade semelhante subvertam nossa nação de dentro para fora. Essa ameaça ao Rei e ao País não pode ser permitida que persista."
+SRD_bolster_the_secret_services: "Fortalecer os Serviços Secretos"
+SRD_bolster_the_secret_services_desc: "Entre a população sarda estão terríveis cobras, traidores, disfarçados de súditos leais de Sua Majestade e seu Governo. Pelo bem maior de nossa nação, esses malandros devem ser encontrados e removidos, e faremos exatamente isso, fortalecendo e expandindo o Serviço de Inteligência Militar."
+SRD_royalist_fervor: "Fervor Realista"
+SRD_royalist_fervor_desc: "Embora muitos sardos possam se opor ao nosso governo, muitos mais estão dispostos a morrer pelo Rei que está no topo. Esses são, de fato, os únicos verdadeiros sardos, aqueles que lutam pelos Reis que os governaram sabiamente por duzentos anos. Cunservet Deus su Re!"
+SRD_maresciallo_a_noi: "Marechal, a Nós"
+SRD_maresciallo_a_noi_desc: "Nós, homens do Marechal Badoglio, assumimos o controle total desta nação. Com a bênção do Rei, agora avançaremos em direção à reconquista de nossa terra natal, pela glória da Itália e de nosso Marechal. Marechal, a nós!"
+SRD_the_marshals_triumph: "O Triunfo do Marechal"
+SRD_the_marshals_triumph_desc: "Após tantos anos de luta, tendo triunfado sobre todo inimigo e amigo que ameaçava seu domínio, o Marechal finalmente conseguiu. A Península é dele para comandar, para nos levar adiante em uma nova era brilhante."
+SRD_expand_cult_of_marshal: "Expandir o Culto à Personalidade"
+SRD_expand_cult_of_marshal_desc: "Muitos amam o Marechal, mas também há aqueles que se opõem a ele; desses, muitos ainda podem ser redimidos. Enormes campanhas de propaganda mostrarão aos nossos novos súditos a grandeza do Marechal e sua visão da Itália."
+SRD_crack_down_on_neo_syndicalists: "Reprimir os Neo-Sindicalistas"
+SRD_crack_down_on_neo_syndicalists_desc: "Em nossos novos territórios, muitos ainda se apegam às ideologias da República Socialista e de outros estados anti-italianos dissidentes. Isso não pode continuar. Medidas especiais serão tomadas para esmagar esses radicais perigosos."
+SRD_enshrine_church_collaboration: "Consagrar a Colaboração da Igreja"
+SRD_enshrine_church_collaboration_desc: "Talvez haja apenas uma entidade neste país mais poderosa do que nosso amado Rei - a Igreja Católica. Tivemos relações turbulentas com o Papa nas últimas décadas; ainda assim, eles têm se aberto para colaboração conosco nos últimos anos, e algumas garantias formais associadas à própria existência da Hidra Vermelha os empurrarão para o nosso lado."
+SRD_ensure_corporate_support: "Assegurar o Apoio Corporativo"
+SRD_ensure_corporate_support_desc: "Muitos industriais fugiram do Piemonte e de outras partes da Itália governadas pela Hidra Vermelha e atualmente residem em nossa Ilha. Esses ricos e poderosos industriais e latifundiários são uma ferramenta extremamente valiosa para o nosso controle da nação; dado nosso inimigo comum, convencê-los a nos apoiar será fácil."
+SRD_the_king_commands: "O Rei Comanda"
+SRD_the_king_commands_desc: "Tendo removido Badoglio do cenário, o governo de Sua Majestade agora pode prosseguir, com a bênção do Rei, com a reconquista do Continente. Avanti Savoia!"
+SRD_secure_the_government: "Assegurar o Governo"
+SRD_secure_the_government_desc: "Embora possamos ter a bênção do Rei para governar esta nação, muitos ainda se opõem ao nosso governo. Infelizmente, para garantir a estabilidade do Reino, métodos fortes terão que ser usados."
+SRD_end_the_state_of_siege: "Encerrar o Estado de Sítio"
+SRD_end_the_state_of_siege_desc: "Desde 1919, a Sardenha tem sido governada sem o consenso de um Parlamento eleito, com governos sucessivos confiando em medidas de emergência "temporárias" cada vez mais autoritárias. Isso não vai ficar assim; se quisermos reconquistar a confiança de nosso povo, uma transição rápida de volta à democracia deve ser empreendida."
+SRD_free_and_fair_elections: "Eleições Livres e Justas"
+SRD_free_and_fair_elections_desc: "Com figuras autoritárias-chave removidas, é hora de finalmente completar nosso retorno à governança democrática. Uma nova lei eleitoral será aprovada (apesar da oposição Liberal), postos de votação serão abertos, os partidos serão autorizados a organizar uma campanha. A Sardenha finalmente terá sua liberdade, sob o olhar atento de Sua Majestade."
+SRD_strengthen_democracy: "Um Acordo pela Autonomia"
+SRD_strengthen_democracy_desc: "Embora o separatismo sardo permaneça uma visão marginal, a maioria dos sardos sente que qualquer governo que os governe a partir do Continente faria com que a Sardenha retornasse a um status de lugar rural e isolado. Para inspirar confiança nos ilhéus, prometeremos a eles algum nível de autogoverno uma vez que o Continente seja reconquistado."
+SRD_enforce_centralism: "Imprimir o Centralismo"
+SRD_enforce_centralism_desc: "Alguns sardos podem sentir que nosso retorno ao Continente faria da Sardenha uma espécie de parte de segunda classe da Itália. Isso é completamente falso, pois a Sardenha sempre permanecerá uma parte integral do Reino e desfrutará de investimento e apoio como tal."
+SRD_restore_parliamentary_supremacy: "Restaurar a Supremacia Parlamentar"
+SRD_restore_parliamentary_supremacy_desc: "Durante nosso exílio, a Câmara dos Deputados perdeu grande parte de sua importância pré-guerra na formulação de políticas e governança, erodindo assim o aparato constitucionalista que havíamos desfrutado desde 1848. Isso deve ser revertido, pois o Parlamento e seus membros eleitos são os únicos verdadeiros representantes de nosso Povo e somente eles podem verdadeiramente ajudar a aconselhar nosso Rei a governar nossa nação."
+SRD_restore_union_freedom: "Legalizar os Sindicatos de Mineiros"
+SRD_restore_union_freedom_desc: "A questão dos sindicatos dos mineiros no sul da Sardenha tem sido uma pedra em nosso sapato desde o início do Exílio. Vamos acabar com essa luta inútil, legalizando totalmente esses sindicatos, desde que, é claro, possam provar que estão livres de infiltrados revolucionários."
+SRD_federate_unions: "Federar os Sindicatos de Mineiros"
+SRD_federate_unions_desc: "A questão dos sindicatos dos mineiros no sul da Sardenha tem sido uma pedra em nosso sapato desde o início do Exílio. Vamos acabar com essa luta inútil, fundindo esses sindicatos em um grande sindicato federal que podemos ter certeza de estar livre de influências revolucionárias."
+SRD_enact_women_suffrage: "Sufrágio Feminino"
+SRD_enact_women_suffrage_desc: "A questão do sufrágio feminino surgiu pela primeira vez em 1912, quando o direito de voto seria estendido às mulheres até então o primeiro-ministro Giolitti reverteu essa decisão para proteger os interesses de seu bloco e descrever tal política como um "passo longe demais". Mais de duas décadas depois, é hora de reconhecer que o sufrágio feminino não é apenas um passo longe demais, mas também um direito fundamental que deve ser garantido."
+SRD_reform_senate: "Reformar o Senado"
+SRD_reform_senate_desc: "Desde 1848, o Senado nomeado real teoricamente tem sido o contrapeso ao poder da Câmara dos Deputados eleita. No entanto, não houve monarcas verdadeiramente absolutistas desde então, e o Senado foi reduzido a carimbar qualquer projeto de lei que os Deputados aprovem. Conversas sobre reforma senatorial rumo a uma Casa mais democrática existem desde pelo menos 1911, mas nunca foram postas em prática; já passou da hora de finalmente mudarmos isso."
+SRD_tackle_land_reform: "Lidar com as Questões Agrárias"
+SRD_tackle_land_reform_desc: "O poder dos grandes latifundiários nunca foi verdadeiramente desafiado na Sardenha, e as práticas feudais ainda prosperam nos vales isolados da Ilha. Não podemos permitir que isso continue; através de legislação vigorosa, iremos dividir e redistribuir a terra, esperançosamente contendo essas práticas e aumentando nosso apoio nessas áreas."
+SRD_legacy_sassari_brigade: "Legado da Brigada Sassari"
+SRD_legacy_sassari_brigade_desc: "Durante a Weltkrieg, a totalmente sarda Brigada Sassari foi uma das unidades mais valentes do Exército Real. Lutando pela Itália e pela Sardenha em uma terra longe de sua ilha, esses soldados heróicos suportaram baixas terríveis e alcançaram sucessos que poucos poderiam igualar. Sabemos que todos os sardos compartilham de seu espírito, e em nosso Retorno para Casa, todos nós vamos entoar, "Avante Sardenha, Avançar Juntos!""
+SRD_the_constituent_assembly: "A Assembleia Constituinte"
+SRD_the_constituent_assembly_desc: "As ditaduras dos anos 1920 provaram que o Statuto Albertino está desatualizado. Com muitos políticos novos e jovens ansiosos dispostos a reescrever nossa Constituição para aperfeiçoar nosso sistema democrático, talvez seja hora de finalmente aposentar o Estatuto."
+SRD_a_return_to_normality: "Um Retorno à Normalidade"
+SRD_a_return_to_normality_desc: "Após tantos anos de guerra, revolução e conflito civil, tudo o que a trabalhadora população italiana quer é retornar à paz, voltar ao trabalho e não ter que se preocupar com ditadores e sabotadores."
+SRD_protect_the_family: "Proteger a Família"
+SRD_protect_the_family_desc: "Atravessada, arruinada, mas nunca destruída - a família forma a unidade mais básica de toda nossa nação. Ao longo de anos e anos de conflito, muitas famílias tiveram que lidar com perdas devastadoras, dificuldades econômicas e pior. Nós, Cristãos e Democratas, nunca permitiremos que tais horrores se repitam."
+SRD_reignite_italian_nationalism: "Reacender o Nacionalismo Italiano"
+SRD_reignite_italian_nationalism_desc: "Nas últimas duas décadas, projetos como a Federação Italiana patrocinada pela Áustria têm buscado destruir o conceito de uma nação italiana de dentro. Esse processo deve ser revertido, em nome de nossa Pátria."
+SRD_for_the_progress_of_italy: "Pelo Progresso da Itália"
+SRD_for_the_progress_of_italy_desc: "Com a Itália unida, o progresso do País em direção ao futuro não pode parar. Os separatistas, senhores da guerra e revolucionários estavam equivocados na melhor das hipóteses, mas algumas de suas preocupações podem ser adaptadas à nossa situação. Todas as opções devem ser consideradas, para o benefício da Itália."
+SRD_move_towards_federalism: "Avançar em Direção ao Federalismo"
+SRD_move_towards_federalism_desc: "Uma promessa-chave dos partidos que formam o Centro Nacional era o federalismo, para melhor governar as várias partes de nossa nação. O centralismo, como querido pela esquerda e direita radicais, só causará conflito - um conflito que não podemos nos dar ao luxo."
+SRD_six_points_manifesto: "O Manifesto dos Seis Pontos"
+SRD_six_points_manifesto_desc: "Regionalismo, nacionalização das principais plantas industriais, reforma agrária, liberdade para se sindicalizar, secularismo, federalismo pan-europeu; estes são os Seis Pontos sobre os quais o programa do Partido Trabalhista Socialista se baseia. Originalmente, um sétimo ponto favorecia o republicanismo; no entanto, na situação atual, essa posição foi silenciosamente abandonada."
+SRD_new_constitution: "Ratificar a Constituição"
+SRD_new_constitution_desc: "Está feito. Uma nova constituição, escrita pelo Povo para o Povo, está pronta para finalmente substituir o Statuto Albertino e inaugurar uma nova era de verdadeira democracia para a Itália. Tudo o que é necessário agora é o assentimento de Sua Majestade o Rei."
+
+### Focus - Unification ###
+ SRD_return_to_the_mainland: "Retorno ao Continente"
+SRD_return_to_the_mainland_desc: "É hora. Precisamos retornar ao continente, destruir os socialistas que nos forçaram ao exílio e libertar as terras do Piemonte. Com a restauração de nossas terras, teremos uma base firme para libertar o restante da Itália do governo injusto dos pequenos senhores da guerra que dividiram nossa grande nação!"
+
+SRD_italia_riunita: "Itália Unificada"
+SRD_italia_riunita_desc: "Com a Península Italiana do norte sob nosso controle, finalmente é hora de declarar o que todos os italianos agora sabem: a Sardenha é a sucessora do Reino da Itália e agora herda todas as reivindicações dentro de suas gloriosas fronteiras."
+
+SRD_italian_irredentism: "Irredentismo Italiano"
+SRD_italian_irredentism_desc: "Podemos estar perto de reunir a Itália, mas terras italianas ainda estão nas mãos de estrangeiros. As terras em suas áreas montanhosas do Tirol e áreas costeiras no leste do Adriático permanecem fora de nosso alcance. Também precisaremos decidir se devemos deixar Malta escapar completamente de nosso domínio ou trazê-la de volta para o seio de nossa Talassocracia."
+
+SRD_marseille_confrence: "Amizade com os Franceses"
+SRD_marseille_confrence_desc: "Itália e França sempre foram amigos históricos. Precisamos lembrar aos franceses que não somos seus inimigos, independentemente da direção que eles tenham tomado em seu país recentemente."
+
+SRD_rebuild_piedmont: "Reconstruir o Piemonte"
+SRD_rebuild_piedmont_desc: "Precisamos reconstruir o local histórico de nossa capital. Os sindicalistas arruinaram a infraestrutura e os negócios. Claro, aqueles que destroem a infraestrutura e a riqueza italiana não são bem-vindos aqui e devem ser removidos também."
+
+SRD_fate_of_fiat: "O Destino da FIAT"
+SRD_fate_of_fiat_desc: "Com Turim de volta às nossas mãos, Edoardo Agnelli reivindicou a propriedade da FIAT e está solicitando que ela seja fundida com sua nova Automobili Agnelli. Embora a maioria em nosso governo acredite que a FIAT seja sua propriedade legítima desde o início, alguns acreditam que uma fusão teria impacto negativo na concorrência, outros argumentam que FIAT e Automobili Agnelli nem compartilham muito em comum agora."
+
+SRD_autostrada: "Construir a Autoestrada"
+SRD_autostrada_desc: "Vários esforços abortados para criar autoestradas civis foram tentados durante os anos entre guerras, no entanto, nenhum chegou à plena fruição devido ao caos contínuo e à divisão da península italiana. Para apoiar nossa florescente indústria automobilística italiana, nossos engenheiros propuseram um projeto nacional maciço para conectar nossas cidades e demonstrar a força de nosso governo reunido. Centenas de quilômetros de autoestradas serão construídos, pavimentando o caminho para a modernidade!"
+
+SRD_expand_genoese_dockyards: "Expandir os Estaleiros Genoveses"
+SRD_expand_genoese_dockyards_desc: "O porto de Gênova sempre foi um dos centros comerciais mais movimentados da Itália e uma fonte de prestígio para a Casa de Saboia. É hora de restaurar nosso patrocínio da região da Ligúria, concedendo subsídios para reconstruir a cidade e construir novos estaleiros, e Gênova será nosso jóia do Mediterrâneo Ocidental capaz de competir com cidades como Marselha e Barcelona. Nos tornaremos uma potência naval digna de respeito na nova ordem do Mediterrâneo."
+
+SRD_airports_for_italy: "Aeroportos para a Itália"
+SRD_airports_for_italy_desc: "O caos da guerra civil e a divisão da Itália paralisaram o desenvolvimento das viagens aéreas modernas. Embora tenhamos muitos fabricantes de aviação, nossas empresas de serviços aéreos civis são pequenas e lutam, enquanto nossos aeroportos comerciais são insuficientes. Nosso esforço será em duas frentes: consolidaremos nossos serviços aéreos de passageiros civis e promoveremos a construção, expansão e renovação de aeroportos em todo o país. Que as montanhas e colinas não nos dividam mais!"
+
+SRD_university_of_turin: "Revitalizar a Universidade de Turim"
+SRD_university_of_turin_desc: "A Universidade de Turim é uma das mais antigas da Europa e possui uma orgulhosa tradição intelectual, contando com nomes como Erasmus, Amedeo Avogadro e Joseph de Maistre em sua lista de ex-alunos e professores. Deveríamos fazer da instituição o centro de nossa pesquisa nacional."
+
+SRD_industralize_the_south: "Industrializar o Sul"
+SRD_industralize_the_south_desc: "Após restabelecer o controle, precisamos reintegrar o Mezzogiorno à maior economia italiana. O sul da Itália tradicionalmente foi uma região rural e agrária dominada por famílias proprietárias de terras e laços sociais estreitos. À medida que a Itália se fragmentava, sua economia se orientava para o Mediterrâneo. Com grande esforço, investimento da Sofindit e cooperação com líderes locais, começaremos projetos de construção extensivos para tirar a região da pobreza."
+
+SRD_economic_miracle: "O Milagre Econômico"
+SRD_economic_miracle_desc: "A situação pós-guerra na Itália começou a se estabilizar. À medida que as ruínas são reconstruídas com designs modernos, a ocupação substituída pelo governo civil e o investimento econômico estrangeiro lentamente fluindo, a Itália começou a virar uma nova página. A indústria e o turismo têm prosperado e nossa cultura viu um renascimento. A economia está decolando, desafiando as expectativas de que voltaríamos a ser a barriga da Europa. O futuro, embora ainda incerto, finalmente parece brilhante."
+
+SRD_finish_the_diga_di_santa_chiara: "Concluir a Diga di Santa Chiara"
+SRD_finish_the_diga_di_santa_chiara_desc: "A Diga di Santa Chiara foi iniciada lá em 1918 para fornecer à Sardenha a eletricidade necessária para alimentar sua indústria. A Guerra Civil Italiana e a subsequente secessão da Sardenha da Federação Italiana prejudicaram seriamente o financiamento. Além disso, sem acesso à economia italiana mais ampla, os custos para concluir o projeto aumentaram dramaticamente. 18 anos depois, a represa está finalmente perto de sua conclusão, faltando apenas a camada protetora."
+
+SRD_nationalise_sardinian_railways: "Nacionalizar os Ferrovias Sardos"
+SRD_nationalise_sardinian_railways_desc: "Apesar de nossa ilha ser pequena, as ferrovias sardas estão atualmente em uma bagunça: a linha principal 'Dorsal' é de propriedade da Royal Company of the Sardinian Railways, controlada pelos britânicos e praticamente falida há anos, enquanto as ferrovias de bitola estreita locais são controladas pela Sardinian Southern Railways, a Sardinian Complementary Railways e a Sardinian Northern Railways. Ao nacionalizar as ferrovias, integraremos as quatro redes ferroviárias em prol da eficiência."
+
+SRD_create_carbosarda: "Criar a Carbosarda"
+SRD_create_carbosarda_desc: "Sob o solo da Sardenha, muitos minerais e metais estão enterrados, escondidos de nossas fábricas. Muito necessária, a escavação deles se tornou uma prioridade do governo para garantir que todas as fábricas estejam funcionando, além de incentivar novas com matérias-primas mais baratas."
+
+SRD_procure_entente_support: "Procurar Apoio da Entente"
+SRD_procure_entente_support_desc: "A Entente é mais do que uma aliança militar, é um grupo de nações unidas em sua luta para restaurar o governo legítimo em seus países de origem. Para esse objetivo, a Entente promete ajuda econômica e know-how para seus irmãos. É apenas correto se aproveitarmos desse serviço."
+
+SRD_french_munitions: "Munições Francesas"
+SRD_french_munitions_desc: "Apesar da falta de indústria pré-revolução, a Argélia Francesa não carecia de fábricas de munições, que abasteciam as guarnições coloniais na área. Muitas das armas ainda podem ser usadas. Vamos pedir a eles que nos forneçam algumas delas, bem como projetos para elas."
+
+SRD_canadian_investments: "Investimentos Canadenses"
+SRD_canadian_investments_desc: "Com a Segunda-feira Negra atingindo as costas do Canadá, muitos capitalistas canadenses e exilados britânicos estão procurando lugares seguros para investir. Eles encontraram esse lugar na Sardenha. Contendo praticamente nenhuma indústria, os investidores certamente terão lucro aqui."
+
+SRD_australian_investments: "Investimentos Australianos"
+SRD_australian_investments_desc: "Nossa nação está desesperada por investimentos, tanto que os investimentos canadenses não são suficientes. Com poucas opções restantes, os australianos são a melhor aposta."
+
+SRD_drain_la_nurra: "Drenar La Nurra"
+SRD_drain_la_nurra_desc: "La Nurra provavelmente seria um dos corações industriais da ilha da Sardenha. Se não fossem os pântanos cheios de malária que costumavam transbordar regularmente. Isso não passou despercebido para o governo da Sardenha. Sem a indústria do Piemonte, eles buscam explorar a pouca terra que têm, transformando o deserto de La Nurra em solo rico e fértil para fins agrícolas e industriais."
+
+SRD_industrial_values_grant_consortium: "Consortium de Concessão de Valores Industriais"
+SRD_industrial_values_grant_consortium_desc: "Embora o capitalismo tenha suas virtudes em gerar riqueza para nossa nação, às vezes precisa de ajuda do governo. Com segmentos de nosso país em ruínas, devemos garantir uma recuperação ordenada. A Società Finanziaria Industriale Italiana S.P.A. (Sofindit) será organizada a partir de grandes credores para ajudar a financiar o desenvolvimento da Sardenha. Isso permitirá projetos econômicos em grande escala e um lugar seguro para investidores colocarem seu dinheiro para retornos estáveis."
+
+SRD_italian_industrial_finance_company: "Empresa Financeira Industrial Italiana"
+SRD_italian_industrial_finance_company_desc: "Não todas as empresas que investimos produzem dividendos adequados. Um esforço cuidadoso do Ministério das Finanças reestruturará subsidiárias da Sofindit e liquidará ou consolidará empresas que não valem a pena salvar. Além de colocar empresas doentes fora de sua miséria de forma controlada, isso injetará mais capital líquido em nossos bolsos. Se feito corretamente, equilibraremos os livros enquanto evitamos demissões excessivas e impopulares."
+
+ SRD_ansaldo_contracts: "Contratos Ansaldo"
+SRD_ansaldo_contracts_desc: "Desde o fim dos conflitos após a Weltkrieg, a Ansaldo tem lutado para converter suas fábricas de tempo de guerra para uso civil. Isso pode não ser mais necessário. Renovar os contratos da última guerra deve fornecer à empresa dinheiro suficiente para restaurar suas antigas fábricas e produzir armas para nosso esforço de guerra futuro."
+
+SRD_local_munitions_production: "Produção Local de Munições"
+SRD_local_munitions_production_desc: "As munições fornecidas pelos franceses até agora provaram ser de grande valor. Mas não podemos continuar dependendo das entregas de armas estrangeiras, dada nossa posição geográfica. Portanto, devemos fabricar nossas próprias munições e fabricar nossas próprias armas em nossas próprias fábricas."
+
+SRD_automobili_agnelli: "Automobili Agnelli"
+SRD_automobili_agnelli_desc: "Quando os socialistas assumiram Turim, eles não apenas roubaram todas as fábricas de seu legítimo proprietário, mas também a propriedade intelectual. Assim, Edoardo Agnelli, filho do fundador da FIAT, criou uma nova empresa, nomeada em homenagem a seu pai (e possivelmente em homenagem a si mesmo também), da qual podemos encomendar nossos veículos blindados."
+
+SRD_ente_nazionale_idrocarburi: "Ente Nazionale Idrocarburi"
+SRD_ente_nazionale_idrocarburi_desc: "Para garantir nosso acesso ao petróleo, devemos parar de depender de importações, pois um bloqueio seria desastroso para nossa economia. Portanto, o governo convocou uma nova empresa para encontrar, explorar e armazenar combustíveis fósseis em nossa ilha."
+
+SRD_expand_la_maddalena: "Expandir La Maddalena"
+SRD_expand_la_maddalena_desc: "Com a idade de alguns de nossos navios rapidamente atingindo duas décadas, espera-se que mais manutenção seja necessária para mantê-los aptos para o serviço. A expansão do arsenal naval de La Maddalena será acelerada, fornecendo à Marinha capacidade adicional de estaleiro e doca, juntamente com fortificações reforçadas."
+
+SRD_embrace_radical_admirals: "Abraçar Almirantes Radicais"
+SRD_embrace_radical_admirals_desc: "Almirantes Radicais em nossas fileiras têm argumentado usar nossa localização estratégica no Mediterrâneo para se concentrar em afundar o transporte sindicalista para prejudicar sua economia em caso de guerra. Devemos abraçar seu pensamento inovador."
+
+SRD_defend_tyrrhenian_shipping: "Defender o Transporte no Tirreno"
+SRD_defend_tyrrhenian_shipping_desc: "Nossa posição no Tirreno pode nos permitir ser um porto seguro para comboios, defendidos de navios de guerra e aeronaves inimigas. Devemos ser capazes de proteger o transporte de nossos aliados na área adotando novas tecnologias de guerra anti-submarina."
+
+SRD_old_hulls_new_strategies: "Casco Antigo, Novas Estratégias"
+SRD_old_hulls_new_strategies_desc: "Com a falta de capacidade para construir grandes quantidades de novos navios de guerra, devemos nos contentar com navios de guerra da era da Grande Guerra. No entanto, podemos compensar a falta de tecnologias e características modernas com estratégias e táticas inovadoras."
+
+SRD_adopt_experimental_technologies: "Adotar Tecnologias Experimentais"
+SRD_adopt_experimental_technologies_desc: "Não podemos permanecer competitivos com as grandes potências ao nosso redor se não inovarmos. Ao modernizar nossa frota com as mais recentes inovações, nossos navios terão capacidades que nenhuma outra potência possui."
+
+SRD_mine_warfare_and_torpedoes: "Guerra de Minas e Torpedos"
+SRD_mine_warfare_and_torpedoes_desc: "Um navio não pode evitar o que não pode ver. Investiremos em torpedos mais novos, poderosos e furtivos para atacar o inimigo."
+
+SRD_naval_hit_and_run_tactics: "Táticas Navais de Ataque e Fuga"
+SRD_naval_hit_and_run_tactics_desc: "Não precisamos arriscar nossos navios em um confronto direto, precisamos apenas obter pequenas vitórias. Podemos alcançar isso enviando nossos navios para pressionar nosso inimigo repetidamente, exaurindo sua moral e criando aberturas para nós explorarmos."
+
+SRD_expand_shipyards: "Expandir Estaleiros"
+SRD_expand_shipyards_desc: "Planos para uma nova doca seca e rampa foram elaborados. Não vemos razão para objetar à alocação de alguns de nossos recursos para este plano."
+
+SRD_expand_portotorres: "Expandir Portotorres"
+SRD_expand_portotorres_desc: "As indústrias químicas têm sido uma parte importante da economia de Portotorres. Com o conflito iminente, devemos expandir as indústrias químicas locais para estocar combustível."
+
+SRD_expand_fertilia_and_decimomannu: "Expandir Fertilia e Decimomannu"
+SRD_expand_fertilia_and_decimomannu_desc: "Com aeronaves mais novas e numerosas entrando em serviço, mais espaço e manutenção serão necessários. A expansão da base aérea militar de Decimomannu fornecerá melhores instalações para a Força Aérea."
+
+SRD_life_from_above: "Vida do Alto"
+SRD_life_from_above_desc: "Temos uma proposta para a Força Aérea comprar uma série de aeronaves civis, que podem ser usadas para estabelecer linhas de abastecimento simples com nossas tropas de linha de frente implantadas no exterior, entre outros usos."
+
+SRD_arditi_distruttori_della_regia_aeronautica: "Arditi Distruttori da Regia Aeronautica"
+SRD_arditi_distruttori_della_regia_aeronautica_desc: "O estabelecimento do ADRA nos proporcionará uma capacidade mais precisa e encoberta de realizar sabotagem e garantir posições, aumentando o Exército."
+
+SRD_train_the_aerial_cavalry: "Treinar a Cavalaria Aérea"
+SRD_train_the_aerial_cavalry_desc: "Os pilotos são valiosos, e apenas os melhores prevalecerão. Devemos começar a recrutar e fornecer treinamento necessário para mais pilotos em potencial e equipes de manutenção para apoiar a expansão da Força Aérea."
+
+SRD_superior_engineering: "Engenharia Superior"
+SRD_superior_engineering_desc: "A engenharia italiana não é pior do que a engenharia das Grandes Potências, mas em uma guerra, qualidade e quantidade são igualmente importantes. Devemos encontrar maneiras de otimizar e simplificar a produção de aeronaves sardas."
+
+SRD_citta_dell_aria: "Città dell'Aria"
+SRD_citta_dell_aria_desc: "O estabelecimento da ‘Cidade do Ar’, uma instalação de pesquisa dedicada a tudo relacionado à aviação, tem sido de imensa importância para a Força Aérea Sarda. Mais financiamento para a instalação certamente não passará despercebido."
+
+SRD_a_modern_air_force: "Uma Força Aérea Moderna"
+SRD_a_modern_air_force_desc: "Em nossa busca por um exército moderno, nosso orçamento está limitado à Força Aérea ou à Marinha. Ao gastar mais na Força Aérea, poderemos acompanhar a corrida armamentista aérea com pilotos melhores, mais instalações e melhores aeronaves."
+
+SRD_a_global_navy: "Uma Marinha Global"
+SRD_a_global_navy_desc: "Em nossa busca por um exército moderno, nosso orçamento está limitado à Força Aérea ou à Marinha. Ao gastar mais na Marinha, poderemos apoiar nossos aliados fora da Sardenha e estabelecer nossa Marinha como uma frota digna de uma grande potência."
+
+SRD_loyal_men_of_sardinia: "Homens Leais da Sardenha"
+SRD_loyal_men_of_sardinia_desc: "A salvação não virá para aqueles que esperam. É evidente para todos que uma grande luta se aproxima, uma que só pode ser vencida se os bravos e leais homens da Sardenha se levantarem para a ocasião. Nestes tempos difíceis, eles são tudo o que temos."
+
+SRD_women_in_the_army: "Mulheres no Exército"
+SRD_women_in_the_army_desc: "Nenhuma medida pode ser deixada sem explorar em nossa busca pela salvação nacional. A realidade inevitável é que só temos tantos homens que podemos convocar para o exército - no entanto, há mulheres em todo o país que estão dispostas a lutar pela defesa dela. A integração seletiva dessas voluntárias em papéis de combate e de apoio deve ser perseguida."
+
+SRD_womens_auxiliary_corps: "Corpo Auxiliar Feminino"
+SRD_womens_auxiliary_corps_desc: "Nenhuma medida pode ser deixada sem explorar em nossa busca pela salvação nacional. A realidade inevitável é que só temos tantos homens que podemos convocar para o exército - no entanto, há mulheres em todo o país que estão dispostas a lutar pela defesa dela. Embora colocá-las em papéis de combate não seja desejável, o suporte auxiliar aliviaria o problema de mão de obra enquanto preserva o caráter militar."
+
+SRD_review_the_regio_esercito: "Rever o Regio Exército"
+SRD_review_the_regio_esercito_desc: "Em qualquer guerra potencial contra os pretensos no continente, a tarefa de libertação recairá sobre o Exército Real. Embora tenhamos feito o nosso melhor para garantir que ele permaneça pronto para o combate, a natureza sempre mutável da guerra exige revisões regulares de suas capacidades."
+
+SRD_the_new_bersaglieri: "Os Novos Bersaglieri"
+SRD_the_new_bersaglieri_desc: "Os Bersaglieri - "atiradores" - são um corpo de infantaria com uma longa história, e cujo papel mudou muito ao longo dos anos. Eles frequentemente se concentraram na guerra de manobra, atuando em diferentes momentos como infantaria leve, atiradores, tropas de choque e até mesmo tropas de bicicleta para preencher esse papel, muitas vezes assumindo uma posição crítica na linha de frente. Eles provavelmente desempenharão um grande papel nas guerras futuras - então devemos garantir que estejam bem equipados."
+
+SRD_restore_the_sassari_brigades: "Restaurar as Brigadas Sassari"
+SRD_restore_the_sassari_brigades_desc: "As Brigadas Sassari - o 151º e 152º Regimentos de Infantaria - eram formações totalmente sardas que serviram com distinção durante a Grande Guerra. Embora os sardos, por necessidade, tenham composto uma parte cada vez maior de nosso exército, reviver as Brigadas e seu legado local pode atrair os sardos locais e estimular uma tão necessária campanha de recrutamento."
+
+SRD_avoid_the_errors_of_the_great_war: "Evitar os Erros da Grande Guerra"
+SRD_avoid_the_errors_of_the_great_war_desc: "Por mais valentemente que os bravos soldados italianos possam ter lutado durante a Grande Guerra, o nome da guerra ainda traz apenas memórias amargas para muitos italianos. Mais absurdo de nossos fracassos foi enviar meros 120 canhões de artilharia para apoiar 875.000 homens, permitindo que o infame General Cadorna enviasse inúmeros compatriotas para morrer por nada. Nunca mais - na próxima guerra, nossas forças terão todo o apoio de fogo de que precisam."
+
+SRD_lessons_of_the_three_mountains: "Lições dos Três Montes"
+SRD_lessons_of_the_three_mountains_desc: "A nação da Itália ostenta o mais antigo corpo de infantaria de montanha do mundo - os Alpini, a legião de almas corajosas que lutaram heroicamente ao longo dos Alpes congelados durante a Grande Guerra. Os alpinistas italianos há muito tempo são elogiados como os melhores do mundo, e seria vergonhoso para nossa nação se não os mantivéssemos nos mais altos padrões possíveis. É hora de olharmos mais criticamente para seu desempenho anterior."
+
+SRD_supremacy_of_the_arditi: "Supremacia dos Arditi"
+SRD_supremacy_of_the_arditi_desc: "De todas as formações do Regio Esercito, um nome se destaca acima dos demais - o dos Arditi, "os Ousados". Formalmente conhecidos como as "Unidades de Assalto", eles foram entre as primeiras tropas de choque modernas, trazendo fluidez a uma guerra anteriormente estática e gravando seus nomes na lenda italiana com seus feitos, apesar de nossa vergonhosa derrota. Eles são exemplos para todos nós - nossa carga será liderada apenas pelos melhores dos melhores, preparados especificamente para seu papel. Não aceitamos substitutos."
+
+SRD_create_mariassalto: "Criar Mariassalto"
+SRD_create_mariassalto_desc: "Estamos enfrentando um problema que não podemos evitar - se tivermos alguma esperança de derrotar nossos inimigos, é certo que teremos que realizar operações navais em larga escala. Para gerenciar isso, recebemos conselhos de nossos aliados da Entente sobre maneiras de organizar e utilizar o Mariassalto, formações dedicadas à guerra anfíbia. Especialmente interessantes são as propostas para infantaria "rãs" especializadas em tais operações - teremos que ver o que vem disso."
+
+SRD_reform_the_carabinieri: "Reformar os Carabineiros"
+SRD_reform_the_carabinieri_desc: "Os Carabineiros, outro braço militar que remonta antes da unificação italiana, servem principalmente como força policial militar - um dever útil, mas em grande parte auxiliar que foi um pouco negligenciado durante os longos anos de nosso exílio. No entanto, uma campanha no continente certamente precisaria de seus serviços para manter a ordem na terra recapturada - assim, uma reforma doutrinária pode ser necessária para garantir sua preparação para essa tarefa."
+
+SRD_assault_vehicle_flotillas: "Flotilhas de Veículos de Assalto"
+SRD_assault_vehicle_flotillas_desc: "Embora um homem possa nadar através da água, pedir-lhe para nadar pelo Mar Tirreno é um grande pedido, especialmente quando equipado para combate completo. Felizmente, tal coisa não é necessária - desenhos de pequenas embarcações tripuladas, na forma de "carros" de torpedos ou lanchas motorizadas, foram elaborados pela primeira vez durante a Grande Guerra, e agora parecem estar se tornando realidade. Tais embarcações têm aplicações claras para ataques de comando anfíbio e implicações interessantes para a maior ideia de embarcações de desembarque naval."
+
+ SRD_improvised_mobility: "Mobilidade Improvisada"
+SRD_improvised_mobility_desc: "Manobra é tudo! Essa é a lição da Grande Guerra - se a guerra moderna ficar estagnada, então podem ocorrer baixas inimagináveis em nossas tentativas de quebrar o impasse. Especialmente no terreno montanhoso da Itália, nossa guerra deve ser fluida - os Bersaglieri usaram bicicletas para aumentar sua mobilidade, enquanto os métodos industriais modernos abrem a possibilidade de divisões inteiras se moverem de caminhão. Todos os meios devem estar disponíveis para nós."
+
+SRD_red_cross_volunteer_nurse_corps: "Corpo de Enfermeiras Voluntárias da Cruz Vermelha"
+SRD_red_cross_volunteer_nurse_corps_desc: "A Cruz Vermelha tem uma longa história de trabalho humanitário durante os tempos de guerra - durante a Grande Guerra, eles estiveram fortemente envolvidos no tratamento de feridos em combate e no cuidado de prisioneiros de guerra. Em nosso estado atual na Sardenha, é de suma importância que recuperemos o máximo possível de feridos, e facilitar as atividades da Cruz Vermelha pode nos ajudar a cobrir deficiências em nossas próprias capacidades médicas."
+
+SRD_partisans_behind_enemy_lines: "Partidários Atrás das Linhas Inimigas"
+SRD_partisans_behind_enemy_lines_desc: "Ainda há pessoas na Itália que acreditam em nossa causa acima de todas as outras. Esses fiéis remanescentes nos apresentam oportunidades únicas - embora possam não ser fortes o suficiente para realizar insurgências sustentadas, podem conduzir reconhecimento atrás das linhas inimigas para melhor rastrear formações inimigas e seus movimentos. Podemos complementar isso com nossas próprias táticas de infiltração para um efeito ainda maior."
+
+SRD_reform_the_genio_militare: "Reformar o Genio Militare"
+SRD_reform_the_genio_militare_desc: "O Genio Militare é o nome do corpo de engenheiros do Regio Esercito, cujas origens remontam à companhia de mineração do Exército Sardo que se destacou em Turim em 1706. Durante a Grande Guerra, os engenheiros militares assumiram inúmeras novas tarefas com o advento da guerra moderna, e é uma aposta segura supor que a próxima trará novos desafios. Os engenheiros devem entender quais são seus deveres."
+
+SRD_diaz_approach: "Abordagem de Diaz"
+SRD_diaz_approach_desc: "O General Armando Diaz, famoso por encenar sua defesa heróica no Monte Grappa depois que Cadorna vergonhosamente abandonou suas tropas, advogou por uma doutrina bastante nova para o Regio Esercito. Raciocinando que o mais importante para nós é que nossos homens sejam leais e motivados, a estratégia de Diaz se concentra em reforçar a camaradagem entre os soldados, bem como seus comandantes. Eles podem não lutar pela coroa, mas lutarão uns pelos outros."
+
+SRD_luxury_provisions: "Provisões de Luxo"
+SRD_luxury_provisions_desc: "Para toda a glória associada a ela, a guerra pode ser um negócio muito miserável. As condições frequentemente são difíceis, e a natureza do combate pode pesar até sobre as almas mais fortes. Embora uma coisa aparentemente pequena para um estranho, até mesmo os menores luxos podem ajudar a aumentar a moral em tempos difíceis - ao fornecer aos nossos soldados rações de chocolate e outras provisões especiais, podemos tornar suas vidas um pouco mais fáceis."
+
+SRD_hire_veteran_instructors: "Contratar Instrutores Veteranos"
+SRD_hire_veteran_instructors_desc: "A guerra nem sempre vem naturalmente e muitas vezes precisa ser ensinada - há um número alarmantemente alto de maneiras de alguém ser atingido. O melhor professor para um soldado é, invariavelmente, outro soldado mais velho - se fizermos um esforço para manter o talento antigo por perto, então eles podem esperançosamente transmitir algumas sabedorias valiosas para recrutas que muito precisam delas."
+
+SRD_reconstitute_the_royal_academy: "Reconstituir a Academia Real"
+SRD_reconstitute_the_royal_academy_desc: "A Academia Real de Modena, há muito tempo desativada, historicamente foi uma das principais escolas na Itália para o pensamento militar junto com a academia em Turim. Embora o local das academias esteja além de nosso alcance, parte do talento associado a ela ainda flutua no exílio, aguardando um propósito. É hora de reorganizarmos a academia no exílio e direcionarmos seus remanescentes para a libertação nacional."
+
+### Intro Screen ###
+SRD_country_intro_header: "O Reino da Sardenha"
+SRD_country_intro_content: "O Reino da Sardenha nasceu em meio às cinzas da Weltkrieg. O Rei Vittorio Emanuele assinou um armistício com o governo austríaco em 1919, mas socialistas furiosos, nacionalistas radicais e outros tumultos se levantaram contra seu governo. Ele e seu filho abdicaram, e na Sardenha, marcada por poucos, o Rei Emanuele Filiberto, Duque de Aosta, assumiu o trono. No entanto, nossas pretensões ao trono italiano chegaram ao fim em 1920, quando os austríacos forçaram a Federação Italiana sobre as forças brancas unidas no continente italiano. Os britânicos nos obrigaram a ingressar na Federação, conforme os austríacos exigiram, sem querer irritar os alemães no rescaldo da guerra mais destrutiva da história europeia. Nós nos retiramos da Federação Italiana em 1926, depois que o Império Britânico entrou em colapso e os austríacos se retiraram da Itália para lidar com assuntos internos, embora nossos aliados da Entente ainda desencorajassem a reivindicar toda a Itália até que o Piemonte seja reconquistado. Isso nos tornou uma nação nominalmente independente, embora na realidade sejamos quase um estado fantoche da República Francesa. \n\nEssa situação sombria não melhora com as divisões internas em casa. O Rei Amedeo substituiu seu pai Emanuele Filiberto como Rei da Sardenha há apenas cinco anos e permanece desinteressado nos assuntos do Estado, decepcionando tanto os democratas que esperavam uma intervenção real a favor da reforma democrática quanto os militares que desejavam assumir o controle total para limpar a Ameaça Vermelha. Essa questão fundamental, entre o autoritarismo e o constitucionalismo, divide a ilha desde o fim da Weltkrieg, e há pouca dúvida de que o arranjo atual é simplesmente insustentável. O estado de emergência de quinze anos está se tornando cansativo para o povo da Sardenha, a corrupção governamental está rampante, e o judiciário e o governo ambos requerem reforma. Estes são problemas sem soluções sob o atual impasse político, e sem resolvê-los, a Sardenha nunca será capaz de recuperar o que é legitimamente seu."
+srd.0.a: "Viva o Rei!"
+
+SRD_guide: "§MBlocco Nazionale§! (§PAutocrata Paternal§!)\n£white_dot Tenha o Rei nomeie o Marechal Badoglio.\n£white_dot Após escolher o foco \"Maresciallo, a Noi\", o Blocco Nazionale assumirá o poder se os Democratas Autoritários tiverem menos de 25% de apoio. Caso contrário, você pode escolher \"Inclinar-se ao Rei\" no evento \"O Último Passo\" para que os §PAutocratas Paternais§! assumam o poder.\n\n§MBadoglio Deposto§! (§gDemocrata Autoritário§! / §MMercado Liberal§!)\n£white_dot Tenha o Rei nomeie o Marechal Badoglio.\n£white_dot Após escolher o foco \"Maresciallo, a Noi\", escolha \"O Marechal é o verdadeiro governante da Sardenha!\", o que resultará na deposição de Badoglio.\n£white_dot Após reunir a Itália e encerrar o estado de emergência, você poderá eleger os §gLiberais de Direita§! ou os §mLiberais de Esquerda§!.\n\n§MDemocracia Restaurada§! (§cConservador Social§! / §MMercado Liberal§! / §lLiberal Social§! / §SSocial Democrata§!)\n£white_dot Tenha o Rei nomeie o General Marras.\n£white_dot Após escolher o foco \"Eleições Livres e Justas\", as primeiras eleições serão realizadas três meses depois.\n£white_dot Escolha a Direita Liberal e uma coalizão Democrata-Monarquista OU os Democratas Cristãos e faça com que eles mantenham a vantagem para eleger os §cConservadores Sociais§!.\n£white_dot Escolha os Democratas Cristãos e faça com que os Liberais obtenham o primeiro-ministro para eleger os §MMercado Liberais§!.\n£white_dot Escolha os Democratas Cristãos e convide Bellieni quando o Rei encontrar os Sardistas para eleger os §lLiberais Sociais§!.\n£white_dot Escolha os Democratas Cristãos e escolha Melis quando o Rei encontrar os Sardistas para eleger os §SSocial Democratas§!."
+
+### Events ###
+
+### Political Events 1 - 10 ###
+
+srd.2.t: "Colapso dos Monopólios Mineiros"
+srd.2.d: "Após a Segunda-Feira Negra, as muitas empresas estrangeiras que controlavam as minas de carvão no sul da Sardenha finalmente entraram em colapso. Os monopólios, em sua maioria apoiados por britânicos, já vinham sofrendo há anos, e parece que a crise econômica alemã foi a gota d'água.\n\nEssas minas nunca foram realmente lucrativas, mas são uma fonte importante de empregos em uma região de outra forma estagnada e pobre; no entanto, os proprietários estrangeiros dessas empresas frequentemente ignoraram as questões mais básicas dos trabalhadores locais. Isso muitas vezes resultou em protestos e greves, que foram reprimidos com grande severidade. Em 1904, uma dessas greves levou ao Massacre de Buggerru, que foi amplamente condenado pelas forças socialistas.\n\nPara preservar as minas, o Governo Bardanzellu procedeu com a nacionalização das empresas falidas; no entanto, essa medida teve graves repercussões, pois os trabalhadores já em greve começaram a se organizar em sindicatos para obter várias concessões do Estado."
+srd.2.a: "A revolução está chegando?"
+
+srd.3.t: "A Renúncia de Bardanzellu"
+srd.3.d: "Entre 1919 e a morte de Emanuele Filiberto em 1931, a Sardenha foi governada por uma série de governos militares com pesada participação real, culminando na ditadura de Badoglio entre 1926 e 1931. Após sua ascensão, o Rei Amedeo adotou uma posição mais parlamentar, nomeando uma sucessão de Primeiros-Ministros civis para governar com o apoio dos principais partidos sardos e esperando que pudessem lidar com a atual situação crítica. No entanto, mesmo esses governos civis usaram o estado de emergência de quinze anos para governar com mão relativamente pesada.\n\nCom o aumento da agitação entre os mineiros do sul da Sardenha, um desses Primeiros-Ministros civis, o veterano de guerra Giorgio Bardanzellu, renunciou recentemente; o Rei inicialmente rejeitou essa renúncia, mas sem a cooperação do Primeiro-Ministro, nenhuma solução viável de governo pôde ser encontrada. Dada a frequência das renúncias ao cargo de primeiro-ministro, e o dano reputacional associado, todos os candidatos civis viáveis recusaram qualquer oferta para se tornar primeiro-ministro, com muitos pedindo ao Rei que nomeasse um Governo Nacional liderado pelos militares.\n\nComo tal, e apesar de seus próprios desejos, o Rei será forçado a intervir diretamente, colocando em suas mãos o destino final da Sardenha, enquanto grupos militares começam a pressionar pelo poder. Muitos esperam que o Marechal Badoglio retorne ao governo, embora a memória de sua última ditadura tenha levado outros a propor o politicamente muito mais fraco (e, bastante importante, sardo-nascido) General Marras como outro candidato viável.\n\nNomear o Marechal Badoglio, de mentalidade autocrática, para liderar novamente o Governo nos colocará em um caminho em direção a uma ditadura militar tecnocrática, empenhada em destruir a República Socialista e restaurar o domínio legítimo de Sua Majestade no Continente. O Marechal era, e provavelmente será, muito mais um homem forte do que Bardanzellu jamais foi, e a Monarquia pode ser dirigida a reafirmar sua influência sobre o executivo.\n\nNomear o relativamente apolítico General Marras para liderar um novo Executivo aumentará a influência dos vários reformistas, que certamente usarão a nomeação de um tecnocrata politicamente fraco como uma ferramenta para pressionar por uma maior democratização. Talvez seja isso que o Rei pretende que aconteça, ou talvez seja uma jogada para aumentar sua influência em detrimento do grupo militar que, desde o fim da guerra, se tornou a principal ameaça para a grande influência do Rei na política nacional."
+srd.3.a: "Sua Majestade nomeia o Marechal Badoglio"
+srd.3.a.tt: "§RReformistas, constitucionalistas e democratas se oporão a um retorno do Marechal.§!"
+srd.3.b: "Sua Majestade nomeia o General Marras"
+srd.3.b.tt: "§ROs militaristas liderados pelo Marechal Badoglio se oporão a esta medida.§!"
+
+### The absolute monarchy path 11 - 20 ###
+srd.11.t: "Pressionando o Governo"
+srd.11.d: "Badoglio pode ter tido seu governo restaurado, mas muitos opositores permanecem à solta, criticando abertamente seu governo e, assim, colocando em perigo a sobrevivência de nosso Reino. Como a governança está gravemente necessária neste momento, o Marechal decidiu inundar a cidade de Cagliari com tropas, usando os poderes concedidos pelo estado de sítio para incapacitar efetivamente o que resta do Parlamento e começar a governar por decreto. Muitos estão protestando contra a ação nas ruas de toda a Sardenha; mas nem uma palavra saiu do Palácio Real, indicando que Badoglio pode estar aqui para ficar."
+srd.11.a: "O que vem depois? Ditadura?"
+
+srd.12.t: "As Leis Especiais perante o Parlamento"
+srd.12.d: "A oposição foi praticamente destruída, o Parlamento foi subjulgado; agora, o Marechal está eliminando os vestígios de normalidade constitucional que permitiram o fim de sua primeira ditadura em 1931. Estes novos poderes de emergência que ele está buscando conceder a si mesmo efetivamente tornarão Badoglio o governante absoluto da Sardenha; isso, apesar de todas as purgas pelas quais o país passou, deu a alguns senadores nomeados pela realeza coragem para se manifestar contra o Marechal.\n\nEsta é uma situação especialmente embaraçosa, já que o Senado permanece a base do poder político real; para superar a crise, teremos que pedir ao Rei que nomeie senadores amigáveis, como é tradição, submetendo nosso governo à autoridade do Rei no processo e estabelecendo um precedente perigoso; caso contrário, teremos que recorrer a meios extralegais para obter maioria no Senado, o que será uma empreitada custosa e prejudicial, dada a grande estatura e muitas proteções desses senadores."
+srd.12.a: "Pedir um empurrãozinho ao Rei"
+srd.12.b: "Podemos fazer isso por conta própria"
+
+srd.13.t: "O Último Passo"
+srd.13.d: "Embora estejamos extremamente perto de ganhar controle total sobre a nação, um grande obstáculo permanece.\n\nO Rei, a quem nosso Governo deve formalmente responder, tem estado terrivelmente silencioso nos primeiros meses da nova ditadura de Badoglio, e o poder real cresceu sem controle. Nem apoiando nem se opondo às nossas reformas, ele se tornou um homem perigoso, cuja oposição poderia arruinar todo o nosso projeto. Até hoje, não estava claro o que Sua Majestade estava planejando; isso mudou agora.\n\nAtravés de canais subterrâneos e de bastidores, o Rei fez saber que pediu uma coisa em troca de seu apoio: uma garantia total do poder real, e que o Marechal continue a responder a ele em todos os assuntos."
+srd.13.a: "Curvar-se ao Rei"
+srd.13.b: "O Marechal é o verdadeiro governante da Sardenha!"
+
+srd.14.t: "Por Ordem do Rei"
+srd.14.d: "Pela segunda vez na memória recente, unidades armadas são vistas marchando em direção a Cagliari. Desta vez, eles não estão agindo sob ordens do Governo Badoglio; de fato, depois de garantir a cidade e receber a confirmação de que todas as bases militares da ilha se moveram com eles, os soldados em Cagliari avançam para o palácio do Marechal, o Palácio Boyl.\n\nChocado, Badoglio só pode assistir enquanto seus soldados entram em seu prédio para prendê-lo. Pouco depois, um oficial o informa que o Rei considerou adequado nomear o Almirante Thaon di Revel para liderar um novo governo 'real'. Traído por todos os seus pares, o Marechal é preso e arrastado para um local desconhecido."
+srd.14.a: "Marechal Badoglio, você está sendo destituído do cargo"
+
+srd.15.t: "Fim do Estado de Emergência"
+srd.15.d.badoglio: "Com a reconquista do continente e a expulsão final do Sindicalismo da Itália, muitos consideraram a missão do governo de Badoglio totalmente bem-sucedida e concluída. Uma nova questão agora persiste: o que acontece a seguir?\n\nApesar de todas as promessas, o Marechal é pouco provável que abandone o poder tão facilmente. Afinal, o governo de Sua Majestade ainda é contestado por muitos inimigos internos e externos, e não podemos nos dar ao luxo de mostrar fraqueza agora.\n\nAinda assim, o povo de [SRD.GetNonIdeologyName] merece mostrar sua aprovação a Badoglio e seu executivo, e como tal leis especiais foram implementadas para garantir que novas eleições sejam realizadas regularmente e deem os resultados corretos.\n\nCom todas essas precauções e muitos poderes ainda concedidos de outra forma ao Marechal, o estado de sítio perpétuo foi declarado redundante e finalmente removido."
+srd.15.d.other: "Com a reconquista do continente e a expulsão final do Sindicalismo da Itália, muitos consideraram o propósito do Governo Real esgotado. Enquanto o velho Almirante Thaon di Revel olha para se aposentar da política ativa, a questão do que acontece a seguir persiste.\n\nEmbora o Rei não queira uma participação ativa neste novo governo, tornando uma restauração da democracia plausível, muitos dentro da elite liberal e militar veem uma reforma democrática completa como provável de dar poder aos próprios Sindicalistas que tão amargamente lutamos contra.\n\nComo tal, disposições foram implementadas para restaurar a democracia sob a antiga lei eleitoral de 1892, ela própria uma extensão da lei básica original de 1860, a fim de restaurar os direitos democráticos dos cidadãos de [SRD.GetNonIdeologyName] enquanto se previne uma tomada de poder por forças hostis.\n\nEmbora seja contestado por alguns, o estado de sítio perpétuo foi declarado inútil para o novo [SRD.GetNonIdeologyName] e finalmente removido."
+srd.15.a: "Missão cumprida"
+
+srd.16.t: "As Eleições Gerais de [GetYear]"
+srd.16.d: "Hoje, [SRD.GetNonIdeologyName] foi às urnas, para renovar sua confiança no Marechal e no Rei. Como esperado, os resultados mostram uma vitória esmagadora do Bloco Nacional de Badoglio, mostrando ainda que o Marechal pode governar por decreto, mas o faz com a confiança dos súditos do Rei.\n\nAlguns observadores internacionais e opositores internos contestam que a eleição não foi nem livre nem justa, mostrando "provas" de manipulação extensiva e táticas de intimidação para garantir uma vitória apesar de um sistema eleitoral já extensivamente distorcido. Claro, essas acusações infundadas são fabricadas por traidores Sindicalistas e inimigos da Nação."
+srd.16.a: "Uma grande vitória para o Bloco Nacional!"
+
+srd.17.t: "As Eleições Gerais de [GetYear]"
+srd.17.d: "Hoje, [SRD.GetNonIdeologyName] foi às urnas, para renovar a composição do Parlamento[SRD.getConstituentAssemblyElections].\n\nOs principais concorrentes da eleição foram, é claro, os Liberais, embora a divisão histórica entre blocos conservadores e progressistas significasse que, efetivamente, duas facções tinham chance de vitória: os Liberais da Direita, mais nacionalistas e conservadores e alinhados a Confidustria, Confagricoltura e outras associações de industrialistas e proprietários de terras, e os Liberais da Esquerda, mais progressistas e favoráveis às causas progressistas, protecionistas e favoráveis ao compromisso com as facções radicais da vida política italiana.\n\nSocialistas e Católicos ganharam uma quantidade preocupante de votos, embora nossas leis eleitorais tenham garantido que eles apenas ganhassem alguma representação marginal."
+srd.17.a: "Os Liberais da Direita ganham a maioria!"
+srd.17.b: "Os Liberais da Esquerda se agarram à vitória!"
+
+### The Democratic Monarchy Path 21 - 36 ###
+ srd.21.t: "General Marras Levanta o Estado de Emergência"
+srd.21.d: "Embora alguns analistas políticos esperassem esse desenvolvimento, muitos ainda ficaram surpresos quando o General Marras anunciou hoje que o estado de sítio será suspenso.\n\nApesar de sua relativa fraqueza política, muitos sardos desiludidos esperavam um retorno à ditadura quando as notícias da nomeação de um oficial comissionado como Primeiro-Ministro se espalharam. Em vez disso, o primeiro passo verdadeiro em direção à restauração da democracia foi dado, pois o Governo renuncia aos poderes de emergência que lhe foram concedidos há quase duas décadas.\n\nEmbora ainda não haja eleições agendadas, Marras indicou que elas serão convocadas em breve."
+srd.21.a: "Vamos ver se eles estão prontos para cumprir suas promessas"
+
+srd.22.t: "Um Chamado para Eleições"
+srd.22.d: "Mostrando compromisso com suas promessas anteriores, hoje o General Marras pediu ao Rei que convoque eleições. Os partidos devem se organizar; para garantir a equidade dessas eleições, foi declarado um período de campanha de três meses.\n\nAlguns, especialmente no campo Liberal, pediram que Marras se candidatasse às eleições; ainda assim, o general optou por se aposentar da política ativa. Isso enfraqueceu muito os Liberais, embora ainda possam surpreender; no entanto, uma vitória dos Democratas Cristãos ou até dos Sardistas permanece muito mais provável."
+srd.22.a: "Que libertador"
+srd.22.tt: "§YEleições serão realizadas em nove semanas§!"
+
+srd.29.t: "As Eleições Gerais de [GetYear]"
+srd.29.d: "Pela primeira vez desde 1913, eleições livres foram realizadas em nosso país. Por toda a Ilha, sardos de todas as origens vão às urnas para expressar seu voto. Embora muitas listas estejam concorrendo, apenas algumas têm chance de dominar o novo Parlamento.\n\nNo centro e no centro-direita estão os Democratas Cristãos da União Democrática Sarda. Moderados, eles buscam finalmente trazer o catolicismo político ao governo após um longo período de abstinência da política. No geral populares entre o povo, espera-se amplamente que se tornem o maior partido no Parlamento, embora suas divisões internas possam permitir que seus aliados Liberais de Esquerda cheguem ao poder com seu apoio.\n\nEm oposição a eles estão os Sardistas do Partido da Ação Sarda; progressistas e federalistas, esperam avançar com a receita de uma nova Sardenha de igualdade e justiça e ainda podem conseguir uma vitória. No entanto, eles também estão divididos entre os moderados e os aliados quase socialistas de Giovanni Battista Melis.\n\nPor fim, embora sua base de poder tenha desmoronado desde as últimas eleições, os Liberais de Direita ainda podem conseguir superar as expectativas e causar grande tumulto."
+srd.29.a: "Em uma grande reviravolta, a Direita Liberal causa um impasse no Parlamento!"
+srd.29.b: "Como esperado, os Democratas Cristãos ganham a maioria!"
+srd.29.c: "Surpreendentemente, os Sardistas varrem a ilha!"
+
+srd.30.t: "As Eleições Gerais de [GetYear]"
+srd.30.d: "Os habitantes de [SRD.GetNonIdeologyName] vão às urnas para renovar a composição do Parlamento[SRD.getConstituentAssemblyElections]. Muitos partidos participaram dessas eleições, mas apenas alguns são esperados para efetivamente formar a base de um novo Governo.\n\n[SRD.GetCatholicElectionOption][SRD.GetNationalCentre]\n\n[SRD.GetLeftElectionOption]\n\nAo fechar das urnas, parece que o vencedor dessas consultas é..."
+getFiveYearsorNo_yes: "Depois de cinco anos, t"
+getConstituentAssemblyElections: ", que, nesta ocasião específica, funcionará como uma Assembleia Constituinte para a elaboração de uma nova Constituição para a Itália"
+GetCatholicElectionOption_centreright: "À direita está a chapa Democrata Cristã-Monarquista. Formada logo após a restauração da democracia, é uma aliança geral moderada e conservadora."
+GetCatholicElectionOption_centre: "No centro estão os Democratas Cristãos e seus aliados Liberais. A aliança Centrista busca unir múltiplas facções da política italiana, já que os Democratas Cristãos incluem facções que vão da Direita à Esquerda."
+GetNationalCentre_democratic_social: "\n\nNo centro está o chamado 'Centro Nacional', uma aliança de partidos progressistas e liberais liderada pelo Partido Democrático Social. Uma facção geralmente liberal e às vezes federalista, busca navegar entre os trabalhistas de esquerda e os Democratas Cristãos de direita."
+GetLeftElectionOption_psdaz: "À esquerda encontramos o Partido da Ação Sarda. Um movimento federalista, sardista e progressista em geral, busca uma Sardenha mais "sarda"."
+GetLeftElectionOption_pda: "À esquerda encontramos o Partido da Ação. Um partido federalista, pró-unificação, às vezes até republicano, luta para fazer desta nova Itália uma nação melhor e mais justa."
+GetLeftElectionOption_psli: "À esquerda encontramos o Partido Socialista do Trabalho. Uma fusão dos ativistas federalistas com outros grupos socialistas da antiga República Socialista, luta por uma Itália mais justa e igualitária. Embora republicanos às vezes, os Socialistas chegaram a um compromisso com a monarquia e não colocariam em risco nosso Rei e nossa Democracia se estivessem no poder."
+srd.30.a: "O Centro-Direita!"
+srd.30.b: "O Centro!"
+srd.30.c: "O Centro Nacional!"
+srd.30.e: "O Centro-Esquerda!"
+
+srd.31.t: "O Rei Encontra a UDS"
+srd.31.d: "Com um Parlamento em impasse, o Rei decidiu se encontrar com os líderes da União Democrática Sarda, ainda o maior partido em número de cadeiras. Após várias rodadas de negociações, duas soluções governamentais foram encontradas: ou a UDS se alia aos Liberais, ou os Sardistas se juntam aos Centristas para formar um Governo Nacional. Com políticos fortes como Antonio Segni pressionando por um governo de Centro-Direita e as conversas interpartidárias com os Sardistas lentamente perdendo força, uma coalizão Democrata-Monarquista parece provável, mas ambos os compromissos ainda são viáveis."
+srd.31.a: "Democratas e Monarquistas formam uma coalizão!"
+srd.31.b: "Democratas e Sardistas superam suas diferenças!"
+
+srd.32.t: "O Rei Encontra os Centristas"
+srd.32.d: "Após a fácil vitória dos Democratas Cristãos, o Rei se encontrou com eles e seus aliados para ver a melhor abordagem para os próximos cinco anos de governo. A princípio, um governo liderado pelo honroso Corrias parecia certo; no entanto, divisões internas dentro dos Democratas podem condenar sua candidatura, já que alguns estão transferindo seu apoio para o candidato proposto por seus aliados Liberais."
+srd.32.a: "Os Democratas mantêm a vantagem!"
+srd.32.b: "Os Liberais obtêm o cargo de primeiro-ministro!"
+
+srd.33.t: "O Rei Encontra os Sardistas"
+srd.33.d: "Após as eleições, o Rei se encontrou com os dois principais líderes do movimento Sardista, o moderado Bellieni e o radical Melis. Após parabenizá-los por sua impressionante vitória, Sua Majestade e os dois honoráveis discutiram uma possível solução governamental. A primeira escolha para Primeiro-Ministro parece ser o moderado Bellieni; mas mesmo o abertamente republicano Melis parece ter uma chance."
+srd.33.a: "O Honorável Bellieni é convidado, como esperado!"
+srd.33.b: "Em uma jogada surpreendente, o Honorável Melis é escolhido!"
+
+srd.34.t: "Protestos em Cagliari"
+srd.34.d: "Com a capital do Reino se afastando de Cagliari após a bem-sucedida reconquista do Continente e nenhum sinal de autonomia da Sardenha em qualquer lugar, a ilha explodiu hoje em raiva contra as classes políticas que ignoram sua existência apesar de todos os sacrifícios feitos para chegar a este ponto.\n\nAs autoridades agiram rapidamente para reprimir a agitação, e alguns de nossos ministros mais de direita ameaçaram a ilha com um estado de sítio renovado; mas, com a confiança da Sardenha quebrada, ela pode agora se mover em uma direção mais radical. Qual será o efeito disso é improvável de ser visto a curto prazo, embora não possamos ter certeza do que isso causará em algumas décadas."
+srd.34.a: "Que ousadia"
+
+srd.35.t: "Parlamento Vota sobre Autonomia Sarda"
+srd.35.d: "Com a reconquista do Continente concluída e os órgãos do governo se mudando de Cagliari, muitos sentem que é hora de finalmente conceder à Sardenha a autonomia prometida.\nNo entanto, a situação política certamente mudou desde então. Com a integração de muitos mais territórios no Reino, políticos continentais tanto na direita quanto na extrema esquerda estão pressionando a favor de permanecer com nosso atual modelo centralista de governo. Não é certo se esse novo Projeto de Autonomia será aprovado; caso não seja aprovado, podemos esperar que a Sardenha irrompa em fúria por nossa falha em reconhecer seu direito à autogestão depois de fazer tanto pelo nosso Rei e nossa Nação."
+srd.35.a: "O Projeto é aprovado!"
+srd.35.b: "O Projeto é derrotado!"
+
+srd.36.t: "Uma Medalha ao Valor"
+srd.36.d: "Eternamente grato pelo papel que a Sardenha teve na reconquista do Continente, Sua Majestade presenteou hoje motu proprio toda a ilha com uma medalha de ouro ao valor, a mais alta condecoração ao valor militar no estado [SRD.GetAdjectiveCap]. Visto amplamente como mais um gesto de gratidão por um monarca, até agora, amplamente popular, isso ainda cimentou ainda mais a imagem de um Rei cavalheiro e soldado, que é também verdadeiramente um Rei Sardo."
+srd.36.a: "Avanti Sardegna!"
+
+### Kingdom of Italy 37 - 45 ###
+
+ srd.37.t: "A Reforma dos Partidos Pan-Italianos"
+srd.37.d: "Nosso movimento em direção à reunificação da Itália teve um efeito profundo na esfera política mais ampla. Nossos partidos, principalmente baseados na Sardenha, voltaram a entrar em contato com outras organizações operando de diferentes partes do país, incluindo partidos clandestinos da antiga República Socialista; no novo ambiente, muitos pequenos movimentos regionais caíram na irrelevância. Os principais partidos, por outro lado, se adaptaram rapidamente.\n\nA agora ex-União Democrática Sarda conseguiu uma fusão com as várias organizações católicas que operavam na República Socialista e o Partido Popular, formando os Democratas Cristãos; os Liberais rapidamente se reuniram com seus irmãos em todo o país, unindo muitos liberais de esquerda sob um novo Partido Liberal Italiano.\nDo outro lado do espectro político, o Partido da Ação Sarda se reorganizou sob a direção de Melis, tornando-se simplesmente o Partido da Ação e incorporando muitos outros movimentos progressistas, federalistas e até republicanos.\n\nA política italiana passou por outro terremoto, mas parece que quanto mais as coisas mudam, mais elas permanecem iguais."
+srd.37.a: "Esperançosamente, isso é para melhor."
+
+srd.38.t: "Actionistas e Socialistas se Fundem"
+srd.38.d: "Desde sua formação, o novo Partido da Ação tem sido uma força da Esquerda, suficientemente amigável às causas da República Socialista para ser rotulado de "cripto-socialistas" pela oposição de direita.\n\nParece que essa acusação não era completamente infundada; após meses de conversas com o Partido Socialista discretamente refundado, um acordo de fusão foi alcançado. Apesar da oposição moderada simbólica, o novo Partido Trabalhista Socialista Italiano foi fundado, liderado por Melis e outras figuras da antiga República Socialista, bem como vários republicanos, federalistas e progressistas."
+srd.38.a: "Um novo começo?"
+
+srd.39.t: "Moderados se Separam do Partido Trabalhista"
+srd.39.d: "O sonho de reconstruir o amplo Partido Socialista do passado desmoronou nas últimas semanas. Enquanto a reunificação foi liderada pelo Sardista e Federalista Giovanni Battista Melis, muitos federalistas e sardistas não eram socialistas, como Bellieni, ou haviam abandonado o Socialismo mesmo antes da Weltkrieg. Como tal, não foi surpresa quando essa ala extremamente moderada deixou o partido e se juntou a outras organizações liberais progressistas para formar um novo Partido Social Democrata; [SRD.getFarmersChances].\n\nUm evento notável durante a separação foi o discurso sincero em favor da unidade socialista dado pelo ativista socialista e ex-político da RSÍ, Sandro Pertini; ele pode ter um futuro promissor pela frente."
+GetFarmersChances_centre: "no entanto, com os Liberais firmemente no campo Centrista e nenhum outro partido mostrando interesse em trabalhar com eles, provavelmente não terão chance de realmente governar a Nação."
+GetFarmersChances_bellieni: "e, com o prestígio adicional do próprio Primeiro-Ministro se juntando a eles, eles podem ter uma chance de se estabelecer nas próximas eleições."
+GetFarmersChances_centreright: "e, com os Liberais iniciando conversas com eles após anos de serem deixados de lado por seus antigos aliados católicos, eles podem ter uma chance de se estabelecer nas próximas eleições."
+srd.39.a: "Já era um partido muito amplo"
+
+# srd.37.t: "Italy is Unified"
+# srd.37.d: "Today on [GetDateText] Italy has been unified, and glorious risorgimento has once again been completed. Preparations are being made right now for the capital to be moved back to Rome and for the King to take up residency there once again. Today is a great day for all Italians!"
+# srd.37.a: "Long Live Italy."
+
+### Mostly Flavour ###
+
+ srd.41.t: "Os Homens do Rei"
+srd.41.d: "Embora forçado a intervir na política nacional nos anos desde que assumiu o trono, o rei Amedeo não apreciava a gaiola dourada do Reinado e parecia sentir falta dos dias que passou trabalhando em uma fábrica de sabão no Congo. Com o país se encontrando em guerra, alguns começaram a se perguntar qual era o ponto de lutar para reconquistar um Reino para um Rei que não desejava governá-lo. De maneira mais intrigante, o Rei conseguiu dissipar essas perigosas dúvidas.\n\nDesafiando um grande número de convenções militares e políticas, Amedeo nomeou seu irmão Aimone como Tenente do Reino e conseguiu chegar à linha de frente. No entanto, ao contrário do ex-rei Victor Emmanuel, ele não simplesmente foi lá visitar as tropas; ele foi lá para se juntar à luta pelo futuro da Itália e do Mundo junto com seus soldados.\nHouve alguns problemas formais com o Rei, teoricamente Comandante-em-Chefe do Exército Real, se reintegrando às fileiras militares no campo de batalha; mas esses foram rapidamente resolvidos.\nJunto com seus homens e apesar dos apelos do Governo pedindo pela segurança do Chefe de Estado, Sua Majestade participou de várias operações audaciosas em território inimigo, voltando invicto. Os 'Homens do Rei', liderados pelo seu 'Rei de Ferro', já conquistaram certa reputação; alguns os veem como os sucessores da lendária Terceira Exército, invicta durante a Weltkrieg, quando era liderada pelo próprio pai de Sua Majestade."
+srd.41.a: "Que esses homens sejam os dignos sucessores da Terceira Exército"
+
+srd.42.t: "O Pacto de Ação Corsicano-Sardista"
+srd.42.d: "Depois de unir a ilha da Córsega com nossos domínios, a comunidade local inicialmente ficou inativa, analisando a nova situação política sob o novo Rei. Mas hoje, após muitas semanas de negociações, finalmente houve um avanço político na ilha do norte. De fato, esse avanço envolve tanto a Córsega quanto a própria Sardenha.\n\nDesde a sua fundação, o Partido da Ação Corsa se considerava o partido irmão do Partido da Ação Sarda, com o qual compartilhava seu autonomismo (embora da França em vez da Itália). Hoje, os líderes do partido Petru Rocca e Giovanni Battista Melis anunciaram a formação de um Pacto de Ação entre os dois partidos, efetivamente os solidificando em um único bloco autonomista.\nIsso não foi um desenvolvimento óbvio; os Actionistas Corsos são muito mais inclinados à direita e pró-italianos do que seus homólogos sardos, algo que tanto os corsos quanto a ala esquerda dos Actionistas Sardos viram como um obstáculo para a potencial unificação. \n\nAinda assim, essas preocupações foram superadas nas últimas semanas, embora tenham tornado a fusão direta dos dois partidos impossível. Com a entrada dos autonomistas corsos na vida política maior da [SRD.GetAdjectiveCap], outra terra não redimida finalmente retornou plenamente à sua Pátria."
+srd.42.a: "Um brinde ao futuro da Córsega!"
+
+srd.43.t: "O Destino da FIAT"
+srd.43.d: "Com a reconquista do Continente, nos deparamos com os vastos estabelecimentos do império automotivo FIAT.\n\nNos anos de governo socialista, o colosso foi remodelado em uma entidade completamente controlada pelo Governo, que fornecia muitos dos veículos de que a República Socialista precisava para fazer guerra.\n\nEnquanto isso, a família Agnelli, ex-proprietária da planta, trabalhou para reconstruir seu império na Sardenha, fundando a empresa Automobili Agnelli que ajudou nossos próprios esforços no conflito.\n\nAo retornarmos, a família Agnelli parece esperar que permitamos uma fusão entre sua nova empresa e a ampla FIAT, com eles no comando. Claro, há sempre a opção de manter a FIAT sob nosso controle direto e reduzir o império Agnelli no processo."
+srd.43.a: "Permita a fusão"
+srd.43.b: "Mantenha-os separados"
+srd.43.b.corpos.tt: "§RSua virada estatista não é apreciada pelo Grupo de Poder Industrial-Agrário.§!"
+
+srd.44.t: "A Assembleia Constituinte Conclui seu Trabalho"
+srd.44.d: "Após um ano de discussões, debates e acordos, os deputados da Assembleia Constituinte avançaram para aprovar o projeto final para a nova Constituição Italiana.\n\nNela estão incluídas uma nova definição dos poderes reais e governamentais, o papel do Parlamento e dos tribunais; a natureza nebulosa do Statuto Albertino foi evitada. Aprendendo com as ditaduras dos anos 1920, várias cláusulas foram adicionadas para garantir que uma ordem democrática seja sempre mantida, não importa a situação.\nA nova constituição não será concedida pelo Rei, mas emanará sua autoridade do povo da Itália. Claro, a posição de Sua Majestade, pela graça de Deus e vontade da nação Rei da Itália, não está ameaçada.\n\nEspera-se que a nova Constituição seja concedida a aprovação real nas próximas semanas."
+srd.44.a: "Parabéns"
+
+srd.45.t: "Pedidos por uma Assembleia Constitucional"
+srd.45.d: "Com a bem-sucedida reunificação da Itália, o antigo Parlamento Sardo de repente se tornou extremamente inadequado para representar todo o nosso país. Com as circunscrições sendo redesenhadas e muitos assentos adicionados, há pedidos populares por novas eleições, para determinar o futuro da Nação.\n\nDevido às muitas realidades políticas diferentes que surgiram nos últimos vinte anos, está claro que os deputados eleitos terão a tarefa de reformar e substituir o antigo Statuto Albertino, uma tarefa que muitos novos homens ansiosos estão dispostos a assumir."
+srd.45.a: "Il Sol dell'Avvenire..."
+
+ ### Reconstruction ###
+
+SRD_bolstered_military_presence: "Presença Militar Reforçada"
+
+### Characters ###
+SRD_amedeo_aosta: "Amedeo I"
+SRD_amedeo_aosta_leader_desc: "Por muito tempo, Amedeo de Saboia-Aosta manteve-se afastado da política nacional. O futuro rei não se interessava pelos assuntos de Estado nem pela administração cotidiana do país; em vez disso, assim como todos os outros Duques de Aosta, passou seus primeiros anos passando por uma rigorosa educação militar, primeiro na Grã-Bretanha e depois em Nápoles. Em 1915, o então jovem real, com 16 anos, ingressou no Exército no front alpino como cabo e lutou até se tornar capitão. Com o fim da guerra, foi inicialmente forçado a seguir seu pai para Cagliari.\n\nNo entanto, em vez de estudar os detalhes da Sardenha, Amedeo estava fascinado pelas antigas terras e culturas da África. Profundamente desinteressado pelos assuntos políticos da ilha, passou grande parte dos anos 1920 nas selvas do Congo com seu tio, o famoso Duque dos Abruzzos, deixando a Sardenha nas mãos do Marechal Badoglio e só retornando quando a saúde de seu pai começou a declinar.\n\nAgora no trono, Amedeo permanece tão corajoso e brilhante quanto qualquer explorador experiente, embora mantenha sua aversão à política; alguns dizem que essas características são as de um grande general, mas é incerto se são as de um grande rei."
+SRD_amedeo_aosta_war_leader_desc: "Por muito tempo, Amedeo de Saboia-Aosta manteve-se afastado da política nacional. O futuro rei não se interessava pelos assuntos de Estado nem pela administração cotidiana do país; em vez disso, assim como todos os outros Duques de Aosta, passou seus primeiros anos passando por uma rigorosa educação militar, primeiro na Grã-Bretanha e depois em Nápoles. Em 1915, o então jovem real, com 16 anos, ingressou no Exército no front alpino como cabo e lutou até se tornar capitão. Com o fim da guerra, foi inicialmente forçado a seguir seu pai para Cagliari.\n\nNo entanto, em vez de estudar os detalhes da Sardenha, Amedeo estava fascinado pelas antigas terras e culturas da África. Profundamente desinteressado pelos assuntos políticos da ilha, passou grande parte dos anos 1920 nas selvas do Congo com seu tio, o famoso Duque dos Abruzzos, deixando a Sardenha nas mãos do Marechal Badoglio e só retornando quando a saúde de seu pai começou a declinar.\n\nAgora, descendo para o campo de batalha para lutar com seus soldados como fez na Weltkrieg, a reputação do Rei Amedeo como um explorador destemido agora evoluiu e se transformou na de um soldado destemido, lutando no campo pela nação sobre a qual reina 'pela Graça de Deus e vontade da Nação'. Alguns inicialmente questionaram a veracidade dessa reputação, embora uma série de ações audaciosas tenha feito essa visão marginal. Outros dizem que esta é apenas uma forma inventiva de escapar dos deveres do rei; isso pode ser verdade, mas seu povo parece não se importar o suficiente enquanto seu Rei de Ferro parte para a batalha para derrotar os inimigos da Nação."
+
+ SRD_pietro_badoglio: "Pietro Badoglio"
+ SRD_giuseppe_valle: "Giuseppe Valle"
+ SRD_pietro_pintor: "Pietro Pintor"
+ SRD_umberto_carignano: "Prince Umberto"
+ SRD_filiberto_pistoia: "Filiberto Duca di Pistoia"
+ SRD_amedeo_guillet: "Amedeo Guillet"
+ SRD_giuseppe_montezemolo: "Giuseppe Cordero Lanza di Montezemolo"
+ SRD_adalberto_genova: "Prince Adalberto"
+ SRD_aimone_aosta: "Aimone di Savoia-Aosta"
+ SRD_mario_roatta: "Mario Roatta"
+ SRD_bruno_malaguti: "Bruno Malaguti"
+ SRD_domenico_cavagnari: "Domenico Cavagnari"
+ SRD_angelo_iachino: "Angelo Iachino"
+ SRD_pietro_badoglio_sic: "Pietro Badoglio"
+ SRD_paolo_thaon_di_revel: "Paolo Thaon di Revel"
+ SRD_roberto_lucifero_d_aprigliano: "Roberto Lucifero d'Aprigliano"
+ SRD_bruno_villabruna: "Bruno Villabruna"
+ SRD_giorgio_bardanzellu: "Giorgio Bardanzellu"
+ SRD_luigi_efisio_marras: "Luigi Efisio Marras"
+ SRD_raffaele_sanna_randaccio: "Raffaele Sanna Randaccio"
+ SRD_antonio_segni: "Antonio Segni"
+ SRD_alfredo_corrias: "Alfredo Corrias"
+ SRD_adone_zoli: "Adone Zoli"
+ SRD_camillo_bellieni: "Camillo Bellieni"
+ SRD_arturo_labriola: "Arturo Labriola"
+ SRD_alessandro_scotti: "Alessandro Scotti"
+ SRD_giovanni_battista_melis: "Giovanni Battista Melis"
+ SRD_giovanni_persico: "Giovanni Persico"
+ SRD_vittorio_ambrosio: "Vittorio Ambrosio"
+ SRD_giovanni_sechi: "Giovanni Sechi"
+ SRD_raimondo_scintu: "Raimondo Scintu"
+ SRD_luigi_oggiano: "Luigi Oggiano"
+ SRD_battista_bardanzellu: "Battista Bardanzellu"
+ SRD_alessandro_nanni: "Alessandro Nanni"
+ SRD_luigi_crespellani: "Luigi Crespellani"
+ SRD_stefano_siglienti: "Stefano Siglienti"
+ SRD_edoardo_agnelli: "Edoardo Agnelli"
+ SRD_ernesto_maria_piovella: "Ernesto Maria Piovella"
+ SRD_petru_rocca: "Petru Rocca"
+ SRD_ugo_cavallero: "Ugo Cavallero"
+ SRD_giuseppe_musinu: "Giuseppe Musinu"
+ SRD_paolo_berardi: "Paolo Berardi"
+ SRD_enrico_martini: "Enrico Martini"
+ SRD_angelo_parona: "Angelo Parona"
+ SRD_francesco_serra: "Francesco Serra"
+ SRD_rino_corso_fougier: "Rino Corso Fougier"
+ SRD_pietro_pinna_parpaglia: "Pietro Pinna Parpaglia"
+ SRD_renato_sandalli: "Renato Sandalli"
+
+### Traits ###
+SRD_Explorer_King: "O Rei Explorador"
+SRD_Iron_King: "O Rei de Ferro"
