@@ -229,7 +229,6 @@ RUS_Kachkanar_Exploitation: "Exploração de Kachkanar"
 
 RUS_Zemstvo_Funding_decisions: "Investimentos Locais em Zemstva"
 RUS_Zemstvo_Funding_decisions_desc: "Os Zemstva são instituições de autogoverno rural criadas após a Reforma da Emancipação de 1861, com poderes para cobrar seus próprios impostos e usar esses impostos para financiar educação, hospitais e manutenção de estradas, entre muitos outros usos. Atualmente, o sistema Zemstvo é limitado pelo fato de ser financiado apenas por impostos locais, e assim não pode se comprometer com projetos significativos. Se quisermos melhorar o efeito dos zemstvas em nosso país, devemos apoiá-los com fundos diretos."
-
 RUS_funding_zemstva: "Já financiando Zemstva de uma região diferente."
 
 RUS_Invest_In_The_Northern_Zemstva: "Investir nos Zemstva do Norte"
@@ -261,8 +260,7 @@ RUS_aggression_threat_FROM: "Agressão Russa contra §H[FROM.GetNameDef]§!"
 RUS_ally_threat: "§H[THIS.GetNameDef] se junta à [PREV.GetFactionName]§!"
 RUS_spreading_the_revolution_threat: "§Y[RUS.GetNameDef]§! Junta-se ao §Y[INT.GetFactionName]§!"
 
-### Focuses ###
- 
+### Focuses ### 
 RUS_focus_default: "Árvore de Focos Russa"
 RUS_focus_socialist: "$RUS_focus_default$"
 
@@ -449,7 +447,6 @@ RUS_Resource_Prospection_desc: "Os minerais são numerosos na Rússia e podem im
 
 RUS_Rearmament_Programme: "Programa de Rearmamento"
 RUS_Rearmament_Programme_desc: "À medida que as tensões entre franceses e alemães continuam a aumentar, o mundo se aproxima cada vez mais do início de uma nova guerra, uma que definirá o futuro da Europa. Devemos estar prontos para confrontar a Alemanha quando chegar a hora e, para isso, devemos embarcar em um ambicioso programa de rearmamento do Exército russo."
-
 RUS_Proletarian_Humanism: "Humanismo Proletário"
 RUS_Proletarian_Humanism_desc: "Através de suas habilidades retóricas e manobras inteligentes, a visão de Bukharin para a Rússia e além o manteve em seu papel dominante no Partido Comunista da União Soviética. Ele apoia um curso de socialismo a passos de cágado, para evitar a criação de uma enorme burocracia estatal e preservar as vitórias do proletariado na recente revolução."
 
@@ -742,8 +739,7 @@ RUS_Enemy_In_The_East: "Inimigo no Oriente"
 RUS_Enemy_In_The_East_desc: "Desde a guerra russo-japonesa, o verdadeiro inimigo da Rússia sempre foi, e sempre será, o império ascendente no Oriente. As regiões extremamente ricas e populosas da China também nos serviriam muito bem."
 
 ### Tooltips ###
- 
-RUS_savinkov_in_government: "§HBoris Savinkov§! faz parte do governo"
+ RUS_savinkov_in_government: "§HBoris Savinkov§! faz parte do governo"
 RUS_savinkov_in_government_NOT: "§HBoris Savinkov§! não faz parte do governo"
 RUS_is_empire: "É o §HImpério Russo§!"
 
@@ -866,7 +862,6 @@ russia_kerensky_assassination.14.t: "A Lei de Proteção da República é Aprova
 russia_kerensky_assassination.14.desc: "Enquanto as ruas de Moscou ficavam vermelhas, foi declarado estado de emergência pelo Presidente, e grande número de membros da oposição da Duma foram presos por suspeita de conexões com a 'tentativa de revolução bolchevique'. Isso possibilitou que o NRPR passasse a Lei de Proteção da República em vigor, que de fato dá ao Presidente, sob estado de emergência, poderes quase ilimitados. Os últimos vestígios da resistência estão sendo erradicados pelas forças de Kornilov e pelos paramilitares do NRPR, marcando o fim da Rússia livre."
 russia_kerensky_assassination.14.a: "Um solavanco no caminho para a nova Rússia."
 
- 
 russia.38.t: "Assassinato de Maria Spiridonova"
 russia.38.d: "Durante uma reunião dos SRs de esquerda em Moscou, Maria Spiridonova foi assassinada por membros dos Esquadrões de Combate de Savinkov. A liquidação de uma líder socialista proeminente provocou uma rebelião precoce e, consequentemente, mal organizada contra o governo. A revolta foi facilmente reprimida por um concerto da polícia e dos Esquadrões de Combate. Hoje, o General Kornilov publicou uma nova lei proibindo o partido SR de esquerda e proscrito seus líderes. Com a flor de sua liderança cortada pela foice do estado, os Revolucionários Socialistas não representam mais qualquer ameaça à diarquia Kornilov-Savinkov."
 russia.38.a: "Assim para todos os inimigos do estado!"
@@ -1089,7 +1084,6 @@ rusd.59.d.military_research_bonus: "Notícias esplêndidas! Os gênios em [ROOT.
 
 rusd.59.t.military_research_failure: "Reverso na Pesquisa Militar!"
 rusd.59.d.military_research_failure: "Notícias terríveis! Fumaça saiu de um centro de pesquisa principal em [ROOT.Capital.GetCapitalVictoryPointName] hoje, já que seus testes... Bem, literalmente explodiram em seus rostos. Embora ninguém tenha se machucado, aprendemos da maneira mais difícil que não há atalhos quando se trata de produzir armas maiores para nosso exército usar. No momento, a pesquisa será desacelerada enquanto trabalhamos na renovação e reconstrução de suas instalações danificadas."
-
  
 rusd.59.a: "Excelente."
 rusd.59.b: "Tolos incompetentes!"
@@ -1316,7 +1310,12 @@ rusfor.47.d.democratic_INT: "O regime totalitário [INT.GetAdjective] odeia a R�
 rusfor.47.d.authoritarian_INT: "O regime totalitário francês declarou guerra à Rússia porque nos odeia e quer escravizar todos. Todos sabem que o resultado desta guerra decidirá o destino de nossa Pátria. Cidadãos em grandes cidades atacam tudo que tem origem [INT.GetAdjective] ou está conectado à causa socialista. Funcionários do estado já lançaram uma enorme propaganda direcionada aos jovens para induzi-los a se alistar no exército ou se juntar às fábricas. Músicos, poetas, pintores e outros artistas, assim como artistas de todas as facções políticas, exceto alguns democratas loucos e bolcheviques, anunciaram alto seu apoio ao nosso regime. O clero ortodoxo está fazendo orações e bênçãos por nossos governantes e pelas tropas na frente. Agora que o governo trouxe tudo sob seu controle, podemos salvaguardar nosso futuro!"
 rusfor.47.a: "Marcharemos sob o Portão de Brandemburgo!"
 rusfor.47.b: "Marcharemos pela Avenida dos Campos Elísios!"
-
+ 
+RUS_great_patriotic_war_location_FRA: "a Avenida dos Campos Elísios"
+RUS_great_patriotic_war_location_ENG: "Whitehall"
+RUS_great_patriotic_war_location_CSA: "Manhattan"
+RUS_great_patriotic_war_location_other: "[INT.Capital.GetCapitalVictoryPointName]"
+ 
 rusfor.52.t: "A Rússia nos Oferece uma Aliança"
 rusfor.52.d: "Recebemos hoje um pedido diretamente de [From.Capital.GetCapitalVictoryPointName], eles desejam nos convidar para uma aliança militar mutuamente benéfica. Enquanto [From.GetNameDef] certamente precisa de toda a ajuda que pode obter nestes tempos incertos, também devemos contemplar o risco de sermos envolvidos em situações indesejadas com outras nações. Como devemos responder?"
 rusfor.52.a: "Aceitamos."
@@ -1512,7 +1511,6 @@ rusfor.1235.t: "A Rússia Recusa a Paz"
 rusfor.1235.d: "Apesar de nossos termos generosos, o estado russo recusou um tratado de paz, declarando que pretende processar esta guerra até o fim."
 rusfor.1235.a: "Uma luta até o amargo fim, então..."
 
-
 rusfor.1236.t.victory: "Sob a Mira da Arma"
 rusfor.1236.d.victory: "As forças do ressurgente estado russo começaram a se mover contra nós com seriedade, buscando arrancar a Bessarábia de nós, mas para surpresa deles, não só conseguimos conter seu avanço, como também começamos a empurrá-los para trás! Talvez agora seja um bom momento para enviar uma mensagem pedindo que venham à mesa de negociações. O constrangimento que acabaram de sofrer deve ser suficiente para pelo menos fazê-los nos ouvir."
 rusfor.1236.t.defeat: "Os Russos Foram Derrotados!"
@@ -1590,8 +1588,12 @@ rusfor.1307.t: "O Governo Colapsa"
 rusfor.1307.d: "Desde o fim da guerra, protestos surgiram em várias cidades exigindo a renúncia do governo. A completa catástrofe na Rússia após o Tratado de Moscou tornou o governo de [RUS.GetLeader] insustentável, e sem muito derramamento de sangue, eles cederam o poder e permitiram que um governo de oposição se formasse."
 rusfor.1307.a: "É hora de olharmos para uma nova direção."
 
-# Socialist Events #
+rusfor.1308.t: "O Tratado de Moscou"
+rusfor.1308.d: "Com a derrota de [RUS.GetNameDef] e a subsequente paz com a Alemanha, os russos pediram o cessar das hostilidades entre nossas nações."
+rusfor.1308.a: "Naturalmente."
+rusfor.1308.b: "Este tratado não vale o papel em que está escrito."
 
+# Socialist Events #
 russoc.100.t: "[FROM.GetNameDefCap] Quer se Juntar à Internacional"
 russoc.100.d: "[FROM.GetNameDefCap], tendo recentemente se iluminado para os benefícios do governo socialista, se aproximou de nós com um pedido. Eles desejam se juntar formalmente à Internacional. Seria um aliado tão distante valioso?"
 russoc.100.a: "Claro! Nós os recebemos."
@@ -1638,7 +1640,6 @@ russoc.110.a: "Valerá todo o esforço"
 
 russoc.111.t: "Formação dos Jovens Pioneiros"
 russoc.111.d: "A Organização dos Pioneiros de Toda a União Vladimir Lenin foi fundada recentemente após um longo conflito entre o Komsomol e o movimento escoteiro ter sido decidido a favor do movimento escoteiro, que queria uma organização independente enquanto o Komsomol queria mantê-los integrados à sua organização. Os escoteiros foram ajudados pela viúva de Lenin, Nadezhda Krupskaya, que apoiou a causa de seu movimento contra o Komsomol.\n\nA intenção dos Jovens Pioneiros é integrar ainda mais a juventude na maquinaria estatal, jurando um juramento de 'ficar firmes pela causa de nosso Partido Comunista.' Embora ainda não sejamos capazes de integrar a maioria da juventude na organização dos pioneiros, já conseguimos ter 1 em cada 5 crianças como membros dos Jovens Pioneiros.\n\nA rotina dos Jovens Pioneiros consiste em muita marcha e canto, ginástica e esporte. Os jovens pioneiros também têm seu próprio uniforme - uma camisa branca e lenço vermelho -, bandeiras, flâmulas e músicas, o que tem proporcionado grande popularidade aos Jovens Pioneiros entre a juventude, pois dão a muitos que se sentem solitários e atomizados uma sensação de pertencimento ao mundo."
-
 russoc.111.a: "Esteja preparado! Sempre preparado!"
 
 russoc.112.t: "Generais se Juntam à Revolução"
@@ -2132,7 +2133,6 @@ RUS_nikolay_vatutin_commander_desc: "§YDescrição do General\nNascido:§! §g1
  RUS_timofei_kutsevalov: "Timofei Kutsevalov"
 
 ### Traits ###
- 
 RUS_leader_of_the_opposition: "Líder da Oposição"
 RUS_vozhd: "O Vozhd"
 RUS_peasant_marshal: "Marechal dos Camponeses"
@@ -2171,3 +2171,4 @@ RUS_peasant_propagandist: "Propagandista Camponês"
 RUS_commissar_of_finance: "Comissário das Finanças"
 RUS_general_secretary: "O Secretário-Geral"
 RUS_revolutionary_grandmother_advisor: "$RUS_revolutionary_grandmother$"
+ 
